@@ -1,0 +1,277 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fiamma Books | Romance on Fire</title>
+
+    <link rel="icon" type="image/png" href="assets/fiamma-icon.png">
+
+    <meta property="og:title" content="Fiamma Books | Romance on Fire">
+    <meta property="og:description" content="At Fiamma Books, we don't just publish romance—we ignite it. Discover electrifying stories from bold new voices.">
+    <meta property="og:image" content="https://fiammabooks.com/assets/fiamma-logo.png">
+    <meta property="og:url" content="https://fiammabooks.com">
+    <meta name="twitter:card" content="summary_large_image">
+
+    <script src="https://cdn.tailwindcss.com"></script>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;500;600;700&family=Playfair+Display:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
+
+    <style>
+        html {
+            scroll-behavior: smooth;
+            scroll-padding-top: 80px;
+        }
+        body {
+            font-family: 'Outfit', sans-serif;
+            background-color: #FFFAF8;
+        }
+
+        h1, h2, h3, h4, .font-display {
+            font-family: 'Playfair Display', serif;
+        }
+
+        .font-body { font-family: 'Outfit', sans-serif; }
+
+        /* Brand colors */
+        .bg-fiamma { background-color: #F28B82; }
+        .text-fiamma { color: #F28B82; }
+        .border-fiamma { border-color: #F28B82; }
+
+        .bg-fiamma-dark { background-color: #D56A6A; }
+        .text-fiamma-dark { color: #D56A6A; }
+
+        .bg-cream { background-color: #FFFAF8; }
+        .text-charcoal { color: #2D2D2D; }
+
+        .section-padding { padding: 4rem 1.5rem; }
+        @media (min-width: 768px) { .section-padding { padding: 6rem 1.5rem; } }
+
+        .nav-link { position: relative; padding-bottom: 4px; }
+        .nav-link::after {
+            content: '';
+            position: absolute;
+            bottom: 0;
+            left: 0;
+            width: 100%;
+            height: 2px;
+            background-color: #F28B82;
+            transform: scaleX(0);
+            transform-origin: left;
+            transition: transform 0.3s ease-in-out;
+        }
+        .nav-link:hover::after { transform: scaleX(1); }
+
+        .book-card {
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+        }
+        .book-card:hover {
+            transform: translateY(-8px);
+            box-shadow: 0 20px 40px rgba(242, 139, 130, 0.2);
+        }
+    </style>
+</head>
+<body class="bg-cream text-charcoal antialiased">
+
+    <!-- Navigation -->
+    <nav class="fixed top-0 left-0 right-0 bg-cream/95 backdrop-blur-sm z-50 border-b border-gray-100">
+        <div class="max-w-6xl mx-auto px-6 py-4 flex justify-between items-center">
+            <a href="#" class="flex items-center">
+                <img src="assets/fiamma-logo.png" alt="Fiamma Books" class="h-8">
+            </a>
+            <div class="hidden md:flex space-x-8">
+                <a href="#books" class="nav-link text-charcoal hover:text-fiamma transition-colors">Books</a>
+                <a href="#imprints" class="nav-link text-charcoal hover:text-fiamma transition-colors">Imprints</a>
+                <a href="#about" class="nav-link text-charcoal hover:text-fiamma transition-colors">About</a>
+                <a href="#contact" class="nav-link text-charcoal hover:text-fiamma transition-colors">Contact</a>
+            </div>
+            <button id="mobile-menu-btn" class="md:hidden text-charcoal">
+                <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16"></path>
+                </svg>
+            </button>
+        </div>
+        <!-- Mobile menu -->
+        <div id="mobile-menu" class="hidden md:hidden bg-cream border-t border-gray-100">
+            <div class="px-6 py-4 space-y-4">
+                <a href="#books" class="block text-charcoal hover:text-fiamma">Books</a>
+                <a href="#imprints" class="block text-charcoal hover:text-fiamma">Imprints</a>
+                <a href="#about" class="block text-charcoal hover:text-fiamma">About</a>
+                <a href="#contact" class="block text-charcoal hover:text-fiamma">Contact</a>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Hero Section -->
+    <header class="section-padding pt-32 md:pt-40">
+        <div class="max-w-4xl mx-auto text-center">
+            <h1 class="text-5xl md:text-7xl font-bold text-charcoal mb-6">
+                Romance <span class="text-fiamma">on Fire</span>
+            </h1>
+            <p class="text-xl md:text-2xl text-gray-600 mb-8 max-w-2xl mx-auto">
+                At Fiamma Books, we don't just publish romance—we ignite it. Bold voices. Unforgettable stories. Heat that leaves a mark.
+            </p>
+            <a href="#books" class="inline-block bg-fiamma text-white px-8 py-4 rounded-full font-semibold hover:bg-fiamma-dark transition-colors">
+                Explore Our Books
+            </a>
+        </div>
+    </header>
+
+    <!-- Books Section -->
+    <section id="books" class="section-padding">
+        <div class="max-w-6xl mx-auto">
+            <h2 class="text-4xl md:text-5xl font-bold text-center mb-4">Our Books</h2>
+            <p class="text-gray-600 text-center mb-12 max-w-xl mx-auto">Stories that burn through traditional publishing boundaries.</p>
+
+            <div class="grid md:grid-cols-3 gap-8">
+                <!-- Placeholder Book 1 -->
+                <div class="book-card bg-white rounded-2xl overflow-hidden shadow-lg">
+                    <div class="aspect-[2/3] bg-gradient-to-br from-fiamma/20 to-fiamma/40 flex items-center justify-center">
+                        <span class="text-fiamma text-lg font-medium">Coming Soon</span>
+                    </div>
+                    <div class="p-6">
+                        <h3 class="font-display text-xl font-bold mb-2">Title Placeholder</h3>
+                        <p class="text-gray-600 text-sm mb-4">A story that will set your heart ablaze.</p>
+                        <span class="text-fiamma font-medium text-sm">Fiamma Contemporary</span>
+                    </div>
+                </div>
+
+                <!-- Placeholder Book 2 -->
+                <div class="book-card bg-white rounded-2xl overflow-hidden shadow-lg">
+                    <div class="aspect-[2/3] bg-gradient-to-br from-fiamma/20 to-fiamma/40 flex items-center justify-center">
+                        <span class="text-fiamma text-lg font-medium">Coming Soon</span>
+                    </div>
+                    <div class="p-6">
+                        <h3 class="font-display text-xl font-bold mb-2">Title Placeholder</h3>
+                        <p class="text-gray-600 text-sm mb-4">Passion that ranges from warmly inviting to unforgettable.</p>
+                        <span class="text-fiamma font-medium text-sm">Fiamma Fuoco</span>
+                    </div>
+                </div>
+
+                <!-- Placeholder Book 3 -->
+                <div class="book-card bg-white rounded-2xl overflow-hidden shadow-lg">
+                    <div class="aspect-[2/3] bg-gradient-to-br from-fiamma/20 to-fiamma/40 flex items-center justify-center">
+                        <span class="text-fiamma text-lg font-medium">Coming Soon</span>
+                    </div>
+                    <div class="p-6">
+                        <h3 class="font-display text-xl font-bold mb-2">Title Placeholder</h3>
+                        <p class="text-gray-600 text-sm mb-4">Tension that builds page by page.</p>
+                        <span class="text-fiamma font-medium text-sm">Fiamma Spark</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Imprints Section -->
+    <section id="imprints" class="section-padding bg-white">
+        <div class="max-w-6xl mx-auto">
+            <h2 class="text-4xl md:text-5xl font-bold text-center mb-4">Our Imprints</h2>
+            <p class="text-gray-600 text-center mb-12 max-w-xl mx-auto">Four flames, one fire. Find your heat level.</p>
+
+            <div class="grid md:grid-cols-2 gap-8">
+                <div class="p-8 rounded-2xl border-2 border-gray-100 hover:border-fiamma transition-colors">
+                    <h3 class="font-display text-2xl font-bold mb-3">Fiamma Contemporary</h3>
+                    <p class="text-gray-600">Modern love stories where today's world meets timeless passion.</p>
+                </div>
+
+                <div class="p-8 rounded-2xl border-2 border-gray-100 hover:border-fiamma transition-colors">
+                    <h3 class="font-display text-2xl font-bold mb-3">Fiamma Classics</h3>
+                    <p class="text-gray-600">Historical settings, progressive sensibilities, and corsets that don't stay laced for long.</p>
+                </div>
+
+                <div class="p-8 rounded-2xl border-2 border-gray-100 hover:border-fiamma transition-colors">
+                    <h3 class="font-display text-2xl font-bold mb-3">Fiamma Fuoco</h3>
+                    <p class="text-gray-600">Our spiciest line. Dante's Inferno? Just our warm-up notes.</p>
+                </div>
+
+                <div class="p-8 rounded-2xl border-2 border-gray-100 hover:border-fiamma transition-colors">
+                    <h3 class="font-display text-2xl font-bold mb-3">Fiamma Spark</h3>
+                    <p class="text-gray-600">For readers who prefer tension that builds page by page—but make no mistake, these still bring the heat.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- About Section -->
+    <section id="about" class="section-padding">
+        <div class="max-w-4xl mx-auto">
+            <h2 class="text-4xl md:text-5xl font-bold text-center mb-8">About Fiamma</h2>
+            <div class="prose prose-lg mx-auto text-center">
+                <p class="text-xl text-gray-600 mb-6">
+                    <em>Fiamma</em>—Italian for "flame"—was founded in 2025 as the publishing home where fresh voices set the page ablaze.
+                </p>
+                <p class="text-gray-600 mb-6">
+                    While other imprints play it safe, we're busy striking matches. Our mission? Discover the most electrifying new authors and share their stories with readers hungry for romance that leaves a mark.
+                </p>
+                <p class="text-gray-600">
+                    Whether you're looking for a slow burn that simmers for three hundred pages or an explosive connection that scorches from chapter one, our catalog burns through traditional publishing boundaries.
+                </p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Who Reads Section -->
+    <section class="section-padding bg-fiamma text-white">
+        <div class="max-w-4xl mx-auto text-center">
+            <h2 class="text-4xl md:text-5xl font-bold mb-8">Who Reads Fiamma</h2>
+            <p class="text-xl opacity-90 mb-4">
+                Our readers span generations—from the TikTok-savvy twenty-something highlighting passages between classes to the seasoned romance aficionado who knows exactly what she wants from her bookshelf.
+            </p>
+            <p class="text-lg opacity-80">
+                What unites them? An appetite for stories that don't apologize for their heat level.
+            </p>
+        </div>
+    </section>
+
+    <!-- Contact Section -->
+    <section id="contact" class="section-padding">
+        <div class="max-w-2xl mx-auto text-center">
+            <h2 class="text-4xl md:text-5xl font-bold mb-8">Get in Touch</h2>
+            <p class="text-gray-600 mb-8">
+                Questions, submissions, or just want to say hello? We'd love to hear from you.
+            </p>
+            <a href="mailto:hello@fiammabooks.com" class="inline-block bg-charcoal text-white px-8 py-4 rounded-full font-semibold hover:bg-gray-800 transition-colors">
+                hello@fiammabooks.com
+            </a>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="bg-charcoal text-white py-12">
+        <div class="max-w-6xl mx-auto px-6">
+            <div class="flex flex-col md:flex-row justify-between items-center">
+                <div class="mb-6 md:mb-0">
+                    <img src="assets/fiamma-logo.png" alt="Fiamma Books" class="h-8 brightness-0 invert">
+                    <p class="text-gray-400 mt-2 text-sm">Setting bookshelves (and hearts) on fire since 2025</p>
+                </div>
+                <div class="flex space-x-6 text-gray-400">
+                    <a href="https://kwalia.ai" class="hover:text-white transition-colors">A Kwalia Imprint</a>
+                </div>
+            </div>
+            <div class="border-t border-gray-700 mt-8 pt-8 text-center text-gray-400 text-sm">
+                <p>&copy; 2025 Fiamma Books. All rights reserved.</p>
+            </div>
+        </div>
+    </footer>
+
+    <script>
+        // Mobile menu toggle
+        const mobileMenuBtn = document.getElementById('mobile-menu-btn');
+        const mobileMenu = document.getElementById('mobile-menu');
+
+        mobileMenuBtn.addEventListener('click', () => {
+            mobileMenu.classList.toggle('hidden');
+        });
+
+        // Close mobile menu when clicking a link
+        mobileMenu.querySelectorAll('a').forEach(link => {
+            link.addEventListener('click', () => {
+                mobileMenu.classList.add('hidden');
+            });
+        });
+    </script>
+</body>
+</html>
