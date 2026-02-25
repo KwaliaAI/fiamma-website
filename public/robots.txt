@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /read/
+Disallow: /shelf
+
+Sitemap: https://fiammabooks.com/sitemap.xml
