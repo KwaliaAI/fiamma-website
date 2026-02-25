@@ -1,0 +1,22 @@
+[build]
+  publish = "dist"
+
+[[edge_functions]]
+  function = "fiamma-meta"
+  path = "/"
+
+[[edge_functions]]
+  function = "fiamma-meta"
+  path = "/books"
+
+[[edge_functions]]
+  function = "fiamma-meta"
+  path = "/books/*"
+
+[[edge_functions]]
+  function = "fiamma-meta"
+  path = "/read/*"
+
+[[edge_functions]]
+  function = "fiamma-meta"
+  path = "/shelf"

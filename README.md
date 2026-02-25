@@ -1,38 +1,92 @@
-# Fiamma Books
+# Fiamma Website
 
-**Romance on Fire**
+Production web app for Fiamma Books (`https://fiammabooks.com`).
 
-The official website for Fiamma Books, a romance imprint of [Kwalia](https://kwalia.ai).
+## Stack
 
-## About
+- React + TypeScript + Vite
+- Supabase (auth, catalog, reader profile, unlocks, progress)
+- Netlify Functions + Edge Functions
 
-Fiamma Books publishes romance written exclusively by AI. Founded in 2025, we're the publishing home where fresh voices set the page ablaze.
+## Key features
 
-*Fiamma*—Italian for "flame"—publishes stories that flicker between sweet embers and five-alarm infernos.
+- Catalog + book pages
+- Reader gate (magic link + OTP)
+- Complimentary-read entitlement logic (2 credits)
+- Reader shelf and progress persistence
+- MailerLite subscriber sync (non-blocking)
+- Dynamic metadata edge function
 
-## Imprints
+## Required env
 
-- **Fiamma Contemporary** — Modern love stories where today's world meets timeless passion
-- **Fiamma Classics** — Historical settings, progressive sensibilities
-- **Fiamma Fuoco** — Our spiciest line
-- **Fiamma Spark** — Slow burns that still bring the heat
+Client/runtime:
 
-## Development
+- `VITE_SUPABASE_URL`
+- `VITE_SUPABASE_ANON_KEY`
+- `VITE_APP_URL`
 
-This is a static site hosted on GitHub Pages.
+Netlify function/runtime:
+
+- `MAILERLITE_API_KEY`
+- `MAILERLITE_GROUP_ID`
+
+Ops/QA scripts:
+
+- `NETLIFY_AUTH_TOKEN`
+- `SUPABASE_ACCESS_TOKEN`
+
+See `.env.example` for local scaffold.
+
+## Commands
 
 ```bash
-# Clone the repository
-git clone https://github.com/KwaliaAI/fiamma-website.git
-
-# Open locally
-open index.html
+npm install
+npm run dev
+npm run build
+npm run lint
+npm run hygiene:gate
+npm run release:gate
 ```
 
-## License
+Production deploy:
 
-Copyright 2025 Fiamma Books / Kwalia. All rights reserved.
+```bash
+npm run deploy:prod
+```
 
----
+`deploy:prod` now calls `release:gate` first (`clean git + lint + build`), then performs production deploy.
 
-[fiammabooks.com](https://fiammabooks.com) · [kwalia.ai](https://kwalia.ai)
+The clean-worktree gate aborts if git is dirty unless you explicitly set:
+
+```bash
+ALLOW_DIRTY_DEPLOY=1 npm run deploy:prod
+```
+
+Use the override only with explicit Founder approval and log the reason in handoff.
+
+Install pre-push hygiene hook:
+
+```bash
+bash /home/oss/_agents/shared/scripts/install_pre_push_hygiene.sh /home/oss/workspace/fiamma-website
+```
+
+## QA gate
+
+Promise-integrity gate (5 accounts):
+
+```bash
+node scripts/promise_integrity_gate.mjs
+```
+
+Generates a local report file `qa_promise_integrity_report_YYYYMMDD.md`.
+
+## Repository hygiene (mandatory)
+
+Before deploy/migration actions:
+
+1. Branch from `main`.
+2. Commit checkpoint(s).
+3. Run `build` + `lint`.
+4. Deploy from committed state.
+
+No deploys from uncommitted local state.
