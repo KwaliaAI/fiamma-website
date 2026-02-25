@@ -8,6 +8,8 @@
     "build": "tsc -b && vite build",
     "lint": "eslint .",
     "preview": "vite preview",
+    "hygiene:gate": "bash ./scripts/hygiene_gate.sh",
+    "release:gate": "bash ./scripts/release_gate.sh",
     "deploy:prod": "bash ./scripts/deploy_prod.sh"
   },
   "dependencies": {

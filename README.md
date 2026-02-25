@@ -44,6 +44,8 @@ npm install
 npm run dev
 npm run build
 npm run lint
+npm run hygiene:gate
+npm run release:gate
 ```
 
 Production deploy:
@@ -52,13 +54,21 @@ Production deploy:
 npm run deploy:prod
 ```
 
-The deploy script has a hard clean-worktree gate. It aborts if git is dirty unless you explicitly set:
+`deploy:prod` now calls `release:gate` first (`clean git + lint + build`), then performs production deploy.
+
+The clean-worktree gate aborts if git is dirty unless you explicitly set:
 
 ```bash
 ALLOW_DIRTY_DEPLOY=1 npm run deploy:prod
 ```
 
 Use the override only with explicit Founder approval and log the reason in handoff.
+
+Install pre-push hygiene hook:
+
+```bash
+bash /home/oss/_agents/shared/scripts/install_pre_push_hygiene.sh /home/oss/workspace/fiamma-website
+```
 
 ## QA gate
 
