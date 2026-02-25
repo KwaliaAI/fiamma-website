@@ -44,7 +44,7 @@ npm install
 npm run dev
 npm run build
 npm run lint
-npm run hygiene:gate
+npm run housekeeping:gate
 npm run release:gate
 ```
 
@@ -64,10 +64,10 @@ ALLOW_DIRTY_DEPLOY=1 npm run deploy:prod
 
 Use the override only with explicit Founder approval and log the reason in handoff.
 
-Install pre-push hygiene hook:
+Install pre-push housekeeping hook:
 
 ```bash
-bash /home/oss/_agents/shared/scripts/install_pre_push_hygiene.sh /home/oss/workspace/fiamma-website
+bash /home/oss/_agents/shared/scripts/install_pre_push_housekeeping.sh /home/oss/workspace/fiamma-website
 ```
 
 ## QA gate
@@ -80,7 +80,7 @@ node scripts/promise_integrity_gate.mjs
 
 Generates a local report file `qa_promise_integrity_report_YYYYMMDD.md`.
 
-## Repository hygiene (mandatory)
+## Repository housekeeping (mandatory)
 
 Before deploy/migration actions:
 
