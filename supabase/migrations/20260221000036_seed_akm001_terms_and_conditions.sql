@@ -3,7 +3,7 @@ INSERT INTO public.fiamma_books (
   title_id, title, slug, heteronym, genre, fiamma_line, blurb_short, blurb_300, cover_url, isbn_pb, isbn_eb, isbn_audio, visible
 ) VALUES (
   'akm-001-terms-and-conditions',
-  'Terms and Conditions',
+  'Terms and Conditions: A Novel',
   'terms-and-conditions',
   'Aubrey Kenneth-Moss',
   'Romance',
