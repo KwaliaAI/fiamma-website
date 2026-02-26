@@ -5,6 +5,7 @@ import { supabase } from '@/lib/supabase'
 
 const links = [
   { href: '/books', label: 'Books' },
+  { href: '/#heteronyms', label: 'Heteronyms' },
   { href: '/#imprints', label: 'Imprints' },
   { href: '/#about', label: 'About' },
   { href: '/#contact', label: 'Contact' },

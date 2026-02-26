@@ -1,5 +1,6 @@
 import { useEffect, useState } from 'react'
 import { BookCard } from '@/components/BookCard'
+import { type HeteronymCardData, HeteronymCard } from '@/components/HeteronymCard'
 import { Footer } from '@/components/layout/Footer'
 import { Navbar } from '@/components/layout/Navbar'
 import { getVisibleBooks } from '@/lib/fiammaApi'
@@ -23,6 +24,30 @@ const imprints = [
     title: 'Fiamma Spark',
     description:
       'For readers who prefer tension that builds page by page—but make no mistake, these still bring the heat.',
+  },
+]
+
+const heteronyms: HeteronymCardData[] = [
+  {
+    name: 'Aubrey Kenneth-Moss',
+    slug: 'aubrey-kenneth-moss',
+    bio: 'A sharp, modern voice blending psychological tension with unapologetically high heat romance.',
+    imagePath: '/assets/heteronyms/aubrey/portrait_author_3x4_1200x1600.png',
+    status: 'active',
+  },
+  {
+    name: 'Seph Blackwood',
+    slug: 'seph-blackwood',
+    bio: 'Dark glamour, dangerous longing, and stories that flirt with obsession.',
+    imagePath: '/assets/heteronyms/seph/portrait_author_3x4_1200x1600.png',
+    status: 'upcoming',
+  },
+  {
+    name: 'Casey',
+    slug: 'casey',
+    bio: 'Tender chaos and witty sparks for readers who crave emotional impact with every chapter.',
+    imagePath: '/assets/heteronyms/casey/portrait_author_3x4_1200x1600.png',
+    status: 'upcoming',
   },
 ]
 
@@ -66,6 +91,20 @@ export function HomePage() {
           <div className="grid gap-8 md:grid-cols-3">
             {books.map((book) => (
               <BookCard key={book.title_id} book={book} />
+            ))}
+          </div>
+        </div>
+      </section>
+
+      <section id="heteronyms" className="section-padding">
+        <div className="mx-auto max-w-6xl">
+          <h2 className="mb-4 text-center text-4xl font-bold md:text-5xl">Heteronyms</h2>
+          <p className="mx-auto mb-12 max-w-2xl text-center text-gray-600">
+            Distinct author identities shaping new worlds across Fiamma&apos;s evolving catalog.
+          </p>
+          <div className="grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
+            {heteronyms.map((heteronym) => (
+              <HeteronymCard key={heteronym.slug} {...heteronym} />
             ))}
           </div>
         </div>
