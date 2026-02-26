@@ -48,6 +48,7 @@ const heteronyms: HeteronymCardData[] = [
     slug: 'casey',
     bio: 'Tender chaos and witty sparks for readers who crave emotional impact with every chapter.',
     imagePath: '/assets/heteronyms/casey/portrait_author_3x4_1200x1600.png',
+    videoPath: '/assets/heteronyms/casey/hover_loop.mp4',
     status: 'upcoming',
   },
 ]
