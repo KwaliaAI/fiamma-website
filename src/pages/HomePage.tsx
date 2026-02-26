@@ -33,6 +33,7 @@ const heteronyms: HeteronymCardData[] = [
     slug: 'aubrey-kenneth-moss',
     bio: 'A sharp, modern voice blending psychological tension with unapologetically high heat romance.',
     imagePath: '/assets/heteronyms/aubrey/portrait_author_3x4_1200x1600.png',
+    videoPath: '/assets/heteronyms/aubrey/hover_loop.mp4',
     status: 'active',
   },
   {
