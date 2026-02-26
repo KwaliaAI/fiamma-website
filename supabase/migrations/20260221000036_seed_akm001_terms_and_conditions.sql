@@ -1,6 +1,6 @@
 -- Seed AKM-001 for staging reader smoke tests
 INSERT INTO public.fiamma_books (
-  title_id, title, slug, heteronym, genre, fiamma_line, blurb_short, blurb_300, isbn_pb, isbn_eb, isbn_audio, visible
+  title_id, title, slug, heteronym, genre, fiamma_line, blurb_short, blurb_300, cover_url, isbn_pb, isbn_eb, isbn_audio, visible
 ) VALUES (
   'akm-001-terms-and-conditions',
   'Terms and Conditions',
@@ -10,6 +10,7 @@ INSERT INTO public.fiamma_books (
   'Contemporary',
   'A novel about a corporate attorney and a tech founder navigating the verifiable three inches between proof and promise.',
   'Berna Alvarez is a corporate liability attorney who believes in proof, not promises. Sam Reyes is a tech founder who builds mobility solutions that Berna''s firm would rather litigate out of existence. When an asbestos-induced exile forces Berna into the shared workspace of Sam''s start-up, the resulting collision of legal risk and technological optimism creates a friction that neither can document away. ''Terms and Conditions'' is a novel about the small, verifiable distance between two people who know exactly who the other is, and choose to bridge it anyway.',
+  '/assets/covers/terms-and-conditions.jpg',
   '978-1-917717-24-3',
   '978-1-917717-25-0',
   '978-1-917717-26-7',
@@ -23,6 +24,7 @@ ON CONFLICT (title_id) DO UPDATE SET
   fiamma_line = EXCLUDED.fiamma_line,
   blurb_short = EXCLUDED.blurb_short,
   blurb_300 = EXCLUDED.blurb_300,
+  cover_url = EXCLUDED.cover_url,
   isbn_pb = EXCLUDED.isbn_pb,
   isbn_eb = EXCLUDED.isbn_eb,
   isbn_audio = EXCLUDED.isbn_audio,
@@ -7062,4 +7064,3 @@ ON CONFLICT (book_id, chapter_number) DO UPDATE SET
   chapter_title = EXCLUDED.chapter_title,
   content_md = EXCLUDED.content_md,
   word_count = EXCLUDED.word_count;
-

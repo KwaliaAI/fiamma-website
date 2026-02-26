@@ -66,6 +66,16 @@ const placeholderBooks: FiammaBook[] = [
   },
 ]
 
+const localCoverFallbacks: Record<string, string> = {
+  'terms-and-conditions': '/assets/covers/terms-and-conditions.jpg',
+}
+
+function withLocalCoverFallback(book: FiammaBook): FiammaBook {
+  if (book.cover_url) return book
+  const fallbackCover = localCoverFallbacks[book.slug]
+  return fallbackCover ? { ...book, cover_url: fallbackCover } : book
+}
+
 async function fetchVisibleBooks(): Promise<FiammaBook[]> {
   if (!supabase) return placeholderBooks
 
@@ -77,7 +87,7 @@ async function fetchVisibleBooks(): Promise<FiammaBook[]> {
     .order('created_at', { ascending: true })
 
   if (error) throw error
-  return (data as FiammaBook[]) ?? []
+  return ((data as FiammaBook[]) ?? []).map(withLocalCoverFallback)
 }
 
 export async function getVisibleBooks(): Promise<FiammaBook[]> {
@@ -103,7 +113,8 @@ export async function getBookBySlug(slug: string): Promise<FiammaBook | null> {
 
   const { data, error } = await supabase.from('fiamma_books').select('*').eq('slug', slug).maybeSingle()
   if (error) throw error
-  return (data as FiammaBook | null) ?? placeholderMatch
+  const book = (data as FiammaBook | null) ?? placeholderMatch
+  return book ? withLocalCoverFallback(book) : null
 }
 
 export async function getChaptersByBookId(bookId: string): Promise<FiammaChapter[]> {

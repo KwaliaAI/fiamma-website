@@ -9,21 +9,22 @@ import type { FiammaBook } from '@/types/fiamma'
 const imprints = [
   {
     title: 'Fiamma Contemporary',
-    description: "Modern love stories where today's world meets timeless passion.",
+    description:
+      "Stories for right now. No waiting, no permission, just the heat that happens when two people stop pretending they don't want it.",
   },
   {
     title: 'Fiamma Classics',
-    description:
-      "Historical settings, progressive sensibilities, and corsets that don't stay laced for long.",
+    description: "Old-world repression meets modern desire. Because honestly? Those corsets were never meant to stay laced.",
   },
   {
     title: 'Fiamma Fuoco',
-    description: "Our spiciest line. Dante's Inferno? Just our warm-up notes.",
+    description:
+      "Zero chill. For when you're done with the slow burn and just want the fire. Dante's Inferno was just the warm-up.",
   },
   {
     title: 'Fiamma Spark',
     description:
-      'For readers who prefer tension that builds page by page—but make no mistake, these still bring the heat.',
+      "The ache of the build. The tension that makes you want to scream at the characters to just do it already. It's slow, it's painful, and it's always worth the wait.",
   },
 ]
 
@@ -71,8 +72,8 @@ export function HomePage() {
             Romance <span className="text-fiamma-coral">on Fire</span>
           </h1>
           <p className="mx-auto mb-8 max-w-2xl text-xl text-gray-600 md:text-2xl">
-            At Fiamma Books, we don&apos;t just publish romance, we ignite it. Bold voices. Unforgettable stories. Heat
-            that leaves a mark.
+            We&apos;re here for the stories that make you hold your breath. No coy metaphors, no fade-to-blacks&mdash;just high
+            heat and the kind of chemistry that ruins your sleep schedule. If it doesn&apos;t burn, we don&apos;t publish it.
           </p>
           <a
             href="/books"
@@ -136,16 +137,9 @@ export function HomePage() {
           <h2 className="mb-8 text-center text-4xl font-bold md:text-5xl">About Fiamma</h2>
           <div className="prose mx-auto text-center prose-lg">
             <p className="mb-6 text-xl text-gray-600">
-              <em>Fiamma</em>—Italian for &quot;flame&quot;—was founded in 2025 as the publishing home where fresh voices set the
-              page ablaze.
-            </p>
-            <p className="mb-6 text-gray-600">
-              While other imprints play it safe, we&apos;re busy striking matches. Our mission? Discover the most
-              electrifying new authors and share their stories with readers hungry for romance that leaves a mark.
-            </p>
-            <p className="text-gray-600">
-              Whether you&apos;re looking for a slow burn that simmers for three hundred pages or an explosive connection
-              that scorches from chapter one, our catalog burns through traditional publishing boundaries.
+              Fiamma means flame. We started this because we were bored of &quot;safe&quot; romance and &quot;nice&quot; stories. We
+              look for the scenes that make you stare at the wall for ten minutes after the chapter ends. We strike
+              matches; you bring the air.
             </p>
           </div>
         </div>
@@ -155,11 +149,8 @@ export function HomePage() {
         <div className="mx-auto max-w-4xl text-center">
           <h2 className="mb-8 text-4xl font-bold md:text-5xl">Who Reads Fiamma</h2>
           <p className="mb-4 text-xl opacity-90">
-            Our readers span generations—from the TikTok-savvy twenty-something highlighting passages between classes
-            to the seasoned romance aficionado who knows exactly what she wants from her bookshelf.
-          </p>
-          <p className="text-lg opacity-80">
-            What unites them? An appetite for stories that don&apos;t apologize for their heat level.
+            People who aren&apos;t looking for a &quot;sweet read.&quot; Our readers want stories that bite back&mdash;the ones who
+            value chemistry over comfort and heat that doesn&apos;t apologize for existing.
           </p>
         </div>
       </section>
