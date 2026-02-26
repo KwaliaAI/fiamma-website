@@ -391,7 +391,7 @@ Sam's face does something complicated. It's like watching someone try to contain
 
 He laughs again. I'm going to have to develop an immunity to that laugh. It's not sustainable, feeling something in my chest every time he finds me funny.
 
-"Anyway," he continues, "I'm trying to build something that's functional but also actually nice to look at. Design-forward accessibility. There's a whole philosophy about it, about how objects for disabled people shouldn't look like medical equipment if they don't have to, and I just—" He stops, catches himself mid-spiral. "Sorry. I get excited. It's a whole thing."
+"Anyway," he continues, "I'm trying to build something that's functional but also actually nice to look at. Design-forward accessibility. There's a whole philosophy about it, about how objects for disabled people shouldn't look like medical equipment if they don't have to, and I just," He stops, catches himself mid-spiral. "Sorry. I get excited. It's a whole thing."
 
 "A thing you've been building at high volume since Monday."
 
@@ -447,7 +447,7 @@ Water is spraying from somewhere inside the machine in a fine, persistent mist. 
 
 "Did you take the machine apart?" I ask.
 
-"I was trying to improve it. The third button wasn't pulling shots consistently and I thought if I adjusted the—okay, in retrospect, I should not have done this."
+"I was trying to improve it. The third button wasn't pulling shots consistently and I thought if I adjusted the,okay, in retrospect, I should not have done this."
 
 "In retrospect."
 
@@ -585,7 +585,7 @@ Yellow. Angular handwriting. Same as before.
 
 *Also, I found out the chalkboard quote changes weekly. Next week's is "FAIL FORWARD." I thought you'd want to prepare your sandblasting equipment.*
 
-*— S*
+*, S*
 
 I don't write back.
 
@@ -611,13 +611,13 @@ The thing about partition walls is that they create an illusion of privacy witho
 
 I know this because I'm currently listening to Sam pitch his prototype to someone important, and I can hear every word despite the cork barrier between us, despite my headphones, despite my active attempts to focus on the liability assessment Gloria assigned me this morning.
 
-"The hinge mechanism allows for a full ninety-degree rotation," Sam is saying, "which means the user can adjust the angle without any tools. It's intuitive. You don't need to read a manual. You just—here, try it."
+"The hinge mechanism allows for a full ninety-degree rotation," Sam is saying, "which means the user can adjust the angle without any tools. It's intuitive. You don't need to read a manual. You just,here, try it."
 
 A pause. The sound of something mechanical clicking into place.
 
 "That's... actually very smooth." This voice is different. Older. The kind of voice that's spent decades in boardrooms, evaluating pitches from people who want things. "And the weight distribution?"
 
-"Completely balanced. I spent six months on that alone. The first prototype kept tipping, which is, you know, the opposite of helpful for a mobility device. But this version uses a counterweight system based on—actually, let me show you."
+"Completely balanced. I spent six months on that alone. The first prototype kept tipping, which is, you know, the opposite of helpful for a mobility device. But this version uses a counterweight system based on,actually, let me show you."
 
 More sounds. Something being adjusted. The investor making an interested noise.
 
@@ -627,7 +627,7 @@ He sounds like someone who knows exactly what he's doing.
 
 This is a workplace. I am a professional. I'm going to stop eavesdropping on my neighbor's investor pitch and focus on indemnification clauses like a normal person.
 
-"The market for this is significant," the boardroom voice is saying. "But the manufacturing costs concern me. You're proposing premium materials at a price point that undercuts the competition. The margins don't—"
+"The market for this is significant," the boardroom voice is saying. "But the manufacturing costs concern me. You're proposing premium materials at a price point that undercuts the competition. The margins don't,"
 
 "The margins work if we scale. I've modeled it out. At ten thousand units, we break even. At twenty thousand, we're profitable. And the materials aren't negotiable. The foam here is the same grade they use in high-end prosthetics, not the stuff that breaks down after six months and leaves users with pressure sores."
 
@@ -661,7 +661,7 @@ I close my eyes. I already know what's coming. I don't know how I know, but I kn
 
 "What's the company name?"
 
-"Mobility Kitchen. No, wait—" Papers shuffling. "Workshop. Mobility Workshop. The founder is a designer named Sam something. The file's in your inbox."
+"Mobility Kitchen. No, wait," Papers shuffling. "Workshop. Mobility Workshop. The founder is a designer named Sam something. The file's in your inbox."
 
 The partition wall has never felt thinner.
 
@@ -693,13 +693,13 @@ I didn't see him come around the partition. I was too busy spiraling. But there 
 
 *How's your day going?*
 
-*— S*
+*, S*
 
 I write back. I shouldn't, but I do.
 
 *My day just got complicated. Congratulations on the pitch. Try the meditation room on the second floor. There are pillows there. I've been told the energy is very unblocked.*
 
-*— B*
+*, B*
 
 I stick it on his monitor when he's in the bathroom. When I get back to my desk, the file from Gloria is waiting in my inbox.
 
@@ -707,9 +707,9 @@ Mobility Workshop. Founded eighteen months ago. One employee: Sam Reyes, designe
 
 I open the attachment. It's a mess.
 
-Not a malicious mess. Not a fraudulent mess. The kind of mess that happens when someone who cares deeply about building a good product doesn't have anyone to help them with the paperwork. The liability waivers are incomplete—half of them are missing signature lines entirely. The testing documentation is inconsistent, with dates that jump around and methodology descriptions that vary from one report to the next. There's a safety certification from a lab I've never heard of, which might be legitimate or might be someone's garage with a certificate printer.
+Not a malicious mess. Not a fraudulent mess. The kind of mess that happens when someone who cares deeply about building a good product doesn't have anyone to help them with the paperwork. The liability waivers are incomplete,half of them are missing signature lines entirely. The testing documentation is inconsistent, with dates that jump around and methodology descriptions that vary from one report to the next. There's a safety certification from a lab I've never heard of, which might be legitimate or might be someone's garage with a certificate printer.
 
-The corporate structure is nonexistent. He hasn't filed the right forms for investor capital. His insurance coverage is inadequate for the risk profile. The intellectual property situation is unclear—there's mention of a provisional patent but no evidence it was ever converted to a full filing.
+The corporate structure is nonexistent. He hasn't filed the right forms for investor capital. His insurance coverage is inadequate for the risk profile. The intellectual property situation is unclear,there's mention of a provisional patent but no evidence it was ever converted to a full filing.
 
 And then there's the CeraTest report.
 
@@ -739,7 +739,7 @@ When I arrive, the emergency is immediately apparent: there are boxes everywhere
 
 "The supplier sent double. Of everything. I ordered fifty pounds of flour, they sent a hundred. I ordered ten cases of tomatoes, they sent twenty. My walk-in looks like a doomsday prepper's fantasy and I have a food blogger coming tomorrow."
 
-"That's not an emergency. That's an inventory error. Call them and—"
+"That's not an emergency. That's an inventory error. Call them and,"
 
 "I tried. Three times. They're closed until Monday. And the blogger is coming tomorrow, Berna. She has forty thousand followers and opinions about plating. I can't have her see my kitchen looking like a warehouse exploded."
 
@@ -777,7 +777,7 @@ Marco and I exchange glances. Portland is friendly, but this is aggressively hel
 
 The back door opens wider, and Sam walks in.
 
-For a moment, neither of us speaks. He's wearing a different shirt now—a henley, sleeves pushed up past his elbows—and carrying a canvas bag that appears to contain tools. His hair looks like he's been running his hands through it, which tracks with the exhausted-but-wired energy coming off him. He looks like someone who just finished the most important pitch of his career and then walked fifteen blocks to help strangers with produce.
+For a moment, neither of us speaks. He's wearing a different shirt now,a henley, sleeves pushed up past his elbows,and carrying a canvas bag that appears to contain tools. His hair looks like he's been running his hands through it, which tracks with the exhausted-but-wired energy coming off him. He looks like someone who just finished the most important pitch of his career and then walked fifteen blocks to help strangers with produce.
 
 He looks at me. I look at him. Marco looks at both of us with the expression of a man who has just realized something interesting is happening.
 
@@ -791,7 +791,7 @@ He looks at me. I look at him. Marco looks at both of us with the expression of 
 
 "I'm Marco," he says, extending his hand. "You know Berna?"
 
-"We're neighbors. At the coworking space." Sam shakes Marco's hand, still looking at me with an expression I can't quite decode. Surprise, maybe. Or something warmer. "I was walking home and I saw the delivery truck leaving and the driver said something about a double shipment, so I thought—I don't know, I thought maybe someone could use a hand. I'm good with logistics. And I had tools in my bag because I always have tools in my bag, which is a personality trait I'm working on accepting."
+"We're neighbors. At the coworking space." Sam shakes Marco's hand, still looking at me with an expression I can't quite decode. Surprise, maybe. Or something warmer. "I was walking home and I saw the delivery truck leaving and the driver said something about a double shipment, so I thought,I don't know, I thought maybe someone could use a hand. I'm good with logistics. And I had tools in my bag because I always have tools in my bag, which is a personality trait I'm working on accepting."
 
 "You just... offered to help a stranger with boxes?"
 
@@ -801,13 +801,13 @@ Marco is looking at me now. The look says many things, all of them inappropriate
 
 "Well," Marco says, "we could definitely use another set of hands. The tomatoes aren't going to organize themselves."
 
-For the next forty-five minutes, Sam helps us reorganize the kitchen. He's good at it—efficient in a way that suggests he's spent time thinking about how spaces work, how objects flow from one place to another. He asks questions about the kitchen layout, makes suggestions about storage that Marco actually considers instead of dismissing, which is unprecedented.
+For the next forty-five minutes, Sam helps us reorganize the kitchen. He's good at it,efficient in a way that suggests he's spent time thinking about how spaces work, how objects flow from one place to another. He asks questions about the kitchen layout, makes suggestions about storage that Marco actually considers instead of dismissing, which is unprecedented.
 
 And I notice things.
 
-I notice the concentration on his face when he's solving a spatial problem, the way his eyes go slightly unfocused like he's running calculations. I notice his hands—capable, certain—stacking boxes in configurations that maximize floor space. I notice the easy way he moves around obstacles, the unconscious grace of someone comfortable in physical work.
+I notice the concentration on his face when he's solving a spatial problem, the way his eyes go slightly unfocused like he's running calculations. I notice his hands,capable, certain,stacking boxes in configurations that maximize floor space. I notice the easy way he moves around obstacles, the unconscious grace of someone comfortable in physical work.
 
-I notice that when Marco makes a joke about the tomato situation being "a true Italian tragedy," Sam's whole face transforms, his smile reaching his eyes, crinkling the corners in a way that—
+I notice that when Marco makes a joke about the tomato situation being "a true Italian tragedy," Sam's whole face transforms, his smile reaching his eyes, crinkling the corners in a way that,
 
 I should not be cataloging the corners of his eyes. I should be thinking about CeraTest methodology sections and inadequate insurance coverage.
 
@@ -823,7 +823,7 @@ Marco sighs. Sam smiles. I pretend I'm not aware of every time our shoulders nea
 
 When the kitchen is finally organized, Marco insists on sending Sam home with food. "You helped. You get fed. House rules."
 
-"I can't accept—"
+"I can't accept,"
 
 "It's not negotiable. Berna, tell him it's not negotiable."
 
@@ -835,7 +835,7 @@ When the kitchen is finally organized, Marco insists on sending Sam home with fo
 
 Sam takes the container. Our fingers don't touch this time. I notice.
 
-"Thank you," he says, to both of us but looking at me. "For letting me help. And for the food. And for—" He stops, recalibrates. "Just thank you."
+"Thank you," he says, to both of us but looking at me. "For letting me help. And for the food. And for," He stops, recalibrates. "Just thank you."
 
 "Thank you for moving the tomatoes," Marco says. "Very neighborly of you."
 
@@ -855,7 +855,7 @@ Sam leaves. Marco waits approximately four seconds before turning to me with the
 
 "What you saw was a neighbor being neighborly. It's a Portland thing. People here help each other. It's exhausting but apparently mandatory."
 
-"People here passive-aggressively correct your recycling habits. That—" Marco points at the door Sam just walked through. "That was a man who wanted to be in the same room as you and invented a reason to do it."
+"People here passive-aggressively correct your recycling habits. That," Marco points at the door Sam just walked through. "That was a man who wanted to be in the same room as you and invented a reason to do it."
 
 I think about the coffee machine. I think about the chocolate. I think about the Post-it notes, still in my desk drawer, evidence of something I haven't named.
 
@@ -947,7 +947,7 @@ He leads me to a smaller table near the window, where a stack of folders sits ne
 
 "Let's start with the product liability documentation."
 
-"Sure. Great. That's—" He opens the laptop, clicks through several folders. "Here. This is everything from the testing phases. User feedback, safety assessments, the whole—actually, do you want coffee first? I have good coffee now. Not the Forge & Flow war crime. Real coffee. I invested in an actual machine after..." He trails off, color rising slightly in his face. "After the incident."
+"Sure. Great. That's," He opens the laptop, clicks through several folders. "Here. This is everything from the testing phases. User feedback, safety assessments, the whole,actually, do you want coffee first? I have good coffee now. Not the Forge & Flow war crime. Real coffee. I invested in an actual machine after..." He trails off, color rising slightly in his face. "After the incident."
 
 "After you broke the communal espresso machine."
 
@@ -997,7 +997,7 @@ His expression shifts. Something tightens around his eyes. "The CeraTest report.
 
 "I know it's what I could afford eight months ago. They're a smaller lab, but they're legitimate. I checked. I wouldn't put something in people's hands if I didn't think it was safe."
 
-"I believe that. But believing something is safe and proving something is safe are different legal categories. Your investors are going to want proof. More importantly, if something ever goes wrong, a judge is going to want proof. This—" I tap the report. "This is thin."
+"I believe that. But believing something is safe and proving something is safe are different legal categories. Your investors are going to want proof. More importantly, if something ever goes wrong, a judge is going to want proof. This," I tap the report. "This is thin."
 
 He doesn't argue. He just nods, slow and reluctant.
 
@@ -1073,7 +1073,7 @@ We eat standing at a narrow counter by the window, shoulders nearly touching bec
 
 He groans, tipping his head back. "Of course you did. Of course you heard me rambling about hinge mechanisms to a man who could fund my entire company."
 
-"You weren't rambling. You were—" I stop, reconsider. "You were confident. You knew what you were talking about."
+"You weren't rambling. You were," I stop, reconsider. "You were confident. You knew what you were talking about."
 
 "Was that a compliment?"
 
@@ -1091,7 +1091,7 @@ We finish lunch. We walk back to the garage. The afternoon review continues: mor
 
 He exhales, long and slow, and for a moment he looks exhausted. Not the good kind of exhausted that comes from meaningful work. The kind that comes from realizing how much stands between where you are and where you need to be.
 
-"I know this is your job," he says. "Finding the problems. Naming them. I know you're not doing this to be cruel. But it's—" He breaks off, shakes his head. "Never mind."
+"I know this is your job," he says. "Finding the problems. Naming them. I know you're not doing this to be cruel. But it's," He breaks off, shakes his head. "Never mind."
 
 "It's what?"
 
@@ -1189,7 +1189,7 @@ We settle at the worktable this time, closer to the prototypes. Sam walks me thr
 
 His hands move when he talks. I notice this now in a way I didn't before. He gestures toward the products as he explains them, touches components to demonstrate how they work, drums his fingers on the table when he's thinking through a complicated point. The hands are capable, sure of themselves in a way his voice sometimes isn't.
 
-"The third version was the breakthrough," he says, picking up a forearm crutch that looks nothing like any forearm crutch I've seen. It's angular, almost sculptural, with a grip that curves in unexpected ways. "Maria—the tester I mentioned—she used this for two weeks and came back with a page of notes. Half of them were things I'd never considered. The angle of the handle at different terrains. The way weight shifts when you're going up stairs versus down. Things that seem obvious once someone tells you, but you can't know them unless you live them."
+"The third version was the breakthrough," he says, picking up a forearm crutch that looks nothing like any forearm crutch I've seen. It's angular, almost sculptural, with a grip that curves in unexpected ways. "Maria,the tester I mentioned,she used this for two weeks and came back with a page of notes. Half of them were things I'd never considered. The angle of the handle at different terrains. The way weight shifts when you're going up stairs versus down. Things that seem obvious once someone tells you, but you can't know them unless you live them."
 
 "You listen to your users."
 
@@ -1221,7 +1221,7 @@ At 5:30, we're still working. The light outside has shifted, turned golden and t
 
 "I should go," I say, checking my phone. Two texts from Marco. One from Gloria. Nothing urgent, but the day is supposed to be over.
 
-"Or—" Sam hesitates. "There's an event tonight. A design showcase thing, at the Ecotrust building. A bunch of local companies presenting work. I'm not presenting, but I was going to go anyway. See what other people are building. Network, probably, although I'm terrible at networking. It's mostly just me standing in corners drinking wine and waiting for conversations to happen."
+"Or," Sam hesitates. "There's an event tonight. A design showcase thing, at the Ecotrust building. A bunch of local companies presenting work. I'm not presenting, but I was going to go anyway. See what other people are building. Network, probably, although I'm terrible at networking. It's mostly just me standing in corners drinking wine and waiting for conversations to happen."
 
 "Are you inviting me to a design showcase?"
 
@@ -1251,7 +1251,7 @@ But I'm curious about the corners he stands in. I'm curious about the wine he dr
 
 The Ecotrust building is glass and exposed timber, the kind of architecture that announces its sustainability credentials through visual aesthetics. The showcase is on the third floor, a large open space filled with tables displaying various design projects. Sustainable packaging. Modular furniture. Bicycles made from reclaimed materials. Very Portland.
 
-Sam is already there when I arrive, standing in a corner exactly as he predicted, holding a glass of wine and looking slightly uncomfortable. He sees me and his expression shifts—relief, maybe, or something adjacent to it.
+Sam is already there when I arrive, standing in a corner exactly as he predicted, holding a glass of wine and looking slightly uncomfortable. He sees me and his expression shifts,relief, maybe, or something adjacent to it.
 
 "You came," he says.
 
@@ -1267,7 +1267,7 @@ He hands me a glass of wine without asking what I want. Red. Decent. The corners
 
 He walks me through the room, pointing out things I wouldn't have noticed on my own. The way one furniture designer is solving a problem with modularity. The way another company is approaching packaging sustainability differently than the obvious methods. He sees the decisions behind the objects, the thinking that led to the making.
 
-His voice changes when he talks about design. That grounded confidence from the investor pitch. His shoulders relax. His hands move more freely. He occupies space differently—not taking up more of it, exactly, but claiming what he occupies with more certainty.
+His voice changes when he talks about design. That grounded confidence from the investor pitch. His shoulders relax. His hands move more freely. He occupies space differently,not taking up more of it, exactly, but claiming what he occupies with more certainty.
 
 We end up near a window, looking at the city lights beginning to appear in the dusk.
 
@@ -1289,7 +1289,7 @@ His face does something complicated. "You looked into testing facilities."
 
 "My scope is flexible."
 
-"That's—" He stops, shakes his head. "You didn't have to do that."
+"That's," He stops, shakes his head. "You didn't have to do that."
 
 "I know."
 
@@ -1391,7 +1391,7 @@ He turns to look at me fully, and something in his posture shifts. The nervous e
 
 "Because sometimes you find things you weren't looking for. That's the whole point."
 
-We're not supposed to be here. The assessment is finished—I submitted the preliminary report to Gloria yesterday, twelve pages of documented gaps and recommended solutions. The professional entanglement should be over. Sam is no longer a file on my laptop or a voice through a partition wall or a client whose liability exposure I'm obligated to evaluate.
+We're not supposed to be here. The assessment is finished,I submitted the preliminary report to Gloria yesterday, twelve pages of documented gaps and recommended solutions. The professional entanglement should be over. Sam is no longer a file on my laptop or a voice through a partition wall or a client whose liability exposure I'm obligated to evaluate.
 
 He's just a person who texted me at 6:30 asking if I wanted to see something beautiful.
 
@@ -1405,7 +1405,7 @@ I said yes because I wanted to see what he meant. That's the reason I told mysel
 
 "That seems inefficient."
 
-"Everything about you is efficiency." He pulls a book from the shelf without looking at the title—rose-colored, small, battered at the corners. His fingers wrap around the spine with the same certainty he brings to everything physical, the kind of grip that suggests he knows exactly how much pressure a thing can hold. "What happens if you stop being efficient for one hour?"
+"Everything about you is efficiency." He pulls a book from the shelf without looking at the title,rose-colored, small, battered at the corners. His fingers wrap around the spine with the same certainty he brings to everything physical, the kind of grip that suggests he knows exactly how much pressure a thing can hold. "What happens if you stop being efficient for one hour?"
 
 "The world probably doesn't end."
 
@@ -1419,7 +1419,7 @@ I said yes because I wanted to see what he meant. That's the reason I told mysel
 
 "We try again. There's no failure condition, Berna. It's not a liability assessment."
 
-The way he says my name. I've heard him say it before—at the workshop, at the design showcase, through the partition wall when he didn't know I was listening. But something is different tonight. The syllables sit in his mouth longer before he releases them. Like he's paying attention to the shape they make.
+The way he says my name. I've heard him say it before,at the workshop, at the design showcase, through the partition wall when he didn't know I was listening. But something is different tonight. The syllables sit in his mouth longer before he releases them. Like he's paying attention to the shape they make.
 
 I open my book. It's poetry. Spanish poetry, which I wasn't expecting. The first page is a dedication: *Para los que esperan sin saber qué esperan.*
 
@@ -1439,7 +1439,7 @@ He doesn't ask what I mean. He just nods, slow and thoughtful, and something pas
 
 "I pay attention."
 
-We walk. The night air is cold enough to sting, February in Portland finally deciding to act like winter. Sam walks beside me, matching my pace without seeming to try. I'm aware of his silhouette in my peripheral vision—the slope of his shoulders, the way he holds himself when he's not nervous. Upright but not rigid. Present in his body in a way I find difficult to replicate.
+We walk. The night air is cold enough to sting, February in Portland finally deciding to act like winter. Sam walks beside me, matching my pace without seeming to try. I'm aware of his silhouette in my peripheral vision,the slope of his shoulders, the way he holds himself when he's not nervous. Upright but not rigid. Present in his body in a way I find difficult to replicate.
 
 The bar is called The Wayward. I've walked past it a dozen times and never gone in. It's the kind of place that looks intimidating from outside: low lighting, no visible signage, a door that seems designed to discourage entry. Inside, it's smaller than I expected. Warm. A handful of tables, a long wooden bar, a bartender who nods at Sam like they know each other.
 
@@ -1463,11 +1463,11 @@ We find a table in the corner. It's too small for two people; our knees nearly t
 
 "That's a broad request."
 
-"It's supposed to be. You know things about me. My sister. My company. My failure to maintain adequate documentation." He smiles, and it's the smile from Marco's kitchen, the one that reaches places I don't want to catalog. "I know you take your coffee black and you think my chipotle crema is too spicy—"
+"It's supposed to be. You know things about me. My sister. My company. My failure to maintain adequate documentation." He smiles, and it's the smile from Marco's kitchen, the one that reaches places I don't want to catalog. "I know you take your coffee black and you think my chipotle crema is too spicy,"
 
 "Marco's chipotle crema."
 
-"—and you read poetry in Spanish but won't tell me why it worked too well. That's not balanced. I need more data."
+",and you read poetry in Spanish but won't tell me why it worked too well. That's not balanced. I need more data."
 
 "What kind of data?"
 
@@ -1475,13 +1475,13 @@ We find a table in the corner. It's too small for two people; our knees nearly t
 
 The whiskey is warming my throat, loosening something in my chest. I take another sip before answering.
 
-"My father collected books. Not like a hobby—like a compulsion. Every surface in our house was covered. He had this theory that you couldn't understand a person until you'd seen their library. What they kept. What they got rid of. What they never finished."
+"My father collected books. Not like a hobby,like a compulsion. Every surface in our house was covered. He had this theory that you couldn't understand a person until you'd seen their library. What they kept. What they got rid of. What they never finished."
 
 "What happened to his collection?"
 
 "He died. We donated most of it." I pause. "I kept the poetry. Just the Spanish poetry. He used to read it out loud when I was young, before I understood what any of it meant. I think I kept it because I wanted to understand eventually."
 
-Sam is quiet for a long moment. His eyes stay on my face, steady and serious in a way that makes me want to look away. He's doing the thing he does—the stillness, the complete attention. When he listens, he goes quiet in his whole body. No fidgeting, no checking his phone, no looking around the room. Just eyes and silence and the particular quality of focus that makes me feel seen in ways I'm not sure I'm comfortable with.
+Sam is quiet for a long moment. His eyes stay on my face, steady and serious in a way that makes me want to look away. He's doing the thing he does,the stillness, the complete attention. When he listens, he goes quiet in his whole body. No fidgeting, no checking his phone, no looking around the room. Just eyes and silence and the particular quality of focus that makes me feel seen in ways I'm not sure I'm comfortable with.
 
 "Do you?" he asks. "Understand it now?"
 
@@ -1491,13 +1491,13 @@ Sam is quiet for a long moment. His eyes stay on my face, steady and serious in 
 
 "The parts about waiting."
 
-He doesn't respond to this. He just looks at me, and the look is heavy with something neither of us is naming. The bar is loud around us—music, conversation, glasses clinking—but I can't hear any of it. Just the space between us, getting smaller.
+He doesn't respond to this. He just looks at me, and the look is heavy with something neither of us is naming. The bar is loud around us,music, conversation, glasses clinking,but I can't hear any of it. Just the space between us, getting smaller.
 
 "We should walk," I say. "I need air."
 
 He nods. Pays for the drinks before I can argue. We step outside into the cold, and I breathe deep, letting the night air clear whatever was building in my chest.
 
-We walk. No direction, just movement. Past closed storefronts and lit apartment windows and the occasional other nighttime wanderer. Sam tells me about his sister—not the story he told before, about mobility aids and wanting her to feel like a person, but smaller things. How she used to beat him at chess when they were kids. How she still calls him on Sundays even when she has nothing to say. How her voice sounds different now than it did five years ago, and how he hates that he notices.
+We walk. No direction, just movement. Past closed storefronts and lit apartment windows and the occasional other nighttime wanderer. Sam tells me about his sister,not the story he told before, about mobility aids and wanting her to feel like a person, but smaller things. How she used to beat him at chess when they were kids. How she still calls him on Sundays even when she has nothing to say. How her voice sounds different now than it did five years ago, and how he hates that he notices.
 
 "She's getting worse?" I ask.
 
@@ -1525,13 +1525,13 @@ I don't answer. We keep walking.
 
 I tell him about Marco. How he decided to be a chef at fourteen and never wavered, not once, not even when our mother said it wasn't a real career. How he showed up at my apartment with food for two months after I passed the bar because he decided I wasn't eating enough and refused to trust me to fix it. How he's the only person I've ever met who cares about things exactly as much as he seems to.
 
-"He sends me recipes," I add. "Every week. Things he's testing, things he wants feedback on. I never cook them—I don't really cook—but I read them. Every single one. I like knowing what he's thinking about."
+"He sends me recipes," I add. "Every week. Things he's testing, things he wants feedback on. I never cook them,I don't really cook,but I read them. Every single one. I like knowing what he's thinking about."
 
 "You love him," Sam says.
 
 "Of course I love him. He's my closest friend."
 
-"No, I mean—you love him without conditions. Without the efficiency thing. You talk about him differently than you talk about everything else."
+"No, I mean,you love him without conditions. Without the efficiency thing. You talk about him differently than you talk about everything else."
 
 We've stopped walking. I didn't notice when. We're standing on a street corner I don't recognize, under a streetlight that makes everything look slightly unreal. Sam's face is half in shadow, half in light, and he's looking at me like he's seeing something I didn't mean to show.
 
@@ -1549,7 +1549,7 @@ The question sits in the cold air between us. I don't have an answer. Or I do, b
 
 Sam doesn't respond. He just looks at me, and then his hand moves.
 
-It's not fast. Nothing about it is fast. He lifts his hand slowly, deliberately, the way you might reach for something fragile on a high shelf. His fingers come close to my face—not touching, not quite, but close enough that I can feel the warmth of his skin in the cold air. Three inches from my cheek. Maybe less.
+It's not fast. Nothing about it is fast. He lifts his hand slowly, deliberately, the way you might reach for something fragile on a high shelf. His fingers come close to my face,not touching, not quite, but close enough that I can feel the warmth of his skin in the cold air. Three inches from my cheek. Maybe less.
 
 He's going to touch me.
 
@@ -1557,7 +1557,7 @@ I know it with a certainty that feels physical, that settles into my body like a
 
 But he doesn't.
 
-His hand stops. Holds. The three inches between his fingers and my skin become the entire width of the world. I can see the decision happening in his eyes—the want and the hesitation and the calculation of whether this is allowed, whether I want it, whether he has the right.
+His hand stops. Holds. The three inches between his fingers and my skin become the entire width of the world. I can see the decision happening in his eyes,the want and the hesitation and the calculation of whether this is allowed, whether I want it, whether he has the right.
 
 The streetlight flickers. Somewhere behind us, a car passes.
 
@@ -1565,13 +1565,13 @@ His hand drops.
 
 "I should walk you home," he says, and his voice is different now. Rougher at the edges. Like something scraped against it on the way out.
 
-"Sam—"
+"Sam,"
 
 "It's late. You're cold." He's not looking at me anymore. He's looking at the ground, at his hands, at anything else. "Let me walk you home."
 
 We don't talk about it. We walk side by side with more space between us than before, a deliberate gap that wasn't there an hour ago. The three inches have become three feet, and I feel the distance like a bruise forming.
 
-He's different now. Something closed in him when his hand dropped—some door that was briefly open. His shoulders are tighter. His jaw is set in a way I haven't seen before. He looks like someone who's just made himself stop doing something he wanted to do, and is angry about the stoppage.
+He's different now. Something closed in him when his hand dropped,some door that was briefly open. His shoulders are tighter. His jaw is set in a way I haven't seen before. He looks like someone who's just made himself stop doing something he wanted to do, and is angry about the stoppage.
 
 I want to say something. I want to tell him it's okay, that I saw the lift and I saw the stop and I understand both. But understanding isn't the same as resolving, and I don't know what resolution would look like here. I don't know what I want it to look like.
 
@@ -1583,15 +1583,15 @@ At my building, he stops on the sidewalk. Doesn't come up the steps.
 
 "Thank you for Powell's. And the whiskey."
 
-"Thursday," he starts, and then stops. "I mean—we don't have Thursday anymore. The assessment is done."
+"Thursday," he starts, and then stops. "I mean,we don't have Thursday anymore. The assessment is done."
 
 "I know."
 
-"So I don't know when—" He breaks off, runs a hand through his hair. The gesture is frustrated, almost angry. His body is doing things his voice is trying to hide. "I don't know what comes next."
+"So I don't know when," He breaks off, runs a hand through his hair. The gesture is frustrated, almost angry. His body is doing things his voice is trying to hide. "I don't know what comes next."
 
 "Neither do I."
 
-He looks at me then. Really looks, the way he was looking before his hand moved and then stopped moving. The streetlight here is different, steadier, and I can see everything in his face—the want, the retreat, the specific kind of hurt that comes from denying yourself something you were about to have.
+He looks at me then. Really looks, the way he was looking before his hand moved and then stopped moving. The streetlight here is different, steadier, and I can see everything in his face,the want, the retreat, the specific kind of hurt that comes from denying yourself something you were about to have.
 
 "Goodnight, Berna," he says.
 
@@ -1603,7 +1603,7 @@ Three inches. That's all it would have taken.
 
 Three inches and everything would be different.
 
-I go inside. I make tea I don't drink. I sit on my couch with my father's poetry books and don't read them. My phone stays dark on the table—no texts from Sam, no texts from anyone.
+I go inside. I make tea I don't drink. I sit on my couch with my father's poetry books and don't read them. My phone stays dark on the table,no texts from Sam, no texts from anyone.
 
 At eleven, Marco calls.
 
@@ -1625,7 +1625,7 @@ I think about Powell's. I think about whiskey. I think about the three inches an
 
 "I don't know yet."
 
-Marco is quiet for a moment. This is unusual for him. Marco fills silences the way water fills containers—automatically, completely.
+Marco is quiet for a moment. This is unusual for him. Marco fills silences the way water fills containers,automatically, completely.
 
 "Berna," he says finally. "Did something almost happen?"
 
@@ -1643,7 +1643,7 @@ I look at the untouched mug on my coffee table.
 
 "No they're not. How you feel is about the past. What you want is about the future. You can feel scared and still want something. You can feel uncertain and still know what you're hoping for."
 
-At midnight, I open the book I should have kept from Powell's. Not literally—I didn't take it. But I can still see the dedication in my mind: *Para los que esperan sin saber qué esperan.*
+At midnight, I open the book I should have kept from Powell's. Not literally,I didn't take it. But I can still see the dedication in my mind: *Para los que esperan sin saber qué esperan.*
 
 For those who wait without knowing what they wait for.
 
@@ -1669,7 +1669,7 @@ I'm at Marco's, watching him prep for dinner service, stealing olives from a sma
 
 **Sam:** I need to talk to you. Can you meet me?
 
-I stare at it. Three weeks of silence—not complete silence, not hostile silence, but the careful kind. The kind where you reply to practical questions with practical answers and don't acknowledge that anything happened. The assessment was filed. Gloria sent her summary. Harrison is still deciding. We've been professionally complete and personally suspended.
+I stare at it. Three weeks of silence,not complete silence, not hostile silence, but the careful kind. The kind where you reply to practical questions with practical answers and don't acknowledge that anything happened. The assessment was filed. Gloria sent her summary. Harrison is still deciding. We've been professionally complete and personally suspended.
 
 And now this.
 
@@ -1691,7 +1691,7 @@ And now this.
 
 "And you're considering not going?"
 
-"I'm considering the professional implications of—"
+"I'm considering the professional implications of,"
 
 "Berna." He finally turns, wooden spoon pointed at me like an accusation. "You've been eating my olives for two hours. You've been coming here every Saturday for three weeks. You sit in that same spot and steal my mise en place and pretend you're watching me cook, but what you're actually doing is waiting for something to happen." He turns back to the stove. "Something is happening. Go."
 
@@ -1709,7 +1709,7 @@ I touch my mouth without thinking. He's right. I put it on this morning without 
 
 "It means you were hoping something would happen today. And now it's happening." He gestures toward the door with his spoon. "Go. I'll save you some tapenade."
 
-I take one more olive on my way out—a victory, small but satisfying. He pretends not to notice.
+I take one more olive on my way out,a victory, small but satisfying. He pretends not to notice.
 
 ---
 
@@ -1717,7 +1717,7 @@ The workshop looks different at night.
 
 I've only ever been here during the day, with light coming through the windows and the whole space feeling open and functional. Now it's dark outside, and the interior lighting creates pockets of shadow between the work areas. The prototypes on the table look less like products and more like sculptures. The pegboard walls with their hanging tools look almost ceremonial.
 
-I stand outside for a moment before going in. The building is old brick, some kind of converted warehouse space, and at night the red brick looks almost black. There are lights on in the windows—I can see the warm glow from where I'm standing on the sidewalk. My heart is doing something inconvenient. Something that belongs to someone younger, someone who hasn't learned that wanting things makes you vulnerable.
+I stand outside for a moment before going in. The building is old brick, some kind of converted warehouse space, and at night the red brick looks almost black. There are lights on in the windows,I can see the warm glow from where I'm standing on the sidewalk. My heart is doing something inconvenient. Something that belongs to someone younger, someone who hasn't learned that wanting things makes you vulnerable.
 
 A couple walks past, laughing about something. They don't notice me standing here, frozen in front of a door I've walked through a dozen times. It's just a door. It's just a workshop. It's just Sam.
 
@@ -1727,7 +1727,7 @@ I check my phone. 6:58. Two minutes early. I could wait. I could give myself two
 
 Instead, I push open the door.
 
-The workshop smells different at night too, or maybe I'm just paying more attention. Sawdust and metal and something else—coffee, old coffee, the kind that's been sitting in a pot too long. The heating system clicks and hums. My boots echo on the concrete floor as I walk toward the main work area.
+The workshop smells different at night too, or maybe I'm just paying more attention. Sawdust and metal and something else,coffee, old coffee, the kind that's been sitting in a pot too long. The heating system clicks and hums. My boots echo on the concrete floor as I walk toward the main work area.
 
 Sam is standing by the main worktable. He's wearing a dark sweater I haven't seen before, sleeves at his wrists for once instead of pushed up. There's something coiled about him tonight, something restless. He's not pacing, but he looks like he wants to.
 
@@ -1735,15 +1735,15 @@ Sam is standing by the main worktable. He's wearing a dark sweater I haven't see
 
 "You asked."
 
-"I wasn't sure you would. After—" He stops, shakes his head. "After the silence."
+"I wasn't sure you would. After," He stops, shakes his head. "After the silence."
 
 "The silence was mutual."
 
 "Was it?" He crosses his arms, uncrosses them, moves to the edge of the table and leans against it. His body is doing that thing again, the thing it did on the street corner. Like it knows what it wants and is waiting for permission his mind hasn't granted. "I've been replaying that night. The street. The almost."
 
-"Sam—"
+"Sam,"
 
-"Let me finish." His voice is quiet but firm. "I've been replaying it because I need you to understand something. When I stopped—when I didn't touch you—it wasn't because I didn't want to. It was because I couldn't figure out if you wanted me to. And I couldn't risk being wrong."
+"Let me finish." His voice is quiet but firm. "I've been replaying it because I need you to understand something. When I stopped,when I didn't touch you,it wasn't because I didn't want to. It was because I couldn't figure out if you wanted me to. And I couldn't risk being wrong."
 
 The workshop is warm. The heating system hums. Outside, the February evening presses against the windows like it's trying to get in.
 
@@ -1753,7 +1753,7 @@ The workshop is warm. The heating system hums. Outside, the February evening pre
 
 Something cold moves through my chest. "And?"
 
-"And he's still deciding. He has concerns about the testing documentation—the gaps you identified. He wants to see the new CeraTest results before he commits." Sam pushes off from the table, moves toward the window, turns back. "Which means we're still connected. Professionally. For at least another six weeks."
+"And he's still deciding. He has concerns about the testing documentation,the gaps you identified. He wants to see the new CeraTest results before he commits." Sam pushes off from the table, moves toward the window, turns back. "Which means we're still connected. Professionally. For at least another six weeks."
 
 "I know. Gloria copied me on the timeline update."
 
@@ -1761,7 +1761,7 @@ Something cold moves through my chest. "And?"
 
 I do. I've been thinking about it since the email came, since I saw the extended timeline and felt relief and disappointment in equal measure. More time. More entanglement. More reasons to keep the three inches where they were.
 
-"It means the professional relationship is ongoing," I say. "It means any—" I search for the right word. "—complication would be problematic."
+"It means the professional relationship is ongoing," I say. "It means any," I search for the right word. ",complication would be problematic."
 
 "Problematic." He almost laughs, but there's no humor in it. "That's one word for it."
 
@@ -1769,25 +1769,25 @@ I do. I've been thinking about it since the email came, since I saw the extended
 
 "Impossible. Frustrating. The kind of situation where you know exactly what you want and can't have it because the timing is catastrophically wrong."
 
-He's closer now. I didn't see him move, but suddenly the space between us is less than it was. Not three inches—more like three feet—but closing.
+He's closer now. I didn't see him move, but suddenly the space between us is less than it was. Not three inches,more like three feet,but closing.
 
-"Sam, I can't—"
+"Sam, I can't,"
 
-"I know." His voice drops. "I know you can't. I know we can't. Harrison is still evaluating. You're still technically part of the assessment process, even if the main work is done. If anything happened between us and it came out later, it would compromise everything. Your professional reputation. The investment. The whole—"
+"I know." His voice drops. "I know you can't. I know we can't. Harrison is still evaluating. You're still technically part of the assessment process, even if the main work is done. If anything happened between us and it came out later, it would compromise everything. Your professional reputation. The investment. The whole,"
 
 "Then why did you ask me here?"
 
 The question lands between us. He doesn't answer immediately. Instead, he looks at me with the same intensity from the street corner, the same want and hesitation, except now the hesitation looks more like pain.
 
-"Because I'm not good at pretending," he says. "Because three weeks of silence is eating me alive and I needed to see you and know that you're real and this is real and I didn't imagine—"
+"Because I'm not good at pretending," he says. "Because three weeks of silence is eating me alive and I needed to see you and know that you're real and this is real and I didn't imagine,"
 
 "You didn't imagine it."
 
-"—the thing that happened. The almost."
+",the thing that happened. The almost."
 
 "You didn't imagine it."
 
-He exhales. His shoulders drop a fraction. "Okay. Okay. So we're both aware that something is—"
+He exhales. His shoulders drop a fraction. "Okay. Okay. So we're both aware that something is,"
 
 "Something is there. Yes."
 
@@ -1815,11 +1815,11 @@ He takes another step. The two feet become something less. I should step back. I
 
 "I know."
 
-"Coming here, talking about this, standing this close—"
+"Coming here, talking about this, standing this close,"
 
 "I know."
 
-"—all of it makes it harder, not easier."
+",all of it makes it harder, not easier."
 
 "I know." He's not backing away. "Do you want me to stop?"
 
@@ -1827,9 +1827,9 @@ The question hangs. Yes, I should say. Yes, let's be professional, let's maintai
 
 "No," I say instead. "I don't want you to stop."
 
-His breath catches. I hear it—the small hitch, the moment where his body responds before his mind can intervene. His eyes go dark, not with anger but with something else. Something that makes the workshop feel smaller than it is.
+His breath catches. I hear it,the small hitch, the moment where his body responds before his mind can intervene. His eyes go dark, not with anger but with something else. Something that makes the workshop feel smaller than it is.
 
-"Berna." His voice is low, rough in a new way. Not frustrated this time. Hungry. "If you don't want me to stop, then I need you to tell me what you do want. Because I'm about to do something that neither of us can undo, and I need to know—"
+"Berna." His voice is low, rough in a new way. Not frustrated this time. Hungry. "If you don't want me to stop, then I need you to tell me what you do want. Because I'm about to do something that neither of us can undo, and I need to know,"
 
 "I want you to touch me."
 
@@ -1839,11 +1839,11 @@ His hand moves.
 
 This time it doesn't stop.
 
-His fingers touch my face—my jaw, the space below my ear—and the contact is warmer than I expected. I've been cold all day, cold for weeks, and his skin against mine is a shock of heat that moves through me like current.
+His fingers touch my face,my jaw, the space below my ear,and the contact is warmer than I expected. I've been cold all day, cold for weeks, and his skin against mine is a shock of heat that moves through me like current.
 
 "Finally," he breathes, and then he's kissing me.
 
-It's not gentle. It's not hesitant. It's the kiss of someone who has been waiting too long and has stopped caring about patience. His mouth is firm against mine, certain, and I taste whiskey—he must have had some before I came, something to steady himself—and underneath that, something that's just him. My hands move without permission, finding the front of his sweater, fisting the dark fabric to pull him closer.
+It's not gentle. It's not hesitant. It's the kiss of someone who has been waiting too long and has stopped caring about patience. His mouth is firm against mine, certain, and I taste whiskey,he must have had some before I came, something to steady himself,and underneath that, something that's just him. My hands move without permission, finding the front of his sweater, fisting the dark fabric to pull him closer.
 
 He makes a sound. A low noise in his throat, almost a groan, and it undoes something in me I didn't know was locked. My back hits the worktable and I don't remember moving, don't remember anything except his body against mine and the weight of him pressing me into the wood. His hand is in my hair now, tilting my head back, and the kiss deepens into something that scrambles my syntax entirely.
 
@@ -1853,9 +1853,9 @@ I think: his mouth is the shape of everything I've been avoiding.
 
 I think: I don't think at all, actually.
 
-His other hand finds my hip, spreads warm and solid against the curve of it, and the touch sends heat pooling low in my stomach. I've been kissed before. I know what kissing is. But I don't know what this is—this consuming thing, this erasure of every thought that isn't him. My careful sentences break into fragments. His chest against mine. His breath coming faster. The smell of him, wood and metal and something clean, shampoo maybe, filling my lungs.
+His other hand finds my hip, spreads warm and solid against the curve of it, and the touch sends heat pooling low in my stomach. I've been kissed before. I know what kissing is. But I don't know what this is,this consuming thing, this erasure of every thought that isn't him. My careful sentences break into fragments. His chest against mine. His breath coming faster. The smell of him, wood and metal and something clean, shampoo maybe, filling my lungs.
 
-"Berna," he says against my mouth, and the word is wrecked. "Tell me to stop. Tell me this is a mistake and we need to—"
+"Berna," he says against my mouth, and the word is wrecked. "Tell me to stop. Tell me this is a mistake and we need to,"
 
 "It is a mistake."
 
@@ -1867,13 +1867,13 @@ His other hand finds my hip, spreads warm and solid against the curve of it, and
 
 Neither of us stops.
 
-His mouth moves to my neck, traces a line from my jaw to my shoulder, and I hear myself make a sound I don't recognize. My fingers are in his hair now—when did that happen?—and the strands are softer than they look, sliding between my knuckles as I pull him closer. His teeth graze my collarbone and I arch into him and the worktable creaks beneath my weight and—
+His mouth moves to my neck, traces a line from my jaw to my shoulder, and I hear myself make a sound I don't recognize. My fingers are in his hair now,when did that happen?,and the strands are softer than they look, sliding between my knuckles as I pull him closer. His teeth graze my collarbone and I arch into him and the worktable creaks beneath my weight and,
 
 "Wait." I'm the one who says it. My voice sounds like someone else's. "Wait. Sam. Stop."
 
 He stops immediately. His head comes up, his hands release, he steps back so fast he almost stumbles. His chest is heaving. His mouth is swollen from mine. His eyes are half-wild, dark and desperate and trying to recalibrate.
 
-"Sorry," he says. "I'm sorry, I—"
+"Sorry," he says. "I'm sorry, I,"
 
 "Don't apologize." I'm still leaning against the table. My legs don't feel reliable. "That's not why I stopped."
 
@@ -1889,7 +1889,7 @@ He's quiet. Breathing hard. His hands are at his sides, clenching and unclenchin
 
 I think about Marco's question. How you feel is about the past. What you want is about the future.
 
-"I want it to be real," I say. "Not stolen. Not something we have to hide because the timing was wrong and we couldn't wait. If we do this—" I gesture between us, at the charged air, at our bodies still leaning toward each other even with distance between them. "—I want to do it properly. Without conflicts of interest. Without professional entanglement."
+"I want it to be real," I say. "Not stolen. Not something we have to hide because the timing was wrong and we couldn't wait. If we do this," I gesture between us, at the charged air, at our bodies still leaning toward each other even with distance between them. ",I want to do it properly. Without conflicts of interest. Without professional entanglement."
 
 "That could be months."
 
@@ -1905,13 +1905,13 @@ He laughs, but it's not a frustrated laugh. It's almost relieved. "You're propos
 
 "What's the rule?"
 
-"Nothing happens until Harrison's decision is final. No professional connection, no conflict of interest, no complication. Once the investment closes or doesn't close, once my involvement is officially over—then we can figure out what this is."
+"Nothing happens until Harrison's decision is final. No professional connection, no conflict of interest, no complication. Once the investment closes or doesn't close, once my involvement is officially over,then we can figure out what this is."
 
 "And until then?"
 
 "Until then, we wait. We're careful. We don't pretend this didn't happen, but we don't let it happen again. Not until it can happen right."
 
-He's still breathing hard. His mouth is still dark from my lipstick—I didn't know I was wearing lipstick that transferred, but apparently I was. He looks wrecked and wanting and somehow, impossibly, also tender.
+He's still breathing hard. His mouth is still dark from my lipstick,I didn't know I was wearing lipstick that transferred, but apparently I was. He looks wrecked and wanting and somehow, impossibly, also tender.
 
 "Okay," he says.
 
@@ -1929,7 +1929,7 @@ I should say something. Something structured and certain, the kind of sentence I
 
 "Goodnight." He doesn't let go of my hand. "Will you text me when you get home? So I know you're safe?"
 
-"That seems like contact that might be—"
+"That seems like contact that might be,"
 
 "One text. Just that you got home. That's allowed, right?"
 
@@ -1947,7 +1947,7 @@ He's standing where I left him, by the worktable, arms at his sides. His face in
 
 "The kiss wasn't a mistake. The timing might be wrong, but the kiss wasn't."
 
-His face does something complicated—relief, joy, something that might be hope—and then settles into a smile I haven't seen before. Not the charming smile from the investor pitch. Not the nervous smile from the workshop visits. Something new. Something that belongs only to this moment.
+His face does something complicated,relief, joy, something that might be hope,and then settles into a smile I haven't seen before. Not the charming smile from the investor pitch. Not the nervous smile from the workshop visits. Something new. Something that belongs only to this moment.
 
 "Good," he says. "I'll hold onto that."
 
@@ -1957,7 +1957,7 @@ I leave before I can undo every rule I just made.
 
 The walk home takes twenty minutes. I take the long way without meaning to, or maybe I mean to and don't want to admit it. My body needs the movement. My mind needs the space.
 
-I keep touching my mouth. It's ridiculous—a gesture from some romantic comedy, the woman pressing her fingers to her lips after a kiss, but I can't stop doing it. I can still feel him there. The pressure of his mouth. The way his teeth caught my lower lip at one point, a small sharp shock that made me gasp.
+I keep touching my mouth. It's ridiculous,a gesture from some romantic comedy, the woman pressing her fingers to her lips after a kiss, but I can't stop doing it. I can still feel him there. The pressure of his mouth. The way his teeth caught my lower lip at one point, a small sharp shock that made me gasp.
 
 What am I doing.
 
@@ -1965,7 +1965,7 @@ The question repeats with every step. What am I doing, what am I doing, what am 
 
 Except.
 
-Except the rule makes it okay. Doesn't it? We're not doing anything more until the professional connection ends. We acknowledged what's there without acting on it further. One kiss. One interrupted kiss. That's not a relationship. That's not a conflict. That's just—
+Except the rule makes it okay. Doesn't it? We're not doing anything more until the professional connection ends. We acknowledged what's there without acting on it further. One kiss. One interrupted kiss. That's not a relationship. That's not a conflict. That's just,
 
 That's just the feeling of his hands on my hips, burning through the memory like a brand.
 
@@ -1985,13 +1985,13 @@ I stare at my phone for a long time. The screen goes dark. Lights up again.
 
 **Sam:** I can still taste you.
 
-I close my eyes. The workshop floods back—his mouth, his hands, the sound he made when he pulled me close. My body is still warm from it, still holding the memory in my skin and my pulse and the ache low in my stomach.
+I close my eyes. The workshop floods back,his mouth, his hands, the sound he made when he pulled me close. My body is still warm from it, still holding the memory in my skin and my pulse and the ache low in my stomach.
 
 I should put the phone down. I should shower and go to bed and stop engaging in contact that blurs the line I just drew. Instead I stand in my kitchen, coat still on, staring at those four words.
 
 I can still taste you.
 
-The audacity of it. The intimacy. The way he's not even pretending to play by the rules we just agreed to, not really, because rules about physical contact don't address this—this trespass of words, this way he's already inside my head.
+The audacity of it. The intimacy. The way he's not even pretending to play by the rules we just agreed to, not really, because rules about physical contact don't address this,this trespass of words, this way he's already inside my head.
 
 **Me:** That's not helping with the waiting.
 
@@ -2019,9 +2019,9 @@ VALUES (
 
 Monday morning, I become a professional.
 
-Not that I wasn't one before. But there's professional and then there's *professional*—the hyper-deliberate version, the one where every movement is planned two steps ahead, where spontaneity is treated as a security threat.
+Not that I wasn't one before. But there's professional and then there's *professional*,the hyper-deliberate version, the one where every movement is planned two steps ahead, where spontaneity is treated as a security threat.
 
-The kiss was Saturday. Today is Monday. Forty hours of not seeing him, not texting him beyond that one transgressive exchange, not thinking about—
+The kiss was Saturday. Today is Monday. Forty hours of not seeing him, not texting him beyond that one transgressive exchange, not thinking about,
 
 Okay, I thought about it. I thought about it while making coffee Sunday morning and while reading case briefs Sunday afternoon and while lying in bed Sunday night staring at my ceiling like a teenager who just discovered hormones. I thought about the sound he made, that low noise in his throat. I thought about my back against the worktable. I thought about "I can still taste you" and the audacity of sending that when we'd just agreed to wait.
 
@@ -2029,11 +2029,11 @@ But thinking is private. Thinking doesn't count. Thinking happens inside my skul
 
 Today, at Forge & Flow, I am a partition wall given human form.
 
-I arrive at 8:47—thirteen minutes later than usual, calculated to avoid the 8:30 arrival window that correlates with his. I walk past the chalkboard without registering its inspirational idiocy. I set up my laptop at my usual table, back to the wall, eyes on the door. My coffee is black. My posture is impeccable. My face is arranged into an expression that says "Deadline Work, Do Not Disturb."
+I arrive at 8:47,thirteen minutes later than usual, calculated to avoid the 8:30 arrival window that correlates with his. I walk past the chalkboard without registering its inspirational idiocy. I set up my laptop at my usual table, back to the wall, eyes on the door. My coffee is black. My posture is impeccable. My face is arranged into an expression that says "Deadline Work, Do Not Disturb."
 
 At 9:02, he walks in.
 
-I know this because the entire atmosphere of the room shifts. My body knows his footsteps now—that's a thing that apparently happens when you kiss someone against furniture. The rhythm of his walk has been cataloged somewhere in my nervous system, filed under "threats to professional composure."
+I know this because the entire atmosphere of the room shifts. My body knows his footsteps now,that's a thing that apparently happens when you kiss someone against furniture. The rhythm of his walk has been cataloged somewhere in my nervous system, filed under "threats to professional composure."
 
 I don't look up. I'm reading a contract. It's a very interesting contract about liability indemnification clauses. I'm completely absorbed in the liability indemnification clauses.
 
@@ -2055,17 +2055,17 @@ The problem with not looking is that you become hyperaware of everything else.
 
 At 9:34, he coughs. Once. Dry. It could mean nothing or it could mean he's thinking about Saturday or it could mean he has allergies. I don't know because I'm not looking at him to check for seasonal symptoms.
 
-At 9:51, he gets up for more coffee. I track the sound of his footsteps—heavier now, more deliberate, like he's walking loudly on purpose. Is he walking loudly on purpose? Is that a thing people do? I don't know. I'm reading paragraph 12.3(b).
+At 9:51, he gets up for more coffee. I track the sound of his footsteps,heavier now, more deliberate, like he's walking loudly on purpose. Is he walking loudly on purpose? Is that a thing people do? I don't know. I'm reading paragraph 12.3(b).
 
 At 10:14, someone new arrives.
 
-The door opens with its familiar creak and a woman breezes in carrying what appears to be a portable recording setup—ring light, microphone arm, the works. She's mid-forties, silver-streaked hair pulled into a messy topknot, wearing overalls over a vintage band t-shirt. She commandeers the table in the exact center of the room and begins setting up her equipment with the focused efficiency of someone who does this daily.
+The door opens with its familiar creak and a woman breezes in carrying what appears to be a portable recording setup,ring light, microphone arm, the works. She's mid-forties, silver-streaked hair pulled into a messy topknot, wearing overalls over a vintage band t-shirt. She commandeers the table in the exact center of the room and begins setting up her equipment with the focused efficiency of someone who does this daily.
 
 "Morning, Forge dwellers!" she calls out to no one in particular. "Anybody want to be background ambiance for a podcast about starting your own business? I promise I won't use your names. Probably."
 
 A few regulars wave. She waves back with both hands, creating a brief impression of interpretive dance.
 
-I've seen her before—she rents desk space here three days a week—but I don't know her name. I've never needed to. She's part of the scenery, like the motivational chalkboard and the perpetually empty snack bowl.
+I've seen her before,she rents desk space here three days a week,but I don't know her name. I've never needed to. She's part of the scenery, like the motivational chalkboard and the perpetually empty snack bowl.
 
 Today, though, she looks at me. Then at Sam. Then back at me.
 
@@ -2079,21 +2079,21 @@ My head snaps up before I can stop it. She's grinning at me, perfectly comfortab
 
 My mouth opens. Closes. Opens again.
 
-"We don't have a hostile—"
+"We don't have a hostile,"
 
 "Oh, you absolutely do. Let me guess." She taps her chin theatrically. "Business dispute? He stole your client? She undercut your pitch?" She's looking between us now, eyes bright with the investigative zeal of someone who has built a career on reading social dynamics. "Wait, no. Intellectual property dispute. He copied your thing. Or she copied his thing. The creative betrayal angle is very 2024."
 
-Sam has looked up. His face is doing something complicated—half alarm, half amusement. "We don't have an intellectual property dispute."
+Sam has looked up. His face is doing something complicated,half alarm, half amusement. "We don't have an intellectual property dispute."
 
-"Then why are you sitting thirty feet apart and refusing to acknowledge each other's existence?" The woman—Podcaster Lady, I'm calling her now—spreads her hands. "I run a show about small business founders. This is literally my job. Reading rooms. And this room is reading as 'bitter rivals who once shared something they now regret.'"
+"Then why are you sitting thirty feet apart and refusing to acknowledge each other's existence?" The woman,Podcaster Lady, I'm calling her now,spreads her hands. "I run a show about small business founders. This is literally my job. Reading rooms. And this room is reading as 'bitter rivals who once shared something they now regret.'"
 
 "We're not rivals," I say. "We're not anything."
 
 "Aha! 'Not anything.' That's a very loaded phrase. That's the phrase people use when they're definitely something and don't want to admit it." She points at me with a pen that appeared from nowhere. "You're the lawyer, right? Contract work? Very structured energy. Probably color-codes her files."
 
-"I don't see how my filing system is—"
+"I don't see how my filing system is,"
 
-"And you—" She swings the pen toward Sam. "—are the maker guy. Assistive devices. Very earnest. Probably cried at a TED talk about accessibility."
+"And you," She swings the pen toward Sam. ",are the maker guy. Assistive devices. Very earnest. Probably cried at a TED talk about accessibility."
 
 Sam makes a small, wounded noise. "That's unfair. Those talks are very moving."
 
@@ -2113,7 +2113,7 @@ The rest of the morning is an exercise in strategic positioning.
 
 Cassandra Webb has claimed the center of the room, which means every sightline now passes through her orbit. She records what sounds like interview snippets, speaks animatedly into her microphone, and occasionally glances between me and Sam with the satisfied expression of a scientist observing an experiment.
 
-I can't avoid Sam entirely—we're in the same room, and the room isn't that big—but I can manage the encounters. I time my coffee runs for when he's seated. I use the restroom during his calls.
+I can't avoid Sam entirely,we're in the same room, and the room isn't that big,but I can manage the encounters. I time my coffee runs for when he's seated. I use the restroom during his calls.
 
 This works until 11:30, when Gloria texts.
 
@@ -2129,23 +2129,23 @@ I'm almost to the door when I hear my name.
 
 "Berna."
 
-His voice. That voice. Low and careful and completely professional, because other people are listening, but there's something underneath it—a roughness that wasn't there before Saturday. A texture.
+His voice. That voice. Low and careful and completely professional, because other people are listening, but there's something underneath it,a roughness that wasn't there before Saturday. A texture.
 
-I stop. Turn. He's standing by his table, ten feet away, hands in his pockets. His posture is different today—stiffer than usual, shoulders held at an angle that suggests effort. He's standing the way people stand when they're preventing themselves from doing something else.
+I stop. Turn. He's standing by his table, ten feet away, hands in his pockets. His posture is different today,stiffer than usual, shoulders held at an angle that suggests effort. He's standing the way people stand when they're preventing themselves from doing something else.
 
 "You dropped this."
 
-He holds up a pen. It's my pen—the silver one my father gave me for passing the bar. It must have rolled out of my bag.
+He holds up a pen. It's my pen,the silver one my father gave me for passing the bar. It must have rolled out of my bag.
 
 I walk toward him. Close the ten feet. He extends the pen.
 
-Our fingers don't touch. There's at least half an inch of silver barrel between his skin and mine. But the proximity of the exchange—the controlled gap we're both maintaining—is somehow worse than touching would be. The air between our hands has weight. Density. Temperature.
+Our fingers don't touch. There's at least half an inch of silver barrel between his skin and mine. But the proximity of the exchange,the controlled gap we're both maintaining,is somehow worse than touching would be. The air between our hands has weight. Density. Temperature.
 
 "Thank you," I say.
 
 "You're welcome."
 
-We stand there for half a second too long. His eyes are steady on mine, and I can see the discipline in them—the effort it takes to maintain the distance, to honor the rule we made. He's holding himself back. I can see it in the tension of his forearms, in the set of his jaw.
+We stand there for half a second too long. His eyes are steady on mine, and I can see the discipline in them,the effort it takes to maintain the distance, to honor the rule we made. He's holding himself back. I can see it in the tension of his forearms, in the set of his jaw.
 
 "Have a good meeting," he says.
 
@@ -2173,15 +2173,15 @@ I sit.
 
 "The Vance acquisition closes in three weeks. I'm reassigning you to primary on the subsidiary carve-outs. Henley is overwhelmed and you're ahead on your current portfolio."
 
-This is not what I expected. The Vance deal is the biggest transaction the firm has handled this year—a $400 million acquisition with enough complexity to keep a team busy for months.
+This is not what I expected. The Vance deal is the biggest transaction the firm has handled this year,a $400 million acquisition with enough complexity to keep a team busy for months.
 
-"I appreciate the confidence, but my calendar—"
+"I appreciate the confidence, but my calendar,"
 
 "Your calendar includes the Reyes assessment, which is technically complete." Gloria finally looks at me. Her eyes are the color of slate and approximately as warm. "Harrison is still deliberating, but that's his process, not yours. You documented the gaps. You recommended the solutions. Unless something changes significantly, you're background support at most."
 
-"The CeraTest results are still pending. Sam—Mr. Reyes may need guidance on documentation."
+"The CeraTest results are still pending. Sam,Mr. Reyes may need guidance on documentation."
 
-"Which any associate can provide." She sets down her tablet. The gesture is deliberate—Gloria does everything deliberately—and when she looks at me, I feel like a deposition witness who's just realized they're being cross-examined.
+"Which any associate can provide." She sets down her tablet. The gesture is deliberate,Gloria does everything deliberately,and when she looks at me, I feel like a deposition witness who's just realized they're being cross-examined.
 
 "You've been spending considerable time at that coworking space. More than the assessment strictly required."
 
@@ -2189,7 +2189,7 @@ My stomach tightens. I've prepared for this, the same way I prepare for hostile 
 
 "Productive." Gloria lets the word hang. "I'm sure you do. But Vance is going to require your full attention. Long hours. Evening sessions. No time for coffee shops with inspirational chalkboards."
 
-She knows. She doesn't know specifically—she can't—but she knows something. Gloria has survived three decades of partnership politics by reading people the way Cassandra Webb claims to. She sees patterns. She draws conclusions.
+She knows. She doesn't know specifically,she can't,but she knows something. Gloria has survived three decades of partnership politics by reading people the way Cassandra Webb claims to. She sees patterns. She draws conclusions.
 
 "I understand," I say.
 
@@ -2199,9 +2199,9 @@ She knows. She doesn't know specifically—she can't—but she knows something. 
 
 "Good. Close the door on your way out."
 
-I stand. My legs feel strange—heavy in a way that has nothing to do with walking. At the threshold, I pause.
+I stand. My legs feel strange,heavy in a way that has nothing to do with walking. At the threshold, I pause.
 
-"Gloria—"
+"Gloria,"
 
 She glances up, one eyebrow raised in a question that's also a warning. Behind her, the river moves gray and indifferent past the windows. A barge slides by, carrying something industrial. The world outside this office continues without caring about partner tracks or professional boundaries or the specific shape of a man's hands.
 
@@ -2209,23 +2209,23 @@ She glances up, one eyebrow raised in a question that's also a warning. Behind h
 
 "Make sure I don't regret it."
 
-The door clicks shut behind me. In the elevator, I catch my reflection in the polished steel—composed, competent, not at all like someone whose careful architecture is crumbling from the inside.
+The door clicks shut behind me. In the elevator, I catch my reflection in the polished steel,composed, competent, not at all like someone whose careful architecture is crumbling from the inside.
 
 ---
 
 I don't go back to Forge & Flow.
 
-I can't. Not with Gloria's words echoing in my head, not with the knowledge that my time there is now officially scrutinized. Partner track by thirty-five—that's the carrot she dangles, and I've been chasing it so long I've forgotten what it tastes like. What any of this tastes like. I became a lawyer because I wanted to be good at something that mattered, and somewhere along the way "good at something" became the only thing that mattered. I take my laptop to a coffee shop three blocks away, order a tea I don't want, and sit in a corner booth trying to read about the Vance subsidiary structure while my brain replays the pen exchange on a continuous loop.
+I can't. Not with Gloria's words echoing in my head, not with the knowledge that my time there is now officially scrutinized. Partner track by thirty-five,that's the carrot she dangles, and I've been chasing it so long I've forgotten what it tastes like. What any of this tastes like. I became a lawyer because I wanted to be good at something that mattered, and somewhere along the way "good at something" became the only thing that mattered. I take my laptop to a coffee shop three blocks away, order a tea I don't want, and sit in a corner booth trying to read about the Vance subsidiary structure while my brain replays the pen exchange on a continuous loop.
 
 Half an inch of silver barrel. Less than a thumb's width. Less than the margin I'd leave handing a stranger their change.
 
 It felt like standing at the edge of a cliff.
 
-The rule is torture. I made it—I specifically and deliberately made it, with logic and good reasons—and now it's eating me alive. Every near-miss is a wound.
+The rule is torture. I made it,I specifically and deliberately made it, with logic and good reasons,and now it's eating me alive. Every near-miss is a wound.
 
 And then Sam happened. Sam with his broken coffee machines and his Post-it responses and his hands that build things for people who need them.
 
-My phone buzzes. Not Sam—I almost wish it were Sam, which is itself a problem.
+My phone buzzes. Not Sam,I almost wish it were Sam, which is itself a problem.
 
 **Marco:** You left Gloria's building looking like someone killed your dog. Drink?
 
@@ -2257,7 +2257,7 @@ I think about texting him. Just something professional. Just a quick note that G
 
 But that's contact. That's connection. That's exactly what we're not supposed to be doing until the professional entanglement ends.
 
-I close my eyes. I can still feel the pen in my hand—the weight of it, the faint pressure of his proximity.
+I close my eyes. I can still feel the pen in my hand,the weight of it, the faint pressure of his proximity.
 
 The rule exists for good reasons. I believe in the reasons. But believing in a rule and living it are different things. Living it means sitting in a coffee shop three blocks away from where I want to be, holding a cold tea I never wanted, pretending I can work while my body remembers the specific pressure of his mouth against mine.
 
@@ -2331,7 +2331,7 @@ The Vance subsidiary documents are surprisingly boring.
 
 I know that sounds like something a lawyer shouldn't admit, even silently, but after three days buried in carve-out provisions and asset allocation schedules, I've developed a new appreciation for how paperwork can function as a sedative. Every paragraph is designed to prevent interesting things from happening. Every clause exists to define the exact boundaries of what constitutes a surprise.
 
-I miss surprises. I miss a certain kind of surprise, specifically—the kind that arrives via Post-it note or text message or the accidental brush of fingers against silver pen barrels.
+I miss surprises. I miss a certain kind of surprise, specifically,the kind that arrives via Post-it note or text message or the accidental brush of fingers against silver pen barrels.
 
 Gloria's corner office is visible from my temporary desk on the twenty-third floor of the main Hanover & Pryce building. She walks past the glass wall every forty-five minutes like clockwork, never looking in my direction, never acknowledging my presence. But I feel watched anyway. Monitored. Like I'm being assessed on metrics I don't fully understand.
 
@@ -2373,7 +2373,7 @@ I'm smiling at my phone like an idiot. In Gloria's line of sight. Where she coul
 
 I put my phone face-down on my desk and stare at the Vance documents without seeing them. Three days. It's been three days since the pen exchange, three days since midnight texts about hearts and patents, three days since I walked out of Forge & Flow knowing I wouldn't be back for a while.
 
-The rule is holding. Technically. We text, but texting isn't prohibited—texting is just words on a screen, safe and distant and completely under control. I can feel the pull of him through my phone, but I can resist it. I'm good at resisting things.
+The rule is holding. Technically. We text, but texting isn't prohibited,texting is just words on a screen, safe and distant and completely under control. I can feel the pull of him through my phone, but I can resist it. I'm good at resisting things.
 
 I've been good at it my whole life.
 
@@ -2391,7 +2391,7 @@ I pick up the phone faster than I'd like to admit.
 
 **Sam:** It would be. Except Dev is coming with him.
 
-Dev. The name lands in my chest like a small, cold stone. Dev Chen, Harrison's junior partner—I've never met him, but I've read his reputation. Brilliant. Ruthless. The kind of investor who treats due diligence like a blood sport.
+Dev. The name lands in my chest like a small, cold stone. Dev Chen, Harrison's junior partner,I've never met him, but I've read his reputation. Brilliant. Ruthless. The kind of investor who treats due diligence like a blood sport.
 
 **Me:** Nervous?
 
@@ -2417,7 +2417,7 @@ I sit up straighter. The Vance documents suddenly seem very far away.
 
 **Me:** That too.
 
-I'm grinning at my phone again. Gloria walks past her glass wall, and I force my face into something neutral and professional. She doesn't look at me, but I feel the weight of her attention anyway—the sense that every choice I make is being cataloged somewhere for future reference.
+I'm grinning at my phone again. Gloria walks past her glass wall, and I force my face into something neutral and professional. She doesn't look at me, but I feel the weight of her attention anyway,the sense that every choice I make is being cataloged somewhere for future reference.
 
 **Sam:** I should go. Cassandra is setting up her equipment and she keeps gesturing at me in ways that suggest she wants a quote.
 
@@ -2433,7 +2433,7 @@ I'm grinning at my phone again. Gloria walks past her glass wall, and I force my
 
 **Sam:** You're much more dangerous than that.
 
-I stare at the message. My chest does something inconvenient—a tightening that has no place in a professional environment.
+I stare at the message. My chest does something inconvenient,a tightening that has no place in a professional environment.
 
 **Me:** Go deal with Cassandra.
 
@@ -2447,7 +2447,7 @@ I stare at the message. My chest does something inconvenient—a tightening that
 
 I put the phone away and return to the subsidiary documents, but the words swim on the page. Missing timestamps. Gaps in calibration data. Sam's instincts aligning with my own suspicion that something in the CeraTest methodology doesn't add up.
 
-I open my laptop and pull up the original liability review I did for Mobility Workshop. Somewhere in those files, there are notes I made about the CeraTest documentation—concerns I flagged and then dismissed because the numbers looked fine.
+I open my laptop and pull up the original liability review I did for Mobility Workshop. Somewhere in those files, there are notes I made about the CeraTest documentation,concerns I flagged and then dismissed because the numbers looked fine.
 
 The numbers always look fine. That's the problem. Numbers can be made to look like anything.
 
@@ -2455,13 +2455,13 @@ The numbers always look fine. That's the problem. Numbers can be made to look li
 
 The call from Harrison comes Thursday afternoon, while I'm knee-deep in an asset transfer agreement that requires six signatures from people who aren't returning emails.
 
-"Ms. Alvarez." His voice is smooth, practiced—the tone of a man who knows exactly how much power he holds in any given conversation. "I hope I'm not interrupting."
+"Ms. Alvarez." His voice is smooth, practiced,the tone of a man who knows exactly how much power he holds in any given conversation. "I hope I'm not interrupting."
 
 "Not at all." I minimize the transfer agreement and give him my full attention. "What can I do for you?"
 
 "I wanted to touch base before my trip next week. The CeraTest situation has evolved since we last spoke."
 
-The CeraTest situation. The phrase sits wrong in my ear—too vague, too carefully neutral.
+The CeraTest situation. The phrase sits wrong in my ear,too vague, too carefully neutral.
 
 "Evolved how?"
 
@@ -2471,7 +2471,7 @@ The CeraTest situation. The phrase sits wrong in my ear—too vague, too careful
 
 "It is." He pauses. "But I have concerns about continuity. The documentation trail seems... incomplete in places. I was hoping you might be willing to take another look before I make my final commitment."
 
-My heart rate picks up. This is exactly what I was hoping for—a reason to dig deeper, an official invitation to look at the files again. But something about the way Harrison is asking makes me cautious.
+My heart rate picks up. This is exactly what I was hoping for,a reason to dig deeper, an official invitation to look at the files again. But something about the way Harrison is asking makes me cautious.
 
 "I'm currently assigned to the Vance deal," I say carefully. "Any additional work on Mobility Workshop would need to be cleared through Gloria."
 
@@ -2481,13 +2481,13 @@ The circumstances. Another vague phrase, another gap I'm not supposed to notice.
 
 "And what circumstances would those be?"
 
-"The CeraTest results are potentially transformative. If they hold up, Sam's company becomes a very different kind of investment—the kind that attracts attention from larger players. But if there are flaws in the methodology, if the testing wasn't as rigorous as the documentation suggests..." He trails off meaningfully. "Well. I prefer to know what I'm buying before I buy it."
+"The CeraTest results are potentially transformative. If they hold up, Sam's company becomes a very different kind of investment,the kind that attracts attention from larger players. But if there are flaws in the methodology, if the testing wasn't as rigorous as the documentation suggests..." He trails off meaningfully. "Well. I prefer to know what I'm buying before I buy it."
 
 "And you want me to find the flaws."
 
 "I want you to find the truth. Whatever that turns out to be."
 
-I stare at my laptop screen, where the minimized transfer agreement waits patiently for my attention. This is a gift—a chance to investigate my suspicions, to dig into the missing timestamps and calibration gaps that have been nagging at me since I first reviewed the files. But it's also a test. Harrison is watching to see what I find, and more importantly, how I handle what I find.
+I stare at my laptop screen, where the minimized transfer agreement waits patiently for my attention. This is a gift,a chance to investigate my suspicions, to dig into the missing timestamps and calibration gaps that have been nagging at me since I first reviewed the files. But it's also a test. Harrison is watching to see what I find, and more importantly, how I handle what I find.
 
 "When do you need the assessment?"
 
@@ -2497,7 +2497,7 @@ Five days. Less than five days to review months of testing data and identify wha
 
 "That's a tight timeline."
 
-"I have faith in your abilities." His tone is warm, confident—the voice of a man who's used to getting what he wants. "Sam speaks highly of you. He says you notice things other people miss."
+"I have faith in your abilities." His tone is warm, confident,the voice of a man who's used to getting what he wants. "Sam speaks highly of you. He says you notice things other people miss."
 
 Sam speaks highly of me. The information lands somewhere complicated, somewhere I don't want to examine too closely.
 
@@ -2509,7 +2509,7 @@ Sam speaks highly of me. The information lands somewhere complicated, somewhere 
 
 He hangs up. I sit in silence, processing.
 
-Harrison wants me to investigate CeraTest. Officially. With Gloria's blessing and access to the new data. It's exactly what I wanted—so why does it feel like I'm walking into something I don't fully understand?
+Harrison wants me to investigate CeraTest. Officially. With Gloria's blessing and access to the new data. It's exactly what I wanted,so why does it feel like I'm walking into something I don't fully understand?
 
 ---
 
@@ -2519,7 +2519,7 @@ My phone buzzes.
 
 **Sam:** Harrison called you.
 
-Statement, not question. I wonder how he knows—if Harrison told him, or if he just knows me well enough to predict the timing.
+Statement, not question. I wonder how he knows,if Harrison told him, or if he just knows me well enough to predict the timing.
 
 **Me:** He wants me to review the new CeraTest results before he commits.
 
@@ -2539,7 +2539,7 @@ I think about the gaps in the documentation. The missing timestamps. The numbers
 
 **Sam:** Because you're very good at finding things. And sometimes the things you find change everything.
 
-I stare at my phone. The Vance documents are still open on my laptop, but they feel very far away now—paperwork from another life, another version of myself who wasn't about to spend the next five days investigating the foundation of something that matters more than she wants to admit.
+I stare at my phone. The Vance documents are still open on my laptop, but they feel very far away now,paperwork from another life, another version of myself who wasn't about to spend the next five days investigating the foundation of something that matters more than she wants to admit.
 
 **Me:** The methodology matters. If there are problems, you need to know before Harrison commits.
 
@@ -2569,7 +2569,7 @@ The word slips out before I can stop it. Together. Like we're a unit. Like we're
 
 **Sam:** Every day it gets a little harder to remember why we made it.
 
-I close my eyes. My office is quiet, the building emptying out around me, and I can feel the weight of his words pressing against my chest. Every day it gets a little harder. He's right. The logic that seemed so clear in the workshop, with my lips still swollen and my body still humming—that logic feels thin now, worn through by three weeks of texts and midnight confessions and the memory of his thumb against my pulse.
+I close my eyes. My office is quiet, the building emptying out around me, and I can feel the weight of his words pressing against my chest. Every day it gets a little harder. He's right. The logic that seemed so clear in the workshop, with my lips still swollen and my body still humming,that logic feels thin now, worn through by three weeks of texts and midnight confessions and the memory of his thumb against my pulse.
 
 **Me:** We made it because I'm your lawyer.
 
@@ -2583,7 +2583,7 @@ I close my eyes. My office is quiet, the building emptying out around me, and I 
 
 **Sam:** What if I don't care about technically?
 
-My fingers hover over the keyboard. There's a right answer here—a professional answer, the kind of response that maintains appropriate boundaries and protects both of us from complications. I know what that answer looks like.
+My fingers hover over the keyboard. There's a right answer here,a professional answer, the kind of response that maintains appropriate boundaries and protects both of us from complications. I know what that answer looks like.
 
 **Me:** You should care. We both should.
 
@@ -2643,27 +2643,27 @@ But the cracks are getting wider. And I'm starting to think that might be okay.
 
 ---
 
-Friday morning, I arrive at Forge & Flow at 9:47—thirteen minutes early, which gives me time to establish my position before Sam arrives. I set up at my usual table, laptop open, CeraTest files loaded, professional armor firmly in place.
+Friday morning, I arrive at Forge & Flow at 9:47,thirteen minutes early, which gives me time to establish my position before Sam arrives. I set up at my usual table, laptop open, CeraTest files loaded, professional armor firmly in place.
 
-Cassandra Webb is already in her central spot, ring light glowing, microphone positioned. She sees me come in and her face does something complicated—a mixture of delight and calculation that suggests she's been waiting for this.
+Cassandra Webb is already in her central spot, ring light glowing, microphone positioned. She sees me come in and her face does something complicated,a mixture of delight and calculation that suggests she's been waiting for this.
 
 "The return!" she announces, loud enough for the entire room to hear. "Day four of the cold war has officially ended. I'm getting my recorder."
 
 "Please don't."
 
-"Too late. This is exactly the kind of dramatic reconciliation my listeners love." She's already adjusting her equipment, positioning herself for optimal audio capture. "Are you here to apologize? To grovel? To make a dramatic declaration of—"
+"Too late. This is exactly the kind of dramatic reconciliation my listeners love." She's already adjusting her equipment, positioning herself for optimal audio capture. "Are you here to apologize? To grovel? To make a dramatic declaration of,"
 
 "I'm here for a professional meeting."
 
 "Sure you are." Her grin is knowing, infuriating. "Professional meetings always involve that level of anticipatory tension. I can see it from here."
 
-I don't dignify this with a response. I open the CeraTest files and pretend to read, but my attention is split—half on the documentation, half on the door.
+I don't dignify this with a response. I open the CeraTest files and pretend to read, but my attention is split,half on the documentation, half on the door.
 
 At 10:02, Sam walks in.
 
-He's wearing a blue sweater I haven't seen before—darker than his usual palette, with the sleeves rolled to his elbows in that particular way he has. His hair looks different too, slightly disheveled, like he ran his hands through it one too many times this morning.
+He's wearing a blue sweater I haven't seen before,darker than his usual palette, with the sleeves rolled to his elbows in that particular way he has. His hair looks different too, slightly disheveled, like he ran his hands through it one too many times this morning.
 
-He sees me. Stops. His whole body does that thing it does when I'm in the room—a subtle recalibration, an adjustment of attention that feels almost physical.
+He sees me. Stops. His whole body does that thing it does when I'm in the room,a subtle recalibration, an adjustment of attention that feels almost physical.
 
 "Hi," he says.
 
@@ -2671,7 +2671,7 @@ He sees me. Stops. His whole body does that thing it does when I'm in the room�
 
 Cassandra makes a noise that sounds like someone trying not to squeal.
 
-Sam crosses the room toward my table, and I can feel every step like a countdown. Fifteen feet becomes twelve becomes ten becomes seven—
+Sam crosses the room toward my table, and I can feel every step like a countdown. Fifteen feet becomes twelve becomes ten becomes seven,
 
 "Fifteen feet," I remind him.
 
@@ -2685,11 +2685,11 @@ Cassandra is definitely recording. I can see the red light on her equipment, bli
 
 "The data," I say, louder than necessary. "Let's review the data."
 
-He pulls a chair to the opposite side of my table—fifteen feet, more or less—and opens his laptop. For the next two hours, we do exactly what we said we'd do: review testing protocols, cross-reference calibration records, compare performance metrics. It's careful, professional, completely appropriate.
+He pulls a chair to the opposite side of my table,fifteen feet, more or less,and opens his laptop. For the next two hours, we do exactly what we said we'd do: review testing protocols, cross-reference calibration records, compare performance metrics. It's careful, professional, completely appropriate.
 
 It's also torture.
 
-Every time he leans forward to point at something on his screen, the distance between us feels like a personal insult. Every time our eyes meet across the table, I have to remind myself why I can't just close the gap and—
+Every time he leans forward to point at something on his screen, the distance between us feels like a personal insult. Every time our eyes meet across the table, I have to remind myself why I can't just close the gap and,
 
 "There." Sam's voice snaps me back to attention. "That timestamp. Do you see it?"
 
@@ -2697,11 +2697,11 @@ I lean in, squinting at his screen. "What about it?"
 
 "It's out of sequence. The calibration check at 14:23 references data that wasn't recorded until 15:47."
 
-I feel a chill run down my spine. "That's not possible. Unless—"
+I feel a chill run down my spine. "That's not possible. Unless,"
 
-"Unless someone reconstructed the sequence after the fact." He looks at me, and his expression is serious now—the playful energy replaced by something harder, more focused. "Someone modified this data."
+"Unless someone reconstructed the sequence after the fact." He looks at me, and his expression is serious now,the playful energy replaced by something harder, more focused. "Someone modified this data."
 
-I pull my chair closer without thinking. Twelve feet becomes ten becomes eight—
+I pull my chair closer without thinking. Twelve feet becomes ten becomes eight,
 
 "Show me," I say.
 
@@ -2713,13 +2713,13 @@ He turns his laptop toward me, and I see what he's seeing: a timeline that doesn
 
 "If the calibration data was modified, it could invalidate the entire testing round. Harrison needs to know."
 
-"I know." Sam's voice is tight. "But if the test results are compromised, the investment falls through. Everything I've built—"
+"I know." Sam's voice is tight. "But if the test results are compromised, the investment falls through. Everything I've built,"
 
 "Could survive." I meet his eyes. "If you handle it right. If you're transparent about the problem and show you're addressing it."
 
 "That's easy for you to say."
 
-"It's never easy." I reach across the table without thinking, my hand finding his wrist. His pulse beats against my fingers—steady, too fast, matching my own. "But it's the right thing to do."
+"It's never easy." I reach across the table without thinking, my hand finding his wrist. His pulse beats against my fingers,steady, too fast, matching my own. "But it's the right thing to do."
 
 He looks down at our point of contact. Looks up at me.
 
@@ -2735,7 +2735,7 @@ He looks down at our point of contact. Looks up at me.
 
 "I know."
 
-I should pull away. Every professional instinct I have is screaming at me to release his wrist and restore the appropriate distance. But his skin is warm under my fingers, and his pulse is racing, and I can see in his eyes exactly what I'm feeling—the exhaustion of wanting something you can't have, the relief of finally touching it again.
+I should pull away. Every professional instinct I have is screaming at me to release his wrist and restore the appropriate distance. But his skin is warm under my fingers, and his pulse is racing, and I can see in his eyes exactly what I'm feeling,the exhaustion of wanting something you can't have, the relief of finally touching it again.
 
 "The rule," he says.
 
@@ -2751,9 +2751,9 @@ I think about it. About Harrison's investigation and Gloria's scrutiny and the c
 
 "But I'm also tired of pretending I don't want this."
 
-His free hand moves. Slow, deliberate, giving me time to stop him. His fingers touch my jaw—just for a moment, just the lightest brush of contact—and the touch sends electricity through every nerve in my body.
+His free hand moves. Slow, deliberate, giving me time to stop him. His fingers touch my jaw,just for a moment, just the lightest brush of contact,and the touch sends electricity through every nerve in my body.
 
-"After," he says. "When this is over. When Harrison decides and the professional connection ends—"
+"After," he says. "When this is over. When Harrison decides and the professional connection ends,"
 
 "Ask me then."
 
@@ -2761,7 +2761,7 @@ His free hand moves. Slow, deliberate, giving me time to stop him. His fingers t
 
 "Then my answer is: ask me then."
 
-He laughs—a short, surprised sound that makes Cassandra's head whip toward us. I pull my hand back from his wrist. He pulls his hand back from my face. We sit there, fifteen feet apart again, pretending we didn't just cross every line we agreed not to cross.
+He laughs,a short, surprised sound that makes Cassandra's head whip toward us. I pull my hand back from his wrist. He pulls his hand back from my face. We sit there, fifteen feet apart again, pretending we didn't just cross every line we agreed not to cross.
 
 "The data," I say, clearing my throat. "We should document what you found."
 
@@ -2773,7 +2773,7 @@ It's damning. It's also, potentially, the end of everything Sam has worked for.
 
 "I'll call Harrison," I say, closing my laptop. "He needs to see this before Tuesday."
 
-"I know." Sam's face is carefully neutral, but I can see the fear underneath—the awareness of how much he stands to lose.
+"I know." Sam's face is carefully neutral, but I can see the fear underneath,the awareness of how much he stands to lose.
 
 "We'll figure it out," I say. "Together."
 
@@ -2785,7 +2785,7 @@ It's damning. It's also, potentially, the end of everything Sam has worked for.
 
 "I like it too."
 
-He walks past me on his way out, and for just a moment—half a second, maybe less—his hand brushes against my shoulder. It's barely contact. It's barely anything.
+He walks past me on his way out, and for just a moment,half a second, maybe less,his hand brushes against my shoulder. It's barely contact. It's barely anything.
 
 It's everything.
 
@@ -2863,7 +2863,7 @@ VALUES (
 
 The workshop is different at night.
 
-I've been here during business hours—bright fluorescent overheads, the distant hum of equipment from the main production floor, the steady rhythm of people moving through their workdays. But now, at 8:47 PM on a Sunday, with most of Portland tucked into their homes watching prestige television, the space feels like a secret.
+I've been here during business hours,bright fluorescent overheads, the distant hum of equipment from the main production floor, the steady rhythm of people moving through their workdays. But now, at 8:47 PM on a Sunday, with most of Portland tucked into their homes watching prestige television, the space feels like a secret.
 
 Sam unlocks the side entrance with the practiced ease of someone who does this often. Late nights, probably. Working on designs when the building is empty and his thoughts can spread out across the workbenches without interruption.
 
@@ -2873,7 +2873,7 @@ I step past him into the dim corridor. The emergency lights cast everything in a
 
 "Harrison wants my assessment by Tuesday," I say, keeping my voice professional. Clinical. "I need to see the quality control logs from the CeraTest pilot. The original ones, not the reconstructed versions."
 
-"I know." Sam moves past me, close enough that I catch his scent—machine oil tonight, and something sharper underneath, like he's been welding recently. "That's what worries me."
+"I know." Sam moves past me, close enough that I catch his scent,machine oil tonight, and something sharper underneath, like he's been welding recently. "That's what worries me."
 
 He leads me through the production floor, where finished prototypes line the walls in various stages of completion. Wheelchairs with customized seating. Prosthetic limbs with sensors I don't fully understand. A child-sized walker painted with cartoon dinosaurs that makes my throat unexpectedly tight.
 
@@ -2885,7 +2885,7 @@ Sam glances back at me. "That one's for a girl named Maya. Seven years old. She 
 
 "My production manager has actual artistic talent. I just do the engineering." He pauses by a workbench covered in scattered components. "But yeah. I helped."
 
-I look at the velociraptors—anatomically questionable but clearly beloved, their tiny clawed hands raised in cheerful greeting—and something in my chest shifts. This is what he does. Not the investor meetings or the competitive positioning or the legal complications. This. Building things that help people move through their lives.
+I look at the velociraptors,anatomically questionable but clearly beloved, their tiny clawed hands raised in cheerful greeting,and something in my chest shifts. This is what he does. Not the investor meetings or the competitive positioning or the legal complications. This. Building things that help people move through their lives.
 
 "The server room's through here," Sam says, and I realize I've been standing there staring at dinosaurs for too long.
 
@@ -2901,7 +2901,7 @@ I lean in to look at the screen, aware that this puts me closer to him than stri
 
 "Can you scroll down to the material testing section?"
 
-He does. I study the timestamps, comparing them to the modified versions I photographed from Jenna's analysis. The originals are clean—consistent intervals, no gaps, no signs of reconstruction.
+He does. I study the timestamps, comparing them to the modified versions I photographed from Jenna's analysis. The originals are clean,consistent intervals, no gaps, no signs of reconstruction.
 
 "Someone altered these after submission," I say slowly. "But who had access to the files once they left your system?"
 
@@ -2925,11 +2925,11 @@ He's quiet for a moment. Then: "Thank you. For doing this."
 
 "It's my job."
 
-"No, it isn't." His voice is low, certain. "Your job is to protect Harrison's interests. To make sure he doesn't invest in a company that's going to blow up in his face. This—helping me figure out who's manipulating the data, working on a Sunday night because you believe something isn't right—that's not your job. That's you."
+"No, it isn't." His voice is low, certain. "Your job is to protect Harrison's interests. To make sure he doesn't invest in a company that's going to blow up in his face. This,helping me figure out who's manipulating the data, working on a Sunday night because you believe something isn't right,that's not your job. That's you."
 
 I don't know what to say to that. The server room hums around us, and I'm suddenly aware of how alone we are. The building is empty. The city is quiet. And Sam is looking at me like I'm the most important thing in this room full of technology.
 
-"We should—" I start.
+"We should," I start.
 
 "Copy the files," he finishes. "I know. I have a USB drive somewhere."
 
@@ -2937,17 +2937,17 @@ He turns to search the nearby desk drawer, and I let out a breath I didn't reali
 
 ---
 
-Ten minutes later, we have the original data secured and I'm following Sam through a different section of the building—some kind of design lab, from the looks of it. Half-finished prototypes cover every surface, sketches pinned to the walls, a whiteboard filled with equations I can't even pretend to understand.
+Ten minutes later, we have the original data secured and I'm following Sam through a different section of the building,some kind of design lab, from the looks of it. Half-finished prototypes cover every surface, sketches pinned to the walls, a whiteboard filled with equations I can't even pretend to understand.
 
 "Sorry," he says, noticing my expression. "I forget how it looks to people who don't live here."
 
 "It looks like the inside of your brain."
 
-He laughs—surprised, genuine. "That obvious?"
+He laughs,surprised, genuine. "That obvious?"
 
 "You've got three different versions of the same wheelchair component spread across two tables and a chair. Either you're a hoarder or you're iterating."
 
-"Iterating." He picks up one of the components—a wheel mechanism, sleek and complicated. "This one's too heavy. This one's not durable enough. This one..." He turns it over in his hands, studying it. "This one might actually work."
+"Iterating." He picks up one of the components,a wheel mechanism, sleek and complicated. "This one's too heavy. This one's not durable enough. This one..." He turns it over in his hands, studying it. "This one might actually work."
 
 "What's it for?"
 
@@ -2965,9 +2965,9 @@ The moment stretches between us. I should say something professional. Something 
 
 "Berna."
 
-The way he says my name makes something tighten in my chest. Not warmth—that would be too soft. This is heat. Concentrated and specific, pooling low in my stomach.
+The way he says my name makes something tighten in my chest. Not warmth,that would be too soft. This is heat. Concentrated and specific, pooling low in my stomach.
 
-"Sam—"
+"Sam,"
 
 "I know." He sets down the wheel component. "I know we should go. I know tomorrow Dev arrives with Harrison. I know there are approximately seventeen professional reasons why I should keep my hands to myself."
 
@@ -2997,29 +2997,29 @@ And then I stop thinking at all.
 
 ---
 
-His hands find my waist first—not tentative this time, not a brush of contact that could be explained away. His grip is firm, deliberate, and when he pulls me against him, the full length of his body against mine, I hear myself make a sound I don't entirely recognize.
+His hands find my waist first,not tentative this time, not a brush of contact that could be explained away. His grip is firm, deliberate, and when he pulls me against him, the full length of his body against mine, I hear myself make a sound I don't entirely recognize.
 
-"Tell me if—"
+"Tell me if,"
 
 "Don't stop," I say, and he doesn't.
 
-His mouth covers mine, and it's nothing like the kiss at Marco's. That was soft. Questioning. This is an answer—to every weighted silence, every almost-touch, every moment in the past three weeks when we've pretended the air between us wasn't combustible.
+His mouth covers mine, and it's nothing like the kiss at Marco's. That was soft. Questioning. This is an answer,to every weighted silence, every almost-touch, every moment in the past three weeks when we've pretended the air between us wasn't combustible.
 
-I grip the front of his shirt, feeling the cotton bunch under my fingers, feeling the solid heat of his chest underneath. He's broader than I expected. Denser. When I press my palms flat against him, I can feel his heartbeat—rapid, urgent, matching my own.
+I grip the front of his shirt, feeling the cotton bunch under my fingers, feeling the solid heat of his chest underneath. He's broader than I expected. Denser. When I press my palms flat against him, I can feel his heartbeat,rapid, urgent, matching my own.
 
-"Wait—" He pulls back, just far enough to look at me. His breathing is uneven, his pupils blown wide. "The workbench has actual equipment on it. Let me—"
+"Wait," He pulls back, just far enough to look at me. His breathing is uneven, his pupils blown wide. "The workbench has actual equipment on it. Let me,"
 
-He reaches behind me to sweep a pile of sketches out of the way. They scatter across the floor in a cascade of engineering drawings, and I laugh—actually laugh—because of course. Of course our first real kiss happens surrounded by wheelchair prototypes and beach-access schematics.
+He reaches behind me to sweep a pile of sketches out of the way. They scatter across the floor in a cascade of engineering drawings, and I laugh,actually laugh,because of course. Of course our first real kiss happens surrounded by wheelchair prototypes and beach-access schematics.
 
 "Very smooth," I say.
 
-"I aim to impress." His hands return to my waist, and this time he lifts me—actually lifts me—onto the cleared edge of the workbench. My skirt rides up. I don't care. His hips slot between my knees, and the position puts us at almost the same height. Puts his face level with mine.
+"I aim to impress." His hands return to my waist, and this time he lifts me,actually lifts me,onto the cleared edge of the workbench. My skirt rides up. I don't care. His hips slot between my knees, and the position puts us at almost the same height. Puts his face level with mine.
 
 "Better," he murmurs, and kisses me again.
 
 I lose time. I don't know how else to describe it. One moment I'm perched on the edge of a workbench in a dim design lab, and the next his mouth is at my throat and my fingers are twisted in his hair and the sounds I'm making would be embarrassing if I had any capacity left for embarrassment.
 
-His hands slide up my sides, fingers tracing the line of my ribs through the thin fabric of my blouse. The touch is almost reverent—like he's memorizing the shape of me. Like he's been thinking about this for as long as I have.
+His hands slide up my sides, fingers tracing the line of my ribs through the thin fabric of my blouse. The touch is almost reverent,like he's memorizing the shape of me. Like he's been thinking about this for as long as I have.
 
 "This shirt has too many buttons," he says against my collarbone.
 
@@ -3027,17 +3027,17 @@ His hands slide up my sides, fingers tracing the line of my ribs through the thi
 
 His laugh vibrates against my skin. "Give me thirty seconds."
 
-His fingers find the first button. Then the second. He's careful—methodical in a way that makes me want to scream—and by the time he reaches the third, I'm actively considering just ripping the damn thing off myself.
+His fingers find the first button. Then the second. He's careful,methodical in a way that makes me want to scream,and by the time he reaches the third, I'm actively considering just ripping the damn thing off myself.
 
-"Sam—"
+"Sam,"
 
-"Patience." But his voice is strained, and when his knuckles brush the bare skin of my stomach, I feel him shudder. "God, Berna. You're—"
+"Patience." But his voice is strained, and when his knuckles brush the bare skin of my stomach, I feel him shudder. "God, Berna. You're,"
 
 "If you say 'beautiful' right now, I'm going to assume you learned flirting from a Hallmark movie."
 
-"I was going to say 'cold.'" His hand presses flat against my abdomen, and I realize he's right—my skin is still chilled from the server room, goosebumps rising everywhere his fingers aren't. "Let me fix that."
+"I was going to say 'cold.'" His hand presses flat against my abdomen, and I realize he's right,my skin is still chilled from the server room, goosebumps rising everywhere his fingers aren't. "Let me fix that."
 
-He pulls me closer. Wraps his arms around me. Presses his chest against mine until all I can feel is him—the solid heat of his body, the rough scratch of his shirt against my bare stomach, the rapid thud of his heart against my own.
+He pulls me closer. Wraps his arms around me. Presses his chest against mine until all I can feel is him,the solid heat of his body, the rough scratch of his shirt against my bare stomach, the rapid thud of his heart against my own.
 
 "Better?" he asks.
 
@@ -3045,17 +3045,17 @@ I don't trust myself to answer. Instead, I pull his mouth back to mine.
 
 ---
 
-Time loses meaning entirely. At some point, his shirt joins my blouse—discarded somewhere on the floor amid the scattered schematics—and I finally get to touch him the way I've been imagining. His shoulders are broader without the cotton barrier. His chest is dusted with dark hair that trails down past his belt. When I drag my nails lightly down his sides, he makes a sound—not quite a groan, something sharper, hungrier—that sends electricity straight to my core.
+Time loses meaning entirely. At some point, his shirt joins my blouse,discarded somewhere on the floor amid the scattered schematics,and I finally get to touch him the way I've been imagining. His shoulders are broader without the cotton barrier. His chest is dusted with dark hair that trails down past his belt. When I drag my nails lightly down his sides, he makes a sound,not quite a groan, something sharper, hungrier,that sends electricity straight to my core.
 
-"Berna." His voice is ragged. "We need to—I should—"
+"Berna." His voice is ragged. "We need to,I should,"
 
 "Don't think," I tell him. "Not right now."
 
-His hand slides up my thigh, under the bunched fabric of my skirt, and I stop being able to form complete sentences. His palm is rough—callused from years of building things—and the contrast against my skin makes me arch into him.
+His hand slides up my thigh, under the bunched fabric of my skirt, and I stop being able to form complete sentences. His palm is rough,callused from years of building things,and the contrast against my skin makes me arch into him.
 
 "Tell me what you want," he says, echoing my earlier question. His mouth is at my ear, his breath hot against the sensitive skin there.
 
-"I want—"
+"I want,"
 
 And then my phone buzzes.
 
@@ -3075,7 +3075,7 @@ I stare at the screen. The words swim in front of my eyes, not quite resolving i
 
 "Dev's here." I look up at him. He's still standing between my knees, still shirtless, still looking at me like I'm the most important thing in any room I happen to occupy. "The meeting's in ten hours."
 
-Reality crashes back in. Not gently—reality never does—but with the full weight of professional obligation and legal complexity and the seventeen reasons Sam listed earlier for why this was inadvisable.
+Reality crashes back in. Not gently,reality never does,but with the full weight of professional obligation and legal complexity and the seventeen reasons Sam listed earlier for why this was inadvisable.
 
 His hands fall away from my thigh. He takes a step back. The cold air rushes in to fill the space where his body was, and I resist the urge to pull him back just to stay warm.
 
@@ -3091,23 +3091,23 @@ Neither of us moves.
 
 I find my blouse on the floor, shake out the worst of the wrinkles, start re-buttoning with fingers that still aren't quite steady. Sam watches me dress, making no move to retrieve his own shirt, and there's something in his expression that makes my chest ache.
 
-"This isn't an ending," he says. "Whatever happens tomorrow—this isn't an ending."
+"This isn't an ending," he says. "Whatever happens tomorrow,this isn't an ending."
 
 "I know."
 
-"But it also can't be a beginning. Not yet. Not while you're still—"
+"But it also can't be a beginning. Not yet. Not while you're still,"
 
 "Sam." I cross to him, fully dressed now except for the buttons I missed and the hair that's definitely not surviving this encounter intact. I put my hand on his bare chest, feeling his heart still racing under my palm. "I know what I'm risking. I've known since the first time you showed me a wheelchair designed for a seven-year-old who wanted velociraptors. This isn't just attraction. This isn't just chemistry. This is me, choosing you, even when I know better."
 
 His hand covers mine. "So what do we do?"
 
-"We get through the meeting tomorrow. We figure out who's sabotaging your data. We prove to Harrison that Mobility Workshop is exactly what he thinks it is—a good investment, run by a good man, making things that actually help people." I take a breath. "And then, when the professional entanglement is resolved—"
+"We get through the meeting tomorrow. We figure out who's sabotaging your data. We prove to Harrison that Mobility Workshop is exactly what he thinks it is,a good investment, run by a good man, making things that actually help people." I take a breath. "And then, when the professional entanglement is resolved,"
 
 "When there's nothing standing between us except our own choices."
 
 "Then we make one."
 
-He studies me for a long moment. Then he lifts my hand from his chest and presses a kiss to my palm—not passionate this time, but tender. A promise.
+He studies me for a long moment. Then he lifts my hand from his chest and presses a kiss to my palm,not passionate this time, but tender. A promise.
 
 "I'll hold you to that," he says.
 
@@ -3133,9 +3133,9 @@ I know the exact time because I've been watching the clock on the conference roo
 
 "Well." Harrison Webb stands, buttoning his jacket with the practiced ease of a man who's ended a thousand meetings. "I think we have everything we need."
 
-Dev Chen is already packing up his laptop, but there's something different in his expression now—less skeptical, more... curious. The data discrepancies he found turned out to be a formatting error from when Sam's CTO migrated databases last quarter. Three hours of forensic accounting to confirm what I suspected from the beginning: Mobility Workshop's books are clean because Sam Reyes doesn't know how to be anything other than exactly who he is.
+Dev Chen is already packing up his laptop, but there's something different in his expression now,less skeptical, more... curious. The data discrepancies he found turned out to be a formatting error from when Sam's CTO migrated databases last quarter. Three hours of forensic accounting to confirm what I suspected from the beginning: Mobility Workshop's books are clean because Sam Reyes doesn't know how to be anything other than exactly who he is.
 
-"We'll be in touch within the week," Harrison continues, extending his hand to Sam. "I want to discuss your expansion timeline with my partners, but I'll be honest—I'm optimistic."
+"We'll be in touch within the week," Harrison continues, extending his hand to Sam. "I want to discuss your expansion timeline with my partners, but I'll be honest,I'm optimistic."
 
 Sam shakes his hand, and I catch the slight tremor in his fingers. He's been running on coffee and adrenaline since six AM, when we met to prep. His shirt is slightly rumpled. There's a coffee stain on his left cuff that he hasn't noticed.
 
@@ -3143,7 +3143,7 @@ He's never looked better.
 
 "Thank you for the opportunity," Sam says, and his voice is steady even if his hands aren't. "Whatever you decide, I appreciate the thorough process."
 
-Harrison's eyebrows lift—just slightly, just enough that I catch it. He's used to founders who grovel, who oversell, who perform gratitude while calculating angles. Sam's sincerity throws him.
+Harrison's eyebrows lift,just slightly, just enough that I catch it. He's used to founders who grovel, who oversell, who perform gratitude while calculating angles. Sam's sincerity throws him.
 
 Good.
 
@@ -3153,7 +3153,7 @@ Good.
 
 The door closes behind them.
 
-For a long moment, neither of us moves. The conference room feels suddenly enormous, all that polished wood and expensive lighting containing just the two of us and whatever this is that's been building since—
+For a long moment, neither of us moves. The conference room feels suddenly enormous, all that polished wood and expensive lighting containing just the two of us and whatever this is that's been building since,
 
 "That went well." Sam's voice is careful. "Right? That went well?"
 
@@ -3163,11 +3163,11 @@ For a long moment, neither of us moves. The conference room feels suddenly enorm
 
 "No." I look up at him. "They don't."
 
-The air between us feels charged, electric. My skin remembers last night—his hands, his mouth, the way he'd touched me like I was something precious and powerful simultaneously.
+The air between us feels charged, electric. My skin remembers last night,his hands, his mouth, the way he'd touched me like I was something precious and powerful simultaneously.
 
 "Berna." Sam takes a step toward me. "The engagement is over."
 
-"Technically, Harrison hasn't signed—"
+"Technically, Harrison hasn't signed,"
 
 "The engagement is over." He says it again, firmer this time. "Dev found what he was looking for. The due diligence is complete. Whatever Harrison decides, your firm's work is done."
 
@@ -3177,9 +3177,9 @@ My heart is doing something complicated in my chest. "Gloria will send the final
 
 "No." My voice comes out rougher than I intended. "There isn't."
 
-Sam stops three feet away. His eyes are dark, intent, and there's something almost nervous in the way he's holding himself—shoulders slightly tensed, like he's bracing for impact.
+Sam stops three feet away. His eyes are dark, intent, and there's something almost nervous in the way he's holding himself,shoulders slightly tensed, like he's bracing for impact.
 
-"I want to take you to dinner," he says. "A real dinner. At a restaurant where neither of us is thinking about term sheets or investor due diligence or any of the other bullshit that's been keeping us from—" He stops, swallows. "I want to take you on an actual date, Berna. I want to pick you up at your apartment and hold your hand across the table and not have to calculate whether kissing you goodnight constitutes a conflict of interest."
+"I want to take you to dinner," he says. "A real dinner. At a restaurant where neither of us is thinking about term sheets or investor due diligence or any of the other bullshit that's been keeping us from," He stops, swallows. "I want to take you on an actual date, Berna. I want to pick you up at your apartment and hold your hand across the table and not have to calculate whether kissing you goodnight constitutes a conflict of interest."
 
 My laugh comes out surprised. "You calculated that?"
 
@@ -3189,7 +3189,7 @@ I close the distance between us.
 
 "Here's a calculation for you." I'm standing close enough now that I have to tilt my head back to meet his eyes. "If we go to dinner, we're not going to make it through the appetizers. I've been thinking about last night since the moment I left your apartment, and I have very specific plans that don't involve restaurant seating."
 
-Sam's breath catches. "Berna—"
+Sam's breath catches. "Berna,"
 
 "My place is twelve minutes away." I grab my bag, my coat. "Your place is sixteen. Mine has better wine."
 
@@ -3221,11 +3221,11 @@ By the time we reach my building, I've lost the ability to make conversation. Th
 
 The door swings open and we're inside, and I have about half a second to feel grateful that I cleaned last weekend before Sam is kissing me again.
 
-"Where's—" He pulls back, disoriented.
+"Where's," He pulls back, disoriented.
 
 "Down the hall. Second door on the left."
 
-He nods, takes my hand, and leads me toward my own bedroom like he's already memorized the floor plan. Which is very Sam, actually—observing, cataloging, building a mental map of any space he enters.
+He nods, takes my hand, and leads me toward my own bedroom like he's already memorized the floor plan. Which is very Sam, actually,observing, cataloging, building a mental map of any space he enters.
 
 My bedroom is small and imperfectly lit, afternoon sun filtering through curtains I've been meaning to replace. Sam doesn't seem to notice the décor. He's too busy looking at me.
 
@@ -3233,11 +3233,11 @@ My bedroom is small and imperfectly lit, afternoon sun filtering through curtain
 
 "Hi."
 
-"We should probably talk about—"
+"We should probably talk about,"
 
 I reach up and start unbuttoning his shirt. "Later."
 
-"But—"
+"But,"
 
 "Sam." I undo the third button, the fourth. "I've been waiting months for this. We can process feelings afterward."
 
@@ -3247,13 +3247,13 @@ His laugh is surprised, delighted. "Months?"
 
 "My hands?"
 
-"You build things." I push his shirt off his shoulders and there he is—the broad chest I traced last night, the shoulders that have been taking up space in my imagination. "I kept thinking about how you must touch things. Carefully. Deliberately."
+"You build things." I push his shirt off his shoulders and there he is,the broad chest I traced last night, the shoulders that have been taking up space in my imagination. "I kept thinking about how you must touch things. Carefully. Deliberately."
 
 Sam makes a sound that's somewhere between a groan and a prayer. "You were thinking about that during the supply chain presentation?"
 
 "I was thinking about that during every presentation." I pull my own blouse over my head, not bothering with the buttons. "I was thinking about it during contract negotiations. I was thinking about it when you shook my hand after the first Harrison meeting and your palm was warm and rough and I had to go home and take a very long shower."
 
-"Oh god." He's staring at me—my bra is practical black cotton, not remotely seductive, but from the look on his face it might as well be hand-stitched French lace. "Berna."
+"Oh god." He's staring at me,my bra is practical black cotton, not remotely seductive, but from the look on his face it might as well be hand-stitched French lace. "Berna."
 
 "Stop looking at me like that and come here."
 
@@ -3263,9 +3263,9 @@ He comes.
 
 Here's what I didn't expect: laughter.
 
-Sam's belt buckle gets stuck, and he swears creatively in Spanish—"My grandmother was from Guanajuato," he admits when I raise my eyebrows—and we're both laughing as he wrestles with the mechanism while I try to help and mostly make things worse.
+Sam's belt buckle gets stuck, and he swears creatively in Spanish,"My grandmother was from Guanajuato," he admits when I raise my eyebrows,and we're both laughing as he wrestles with the mechanism while I try to help and mostly make things worse.
 
-My bra clasp defeats him entirely. "Why is this so complicated? I build medical devices. I have a engineering degree. This should not be—"
+My bra clasp defeats him entirely. "Why is this so complicated? I build medical devices. I have a engineering degree. This should not be,"
 
 "It's a front clasp."
 
@@ -3281,7 +3281,7 @@ He stops. Looks down. Looks up at me with an expression of such profound betraya
 
 He unhooks it, finally, and then his hands are on me and the laughter dissolves into something hotter, more urgent.
 
-"You're beautiful." His voice is reverent, and his thumbs are tracing circles that make rational thought difficult. "I need you to know—I kept trying to be professional. I kept trying to treat this like a business relationship. But every time you walked into a room I had to remind myself how to breathe."
+"You're beautiful." His voice is reverent, and his thumbs are tracing circles that make rational thought difficult. "I need you to know,I kept trying to be professional. I kept trying to treat this like a business relationship. But every time you walked into a room I had to remind myself how to breathe."
 
 "That seems inefficient."
 
@@ -3293,7 +3293,7 @@ He unhooks it, finally, and then his hands are on me and the laughter dissolves 
 
 We make it onto the bed eventually, a tangle of half-removed clothing and bare skin and hands that can't quite decide where to settle. Sam kisses down my sternum, pausing to mouth at the curve of my ribs, and when he looks up his eyes are dark with something that makes heat pool low in my stomach.
 
-"I want—" He stops. "Can I—"
+"I want," He stops. "Can I,"
 
 "Yes." I don't even know what he's asking. I don't care. "Whatever it is. Yes."
 
@@ -3305,13 +3305,13 @@ His grin is quick, startled. "You don't know what I was going to say."
 
 "I'm not your lawyer anymore."
 
-Something shifts in his expression—recognition, maybe, or relief. "No. You're not."
+Something shifts in his expression,recognition, maybe, or relief. "No. You're not."
 
 He pulls my underwear down slowly, deliberately, and I feel exposed in a way that has nothing to do with nudity. Sam looks at me like he's memorizing plans, like he's building something in his head that he wants to get exactly right.
 
 "Berna." His voice is rough. "I'm going to take my time with this."
 
-"That's—" I start to say something clever, something deflecting, but then his mouth is on me and I lose the capacity for speech.
+"That's," I start to say something clever, something deflecting, but then his mouth is on me and I lose the capacity for speech.
 
 ---
 
@@ -3323,7 +3323,7 @@ He catalogues my responses like data points. Pressure here, reaction there. When
 
 He lifts his head, and his smile is devastatingly smug. "I'm gathering information."
 
-"That's—" I can't finish the sentence because he's gone back to work, and apparently Sam Reyes has been gathering information about the female anatomy since well before he met me, because what he's doing should require a license.
+"That's," I can't finish the sentence because he's gone back to work, and apparently Sam Reyes has been gathering information about the female anatomy since well before he met me, because what he's doing should require a license.
 
 I come with my hand fisted in his hair and his name on my lips, and he works me through it with the same methodical patience, gentling his touch exactly when I need him to, extending the sensation until I'm boneless and gasping.
 
@@ -3331,7 +3331,7 @@ I come with my hand fisted in his hair and his name on my lips, and he works me 
 
 I pull him up and kiss him, tasting myself on his tongue. "Get up here."
 
-He settles over me, and I can feel him—hard and insistent against my thigh—and I want everything at once. I want to take my time like he did; I want to swallow him whole; I want to map every inch of his body and figure out exactly what makes him lose that careful control.
+He settles over me, and I can feel him,hard and insistent against my thigh,and I want everything at once. I want to take my time like he did; I want to swallow him whole; I want to map every inch of his body and figure out exactly what makes him lose that careful control.
 
 "Condom," I manage. "Nightstand. Left drawer."
 
@@ -3343,15 +3343,15 @@ He reaches over, retrieves one, tears the wrapper with his teeth in a way that s
 
 "You okay?"
 
-I reach up and touch his face—the stubble along his jaw, the slight furrow between his eyebrows. "I'm good. I'm—" I laugh, because the emotion swelling in my chest is too big for language. "I'm really good."
+I reach up and touch his face,the stubble along his jaw, the slight furrow between his eyebrows. "I'm good. I'm," I laugh, because the emotion swelling in my chest is too big for language. "I'm really good."
 
-Sam kisses me, soft and sweet, and then he's pushing inside me, and the stretch is perfect—not quite comfortable, not quite painful, exactly right.
+Sam kisses me, soft and sweet, and then he's pushing inside me, and the stretch is perfect,not quite comfortable, not quite painful, exactly right.
 
 We both go still.
 
 "Okay?" His voice is strained.
 
-"Move. Sam—please—"
+"Move. Sam,please,"
 
 He does. Slowly at first, building a rhythm that's deliberately torturous, and I can feel him holding back, can see the effort in the tension of his shoulders and the set of his jaw.
 
@@ -3363,11 +3363,11 @@ His laugh is startled, breathless. "That's the least sexy thing anyone has ever 
 
 Something changes in his expression. The careful control slips, just slightly, and his next thrust is harder, deeper, exactly what I needed.
 
-"Like that," I gasp. "God, Sam—"
+"Like that," I gasp. "God, Sam,"
 
-He finds an angle that makes stars burst behind my eyes, and I stop thinking entirely. There's just sensation—the weight of him over me, the rhythm we're building together, the small sounds he's making against my neck.
+He finds an angle that makes stars burst behind my eyes, and I stop thinking entirely. There's just sensation,the weight of him over me, the rhythm we're building together, the small sounds he's making against my neck.
 
-"You feel—" His voice breaks. "Berna, you feel incredible."
+"You feel," His voice breaks. "Berna, you feel incredible."
 
 "I know." It comes out more smug than I intended, and his laugh vibrates against my skin.
 
@@ -3377,11 +3377,11 @@ He finds an angle that makes stars burst behind my eyes, and I stop thinking ent
 
 He shifts, hitches my leg higher over his hip, and the new angle makes me cry out.
 
-"There?" He's grinning now, sweat beading at his temples. "Was that—"
+"There?" He's grinning now, sweat beading at his temples. "Was that,"
 
-"Yes. God. There. Don't stop—"
+"Yes. God. There. Don't stop,"
 
-He doesn't stop. He builds and builds, that engineering precision applied to exactly the right purpose, and when I come this time it's with him—his rhythm stuttering, his face buried in my neck, my name falling from his lips like a prayer.
+He doesn't stop. He builds and builds, that engineering precision applied to exactly the right purpose, and when I come this time it's with him,his rhythm stuttering, his face buried in my neck, my name falling from his lips like a prayer.
 
 ---
 
@@ -3407,7 +3407,7 @@ I reach up and trace the line of his jaw. "Sam."
 
 "I'm glad the engagement's over."
 
-"Me too." He catches my hand, presses his lips to my palm. "I mean—I hope Harrison invests. I need the funding. But if the price of getting his money was not being able to do this—" He gestures vaguely at our entangled bodies, the wrecked sheets, the bra I'm fairly certain ended up on the ceiling fan. "I would have walked away."
+"Me too." He catches my hand, presses his lips to my palm. "I mean,I hope Harrison invests. I need the funding. But if the price of getting his money was not being able to do this," He gestures vaguely at our entangled bodies, the wrecked sheets, the bra I'm fairly certain ended up on the ceiling fan. "I would have walked away."
 
 I know he's serious. That's the terrifying thing. Sam Reyes would have tanked his company's chance at crucial funding because of whatever this is between us.
 
@@ -3447,13 +3447,13 @@ Much later, when the light through my curtains has gone gold and then purple and
 
 "Probably." I steal a bite of his noodles. "I don't care."
 
-"Me neither." He's watching me with that expression again—tender, wondering, like he can't quite believe this is happening. "Berna?"
+"Me neither." He's watching me with that expression again,tender, wondering, like he can't quite believe this is happening. "Berna?"
 
 "Mmm?"
 
 "What happens now?"
 
-I consider the question while chewing. It's a good question. The engagement is over, but that doesn't mean the complications have disappeared. He's still a client—former client—of my firm. There will still be paperwork, final invoices, the lingering professional connection.
+I consider the question while chewing. It's a good question. The engagement is over, but that doesn't mean the complications have disappeared. He's still a client,former client,of my firm. There will still be paperwork, final invoices, the lingering professional connection.
 
 But we've crossed a line that can't be uncrossed. I'm lying naked in bed with Sam Reyes eating his dinner, and I don't want to be anywhere else.
 
@@ -3463,7 +3463,7 @@ But we've crossed a line that can't be uncrossed. I'm lying naked in bed with Sa
 
 "If you want."
 
-"If I—" He sets down his food, turns to face me fully. "Berna. I just told you I tracked the hours I spent thinking about you. I have a spreadsheet. There are categories."
+"If I," He sets down his food, turns to face me fully. "Berna. I just told you I tracked the hours I spent thinking about you. I have a spreadsheet. There are categories."
 
 I can't help it. I start laughing.
 
@@ -3485,7 +3485,7 @@ I set down my own food, climb into his lap, feel his sharp inhale as our bare sk
 
 "I'm a lawyer." I roll my hips, just slightly. "I never play fair."
 
-He groans. "Fine. One of them was 'things she said that shouldn't have been attractive but were.' Another was 'outfits, ranked.' And there was—" He stops, his face going red. "There was one called 'realistic scenarios.'"
+He groans. "Fine. One of them was 'things she said that shouldn't have been attractive but were.' Another was 'outfits, ranked.' And there was," He stops, his face going red. "There was one called 'realistic scenarios.'"
 
 "Realistic scenarios?"
 
@@ -3495,7 +3495,7 @@ I stare at him. Sam Reyes, founder and CEO, builder of things that help people, 
 
 "I love you," I say.
 
-The words slip out before I can stop them. They're too big, too soon, too everything—but I watch his face transform, watch the surprise give way to something that looks almost like relief.
+The words slip out before I can stop them. They're too big, too soon, too everything,but I watch his face transform, watch the surprise give way to something that looks almost like relief.
 
 "Oh thank god." His voice is rough. "I've been trying not to say that for weeks."
 
@@ -3511,7 +3511,7 @@ The words slip out before I can stop them. They're too big, too soon, too everyt
 
 "Watch me." He kisses me, quick and fierce. "I will buy you so many sheets, Berna. Thread counts you've never dreamed of. Egyptian cotton. Silk. Whatever you want."
 
-I'm laughing again—I've laughed more in the last few hours than I have in months—and Sam swallows the sound with his mouth.
+I'm laughing again,I've laughed more in the last few hours than I have in months,and Sam swallows the sound with his mouth.
 
 "New sheets tomorrow," he murmurs against my lips. "Right now I want to mess these ones up again."
 
@@ -3521,7 +3521,7 @@ So we do.
 
 Later still, in the quiet dark, Sam's breathing has gone slow and even beside me.
 
-I watch him sleep—the slack of his jaw, the furrow smoothed from his forehead, the way his hand still rests on my hip like he's afraid I'll disappear if he stops touching me.
+I watch him sleep,the slack of his jaw, the furrow smoothed from his forehead, the way his hand still rests on my hip like he's afraid I'll disappear if he stops touching me.
 
 $akm001ch10$,
   3461
@@ -3539,7 +3539,7 @@ VALUES (
   $akm001ch11$
 # Chapter Eleven
 
-The first thing I register is that I'm warm. Not just comfortable—actually warm, which is unusual because I keep my apartment at sixty-four degrees and sleep under a single sheet like a reasonable person who pays her own utilities.
+The first thing I register is that I'm warm. Not just comfortable,actually warm, which is unusual because I keep my apartment at sixty-four degrees and sleep under a single sheet like a reasonable person who pays her own utilities.
 
 The second thing I register is that I'm not in my apartment.
 
@@ -3573,7 +3573,7 @@ He laughs, this low rumble I feel more than hear. "The horror."
 
 "You're judging my bedding choices." He presses a kiss to my shoulder blade. "Five minutes into being my girlfriend and you're already judging my bedding choices."
 
-Girlfriend. The word lands somewhere soft in my chest, unexpected. We haven't discussed this. We haven't discussed anything, actually—we were too busy with other activities, and then we were sleeping, and now apparently we're using terminology.
+Girlfriend. The word lands somewhere soft in my chest, unexpected. We haven't discussed this. We haven't discussed anything, actually,we were too busy with other activities, and then we were sleeping, and now apparently we're using terminology.
 
 "Is that what I am?"
 
@@ -3591,7 +3591,7 @@ I consider this with the seriousness it deserves. "I don't know. I've never had 
 
 "I was going to say contingent, but sure. Patent application works."
 
-He traces a line from my collarbone to my shoulder, thoughtful. "I'd like you to be my girlfriend. But we can call it whatever you want. Or nothing. Or—"
+He traces a line from my collarbone to my shoulder, thoughtful. "I'd like you to be my girlfriend. But we can call it whatever you want. Or nothing. Or,"
 
 "Girlfriend is fine."
 
@@ -3601,13 +3601,13 @@ The smile that breaks across his face is unreasonable. "Yeah?"
 
 "I'm not making it weird. You made it weird by comparing our relationship to patent law."
 
-"Intellectual property is a perfectly respectable—"
+"Intellectual property is a perfectly respectable,"
 
 He kisses me. It's a good strategy for ending an argument, and I file it away for future reference.
 
 ---
 
-We make it out of bed eventually, though it takes longer than it should because Sam keeps finding reasons to touch me—my hip as I look for my clothes, my waist as I pass him in the narrow hallway, my hand while we're literally just standing in his kitchen waiting for the coffee to finish.
+We make it out of bed eventually, though it takes longer than it should because Sam keeps finding reasons to touch me,my hip as I look for my clothes, my waist as I pass him in the narrow hallway, my hand while we're literally just standing in his kitchen waiting for the coffee to finish.
 
 "You're very tactile," I observe.
 
@@ -3639,7 +3639,7 @@ The coffee maker gurgles its final death rattle, and Sam releases me to pour two
 
 "There's a soldering iron next to your toaster."
 
-"That's not—okay, it's exactly what it looks like, but I was very careful about cleanup."
+"That's not,okay, it's exactly what it looks like, but I was very careful about cleanup."
 
 I pick up my coffee and take a long sip. It's surprisingly good, rich and dark, which makes me wonder if the dying Mr. Coffee has been judged unfairly.
 
@@ -3655,7 +3655,7 @@ I pick up my coffee and take a long sip. It's surprisingly good, rich and dark, 
 
 "I contain multitudes." He grins. "Also, flannel is comfortable year-round, and I already told you I was careful about the soldering iron."
 
-I want to argue, but he's making a face at me over his coffee cup—this deliberately innocent expression that's completely transparent—and I find myself laughing instead. It comes out louder than I expect, startling both of us.
+I want to argue, but he's making a face at me over his coffee cup,this deliberately innocent expression that's completely transparent,and I find myself laughing instead. It comes out louder than I expect, startling both of us.
 
 "There it is," Sam says, delighted. "That's become my favorite sound."
 
@@ -3663,13 +3663,13 @@ I want to argue, but he's making a face at me over his coffee cup—this deliber
 
 "You do not."
 
-"I do! I laugh at Marco's jokes. I laugh at—" I try to think of other examples. "Things."
+"I do! I laugh at Marco's jokes. I laugh at," I try to think of other examples. "Things."
 
 "Things," he repeats. "Very convincing."
 
 "I'm a very funny person."
 
-"You're a very *serious* person who occasionally says devastatingly funny things with complete deadpan delivery." He sets down his coffee cup and crowds me against the counter—the only section not occupied by project debris. "It's one of my favorite things about you."
+"You're a very *serious* person who occasionally says devastatingly funny things with complete deadpan delivery." He sets down his coffee cup and crowds me against the counter,the only section not occupied by project debris. "It's one of my favorite things about you."
 
 "You have favorite things about me?"
 
@@ -3691,13 +3691,13 @@ But first, he wants to show me the workshop.
 
 "It's Sunday," I point out. "Nobody's there."
 
-"That's why it's perfect." He's already pulling on shoes, moving with the barely contained energy I've come to recognize as his default state. "I can give you the real tour. Not the investor version—the actual space."
+"That's why it's perfect." He's already pulling on shoes, moving with the barely contained energy I've come to recognize as his default state. "I can give you the real tour. Not the investor version,the actual space."
 
 The investor version. Right. There's a reason I know the Mobility Workshop floor plan, and it's not because I've been dating Sam. It's because I spent three weeks analyzing the company for Harrison Webb, and my due diligence report was thorough enough to include square footage.
 
 I decide not to mention this. There are limits to how much professional overlap one new relationship can handle.
 
-The workshop is different on a Sunday. When I came before—in my professional capacity, wearing my armor and my sensible heels—the space was alive with people. Technicians at workbenches, someone testing a motorized chair in the open floor space, music playing from a speaker someone had mounted on the ceiling.
+The workshop is different on a Sunday. When I came before,in my professional capacity, wearing my armor and my sensible heels,the space was alive with people. Technicians at workbenches, someone testing a motorized chair in the open floor space, music playing from a speaker someone had mounted on the ceiling.
 
 Now it's quiet. Sunlight streams through the industrial windows, catching motes of dust suspended in the air. The equipment sits dormant, waiting.
 
@@ -3729,7 +3729,7 @@ I think about my own seventeen. I was studying for the SATs, already planning my
 
 "What were you like at seventeen?"
 
-"Determined." The word comes easily because it's true. "Scared. Convinced that if I could just work hard enough, control enough, plan enough—"
+"Determined." The word comes easily because it's true. "Scared. Convinced that if I could just work hard enough, control enough, plan enough,"
 
 "Everything would be okay?"
 
@@ -3763,13 +3763,13 @@ He stiffens slightly behind me. Not much, but enough. "What about it?"
 
 "I've been thinking about it." I turn in his arms so I can see his face. "The numbers don't sit right with me. The endurance data looks perfect. Too perfect."
 
-"Berna—"
+"Berna,"
 
 "I know, I know. The engagement is over. Whatever decision Harrison made, my work is done." I pause. "But something's off. I can feel it."
 
-His expression is carefully neutral, which is how I know I've touched a nerve. Sam's face doesn't do neutral. It does enthusiastic, frustrated, joyful, concerned—neutral is a foreign language he's speaking badly.
+His expression is carefully neutral, which is how I know I've touched a nerve. Sam's face doesn't do neutral. It does enthusiastic, frustrated, joyful, concerned,neutral is a foreign language he's speaking badly.
 
-"The CeraTest materials were a huge selling point," he says slowly. "If there's a problem—"
+"The CeraTest materials were a huge selling point," he says slowly. "If there's a problem,"
 
 "I'm not saying there's a problem. I'm saying the data looks too clean." I step back, because I need space to think and his proximity is distracting. "When's the last time you ran independent verification?"
 
@@ -3777,9 +3777,9 @@ His expression is carefully neutral, which is how I know I've touched a nerve. S
 
 "Consistent how?"
 
-"Berna." His voice has an edge now. "It's Sunday. We just—I thought we could have one day before work stuff—"
+"Berna." His voice has an edge now. "It's Sunday. We just,I thought we could have one day before work stuff,"
 
-"This isn't work stuff." I regret the words as soon as I say them, because they're not entirely true. "Okay, it's partially work stuff. But it's also you stuff. Your company. Your reputation. If there's an issue with your materials and it comes out later—"
+"This isn't work stuff." I regret the words as soon as I say them, because they're not entirely true. "Okay, it's partially work stuff. But it's also you stuff. Your company. Your reputation. If there's an issue with your materials and it comes out later,"
 
 "It won't come out later because there's no issue."
 
@@ -3793,11 +3793,11 @@ We're staring at each other now, and I realize this is our first real disagreeme
 
 "I'll look into it," Sam says finally. "Monday. I'll pull the original test data and compare it to the supplier specs."
 
-"I can help—"
+"I can help,"
 
 "Berna." He reaches out, takes my hand again. The gesture feels deliberate, a bridge over whatever tension just rose between us. "I appreciate that your brain never stops. I do. It's one of your best features. But can we have one morning where you're not working?"
 
-I open my mouth to argue—I'm not working, I'm just thinking, which is different—but then I look at his face and see the exhaustion beneath the patience. Sam has been fighting for this company for years. He's been fighting for funding, fighting skeptics, fighting a market that wants to put disabled people in whatever mass-produced chair is cheapest.
+I open my mouth to argue,I'm not working, I'm just thinking, which is different,but then I look at his face and see the exhaustion beneath the patience. Sam has been fighting for this company for years. He's been fighting for funding, fighting skeptics, fighting a market that wants to put disabled people in whatever mass-produced chair is cheapest.
 
 He doesn't need me to find problems. Not today. Not right now.
 
@@ -3805,7 +3805,7 @@ He doesn't need me to find problems. Not today. Not right now.
 
 His relief is visible. "Thank you."
 
-"But Monday—"
+"But Monday,"
 
 "Monday you can cross-examine all the data you want." He pulls me back toward him. "Today, you're just my girlfriend, and I'm giving you a tour."
 
@@ -3819,7 +3819,7 @@ We end up at Elena's apartment because Sam promised to help her with something, 
 
 "Sit," Elena says, pointing at her couch. It's an order, not a request.
 
-Sam has disappeared into the bathroom with what I think are plumbing tools but might also be a robot—with Sam, it's genuinely hard to tell. This leaves me alone with his sister, who is looking at me with an expression I can only describe as judicial.
+Sam has disappeared into the bathroom with what I think are plumbing tools but might also be a robot,with Sam, it's genuinely hard to tell. This leaves me alone with his sister, who is looking at me with an expression I can only describe as judicial.
 
 "So," she says.
 
@@ -3839,7 +3839,7 @@ I consider my options. Deflection seems pointless; Elena clearly values directne
 
 "Yes," I say. "I am."
 
-Elena's eyes narrow. "The investor situation—"
+Elena's eyes narrow. "The investor situation,"
 
 "Has been resolved. My professional engagement with Mobility Workshop has concluded. Any relationship I have with Sam at this point is personal and presents no conflict of interest."
 
@@ -3847,7 +3847,7 @@ She blinks at me. Then, unexpectedly, she laughs. "God, you really are a lawyer.
 
 "I've been accused of worse."
 
-"I bet you have." She wheels closer, and I notice for the first time that her chair is beautiful—sleek lines, a purple frame that matches the streak in her hair, controls that look custom. Sam's work. The twelfth version. "Look, I don't care about the professional stuff. Sam's a big boy; he can handle his own business."
+"I bet you have." She wheels closer, and I notice for the first time that her chair is beautiful,sleek lines, a purple frame that matches the streak in her hair, controls that look custom. Sam's work. The twelfth version. "Look, I don't care about the professional stuff. Sam's a big boy; he can handle his own business."
 
 "Then what do you care about?"
 
@@ -3857,11 +3857,11 @@ The directness startles me. I'm used to polite evasions, the professional dance 
 
 "I don't intend to."
 
-"Nobody intends to." She shrugs. "But Sam—he doesn't do casual. He doesn't do provisional or contingent or whatever lawyer word you'd use. He's all in, every time. It's his best quality and his worst."
+"Nobody intends to." She shrugs. "But Sam,he doesn't do casual. He doesn't do provisional or contingent or whatever lawyer word you'd use. He's all in, every time. It's his best quality and his worst."
 
 "I know."
 
-"Do you?" She studies me, and I have the uncomfortable feeling of being deposed by someone far more skilled than most opposing counsel. "Because the way he looks at you—he's already all in. You could destroy him."
+"Do you?" She studies me, and I have the uncomfortable feeling of being deposed by someone far more skilled than most opposing counsel. "Because the way he looks at you,he's already all in. You could destroy him."
 
 I think about this. About Sam's face when I walked into that first meeting, the way his expression shuttered and then softened. About the balcony conversation and the sushi dinner and every moment since where he's let me see him, really see him, without armor or pretense.
 
@@ -3869,7 +3869,7 @@ I think about this. About Sam's face when I walked into that first meeting, the 
 
 "How do you know?"
 
-"Because I'm all in too." The words come out before I can sensor them, before I can wrap them in qualifiers and conditions. "I just don't know how to show it the way he does. I'm—not good at this. Relationships. Feelings. The whole messy, terrifying, uncontrollable aspect of wanting someone."
+"Because I'm all in too." The words come out before I can sensor them, before I can wrap them in qualifiers and conditions. "I just don't know how to show it the way he does. I'm,not good at this. Relationships. Feelings. The whole messy, terrifying, uncontrollable aspect of wanting someone."
 
 Elena is quiet for a moment. Then she smiles, and it transforms her face from sharp to warm. "You know what? I believe you."
 
@@ -3885,7 +3885,7 @@ Elena is quiet for a moment. Then she smiles, and it transforms her face from sh
 
 There's a crash from the bathroom, followed by Sam's voice: "That was intentional!"
 
-Elena and I look at each other. Something passes between us—understanding, maybe. The beginning of an alliance.
+Elena and I look at each other. Something passes between us,understanding, maybe. The beginning of an alliance.
 
 "He's going to flood my bathroom," she says.
 
@@ -3897,7 +3897,7 @@ Elena and I look at each other. Something passes between us—understanding, may
 
 Elena grins. "I like you, Berna. Even if you did try to sink my brother's company."
 
-"I didn't try to sink—"
+"I didn't try to sink,"
 
 "I'm kidding." She waves a hand. "Mostly. Go save him from my plumbing before he causes structural damage."
 
@@ -3913,7 +3913,7 @@ I go. Sam is standing in two inches of water, holding what appears to be a pipe 
 
 "But I can fix it."
 
-I step into the water—there goes my one pair of non-work shoes—and take the pipe wrench from his hand. "Show me what you need."
+I step into the water,there goes my one pair of non-work shoes,and take the pipe wrench from his hand. "Show me what you need."
 
 His face does something complicated. Then he smiles, and it's the same smile from this morning, from the workshop, from every moment where he's looked at me like I'm a puzzle he's delighted to solve.
 
@@ -3929,19 +3929,19 @@ We fix the pipe. It takes an hour, two YouTube tutorials, and a brief but heated
 
 "You argued about tensile strength for fifteen minutes. You're an honorary engineer now." She shoves a sandwich toward me. "Eat. You're too skinny."
 
-"She's not skinny," Sam says. "She's—"
+"She's not skinny," Sam says. "She's,"
 
 "If you finish that sentence, I'll make you fix the garbage disposal too."
 
 Sam shuts his mouth.
 
-I eat my sandwich—roast beef, excellent bread, some kind of spicy mayo that I need the recipe for—and watch them bicker. The easy rhythm of siblings who know each other too well, who've weathered things together. I think about Marco, about our own complicated relationship, about what it means to have someone who knew you before you became yourself.
+I eat my sandwich,roast beef, excellent bread, some kind of spicy mayo that I need the recipe for,and watch them bicker. The easy rhythm of siblings who know each other too well, who've weathered things together. I think about Marco, about our own complicated relationship, about what it means to have someone who knew you before you became yourself.
 
-My phone buzzes in my pocket. Work email, probably. Or Marco checking in. Or—
+My phone buzzes in my pocket. Work email, probably. Or Marco checking in. Or,
 
 I pull it out and my stomach drops.
 
-It's a Google alert. I set them months ago, standard practice for any company I'm evaluating. "CeraTest composite materials" and "Mobility Workshop" and "Harrison Webb." Most of them have been useless—press releases, industry news, nothing important.
+It's a Google alert. I set them months ago, standard practice for any company I'm evaluating. "CeraTest composite materials" and "Mobility Workshop" and "Harrison Webb." Most of them have been useless,press releases, industry news, nothing important.
 
 This one is different.
 
@@ -4011,7 +4011,7 @@ VALUES (
   $akm001ch12$
 # Chapter 12: The Weight of What I Know
 
-The coffee maker gurgles its morning song while Sam moves through his kitchen with the ease of someone who's done this a thousand times. Except now there's a second mug on the counter. A specific mug—the one with the chipped handle that he pulled from the back of his cabinet three weeks ago and hasn't put away since.
+The coffee maker gurgles its morning song while Sam moves through his kitchen with the ease of someone who's done this a thousand times. Except now there's a second mug on the counter. A specific mug,the one with the chipped handle that he pulled from the back of his cabinet three weeks ago and hasn't put away since.
 
 It's mine now. The thought catches me off guard, how quickly objects accumulate meaning.
 
@@ -4047,7 +4047,7 @@ He kisses me, morning breath and all, and I let myself sink into it. Let myself 
 
 ---
 
-The workshop is different on a Tuesday morning than it was the night I first came here. Sunlight streams through the high windows, catching dust motes that drift lazy through the air. The industrial space feels almost domestic with people moving through it—Petra at her welding station, Marcus bent over his laptop in the corner office, two other employees whose names I've learned and forgotten twice.
+The workshop is different on a Tuesday morning than it was the night I first came here. Sunlight streams through the high windows, catching dust motes that drift lazy through the air. The industrial space feels almost domestic with people moving through it,Petra at her welding station, Marcus bent over his laptop in the corner office, two other employees whose names I've learned and forgotten twice.
 
 I'm here because my apartment has a water leak. That's the official reason. The actual reason is that Sam asked if I wanted to work from his office today and I said yes before he finished the question.
 
@@ -4057,7 +4057,7 @@ I'm here because my apartment has a water leak. That's the official reason. The 
 
 "Elena picked it when she was fourteen. I'm sentimental."
 
-I settle into a corner of his glass-walled office, laptop open, trying to focus on the Westfield contract revisions while the workshop hums around me. Sam moves through the space like he belongs to it—which he does, I remind myself. He built this. Every station, every process, every person here exists because he decided it should.
+I settle into a corner of his glass-walled office, laptop open, trying to focus on the Westfield contract revisions while the workshop hums around me. Sam moves through the space like he belongs to it,which he does, I remind myself. He built this. Every station, every process, every person here exists because he decided it should.
 
 I watch him crouch next to a partially assembled wheelchair frame, gesturing at something while Petra nods. His hands move when he talks, shaping ideas in the air. He laughs at something she says, head thrown back, completely unselfconscious.
 
@@ -4067,7 +4067,7 @@ My phone buzzes. Gloria.
 
 *Dev Chen from Webb Capital called. Wants to discuss CeraTest testing timeline. Call me.*
 
-The name doesn't register at first. Then it does—Harrison Webb's junior partner. The one who's been copied on emails but never appeared in meetings. The one Sam mentioned once, dismissively, as "Webb's attack dog."
+The name doesn't register at first. Then it does,Harrison Webb's junior partner. The one who's been copied on emails but never appeared in meetings. The one Sam mentioned once, dismissively, as "Webb's attack dog."
 
 I should call Gloria back immediately. Instead, I open the Google Alert I've been avoiding since yesterday.
 
@@ -4077,7 +4077,7 @@ The article is from a biomedical industry publication, not mainstream news. But 
 
 Nothing definitive. No smoking gun. Just enough smoke to suggest fire.
 
-I scroll to the comments section—always a mistake, always irresistible. Mostly industry professionals debating the merits of different testing approaches. One commenter claims CeraTest's methodology is "standard for the field." Another calls it "barely above undergraduate thesis work."
+I scroll to the comments section,always a mistake, always irresistible. Mostly industry professionals debating the merits of different testing approaches. One commenter claims CeraTest's methodology is "standard for the field." Another calls it "barely above undergraduate thesis work."
 
 "You look like you're reading something terrible."
 
@@ -4085,7 +4085,7 @@ I slam my laptop closed before I can stop myself. Sam is leaning in the office d
 
 "Contract issues," I say, too fast. "Westfield is being difficult about the liability language."
 
-"Shocking. A corporation being difficult about liability." He hands me one of the mugs. It's not the coffee I made this morning—it's tea, Earl Grey, prepared the way I drink it. "Petra made this. She's better at hot beverages than I am, apparently."
+"Shocking. A corporation being difficult about liability." He hands me one of the mugs. It's not the coffee I made this morning,it's tea, Earl Grey, prepared the way I drink it. "Petra made this. She's better at hot beverages than I am, apparently."
 
 "She's better at most things than you are. You just happen to own the building."
 
@@ -4161,7 +4161,7 @@ CeraTest Labs is a mid-tier materials testing facility based in San Jose. They'v
 
 Here's what's concerning:
 
-Their accelerated aging methodology uses a thermal cycling protocol that several independent researchers have questioned. The concern is that it doesn't adequately account for the specific stress patterns of mobility devices—the torque on joints, the pressure points at connections, the accumulated micro-fractures from daily use.
+Their accelerated aging methodology uses a thermal cycling protocol that several independent researchers have questioned. The concern is that it doesn't adequately account for the specific stress patterns of mobility devices,the torque on joints, the pressure points at connections, the accumulated micro-fractures from daily use.
 
 In 2024, a wheelchair manufacturer in Ohio recalled 3,000 units after their certified frame material developed hairline cracks at stress points. The certification had been done by a facility using similar protocols to CeraTest.
 
@@ -4201,7 +4201,7 @@ He studies me for a long moment. Whatever he sees in my face makes him nod, set 
 
 ---
 
-The roof is not what I expected. It's a hidden garden, improbably, maintained in container beds along the building's edge. Even in February, there's green here—kale plants and winter herbs and something that might be chard, protected by makeshift cold frames made from old windows.
+The roof is not what I expected. It's a hidden garden, improbably, maintained in container beds along the building's edge. Even in February, there's green here,kale plants and winter herbs and something that might be chard, protected by makeshift cold frames made from old windows.
 
 "Elena started it," Sam explains, leading me to a bench facing west toward the hills. "Three years ago. She said if I was going to make her come to the workshop every time she wanted to yell at me about something, there should at least be somewhere nice to do it."
 
@@ -4209,9 +4209,9 @@ The city spreads below us, gray and green under a thin winter sun. The air is sh
 
 We sit. Sam waits.
 
-This is the thing about him that undoes me most—his willingness to wait. To make space. To let silence stretch until I'm ready to fill it.
+This is the thing about him that undoes me most,his willingness to wait. To make space. To let silence stretch until I'm ready to fill it.
 
-"I got an alert yesterday," I start. "About CeraTest. There's an article—"
+"I got an alert yesterday," I start. "About CeraTest. There's an article,"
 
 "I know."
 
@@ -4225,7 +4225,7 @@ I turn to look at him. His face is calm, but there's something under it. Somethi
 
 "And I don't know yet." He exhales, long and slow. "I've got calls out to two independent materials scientists. One of them consulted on the glaze formula originally. I should have answers by end of week."
 
-Relief washes through me—he knows, he's handling it, I don't have to be the one to tell him—followed immediately by a different kind of dread. Because if he knows and he's handling it, then the article is real. The concerns are legitimate. This isn't just industry gossip.
+Relief washes through me,he knows, he's handling it, I don't have to be the one to tell him,followed immediately by a different kind of dread. Because if he knows and he's handling it, then the article is real. The concerns are legitimate. This isn't just industry gossip.
 
 "There's more," I say. "Dev Chen called Gloria this morning. He wants a meeting. Tomorrow. He wants to discuss 'concerns' about the certification."
 
@@ -4237,17 +4237,17 @@ Sam goes very still. "Webb's guy."
 
 "I don't know. The article's been out for a day. Maybe he has the same Google Alerts we do."
 
-Sam stares out at the city. His jaw is tight, the tension visible in the cords of his neck. This is his fear, I realize. This is the thing underneath the chaos and the confidence. Not failure in the abstract—failure that hurts people. Failure that proves him wrong about himself.
+Sam stares out at the city. His jaw is tight, the tension visible in the cords of his neck. This is his fear, I realize. This is the thing underneath the chaos and the confidence. Not failure in the abstract,failure that hurts people. Failure that proves him wrong about himself.
 
-"If the glaze isn't safe—" he starts.
+"If the glaze isn't safe," he starts.
 
 "We don't know that yet."
 
-"If it isn't safe," he repeats, quieter, "then everything I've been telling Elena, telling myself, about why this matters—"
+"If it isn't safe," he repeats, quieter, "then everything I've been telling Elena, telling myself, about why this matters,"
 
 "Sam."
 
-"She trusts me." His voice cracks on the word. "She believes in what I'm building. If I put something on the market that hurts people like her—"
+"She trusts me." His voice cracks on the word. "She believes in what I'm building. If I put something on the market that hurts people like her,"
 
 I reach for his hand. His fingers are cold, rough-skinned from the workshop. He grips back hard enough to hurt.
 
@@ -4257,7 +4257,7 @@ I reach for his hand. His fingers are cold, rough-skinned from the workshop. He 
 
 "Maybe."
 
-"If the certification is compromised, Webb Capital walks. The entire investment collapses. Everything I've built—"
+"If the certification is compromised, Webb Capital walks. The entire investment collapses. Everything I've built,"
 
 "Stops being built by other people's money and starts being built slower, by yours."
 
@@ -4285,15 +4285,15 @@ He turns to face me fully, his hand still in mine. The winter light is harsh on 
 
 "I love you," he says.
 
-The words land like a physical thing—in my chest, in my throat, somewhere behind my eyes. Not the cinematic declaration of movies. Just truth, simple and terrifying, spoken by someone who is afraid and saying it anyway.
+The words land like a physical thing,in my chest, in my throat, somewhere behind my eyes. Not the cinematic declaration of movies. Just truth, simple and terrifying, spoken by someone who is afraid and saying it anyway.
 
-"I love you," he repeats, stronger. "I don't know if this is the right time to say it, with everything else happening. But I need you to know. Whatever happens with Webb, with the deal, with any of it—this is real. You're real. I'm not going to let the other stuff take that away."
+"I love you," he repeats, stronger. "I don't know if this is the right time to say it, with everything else happening. But I need you to know. Whatever happens with Webb, with the deal, with any of it,this is real. You're real. I'm not going to let the other stuff take that away."
 
 I lean forward and kiss him. His lips are cold from the air, his cheeks rough with stubble he hasn't shaved in two days. He tastes like coffee and fear and something underneath that I don't have a word for.
 
 "I love you too," I say against his mouth. "Even though your coffee is terrible."
 
-He laughs, wet and rough, and pulls me against his chest. I press my face into the hollow of his shoulder, breathing in the smell of him—workshop oil and wool and something that's just Sam, specific and irreplaceable.
+He laughs, wet and rough, and pulls me against his chest. I press my face into the hollow of his shoulder, breathing in the smell of him,workshop oil and wool and something that's just Sam, specific and irreplaceable.
 
 His arms tighten around me. My face against his chest, feeling his heart beat through the layers of fabric. The specific comfort of being held by someone who knows you and chooses to hold you anyway.
 
@@ -4305,15 +4305,15 @@ We stay like that for a long time. The city spreads silent below us, February co
 
 The meeting with Dev Chen is at two o'clock the next day.
 
-I arrive at Hanover & Pryce early, armed with a folder of documentation and a mind that hasn't stopped racing since yesterday. Sam texted at midnight—the materials scientist hadn't called back yet, the other one wanted more information before committing to a consultation.
+I arrive at Hanover & Pryce early, armed with a folder of documentation and a mind that hasn't stopped racing since yesterday. Sam texted at midnight,the materials scientist hadn't called back yet, the other one wanted more information before committing to a consultation.
 
 We're going into this meeting blind. I hate going in blind.
 
-Dev Chen is not what I expected. He's younger than Harrison—early thirties, maybe—with sharp cheekbones and a tailored suit that probably cost more than my monthly rent. His handshake is firm and brief, his smile practiced.
+Dev Chen is not what I expected. He's younger than Harrison,early thirties, maybe,with sharp cheekbones and a tailored suit that probably cost more than my monthly rent. His handshake is firm and brief, his smile practiced.
 
 "Ms. Alvarez. Thank you for making time."
 
-"Of course, Mr. Chen. Gloria sends her apologies—she had a conflict she couldn't move."
+"Of course, Mr. Chen. Gloria sends her apologies,she had a conflict she couldn't move."
 
 Gloria has no conflict. Gloria is letting me handle this alone because it's my client, my deal, my responsibility. Standard Gloria.
 
@@ -4341,7 +4341,7 @@ I look at the email. The sender is redacted, the recipient is redacted, but the 
 
 "We can't verify its authenticity," Dev agrees. "But we also can't proceed with a significant investment while questions like these remain open."
 
-The floor tilts beneath me. This is it—the pivot, the moment where everything changes.
+The floor tilts beneath me. This is it,the pivot, the moment where everything changes.
 
 "What are you proposing?"
 
@@ -4381,7 +4381,7 @@ I stare at the concrete wall in front of me, gray and cold and impersonal. "It m
 
 Another silence. I can hear him breathing, can picture him pacing his office, running his hand through his hair.
 
-"Come over tonight," he says finally. "Not to work. Not to strategize. Just—come over."
+"Come over tonight," he says finally. "Not to work. Not to strategize. Just,come over."
 
 "Okay."
 
@@ -4391,7 +4391,7 @@ The words still land like something physical. Like a hand on my chest, steady an
 
 "I love you too," I say.
 
-I hang up. The parking garage is silent around me, cold and echoing and empty. Somewhere above me, the city keeps moving—people with problems that aren't mine, lives that aren't entangled with testing protocols and investment timelines and the specific weight of knowing something I wish I didn't.
+I hang up. The parking garage is silent around me, cold and echoing and empty. Somewhere above me, the city keeps moving,people with problems that aren't mine, lives that aren't entangled with testing protocols and investment timelines and the specific weight of knowing something I wish I didn't.
 
 I start my car. I drive.
 
@@ -4423,9 +4423,9 @@ VALUES (
 
 The independent materials report arrived at 6:47 AM.
 
-I was already awake. Sleep had become a negotiation these past few days—four hours here, three there, my body refusing to fully surrender while the CeraTest situation hung unresolved. Sam was the opposite. He slept hard and deep when he finally let himself, his body's way of conserving energy for the fight. I'd watched him last night, his face slack and young in the dim light from the street, and felt something sharp lodged between my ribs that wouldn't dissolve.
+I was already awake. Sleep had become a negotiation these past few days,four hours here, three there, my body refusing to fully surrender while the CeraTest situation hung unresolved. Sam was the opposite. He slept hard and deep when he finally let himself, his body's way of conserving energy for the fight. I'd watched him last night, his face slack and young in the dim light from the street, and felt something sharp lodged between my ribs that wouldn't dissolve.
 
-My phone buzzed on the nightstand. Email notification. The lab Sam had hired—Patterson Materials Testing out of Berkeley, impeccable credentials, no connection to either CeraTest or Mobility Workshop. The gold standard of independent verification.
+My phone buzzed on the nightstand. Email notification. The lab Sam had hired,Patterson Materials Testing out of Berkeley, impeccable credentials, no connection to either CeraTest or Mobility Workshop. The gold standard of independent verification.
 
 I should have waited. Should have let Sam see it first. It was his report, his company, his crisis.
 
@@ -4433,11 +4433,11 @@ But my name was on the engagement letter. My firm had facilitated the introducti
 
 I slipped out of bed without waking him. His apartment was cold in the early morning, February light just starting to gray the windows. I took my phone to the kitchen, made coffee I wouldn't drink, and opened the attachment.
 
-Twelve pages. Technical specifications, test methodologies, comparative analysis. I scrolled past the executive summary—lawyers always do, we don't trust summaries written by other people—and went straight to the data tables.
+Twelve pages. Technical specifications, test methodologies, comparative analysis. I scrolled past the executive summary,lawyers always do, we don't trust summaries written by other people,and went straight to the data tables.
 
 The numbers didn't lie.
 
-CeraTest's proprietary glaze compound showed measurable degradation under sustained heat exposure. Not at the levels they'd tested to originally—their own documentation was technically accurate. But at temperatures that occurred in real-world use. Equipment cleaning cycles that ran hotter than standard protocols. Vehicles and outdoor environments during summer heat. The kind of edge cases that users created every day without thinking about it.
+CeraTest's proprietary glaze compound showed measurable degradation under sustained heat exposure. Not at the levels they'd tested to originally,their own documentation was technically accurate. But at temperatures that occurred in real-world use. Equipment cleaning cycles that ran hotter than standard protocols. Vehicles and outdoor environments during summer heat. The kind of edge cases that users created every day without thinking about it.
 
 The degradation rate was slow. Cumulative. The kind of thing that wouldn't show up in a standard product test but would absolutely matter over three years of daily use.
 
@@ -4455,7 +4455,7 @@ Against extended direct-contact applications.
 
 Mobility Workshop's entire medical device line used CeraTest coating.
 
-I sat with the report for twenty minutes, watching the sky lighten over Portland's east side. Across the apartment, I could hear Sam starting to stir—the creak of bedsprings, a muffled sound that might have been my name.
+I sat with the report for twenty minutes, watching the sky lighten over Portland's east side. Across the apartment, I could hear Sam starting to stir,the creak of bedsprings, a muffled sound that might have been my name.
 
 For one terrible moment, I considered not telling him.
 
@@ -4469,7 +4469,7 @@ God, I hated my job sometimes.
 
 "Kitchen," I called back. My voice sounded strange. Too controlled.
 
-He appeared in the doorway a minute later, wearing the same gray t-shirt he'd slept in, his hair flat on one side and chaotic on the other. The sight of him—rumpled and unsuspecting—made my chest ache with something that felt like preemptive grief.
+He appeared in the doorway a minute later, wearing the same gray t-shirt he'd slept in, his hair flat on one side and chaotic on the other. The sight of him,rumpled and unsuspecting,made my chest ache with something that felt like preemptive grief.
 
 "You're up early." He came toward me, reaching for the coffee pot, then registered my expression. His hand stopped mid-reach. "What happened?"
 
@@ -4481,7 +4481,7 @@ His whole body changed. The sleepy looseness dropped away, replaced by the focus
 
 So I did.
 
-I walked him through the technical findings—the degradation rates, the temperature thresholds, the byproduct analysis. I showed him the data tables, the methodology section, the conclusions. I kept my voice steady and professional because that was the only way I could get through it.
+I walked him through the technical findings,the degradation rates, the temperature thresholds, the byproduct analysis. I showed him the data tables, the methodology section, the conclusions. I kept my voice steady and professional because that was the only way I could get through it.
 
 When I finished, Sam was very still.
 
@@ -4493,7 +4493,7 @@ When I finished, Sam was very still.
 
 "Yes."
 
-He turned away from me, both hands flat on the counter, his shoulders rigid. I watched him process it—watched the implications cascade through him the way they'd cascaded through me twenty minutes earlier.
+He turned away from me, both hands flat on the counter, his shoulders rigid. I watched him process it,watched the implications cascade through him the way they'd cascaded through me twenty minutes earlier.
 
 Elena uses these products.
 
@@ -4501,7 +4501,7 @@ His sister, who'd inspired everything he'd built, who'd been using Mobility Work
 
 "The exposure levels in the report," he said, his voice careful, controlled. "What's the actual risk?"
 
-"For someone using the products as intended, probably minimal. The degradation is slow, the amounts are trace. But—"
+"For someone using the products as intended, probably minimal. The degradation is slow, the amounts are trace. But,"
 
 "But it exceeds regulatory thresholds."
 
@@ -4509,29 +4509,29 @@ His sister, who'd inspired everything he'd built, who'd been using Mobility Work
 
 "So it's a labeling issue."
 
-"It's more than labeling." I made myself say it. "Products already in the market would need to be assessed for recall. Future production would need to stop pending reformulation. And any company that continued manufacturing with full knowledge of these results—"
+"It's more than labeling." I made myself say it. "Products already in the market would need to be assessed for recall. Future production would need to stop pending reformulation. And any company that continued manufacturing with full knowledge of these results,"
 
 "Would be liable."
 
 "Criminally, potentially."
 
-Sam laughed—a short, harsh sound that didn't have any humor in it. "So this is the scenario. This is exactly what I was afraid of."
+Sam laughed,a short, harsh sound that didn't have any humor in it. "So this is the scenario. This is exactly what I was afraid of."
 
-"Sam—"
+"Sam,"
 
 "I built a company to help people like my sister, and instead I might have been slowly poisoning them for years." His voice was flat. Devastated. "That's what you're telling me."
 
-"The exposure levels are trace. The health impact is uncertain. We don't know—"
+"The exposure levels are trace. The health impact is uncertain. We don't know,"
 
-"We don't know because we never tested properly." He turned back to face me, and the look in his eyes was worse than anger. It was the look of someone watching their worst nightmare materialize in front of them. "We trusted CeraTest's documentation. I signed off on their results. I put my name on products that—"
+"We don't know because we never tested properly." He turned back to face me, and the look in his eyes was worse than anger. It was the look of someone watching their worst nightmare materialize in front of them. "We trusted CeraTest's documentation. I signed off on their results. I put my name on products that,"
 
 He stopped. His jaw worked.
 
 "This is exactly what was supposed to never happen," he said quietly. "Elena trusted me. Every customer who bought our products trusted me. And I failed them because I believed documentation that I should have verified independently years ago."
 
-"You couldn't have known—"
+"You couldn't have known,"
 
-"That's the defense of every company that hurts people, Berna." His voice was sharp. "We couldn't have known. We relied on supplier documentation. We followed industry standards. Meanwhile people are using our products every day and we—"
+"That's the defense of every company that hurts people, Berna." His voice was sharp. "We couldn't have known. We relied on supplier documentation. We followed industry standards. Meanwhile people are using our products every day and we,"
 
 He broke off again, turning away. I watched him fight for control, watched the professional mask try to reassemble itself over the devastation underneath.
 
@@ -4545,45 +4545,45 @@ Because it might not be okay. And because I had a professional obligation that w
 
 Sam went very still.
 
-"The firm facilitated the CeraTest engagement. We have exposure. And now I have information that—" I stopped, reorganized my words. "I can't sit on this report, Sam. The ethical obligations are clear."
+"The firm facilitated the CeraTest engagement. We have exposure. And now I have information that," I stopped, reorganized my words. "I can't sit on this report, Sam. The ethical obligations are clear."
 
 "I'm not asking you to sit on it."
 
 "I know you're not. But I need you to understand that when I walk into Gloria's office with this, everything changes. For both of us."
 
-He turned to look at me. The distance between us was maybe six feet—the width of his small kitchen—but it felt like miles.
+He turned to look at me. The distance between us was maybe six feet,the width of his small kitchen,but it felt like miles.
 
 "Because you're involved with me," he said flatly. "Because you can't be objective anymore."
 
-"Because I should have flagged the conflict of interest months ago. Because I let this become—" I gestured between us, helpless. "Whatever this is."
+"Because I should have flagged the conflict of interest months ago. Because I let this become," I gestured between us, helpless. "Whatever this is."
 
 "Whatever this is." He repeated it back to me, and something in his voice made me flinch. "That's what we're calling it now?"
 
-"Sam, that's not what I—"
+"Sam, that's not what I,"
 
-"I told you I loved you four days ago. You said it back. We stood on my roof in the rain and—" He stopped, his voice catching. "And now you're standing in my kitchen telling me our relationship is a professional liability."
+"I told you I loved you four days ago. You said it back. We stood on my roof in the rain and," He stopped, his voice catching. "And now you're standing in my kitchen telling me our relationship is a professional liability."
 
 "It's not about what it is. It's about how it looks."
 
-"Right. Perception management. Because that's what matters here—not the actual truth of anything, but how it can be spun."
+"Right. Perception management. Because that's what matters here,not the actual truth of anything, but how it can be spun."
 
 The bitterness in his voice landed like a physical blow. I deserved it. I knew I deserved it. But it still hurt.
 
-"I am trying to protect you," I said carefully. "If I disclose everything now—the relationship, the timeline, the conflict—then whatever comes next is documented. Above board. If I try to hide it and it comes out later—"
+"I am trying to protect you," I said carefully. "If I disclose everything now,the relationship, the timeline, the conflict,then whatever comes next is documented. Above board. If I try to hide it and it comes out later,"
 
 "Then we're both damaged goods." He nodded, his expression cooling into something distant and professional. "I understand. You need to protect the firm's interests. That's your job."
 
-"That's not—"
+"That's not,"
 
-"It's fine, Berna." He held up a hand, stopping me. "Do what you need to do. I'll be dealing with the actual crisis—figuring out how to notify customers, how to manage a potential recall, how to tell my sister that the equipment she's been using for years might have been slowly leaching toxins into her system. You handle the legal optics. We'll stay in our lanes."
+"It's fine, Berna." He held up a hand, stopping me. "Do what you need to do. I'll be dealing with the actual crisis,figuring out how to notify customers, how to manage a potential recall, how to tell my sister that the equipment she's been using for years might have been slowly leaching toxins into her system. You handle the legal optics. We'll stay in our lanes."
 
-The coldness in his voice was worse than yelling would have been. Yelling I could have fought. This careful, professional distance—this was the wall going back up.
+The coldness in his voice was worse than yelling would have been. Yelling I could have fought. This careful, professional distance,this was the wall going back up.
 
 I watched it happen in real time. The man who'd held me on the rooftop, who'd said *I love you, I love you*, retreating behind the barrier that had protected him for so long.
 
 "Sam," I said. My voice broke on his name.
 
-He looked at me. For one second, I saw everything—the love, the fear, the devastation. All of it raw and real and right there on his face.
+He looked at me. For one second, I saw everything,the love, the fear, the devastation. All of it raw and real and right there on his face.
 
 Then he shuttered it.
 
@@ -4591,7 +4591,7 @@ Then he shuttered it.
 
 ---
 
-Gloria's office was immaculate as always—clean lines, neutral colors, everything precisely arranged. The morning light came through her windows at an angle that made the whole room feel like a deposition waiting to happen.
+Gloria's office was immaculate as always,clean lines, neutral colors, everything precisely arranged. The morning light came through her windows at an angle that made the whole room feel like a deposition waiting to happen.
 
 She was already at her desk when I knocked at 8:15. Early, but not unusually so. The partners at Hanover & Pryce had a complicated relationship with the concept of normal working hours.
 
@@ -4601,15 +4601,15 @@ I did.
 
 "What happened?"
 
-I laid out the situation systematically—the independent report, the degradation findings, the regulatory implications. I put the Patterson analysis on her desk and watched her read it with the same focused intensity I'd felt scrolling through it four hours earlier.
+I laid out the situation systematically,the independent report, the degradation findings, the regulatory implications. I put the Patterson analysis on her desk and watched her read it with the same focused intensity I'd felt scrolling through it four hours earlier.
 
 When she finished, she looked up at me.
 
-"This is a significant liability issue," she said. "The engagement letter we drafted—"
+"This is a significant liability issue," she said. "The engagement letter we drafted,"
 
 "I know."
 
-"The firm's exposure here—"
+"The firm's exposure here,"
 
 "I know."
 
@@ -4617,7 +4617,7 @@ Gloria set the report down. Her expression shifted into something I couldn't qui
 
 Here it was. The moment I'd been dreading since I walked out of Sam's apartment.
 
-"I'm involved with Sam Reyes," I said. "Romantically. It started after the engagement was signed, but—"
+"I'm involved with Sam Reyes," I said. "Romantically. It started after the engagement was signed, but,"
 
 "How long?"
 
@@ -4637,7 +4637,7 @@ Each sentence landed like a verdict.
 
 "And you didn't think this warranted disclosure at any point in the past two months?"
 
-"I thought—" I stopped. What had I thought? That we could keep it separate? That professional and personal existed in different universes? That love didn't create conflicts of interest?
+"I thought," I stopped. What had I thought? That we could keep it separate? That professional and personal existed in different universes? That love didn't create conflicts of interest?
 
 "I don't know what I thought," I admitted. "I wanted to believe it didn't matter. That I could be objective. That my work product wouldn't be affected."
 
@@ -4655,29 +4655,29 @@ The question hung in the air between us.
 
 "I understand."
 
-"Do you?" She turned back to face me. "Because what I'm hearing is that you understood the rules, understood the stakes, and chose to ignore them because—what? Because you fell in love?"
+"Do you?" She turned back to face me. "Because what I'm hearing is that you understood the rules, understood the stakes, and chose to ignore them because,what? Because you fell in love?"
 
 The word hit different coming from Gloria. Smaller. Less like a revelation and more like an excuse.
 
 "I didn't plan it," I said, knowing how weak it sounded.
 
-"No one ever does. That's why we have policies—because no one plans to lose their judgment, and everyone does anyway." Gloria sat back down, her hands flat on her desk. "You're off this engagement, effective immediately. I'll be bringing Marcus in to review everything you've done and assess whether the firm needs to make disclosures to the client."
+"No one ever does. That's why we have policies,because no one plans to lose their judgment, and everyone does anyway." Gloria sat back down, her hands flat on her desk. "You're off this engagement, effective immediately. I'll be bringing Marcus in to review everything you've done and assess whether the firm needs to make disclosures to the client."
 
 "Marcus hates me."
 
-"Marcus is thorough. That's what matters right now." Gloria's expression softened slightly—just enough to remind me of the mentor she'd been before this moment. "I'm not going to fire you, Berna. Not today. But I need you to understand that what happens next depends entirely on what Marcus finds."
+"Marcus is thorough. That's what matters right now." Gloria's expression softened slightly,just enough to remind me of the mentor she'd been before this moment. "I'm not going to fire you, Berna. Not today. But I need you to understand that what happens next depends entirely on what Marcus finds."
 
 "And if he finds problems?"
 
 "Then we have a different conversation."
 
-I nodded. My throat felt tight. "What about Sam? The situation with CeraTest—he needs legal counsel on this. Real counsel, not me."
+I nodded. My throat felt tight. "What about Sam? The situation with CeraTest,he needs legal counsel on this. Real counsel, not me."
 
 "I'll assign someone from the corporate practice. Someone who has no connection to you or to this engagement." Gloria paused. "Does he know you're here? That you're disclosing?"
 
 "He knows I was coming to talk to you. He doesn't know what I was going to say."
 
-"I see." Something complicated moved across Gloria's face. "For what it's worth—and this doesn't excuse anything—I've watched you these past months. You've seemed happier. More grounded. I assumed it was professional confidence, but now—" She stopped herself. "It doesn't matter. Go home, Berna. Let Marcus do his work. And stay away from Sam Reyes until we sort this out."
+"I see." Something complicated moved across Gloria's face. "For what it's worth,and this doesn't excuse anything,I've watched you these past months. You've seemed happier. More grounded. I assumed it was professional confidence, but now," She stopped herself. "It doesn't matter. Go home, Berna. Let Marcus do his work. And stay away from Sam Reyes until we sort this out."
 
 "Stay away from him?"
 
@@ -4699,7 +4699,7 @@ Two weeks where I couldn't be there.
 
 ---
 
-I went home. Not to Sam's apartment—I couldn't face that, couldn't face him, couldn't figure out how to explain that seeing him now might make everything worse.
+I went home. Not to Sam's apartment,I couldn't face that, couldn't face him, couldn't figure out how to explain that seeing him now might make everything worse.
 
 Instead I went to my own place, the apartment I'd barely used since this thing between us had solidified into something real. It smelled stale. Unlived in. I opened the windows and let February air flood through, even though it was cold enough to see my breath.
 
@@ -4733,7 +4733,7 @@ I could hear his voice through the text. The careful control masking devastation
 
 *That's not fair.*
 
-*Nothing about this is fair, Berna. I'm facing a potential recall that could destroy my company. My sister is asking questions about her health that I can't answer. And the person I—*
+*Nothing about this is fair, Berna. I'm facing a potential recall that could destroy my company. My sister is asking questions about her health that I can't answer. And the person I,*
 
 He stopped typing. Started again.
 
@@ -4747,7 +4747,7 @@ He meant the new lawyers. The ones Gloria was assigning. The ones who weren't me
 
 I set my phone down on the kitchen counter and stood there in the cold air from the open windows, feeling the distance between us crystallize into something solid and impassable.
 
-Four days ago, we'd stood on his roof in the rain and promised each other something. I didn't know what exactly—we'd been too careful to use words like *forever* or *always*—but we'd promised something. A willingness to try. A belief that this could work.
+Four days ago, we'd stood on his roof in the rain and promised each other something. I didn't know what exactly,we'd been too careful to use words like *forever* or *always*,but we'd promised something. A willingness to try. A belief that this could work.
 
 Now we couldn't even be in the same room.
 
@@ -4759,7 +4759,7 @@ I just hadn't expected it to hurt this much.
 
 ---
 
-At 4:30, my phone rang. Not Sam—Marco.
+At 4:30, my phone rang. Not Sam,Marco.
 
 "You sound terrible," he said, by way of greeting.
 
@@ -4793,7 +4793,7 @@ Marco was quiet for a moment. "You did the right thing, you know. Disclosing."
 
 "No." I pressed my hand against my chest, where that sharp thing was still lodged between my ribs. "It really doesn't."
 
-"Come to Sazón tonight. Don't argue—just come. I'll feed you and you can sit in the kitchen and not talk about any of it. Sometimes that helps."
+"Come to Sazón tonight. Don't argue,just come. I'll feed you and you can sit in the kitchen and not talk about any of it. Sometimes that helps."
 
 I wanted to say no. I wanted to stay in my cold apartment and wallow in the wreckage of everything I'd built over the past two months. But Marco was right. Sometimes the only thing you could do was let someone take care of you, even when you didn't deserve it.
 
@@ -4805,7 +4805,7 @@ He hung up before I could change my mind.
 
 I stood at my window and watched the light fade over Portland, thinking about all the ways things could have been different. If I'd disclosed earlier. If I'd kept things professional. If I'd never let myself fall in love with a client's founder in the first place.
 
-But I had. And now we were here—Sam facing the possible destruction of everything he'd built, me facing the possible destruction of everything I'd built, and neither of us able to reach for the other.
+But I had. And now we were here,Sam facing the possible destruction of everything he'd built, me facing the possible destruction of everything I'd built, and neither of us able to reach for the other.
 
 The last time we'd touched was this morning, before I read the report. He'd reached for the coffee pot and I'd been standing right there, close enough to feel the warmth of his body. Close enough to touch, if I'd wanted to.
 
@@ -4837,7 +4837,7 @@ Marcus Okafor had four whiteboards.
 
 This was not unusual for a litigator, but Marcus had pushed his desk into the corner to make room for the fourth, which he had apparently purchased that morning, based on the sticker still adhering to the lower-right corner. The sticker said: FULL-SURFACE MAGNETIC. I filed that detail next to the other things I was not going to think about.
 
-He was thorough. That was the main thing I had to hold onto. Marcus was thorough, had appeared in the firm's quarterly reports twice under "notable outcomes," and had a coffee setup on his credenza involving three separate vessels — a burr grinder, a gooseneck kettle, a ceramic dripper — which meant he was the kind of person who cared about process at the granular level. Sam's case needed process. Sam's case needed someone who could hold the full architecture of the CeraTest liability question in his head without the part where any of it was personal. Marcus was perfectly, usefully impersonal, which was why Gloria had chosen him and why I was going to hand him three months of my work and be grateful.
+He was thorough. That was the main thing I had to hold onto. Marcus was thorough, had appeared in the firm's quarterly reports twice under "notable outcomes," and had a coffee setup on his credenza involving three separate vessels , a burr grinder, a gooseneck kettle, a ceramic dripper , which meant he was the kind of person who cared about process at the granular level. Sam's case needed process. Sam's case needed someone who could hold the full architecture of the CeraTest liability question in his head without the part where any of it was personal. Marcus was perfectly, usefully impersonal, which was why Gloria had chosen him and why I was going to hand him three months of my work and be grateful.
 
 I had the folders tabbed. I had a summary document. I had a decision log organized by date.
 
@@ -4847,21 +4847,21 @@ Marcus did not look at tab 6. He was looking at me with an expression I recogniz
 
 "Berna."
 
-"The supplier communication is in tab 9. There's an internal email from CeraTest — their QA director to their sourcing team, dated fourteen months ago — that's going to be the center of their exposure. Marcus will want to build the timeline around that date."
+"The supplier communication is in tab 9. There's an internal email from CeraTest , their QA director to their sourcing team, dated fourteen months ago , that's going to be the center of their exposure. Marcus will want to build the timeline around that date."
 
 "You just referred to me in the third person."
 
 "I'm aware I did that." I moved on. "The recall was voluntary. That's important for optics. Holloway initiated it before the agency contact, which positions them well for any good-faith mitigation argument. I've flagged the regulatory sequence in the orange tab. The order of contact matters."
 
-Marcus wrote something on the whiteboard nearest to him. The whiteboards were color-coded. He had a system in progress, arrows and bracketed notations, and it was a system I recognized as competent — built for someone coming in on Day 1 with the advantage of not having been inside the case while it was still something other than a case. I was not going to look at what he had written. I was professionally focused and emotionally stable, and then Marcus turned around to grab a marker from the tray on the second whiteboard and I could see his organizational taxonomy in full.
+Marcus wrote something on the whiteboard nearest to him. The whiteboards were color-coded. He had a system in progress, arrows and bracketed notations, and it was a system I recognized as competent , built for someone coming in on Day 1 with the advantage of not having been inside the case while it was still something other than a case. I was not going to look at what he had written. I was professionally focused and emotionally stable, and then Marcus turned around to grab a marker from the tray on the second whiteboard and I could see his organizational taxonomy in full.
 
-The sections were labeled in different colors: SUPPLIER LIABILITY (green), RECALL MECHANICS (blue), REGULATORY EXPOSURE (orange), THIRD-PARTY TESTING (purple), and — in a smaller, secondary column, in red, in Marcus's precise block print — PERSONAL ENTANGLEMENT DISCLOSURE DELAY.
+The sections were labeled in different colors: SUPPLIER LIABILITY (green), RECALL MECHANICS (blue), REGULATORY EXPOSURE (orange), THIRD-PARTY TESTING (purple), and , in a smaller, secondary column, in red, in Marcus's precise block print , PERSONAL ENTANGLEMENT DISCLOSURE DELAY.
 
 He had made it a category.
 
 He had a whole section. There were sub-bullets. I could not read the sub-bullets from where I was standing and I was not going to cross the room to read them, but they existed, and somewhere in Marcus Okafor's rigorous categorical mind, the eleven days between when I understood what was happening and when I told Gloria had been processed into a filing system with its own heading and its own indentation hierarchy. This was, objectively, the correct approach to case management. He needed to know the shape of my conflict because the shape of my conflict was now a structural element of the case. It was also the bureaucratization of something I was not currently naming, and there was something clarifying and terrible about seeing it in red block letters on a four-by-six whiteboard next to the word MECHANICS.
 
-I kept briefing him. I was excellent at it. I knew this case better than anyone else in the building — the CeraTest email, the chain of custody for the cadmium trace, the recall initiation timeline, the three versions of the supplier contract and the paragraph in version two that contradicted version three — and I handed all of it to Marcus with both hands and a complete index and a summary document that anticipated his first eight questions, because if I was going to lose this case from my caseload I was going to lose it in a way that left no opening for anyone to say I had done it badly.
+I kept briefing him. I was excellent at it. I knew this case better than anyone else in the building , the CeraTest email, the chain of custody for the cadmium trace, the recall initiation timeline, the three versions of the supplier contract and the paragraph in version two that contradicted version three , and I handed all of it to Marcus with both hands and a complete index and a summary document that anticipated his first eight questions, because if I was going to lose this case from my caseload I was going to lose it in a way that left no opening for anyone to say I had done it badly.
 
 We were at two hours and forty minutes when Marcus set down his marker.
 
@@ -4885,9 +4885,9 @@ I set the page down.
 
 "I don't think so."
 
-I picked up my folder. I did not take the page. I said something appropriate and walked out of his office at 11:47 AM and stopped in the hallway and looked at the wall for approximately four seconds, during which I did not think about a phone call I was not going to make, a voice on the other end of it I was not going to hear, three words — *it wasn't you* — that I had no professional mechanism for delivering and no personal standing to deliver.
+I picked up my folder. I did not take the page. I said something appropriate and walked out of his office at 11:47 AM and stopped in the hallway and looked at the wall for approximately four seconds, during which I did not think about a phone call I was not going to make, a voice on the other end of it I was not going to hear, three words , *it wasn't you* , that I had no professional mechanism for delivering and no personal standing to deliver.
 
-Then I walked to the kitchen and made a cup of coffee and went back to my own desk and opened the Strelikov matter, which was waiting for me with the patience of something that had never involved anyone I—
+Then I walked to the kitchen and made a cup of coffee and went back to my own desk and opened the Strelikov matter, which was waiting for me with the patience of something that had never involved anyone I,
 
 The Strelikov matter was waiting for me.
 
@@ -4899,7 +4899,7 @@ I opened it.
 
 The firm is quieter than I remembered. I don't know when I stopped noticing that, but I noticed it now, which suggested I had, at some point, stopped noticing. I had walked through this building for eight years and felt its particular quiet as neutral, as professional, as simply the sound of people working. Now it was the sound of people working on things that had nothing to do with me, which was the same silence and an entirely different experience of it.
 
-My mug was wrong. I use the same white mug every morning — H&P's name on it, a hairline crack along the base that has been there for two years and never gotten worse, a specific heft I had dropped it once and it hadn't broken and filed under: reliable. And then I picked it up on Day 2 and it was the wrong weight. Not lighter than I remembered, exactly. More like — less full of itself. I kept picking it up expecting it to weigh more and it kept not weighing more, and by 9 AM I had noticed this three times and categorized it under things I was not going to write down anywhere.
+My mug was wrong. I use the same white mug every morning , H&P's name on it, a hairline crack along the base that has been there for two years and never gotten worse, a specific heft I had dropped it once and it hadn't broken and filed under: reliable. And then I picked it up on Day 2 and it was the wrong weight. Not lighter than I remembered, exactly. More like , less full of itself. I kept picking it up expecting it to weigh more and it kept not weighing more, and by 9 AM I had noticed this three times and categorized it under things I was not going to write down anywhere.
 
 My keyboard has a sticky P key. It has had a sticky P key for eight months. I have submitted a maintenance request twice. The P works if you press it firmly and with intent, which is fine for most words, but I have been signing emails B. Alvarez because I cannot locate the will to type my full name twice a day. On Day 2 I pressed the P without thinking and it worked, and I sat there looking at my own correctly-rendered signature and felt the particular flatness of a small thing going right in the wrong week.
 
@@ -4937,7 +4937,7 @@ After she left I looked at the Strelikov brief for approximately ninety seconds 
 
 I stopped going to Marco's.
 
-This lasted four days, which felt correct — the kind of number that sounds like discipline — and then turned out to be insufficient. I had been going to Marco's on Tuesday and Thursday evenings since I made senior associate, because it was three blocks from the office and Marco had once told me that lawyers who eat at their desks die angry, and I had laughed and kept eating at my desk for another eight months before eventually showing up at 7 PM on a Tuesday with the Alderton file under my arm. That had become the shape of my week. On Day 4, with a brief due and my apartment doing what apartments do when you have been in them too much, I went in.
+This lasted four days, which felt correct , the kind of number that sounds like discipline , and then turned out to be insufficient. I had been going to Marco's on Tuesday and Thursday evenings since I made senior associate, because it was three blocks from the office and Marco had once told me that lawyers who eat at their desks die angry, and I had laughed and kept eating at my desk for another eight months before eventually showing up at 7 PM on a Tuesday with the Alderton file under my arm. That had become the shape of my week. On Day 4, with a brief due and my apartment doing what apartments do when you have been in them too much, I went in.
 
 Marco placed the ribollita in front of me without being asked. Then he stood there for one beat too long.
 
@@ -4953,11 +4953,11 @@ Sam does not skip dessert. Sam once made a serious argument to me that tiramisu 
 
 Marco sat down across from me, which meant the answer required seating.
 
-He was quiet for a moment, arranging it. Marco is not a person who gives you the sentimental version. He gives you the accurate version, and he waits until he has the right words. "You know how you can tell when someone's thinking hard, but it's not — it's not the good kind. Not solving something. Just stuck somewhere and working at it." He tapped his temple. "Like someone had scooped out the part that makes him Sam. Just the bones of him sitting there. He ate the crespelle. He tipped well. He left."
+He was quiet for a moment, arranging it. Marco is not a person who gives you the sentimental version. He gives you the accurate version, and he waits until he has the right words. "You know how you can tell when someone's thinking hard, but it's not , it's not the good kind. Not solving something. Just stuck somewhere and working at it." He tapped his temple. "Like someone had scooped out the part that makes him Sam. Just the bones of him sitting there. He ate the crespelle. He tipped well. He left."
 
 I looked at my ribollita.
 
-"He asked about you," Marco said. "Not in a way that expected an answer. He just said — is she okay? I said I thought so. He said good." Marco spread his hands. "That was it."
+"He asked about you," Marco said. "Not in a way that expected an answer. He just said , is she okay? I said I thought so. He said good." Marco spread his hands. "That was it."
 
 I ate the ribollita. It was very good, the way it is always very good, thick and slow and warm in a way that operates below thought, and I thought about the crespelle and about tipping well and about the bones of someone sitting where the whole person used to be, and I did not cry into the ribollita, which I am logging here as a moderate professional success.
 
@@ -4967,13 +4967,13 @@ Marco refilled my water and went back to the kitchen. He came back twenty minute
 
 He sat down again. I set down my pen.
 
-"Elena was here. Two days ago — the day before Sam came. She sat at the window table. Had the lunch. She asked about you."
+"Elena was here. Two days ago , the day before Sam came. She sat at the window table. Had the lunch. She asked about you."
 
 I waited.
 
-"I told her you were dealing with work things. That you weren't eating, or — I don't know, I said you seemed okay. I said what I knew." He looked at the table. "She asked me what she should tell Sam. I didn't know what to say to that. I didn't say anything."
+"I told her you were dealing with work things. That you weren't eating, or , I don't know, I said you seemed okay. I said what I knew." He looked at the table. "She asked me what she should tell Sam. I didn't know what to say to that. I didn't say anything."
 
-Elena had been Sam's sister first for twenty-eight years before I ever entered the equation. I did not have a clear picture of what these two weeks had looked like inside that family, and I had been not-constructing that picture with some effort. Elena reaching out — not to me, but toward me, close enough to send a signal — was not something I had expected. Not warmly, exactly. But not with the kind of silence that means the door is closed.
+Elena had been Sam's sister first for twenty-eight years before I ever entered the equation. I did not have a clear picture of what these two weeks had looked like inside that family, and I had been not-constructing that picture with some effort. Elena reaching out , not to me, but toward me, close enough to send a signal , was not something I had expected. Not warmly, exactly. But not with the kind of silence that means the door is closed.
 
 "She didn't leave a number," Marco said. "She didn't ask me to pass anything along. She just asked how you were."
 
@@ -4995,15 +4995,15 @@ I went back to Marco's on Day 6. Marco did not say anything. I left a large tip.
 
 Across the street. Maybe sixty feet ahead.
 
-Tall. The specific posture — weight carried slightly forward, like he's perpetually about to say something, like stillness is a mode he hasn't fully learned. A cable pouch on his belt, dark canvas, clipped to the left side.
+Tall. The specific posture , weight carried slightly forward, like he's perpetually about to say something, like stillness is a mode he hasn't fully learned. A cable pouch on his belt, dark canvas, clipped to the left side.
 
 I stood on the sidewalk outside a dry cleaner and I did not move.
 
-The light was wrong for February, cut at an angle that threw half the opposite sidewalk into shadow, and the figure was in the shadow, and I was making an inventory without meaning to: height, yes. The set of the shoulders, yes. The cable pouch. The cable pouch was the specific detail that had stopped me — I had seen that cable pouch on a kitchen counter and on a bedside table and clipped to a belt loop, and I had one in my bag right now, which was not relevant, which was extremely relevant.
+The light was wrong for February, cut at an angle that threw half the opposite sidewalk into shadow, and the figure was in the shadow, and I was making an inventory without meaning to: height, yes. The set of the shoulders, yes. The cable pouch. The cable pouch was the specific detail that had stopped me , I had seen that cable pouch on a kitchen counter and on a bedside table and clipped to a belt loop, and I had one in my bag right now, which was not relevant, which was extremely relevant.
 
 He was walking. He was not looking across the street.
 
-I did not call out. I did not step off the curb. I watched the shape of him cross the mouth of the side street and round the corner and disappear, and I did not close the distance between us quickly enough to see his face, and I did not know whether this was because sixty feet was too far and February light is unreliable, or because I had made a decision in the same two-second window I had been operating in all week — the window in which I could choose not to find out.
+I did not call out. I did not step off the curb. I watched the shape of him cross the mouth of the side street and round the corner and disappear, and I did not close the distance between us quickly enough to see his face, and I did not know whether this was because sixty feet was too far and February light is unreliable, or because I had made a decision in the same two-second window I had been operating in all week , the window in which I could choose not to find out.
 
 A couple came down the sidewalk and walked around me. The woman gave me a brief look. I was standing in the middle of the sidewalk looking at the corner of a building.
 
@@ -5011,7 +5011,7 @@ I stood there for longer than I should have. The corner stayed a corner. The cab
 
 I walked home the short way.
 
-I walked home telling myself: the posture was similar, that's all. February makes everyone into their own silhouette. I had no basis for a positive identification at sixty feet in bad light. The face — I hadn't seen the face. That was the relevant variable. I hadn't seen the face because there hadn't been time, not because I had specifically not crossed the street.
+I walked home telling myself: the posture was similar, that's all. February makes everyone into their own silhouette. I had no basis for a positive identification at sixty feet in bad light. The face , I hadn't seen the face. That was the relevant variable. I hadn't seen the face because there hadn't been time, not because I had specifically not crossed the street.
 
 I carried the cable pouch in my bag still. I had been carrying it for ten days. This was because I had not gotten around to returning it. This was what I was calling it.
 
@@ -5021,9 +5021,9 @@ I carried the cable pouch in my bag still. I had been carrying it for ten days. 
 
 I arrived at the office at 7:08 AM.
 
-This was because I had left my apartment at 6:41, which should have put me at my desk by 7:00, and then at the Burnside intersection I had turned right instead of left without fully deciding to, and taken the long route along the river side, and then three blocks later turned again back to my normal route because there was no logical reason the long route was safer — Sam did not live on the river side, Sam lived eleven blocks northeast, the river had nothing to do with anything — and by the time I finished sorting this out I had covered eleven blocks I had not meant to cover and it was 7:08 AM.
+This was because I had left my apartment at 6:41, which should have put me at my desk by 7:00, and then at the Burnside intersection I had turned right instead of left without fully deciding to, and taken the long route along the river side, and then three blocks later turned again back to my normal route because there was no logical reason the long route was safer , Sam did not live on the river side, Sam lived eleven blocks northeast, the river had nothing to do with anything , and by the time I finished sorting this out I had covered eleven blocks I had not meant to cover and it was 7:08 AM.
 
-I did not log this in my time sheet. I considered it briefly — there's a category for "commute irregularities" that nobody has ever used, and I am not certain it was created for situations of this kind, but it does exist — and then decided that documentation would make it worse. Some things are cleaner as private failures.
+I did not log this in my time sheet. I considered it briefly , there's a category for "commute irregularities" that nobody has ever used, and I am not certain it was created for situations of this kind, but it does exist , and then decided that documentation would make it worse. Some things are cleaner as private failures.
 
 I made coffee. I opened the Strelikov brief. I pressed the P with appropriate force.
 
@@ -5033,15 +5033,15 @@ I made coffee. I opened the Strelikov brief. I pressed the P with appropriate fo
 
 At 4:47 PM, an email from Gloria's assistant appeared in my inbox.
 
-> *Ms. Alvarez — Ms. Yuen would like to schedule 30 minutes tomorrow at 10 AM. Please confirm availability.*
+> *Ms. Alvarez , Ms. Yuen would like to schedule 30 minutes tomorrow at 10 AM. Please confirm availability.*
 
 Gloria's assistant does not explain the subject of meetings. This is policy, not oversight. You confirm the availability and you find out tomorrow.
 
 I confirmed availability.
 
-I set my hands in my lap and looked at the parking garage across the street — that flat grey wall I have looked at for eight years, poured concrete, a single horizontal seam at two-thirds height, a strip of yellow paint along the bottom level that says CLEARANCE 7 FT. It has never been anything other than a parking garage. It does not remind me of anything. And yet here I was on Day 12 looking at it with the attention I usually reserve for documents, and the seam was still at two-thirds, and the yellow paint still said what it said, and none of this resolved anything.
+I set my hands in my lap and looked at the parking garage across the street , that flat grey wall I have looked at for eight years, poured concrete, a single horizontal seam at two-thirds height, a strip of yellow paint along the bottom level that says CLEARANCE 7 FT. It has never been anything other than a parking garage. It does not remind me of anything. And yet here I was on Day 12 looking at it with the attention I usually reserve for documents, and the seam was still at two-thirds, and the yellow paint still said what it said, and none of this resolved anything.
 
-I had an Oregon's Best Cinnamon Roll in my desk drawer. I had purchased it three days ago from the cart in the lobby in a moment of what I can only describe as ambient optimism — the idea that I would want it later, that later would be a time when a cinnamon roll was the right answer. I had not opened it. It was still there in its wax paper sleeve, slightly compressed from being in a drawer. Whether this was stubborn optimism or a small punishment I had not yet determined. I was leaving the determination open.
+I had an Oregon's Best Cinnamon Roll in my desk drawer. I had purchased it three days ago from the cart in the lobby in a moment of what I can only describe as ambient optimism , the idea that I would want it later, that later would be a time when a cinnamon roll was the right answer. I had not opened it. It was still there in its wax paper sleeve, slightly compressed from being in a drawer. Whether this was stubborn optimism or a small punishment I had not yet determined. I was leaving the determination open.
 
 The sticky P key was under my fingers.
 
@@ -5071,7 +5071,7 @@ Not that I'd ever been sentenced to anything. Unless you counted that parking ti
 
 "Sit," Gloria said, and I sat.
 
-The morning light came through her windows at that angle that made everything feel consequential. I'd been in this office a hundred times, but never across from her like this—not as a colleague, but as a subject of review.
+The morning light came through her windows at that angle that made everything feel consequential. I'd been in this office a hundred times, but never across from her like this,not as a colleague, but as a subject of review.
 
 "Marcus completed his assessment yesterday," Gloria said. "His report is thorough. It's also, fortunately for you, exculpatory."
 
@@ -5085,7 +5085,7 @@ I waited. Exculpatory was a good word. Exculpatory was my favorite word.
 
 I didn't argue. There was nothing to argue with.
 
-"I'm not firing you," she continued. "You're too good an attorney, and frankly, the firm can't afford to lose your billable hours right now. But you're on supervised status for six months. Any client interactions with personal dimensions—any at all—get disclosed immediately. And you're permanently off any matter involving Mobility Workshop, CeraTest, or anyone connected to them."
+"I'm not firing you," she continued. "You're too good an attorney, and frankly, the firm can't afford to lose your billable hours right now. But you're on supervised status for six months. Any client interactions with personal dimensions,any at all,get disclosed immediately. And you're permanently off any matter involving Mobility Workshop, CeraTest, or anyone connected to them."
 
 "I understand."
 
@@ -5097,19 +5097,19 @@ I blinked. "I'm sorry?"
 
 "It was basic ethics. It's what I should have done months earlier."
 
-"Yes, it was. And yes, you should have." Gloria's mouth curved—not quite a smile, but close. "But you also could have waited until Marcus found it himself. You could have tried to hide it. You could have done what most people do when they realize they've made a mistake—cover it up and pray. You didn't."
+"Yes, it was. And yes, you should have." Gloria's mouth curved,not quite a smile, but close. "But you also could have waited until Marcus found it himself. You could have tried to hide it. You could have done what most people do when they realize they've made a mistake,cover it up and pray. You didn't."
 
 I didn't know what to say. Gloria complimenting me felt like being praised by a glacier. Nice, but fundamentally disorienting.
 
 "And the other thing," she added. "Walking away from him. Maintaining professional distance during the review." Her eyes met mine. "I know that was harder than the disclosure. You did the right thing. Both times."
 
-Something in my chest cracked open. Not in a dramatic way—more like a pressure valve releasing. I'd spent two weeks carrying the certainty that I'd destroyed everything, that Gloria would never trust me again, that my career was a smoking crater of bad decisions.
+Something in my chest cracked open. Not in a dramatic way,more like a pressure valve releasing. I'd spent two weeks carrying the certainty that I'd destroyed everything, that Gloria would never trust me again, that my career was a smoking crater of bad decisions.
 
 You did the right thing. Both times.
 
 I might have cried if I were someone who cried in front of bosses. Instead, I nodded once, professionally, and said, "Thank you."
 
-"Now." Gloria's tone shifted back to business. "The supervised status starts today. Harrison Webb is here for a meeting with the new Mobility Workshop team in an hour—I need you visible but uninvolved. Your presence in the building demonstrates continuity. Your absence from the meeting demonstrates appropriate boundaries."
+"Now." Gloria's tone shifted back to business. "The supervised status starts today. Harrison Webb is here for a meeting with the new Mobility Workshop team in an hour,I need you visible but uninvolved. Your presence in the building demonstrates continuity. Your absence from the meeting demonstrates appropriate boundaries."
 
 "Visible but uninvolved," I repeated. "So... I just stand in the hallway looking purposeful?"
 
@@ -5123,9 +5123,9 @@ I processed this. "That's remarkably calculated."
 
 The small conference room adjacent to Conference A was essentially a fishbowl.
 
-Glass walls on three sides, a view into the main conference room through the interior partition. I could see everything—the long mahogany table, the screens for presentations, the water pitchers with their precisely arranged lemon slices. And in forty-five minutes, I would see Harrison Webb conducting a meeting about the company I was permanently banned from touching.
+Glass walls on three sides, a view into the main conference room through the interior partition. I could see everything,the long mahogany table, the screens for presentations, the water pitchers with their precisely arranged lemon slices. And in forty-five minutes, I would see Harrison Webb conducting a meeting about the company I was permanently banned from touching.
 
-I spread my documents across the table. Real work—a trademark dispute that had nothing to do with ceramics or medical devices or anyone named Reyes. I opened my laptop. I arranged my face into an expression of professional concentration.
+I spread my documents across the table. Real work,a trademark dispute that had nothing to do with ceramics or medical devices or anyone named Reyes. I opened my laptop. I arranged my face into an expression of professional concentration.
 
 I was being visible. Very purposefully visible.
 
@@ -5133,7 +5133,7 @@ Twenty minutes passed. I actually managed to focus on the trademark dispute, whi
 
 The door to Conference A opened.
 
-I heard Harrison's voice first—the measured cadences of someone who'd done business in three languages and spoke all of them like weapons. "—need to see the reformulation timeline before we can discuss further investment."
+I heard Harrison's voice first,the measured cadences of someone who'd done business in three languages and spoke all of them like weapons. ",need to see the reformulation timeline before we can discuss further investment."
 
 "We'll have that by Friday," said a voice I didn't recognize. The new attorney, probably. Someone corporate, someone safe, someone who'd never made the spectacular error of falling in love with a client's founder.
 
@@ -5143,11 +5143,11 @@ My pen stopped moving.
 
 Sam's voice. In the building. Twenty feet away, through glass walls and a decade of professional training that was currently doing absolutely nothing to prevent my heart from launching itself against my ribcage like a suicidal bird.
 
-Don't look up, I told myself. Don't look up. Don't look—
+Don't look up, I told myself. Don't look up. Don't look,
 
 I looked up.
 
-He was in the hallway. Walking between Harrison and the new attorney, his attention on something Harrison was saying. He looked—god, he looked tired. The lines around his eyes deeper than they'd been two weeks ago. His shoulders carrying weight that hadn't been there before.
+He was in the hallway. Walking between Harrison and the new attorney, his attention on something Harrison was saying. He looked,god, he looked tired. The lines around his eyes deeper than they'd been two weeks ago. His shoulders carrying weight that hadn't been there before.
 
 But he was moving. Working. Fighting for the company he'd built.
 
@@ -5157,9 +5157,9 @@ He glanced toward my conference room.
 
 Our eyes met.
 
-Time did that thing it does in movies, except in real life it's worse because you can't cut to the next scene. You just have to live through it—the recognition, the flash of something raw and unguarded crossing his face, the way his step faltered for half a second before professional momentum carried him forward.
+Time did that thing it does in movies, except in real life it's worse because you can't cut to the next scene. You just have to live through it,the recognition, the flash of something raw and unguarded crossing his face, the way his step faltered for half a second before professional momentum carried him forward.
 
-I didn't wave. I didn't smile. I held his gaze for exactly as long as you hold a stranger's gaze when you accidentally make eye contact—one second, maybe two—and then I looked back down at my trademark documents.
+I didn't wave. I didn't smile. I held his gaze for exactly as long as you hold a stranger's gaze when you accidentally make eye contact,one second, maybe two,and then I looked back down at my trademark documents.
 
 Oregon's Best Cinnamon Roll. Very important. Very compelling. Definitely the thing I was thinking about.
 
@@ -5193,7 +5193,7 @@ I looked at my documents. Looked at the glass walls. Looked at the empty confere
 
 ---
 
-Sazon at noon was a different creature than Sazon at night—faster, louder, full of the rushed energy of people who had somewhere to be. Marco had claimed his usual corner booth, but he wasn't alone.
+Sazon at noon was a different creature than Sazon at night,faster, louder, full of the rushed energy of people who had somewhere to be. Marco had claimed his usual corner booth, but he wasn't alone.
 
 Elena Reyes sat across from him, her wheelchair parked at the table's end, her expression unreadable as I approached.
 
@@ -5205,17 +5205,17 @@ Elena Reyes sat across from him, her wheelchair parked at the table's end, her e
 
 I slid into the booth, acutely aware that this was the first time I'd been face-to-face with Elena since everything fell apart. The last time I'd seen her, I'd been asking about Sam's coffee ritual, laughing at his terrible plumbing skills, letting myself believe this thing between us might actually work.
 
-"I'm not supposed to—" I started.
+"I'm not supposed to," I started.
 
 "Coordinate. I know. This isn't coordination. This is me talking to you about my brother without his knowledge or permission." Elena's smile was small and precise. "Technically a violation of family loyalty. Professionally irrelevant."
 
-Marco set plates in front of us—tostones, the small empanadas I liked, rice that smelled like heaven. "I'm going back to the kitchen. You two need privacy."
+Marco set plates in front of us,tostones, the small empanadas I liked, rice that smelled like heaven. "I'm going back to the kitchen. You two need privacy."
 
-"We need supervision," I said. "In case of—"
+"We need supervision," I said. "In case of,"
 
 "In case of what? Elena's going to attack you with a cinnamon roll?" Marco snorted. "Eat. Talk. Stop acting like you're on trial."
 
-He disappeared into the kitchen. Elena picked up an empanada, then put it back down. She looked at me for a moment—not unkindly, but measuring something.
+He disappeared into the kitchen. Elena picked up an empanada, then put it back down. She looked at me for a moment,not unkindly, but measuring something.
 
 "I watched him not eat for four days," she said.
 
@@ -5225,25 +5225,25 @@ I didn't respond. There wasn't a response to that.
 
 I looked at my tostones.
 
-"He's my brother," Elena said. "Before he's anything else. And the version of him I've been watching for two weeks—that's not a version I want to repeat."
+"He's my brother," Elena said. "Before he's anything else. And the version of him I've been watching for two weeks,that's not a version I want to repeat."
 
 I let that sit. She'd earned the right to say it.
 
 "Okay," I said. "I understand."
 
-Something in her face shifted slightly—not softening exactly, more like she'd gotten confirmation of something she'd needed to check. She picked up the empanada again.
+Something in her face shifted slightly,not softening exactly, more like she'd gotten confirmation of something she'd needed to check. She picked up the empanada again.
 
-"He's doing better," she said. "Now. The recall went through clean. No health incidents, no lawsuits, no customers screaming on Twitter. CeraTest's legal team is already making noise about settlement. And the reformulation—" She paused, something complicated crossing her face. "He fixed the glaze."
+"He's doing better," she said. "Now. The recall went through clean. No health incidents, no lawsuits, no customers screaming on Twitter. CeraTest's legal team is already making noise about settlement. And the reformulation," She paused, something complicated crossing her face. "He fixed the glaze."
 
 I set down the toston I'd been pretending to eat. "He what?"
 
 "Fixed it. Three days ago. Found a supplier in Seattle, modified the compound, ran initial tests." Elena's voice was careful, neutral. "He's been in the workshop every night until midnight. Solving the problem instead of drowning in it."
 
-I tried to imagine it—Sam bent over his worktable, surrounded by ceramic samples and chemical analyses, fighting his way through the technical maze that had nearly destroyed everything. Fixing what was broken instead of breaking himself against it.
+I tried to imagine it,Sam bent over his worktable, surrounded by ceramic samples and chemical analyses, fighting his way through the technical maze that had nearly destroyed everything. Fixing what was broken instead of breaking himself against it.
 
 "That's good," I said, because it was all I could say.
 
-"It is." Elena set down her empanada and looked at the table for a moment—not sad, but carrying something. "There's also the business side. The Series A meeting got pushed to April. The recall delay cost three months on his funding timeline—investors needed to understand why in writing before they'd reschedule." She looked at me directly. "He wrote the explanation himself. He laid out what happened with CeraTest's negligence, what the reformulation would cost, what the new timeline looked like. He didn't blame anyone. Not the firm, not the process, not you."
+"It is." Elena set down her empanada and looked at the table for a moment,not sad, but carrying something. "There's also the business side. The Series A meeting got pushed to April. The recall delay cost three months on his funding timeline,investors needed to understand why in writing before they'd reschedule." She looked at me directly. "He wrote the explanation himself. He laid out what happened with CeraTest's negligence, what the reformulation would cost, what the new timeline looked like. He didn't blame anyone. Not the firm, not the process, not you."
 
 Three months. I ran the number automatically: a Q1 close pushed to Q2, which meant different debt covenants, different runway assumptions, a different version of every conversation he'd have with his board for the rest of the year. That wasn't just a calendar adjustment. That was a material change in how the company would be built.
 
@@ -5257,29 +5257,29 @@ I waited.
 
 "He doesn't blame you." Her eyes met mine, steady and direct. "I know you think he does. I know those last messages were cold and awful and he was shutting down because that's what he does when he's scared. But he doesn't blame you for the disclosure, or the distance, or any of it."
 
-"Elena—"
+"Elena,"
 
-"He blames himself. For putting you in an impossible position. For not being better about the conflict of interest from the start. For—" She stopped, her hands flat on the table. "For loving you in a way that made you choose between him and your career."
+"He blames himself. For putting you in an impossible position. For not being better about the conflict of interest from the start. For," She stopped, her hands flat on the table. "For loving you in a way that made you choose between him and your career."
 
 The word landed between us. Loving. Present tense. Still happening, apparently, despite everything.
 
 "I made my choice," I said quietly. "I chose my career."
 
-"Did you?" Elena tilted her head. "Because from where I'm sitting, you chose both. You disclosed the relationship, which protected you professionally. And you walked away, which protected him from any appearance that you were coordinating your stories." Her smile turned sharp. "That's not choosing your career over him, Berna. That's trying to save both. Whether it works—" She shrugged. "That's another question."
+"Did you?" Elena tilted her head. "Because from where I'm sitting, you chose both. You disclosed the relationship, which protected you professionally. And you walked away, which protected him from any appearance that you were coordinating your stories." Her smile turned sharp. "That's not choosing your career over him, Berna. That's trying to save both. Whether it works," She shrugged. "That's another question."
 
-I didn't know what to say. I'd spent two weeks assuming I'd destroyed whatever we'd been building—that choosing professional ethics meant choosing against him. But Elena was offering a different reading. A more generous one.
+I didn't know what to say. I'd spent two weeks assuming I'd destroyed whatever we'd been building,that choosing professional ethics meant choosing against him. But Elena was offering a different reading. A more generous one.
 
 Maybe a more accurate one.
 
 "Why are you telling me this?" I asked.
 
-"Because my brother won't." Elena picked up another empanada. "Because he's too busy apologizing to everyone he's ever met and too stubborn to ask for help. And because—" She paused, her voice softening. "Because you made me laugh. That day at my apartment, with the plumbing. When you asked Sam if he was actually planning to fix the pipes or just have a philosophical conversation with them. That was the first time in months I'd seen someone tease him and have him enjoy it."
+"Because my brother won't." Elena picked up another empanada. "Because he's too busy apologizing to everyone he's ever met and too stubborn to ask for help. And because," She paused, her voice softening. "Because you made me laugh. That day at my apartment, with the plumbing. When you asked Sam if he was actually planning to fix the pipes or just have a philosophical conversation with them. That was the first time in months I'd seen someone tease him and have him enjoy it."
 
-I remembered. The look on Sam's face—half offended, half delighted that someone had finally called out his tendency to overthink mechanical problems.
+I remembered. The look on Sam's face,half offended, half delighted that someone had finally called out his tendency to overthink mechanical problems.
 
 "He needs that," Elena continued. "Someone who sees through his nonsense. Someone who isn't impressed by the workshop or the company or the whole Sam Reyes mythology." She met my eyes. "Someone who argues with him about ceramics and steals his olives and makes him better instead of just telling him he's brilliant."
 
-"I can't see him," I said. "Not until the supervised period is over. And even then—"
+"I can't see him," I said. "Not until the supervised period is over. And even then,"
 
 "Even then, it's complicated. I know." Elena finished her empanada, brushed the crumbs from her fingers. "But the supervised period has an end date, right? June?"
 
@@ -5289,13 +5289,13 @@ I remembered. The look on Sam's face—half offended, half delighted that someon
 
 "Theoretically."
 
-"And by May, the CeraTest situation will be settled. The reformulation will be complete. The Series A will have closed." Elena smiled—a real smile this time, not the measured one she'd come in with. "What I'm saying, Berna, is that you have three months to figure out what you want. And so does he."
+"And by May, the CeraTest situation will be settled. The reformulation will be complete. The Series A will have closed." Elena smiled,a real smile this time, not the measured one she'd come in with. "What I'm saying, Berna, is that you have three months to figure out what you want. And so does he."
 
 I stared at her. "Are you matchmaking me? With your own brother?"
 
 "I'm providing relevant information to an interested party." Her smile widened. "Consider it legal strategy."
 
-Marco reappeared with coffee—the good kind, not the terrible stuff Sam made. "You two done plotting?"
+Marco reappeared with coffee,the good kind, not the terrible stuff Sam made. "You two done plotting?"
 
 "We weren't plotting," Elena said. "We were strategizing."
 
@@ -5307,7 +5307,7 @@ Marco reappeared with coffee—the good kind, not the terrible stuff Sam made. "
 
 "How do you know what he's feeling?"
 
-"Because I have eyes. Because he came to pick up Elena yesterday and spent ten minutes asking about you without actually asking about you." Marco's voice was fond but exasperated. "He wanted to know if you'd been eating. If you were sleeping. If you seemed okay. He asked about the trademark dispute—which, by the way, how did he even know about the trademark dispute?"
+"Because I have eyes. Because he came to pick up Elena yesterday and spent ten minutes asking about you without actually asking about you." Marco's voice was fond but exasperated. "He wanted to know if you'd been eating. If you were sleeping. If you seemed okay. He asked about the trademark dispute,which, by the way, how did he even know about the trademark dispute?"
 
 "I don't know," I said. But I did know. I could feel myself reaching toward the knowledge like touching a fresh bruise.
 
@@ -5317,7 +5317,7 @@ The same way I'd been paying attention to him.
 
 "Look," Marco said. "I've watched you mope around my kitchen for two weeks, pretending you're fine. I've watched him walk past this building three times that I know of, probably more that I don't. Neither of you is fooling anyone."
 
-"We're respecting the boundaries—"
+"We're respecting the boundaries,"
 
 "You're respecting the boundaries, yes. Very professionally. Very correctly." Marco leaned in. "But the boundaries have an expiration date. And when they expire, I expect you both to stop being idiots."
 
@@ -5333,11 +5333,11 @@ The glass conference room was empty now, someone else's meeting in progress in C
 
 In the lobby, I paused.
 
-There was a cable pouch in my bag—the one I used to bring to Forge & Flow, the one with the three different charging cables because Sam's devices used formats that should have been illegal. I hadn't needed it since moving back to Hanover & Pryce. The office had standard chargers. Normal equipment. Nothing that required three different USB variants.
+There was a cable pouch in my bag,the one I used to bring to Forge & Flow, the one with the three different charging cables because Sam's devices used formats that should have been illegal. I hadn't needed it since moving back to Hanover & Pryce. The office had standard chargers. Normal equipment. Nothing that required three different USB variants.
 
 I touched the pouch through the fabric of my bag. A tactile ghost.
 
-Upstairs, on my desk, there was a mug I'd borrowed from the break room. It was the wrong weight. Too light, too glossy, too impersonal. Nothing like the chipped ceramic that lived in Sam's kitchen cabinet—the one I'd left behind when I left, the one that had never been mine anyway.
+Upstairs, on my desk, there was a mug I'd borrowed from the break room. It was the wrong weight. Too light, too glossy, too impersonal. Nothing like the chipped ceramic that lived in Sam's kitchen cabinet,the one I'd left behind when I left, the one that had never been mine anyway.
 
 These were the things he'd changed without meaning to.
 
@@ -5349,7 +5349,7 @@ I hated it. I also, if I was being honest, didn't hate it at all.
 
 I walked to the elevator. Pressed the button. Waited.
 
-And when the doors opened, I stepped inside and let myself think—for just a moment—about May. About what might happen when the boundaries expired.
+And when the doors opened, I stepped inside and let myself think,for just a moment,about May. About what might happen when the boundaries expired.
 
 About what I wanted to find on the other side.
 
@@ -5365,7 +5365,7 @@ I drew myself into it too. The small office I'd claimed as my own. The desk wher
 
 When I finished, I looked at what I'd made.
 
-It was a map of a place I couldn't go back to. A floor plan of a building where I no longer worked. But it was also evidence of something else—proof that I'd been changed by occupying that space. By occupying it with him.
+It was a map of a place I couldn't go back to. A floor plan of a building where I no longer worked. But it was also evidence of something else,proof that I'd been changed by occupying that space. By occupying it with him.
 
 I folded the envelope carefully and put it in my desk drawer.
 
@@ -5397,7 +5397,7 @@ April 4th.
 
 Twenty-six days until May.
 
-I've been counting in my head for weeks now—the number changing each morning when I wake up, a reverse countdown that feels less like anticipation and more like holding my breath underwater. Twenty-six days doesn't sound like much. It sounds like nothing. It sounds like forever.
+I've been counting in my head for weeks now,the number changing each morning when I wake up, a reverse countdown that feels less like anticipation and more like holding my breath underwater. Twenty-six days doesn't sound like much. It sounds like nothing. It sounds like forever.
 
 Gloria appears in my doorway. "You saw it."
 
@@ -5415,7 +5415,7 @@ But the walkthrough is for accessibility compliance verification.
 
 Which means documentation.
 
-Which means I'll see exactly how Sam Reyes handled the glaze issue—whether he actually read those safety reports or just signed off on someone else's summary. Whether Elena was telling the truth about him fixing it, or whether she was just being a sister, seeing what she wanted to see.
+Which means I'll see exactly how Sam Reyes handled the glaze issue,whether he actually read those safety reports or just signed off on someone else's summary. Whether Elena was telling the truth about him fixing it, or whether she was just being a sister, seeing what she wanted to see.
 
 I've been building a case in my head for two months. A case for why he changed too late, or not enough, or only under pressure. A case for why the separation is necessary, why May is the right timeline, why trusting him again would be professionally reckless and personally catastrophic.
 
@@ -5429,25 +5429,25 @@ She doesn't argue. Just nods once, like she expected this, and leaves me alone w
 
 The Forge & Flow space looks different in April.
 
-Not the architecture—that's the same. The ramps I designed, the wide doorways, the bathroom stall placement that took three rounds of revision because the contractor kept "improving" my specifications. But someone's added plants. A fig tree in the corner, tall and reaching toward the skylights. Succulents on the windowsills. The concrete floors that looked industrial in winter now look intentional, warmed by natural light pouring through the glass.
+Not the architecture,that's the same. The ramps I designed, the wide doorways, the bathroom stall placement that took three rounds of revision because the contractor kept "improving" my specifications. But someone's added plants. A fig tree in the corner, tall and reaching toward the skylights. Succulents on the windowsills. The concrete floors that looked industrial in winter now look intentional, warmed by natural light pouring through the glass.
 
 The glass that Sam fixed.
 
 I see the documentation before I see him.
 
-It's spread across a folding table near the entrance—the verification binders that Harrison's team assembled for final sign-off. I shouldn't stop. I should wait for the formal walkthrough, maintain professional distance, keep my hands at my sides and my pulse at a reasonable rate.
+It's spread across a folding table near the entrance,the verification binders that Harrison's team assembled for final sign-off. I shouldn't stop. I should wait for the formal walkthrough, maintain professional distance, keep my hands at my sides and my pulse at a reasonable rate.
 
 Instead, I pick up the first binder.
 
 *Material Safety Verification: Tempered Glass Panels, Zones A-F*
 
-The tabs are color-coded. The sections are numbered. And in the margins, in handwriting I'd know anywhere—small, precise, the letters slanting slightly left like they're trying to keep up with his thoughts—
+The tabs are color-coded. The sections are numbered. And in the margins, in handwriting I'd know anywhere,small, precise, the letters slanting slightly left like they're trying to keep up with his thoughts,
 
 Notes.
 
 Not signatures. Not initials. Actual notes.
 
-*Verify thermal expansion coefficient against ASTM C1048. Called manufacturer directly—confirmed standard compliance.*
+*Verify thermal expansion coefficient against ASTM C1048. Called manufacturer directly,confirmed standard compliance.*
 
 *Cross-reference with ADA guidelines section 4.13.10. Checked.*
 
@@ -5455,7 +5455,7 @@ Not signatures. Not initials. Actual notes.
 
 Page after page. Every glass specification, every safety standard, every technical document that I'd flagged in my original compliance report. He didn't just read them. He tracked them back to their sources. He built his own verification chain from the ground up, as if my concerns had been a blueprint for his suspicion.
 
-*Original supplier couldn't provide third-party testing documentation. Switched to Clearview Industrial—costs more but full paper trail. Worth it.*
+*Original supplier couldn't provide third-party testing documentation. Switched to Clearview Industrial,costs more but full paper trail. Worth it.*
 
 The second binder is worse. Or better. The installation timeline, annotated with delay explanations and quality checkpoints and a note in the margin that reads, simply: *B. was right. Blind trust is efficient but stupid.*
 
@@ -5467,11 +5467,11 @@ B.
 
 I set the binder down. Take one breath.
 
-*Evidence of change isn't trust.* I know this — I've processed enough litigation to understand that documentation proves behavior, not character. A paper trail can be manufactured. Verification chains can be constructed retroactively. People can learn to document and still not change. The fact that his handwriting is in the margins doesn't mean the handwriting is honest. The fact that I recognize his particular shorthand doesn't mean I can trust what the shorthand says.
+*Evidence of change isn't trust.* I know this , I've processed enough litigation to understand that documentation proves behavior, not character. A paper trail can be manufactured. Verification chains can be constructed retroactively. People can learn to document and still not change. The fact that his handwriting is in the margins doesn't mean the handwriting is honest. The fact that I recognize his particular shorthand doesn't mean I can trust what the shorthand says.
 
 I pick up the third binder.
 
-Then the fourth. Somewhere between the third binder and the sixth, I stopped arguing with myself. I didn't decide to stop. It just became quieter — the counterarguments thinner, the margins closer together — and by the time I surfaced I was simply standing there, reading, the resistance already behind me without my having noticed it leave.
+Then the fourth. Somewhere between the third binder and the sixth, I stopped arguing with myself. I didn't decide to stop. It just became quieter , the counterarguments thinner, the margins closer together , and by the time I surfaced I was simply standing there, reading, the resistance already behind me without my having noticed it leave.
 
 "You're early."
 
@@ -5481,7 +5481,7 @@ Sam Reyes stands ten feet away.
 
 He looks terrible. He looks wonderful. He looks like someone who hasn't been sleeping well, which I know because I haven't been sleeping well either and I recognize the particular shade of tired that comes from lying awake at 3 AM wondering if you ruined something irreparably.
 
-His hair is longer than it was in February. Curling at the edges like it's given up fighting him. He's wearing a button-down shirt that doesn't quite fit right across the shoulders—either he's lost weight or he's borrowed someone else's clothes, and I don't know which option makes me feel worse.
+His hair is longer than it was in February. Curling at the edges like it's given up fighting him. He's wearing a button-down shirt that doesn't quite fit right across the shoulders,either he's lost weight or he's borrowed someone else's clothes, and I don't know which option makes me feel worse.
 
 "Harrison said 9:30." My voice comes out steadier than I expected. Court training. Years of speaking clearly while my hands shook under tables. "I like to review materials before formal walkthroughs."
 
@@ -5497,19 +5497,19 @@ A muscle in his jaw moves once. "You read the margin notes."
 
 "They're in the binders."
 
-"They weren't supposed to be." He rubs the back of his neck—a nervous gesture I've catalogued a hundred times, usually preceding either an apology or an explanation he's still constructing. "Elena organized the documentation. She said the notes added 'context.' I told her they added 'embarrassment.'"
+"They weren't supposed to be." He rubs the back of his neck,a nervous gesture I've catalogued a hundred times, usually preceding either an apology or an explanation he's still constructing. "Elena organized the documentation. She said the notes added 'context.' I told her they added 'embarrassment.'"
 
 "Why embarrassment?"
 
-He meets my eyes for the first time since he walked in. "Because you told me. Eight months ago. You told me exactly what I was doing wrong—trusting efficiency over verification, signing off on reports I hadn't traced back to source material, building my business on someone else's word instead of my own research. And I didn't listen because listening would have meant admitting I'd been doing it wrong for years."
+He meets my eyes for the first time since he walked in. "Because you told me. Eight months ago. You told me exactly what I was doing wrong,trusting efficiency over verification, signing off on reports I hadn't traced back to source material, building my business on someone else's word instead of my own research. And I didn't listen because listening would have meant admitting I'd been doing it wrong for years."
 
-The air between us changes — not warm exactly, but no longer the particular cold of two people avoiding something. More like the moment before a room is heated, when the radiator starts to tick.
+The air between us changes , not warm exactly, but no longer the particular cold of two people avoiding something. More like the moment before a room is heated, when the radiator starts to tick.
 
 It's not cold anymore. It's waiting.
 
-Not cold since I walked in, since I saw his handwriting in those margins, since I understood that he'd done exactly what I'd asked him to do—not because I asked, but because I'd been right, and he'd finally let himself see it.
+Not cold since I walked in, since I saw his handwriting in those margins, since I understood that he'd done exactly what I'd asked him to do,not because I asked, but because I'd been right, and he'd finally let himself see it.
 
-"So I went back," he continues. "Every project from the last eighteen months. Every compliance document, every supplier certification, every safety report. I traced them all to source. Found two other issues—not as serious as the glaze, but problems. Fixed them before they became problems. Started a new verification protocol for everything Mobility Workshop builds." He shrugs like this is normal, like this is small, like he didn't just describe rebuilding his entire professional methodology from scratch. "The margin notes were mostly me arguing with myself. About why I didn't do this sooner. About what it cost me to learn the hard way."
+"So I went back," he continues. "Every project from the last eighteen months. Every compliance document, every supplier certification, every safety report. I traced them all to source. Found two other issues,not as serious as the glaze, but problems. Fixed them before they became problems. Started a new verification protocol for everything Mobility Workshop builds." He shrugs like this is normal, like this is small, like he didn't just describe rebuilding his entire professional methodology from scratch. "The margin notes were mostly me arguing with myself. About why I didn't do this sooner. About what it cost me to learn the hard way."
 
 *What it cost me.*
 
@@ -5517,13 +5517,13 @@ I don't ask what he means. I don't have to.
 
 The date is fixed in my chest like a pin through paper. Twenty-three days from now, I'll be allowed to decide things differently.
 
-"The walkthrough starts in twenty minutes," I say instead. "We should probably—"
+"The walkthrough starts in twenty minutes," I say instead. "We should probably,"
 
 "Berna."
 
-My name. Just my name. But the way he says it—
+My name. Just my name. But the way he says it,
 
-"I'm not asking for anything." He stays ten feet away. Doesn't move. Doesn't reach. "I know the timeline. I know why you needed it. I know that pushing would be exactly the wrong thing to do, and I'm trying very hard not to be the person who does the wrong thing anymore." A pause. "But I wanted you to know that I get it now. The trust thing. Why it matters. Why it mattered to you that I—" He stops. Starts again. "I'm not asking you to believe me. I'm just asking you to look at the documentation."
+"I'm not asking for anything." He stays ten feet away. Doesn't move. Doesn't reach. "I know the timeline. I know why you needed it. I know that pushing would be exactly the wrong thing to do, and I'm trying very hard not to be the person who does the wrong thing anymore." A pause. "But I wanted you to know that I get it now. The trust thing. Why it matters. Why it mattered to you that I," He stops. Starts again. "I'm not asking you to believe me. I'm just asking you to look at the documentation."
 
 "I already did."
 
@@ -5547,7 +5547,7 @@ The calendar sits in my head. May sits at the end of it. I made myself a promise
 
 But the evidence is in those binders. Page after page of it. Six volumes of Sam Reyes learning to trust differently, documented in his own handwriting, annotated with his own arguments against himself.
 
-"The walkthrough," I say. My voice isn't steady anymore. Hasn't been since he said *survive you*. "We should—"
+"The walkthrough," I say. My voice isn't steady anymore. Hasn't been since he said *survive you*. "We should,"
 
 "Yeah." He nods. Takes a step back, adding distance I didn't ask for. "Yeah, the walkthrough."
 
@@ -5565,7 +5565,7 @@ Professional. Impeccable. Completely routine.
 
 And through all of it, Sam stays on the opposite side of the space.
 
-Not avoiding me, exactly. More like maintaining orbit. Close enough to see, too far to touch, circling the same center of gravity without ever intersecting. When I check the ramp railings, he's by the windows. When I move to the windows, he's at the front counter. When Harrison herds us all toward the back studio for final verification, Sam somehow ends up behind me and to the left—visible in my peripheral vision but never directly in my sightline.
+Not avoiding me, exactly. More like maintaining orbit. Close enough to see, too far to touch, circling the same center of gravity without ever intersecting. When I check the ramp railings, he's by the windows. When I move to the windows, he's at the front counter. When Harrison herds us all toward the back studio for final verification, Sam somehow ends up behind me and to the left,visible in my peripheral vision but never directly in my sightline.
 
 It shouldn't be intimate. It's the opposite of intimate. It's two people not touching, not speaking, not looking at each other for longer than seconds at a time.
 
@@ -5579,7 +5579,7 @@ I don't smile. I want to.
 
 "I have some additional verification materials," Sam says. "For the lead counsel's files. If she wants them."
 
-Harrison waves a hand. "I'm sure whatever you provided is—"
+Harrison waves a hand. "I'm sure whatever you provided is,"
 
 "I'll take them."
 
@@ -5587,15 +5587,15 @@ Everyone looks at me. Including Sam, finally, directly, his eyes meeting mine ac
 
 "For the files," I add. Because I need to say something. Because the date on my calendar is an eternity and also nothing at all. "In case of future questions."
 
-"Right." Sam reaches into the bag I hadn't noticed him carrying. Produces a folder—thick, tabbed, with a sticky note on the front. "I made copies of everything relevant. Supplier chains, testing certifications, the whole verification protocol we developed. In case you wanted to review it. For professional purposes."
+"Right." Sam reaches into the bag I hadn't noticed him carrying. Produces a folder,thick, tabbed, with a sticky note on the front. "I made copies of everything relevant. Supplier chains, testing certifications, the whole verification protocol we developed. In case you wanted to review it. For professional purposes."
 
 *For professional purposes.*
 
-I take the folder. My fingers brush his for approximately one-quarter of one second—not enough to count, not enough to acknowledge, just enough to remind my nervous system that he's real and solid and standing three feet away after two months of absence.
+I take the folder. My fingers brush his for approximately one-quarter of one second,not enough to count, not enough to acknowledge, just enough to remind my nervous system that he's real and solid and standing three feet away after two months of absence.
 
 The sticky note on the front is yellow. The handwriting is his.
 
-*B— Everything you asked for. Everything I should have done from the beginning. —S*
+*B, Everything you asked for. Everything I should have done from the beginning. ,S*
 
 I tuck the folder under my arm before Harrison can see it. Before Elena can see it. Before Sam can watch me read it again and again, memorizing the shape of his letters, the brevity of his words, the fact that he signed it with just an initial like we're teenagers passing notes instead of adults with legal complications.
 
@@ -5609,11 +5609,11 @@ And I stand in the middle of Forge & Flow with Sam's folder against my ribs and 
 
 Afterward.
 
-Elena catches me in the parking lot. Not by accident—she was waiting, I can tell, positioned between my car and the exit like a very well-dressed checkpoint.
+Elena catches me in the parking lot. Not by accident,she was waiting, I can tell, positioned between my car and the exit like a very well-dressed checkpoint.
 
 "He's going to kill me for this," she says. "But he's also been terrible for two months, so I figure I'm owed some interference."
 
-"Elena—"
+"Elena,"
 
 "He comes here every day." She cuts me off like I wasn't speaking. "Not to work on the project. That's done. He comes to check the documentation. To make sure nothing's changed, nothing's been moved, nothing's different from the last time he verified it. He made me promise not to tell you, but I'm terrible at promises and also he rewrote his entire company's safety protocol because you were right about something, so I think you should probably know that."
 
@@ -5621,7 +5621,7 @@ I don't know what to say.
 
 *The number,* my brain supplies unhelpfully.
 
-"I'm not trying to pressure you." Elena's voice softens. "Whatever you decide, whatever timeline you need—that's yours. He knows that. But I'm his sister, and I watched him work himself half to death over those verification binders, and I need you to understand that it wasn't about winning you back or proving something or any kind of—grand gesture." She says the last words like they taste bitter. "He genuinely believed he'd been doing it wrong. He genuinely wanted to fix it. Even if you never saw those binders. Even if you never came back."
+"I'm not trying to pressure you." Elena's voice softens. "Whatever you decide, whatever timeline you need,that's yours. He knows that. But I'm his sister, and I watched him work himself half to death over those verification binders, and I need you to understand that it wasn't about winning you back or proving something or any kind of,grand gesture." She says the last words like they taste bitter. "He genuinely believed he'd been doing it wrong. He genuinely wanted to fix it. Even if you never saw those binders. Even if you never came back."
 
 "Why are you telling me this?"
 
@@ -5635,7 +5635,7 @@ Looks at me.
 
 I open my mouth. Close it.
 
-The folder is still under my arm. The sticky note is still visible at the edge—*Everything you asked for.*
+The folder is still under my arm. The sticky note is still visible at the edge,*Everything you asked for.*
 
 "Marco's been wrong before," I say finally. "About small things. Predictions. Which restaurant will survive a health inspection. Whether a particular client is telling the truth about their expenses."
 
@@ -5671,7 +5671,7 @@ That night, I do the thing I promised myself I wouldn't do.
 
 I read all six binders.
 
-Gloria had them couriered over after the walkthrough—"for the files," she said, with the same careful neutrality she uses for everything related to this case—and now they're spread across my living room floor at 11:47 PM, tabs and sticky notes and margin notes everywhere.
+Gloria had them couriered over after the walkthrough,"for the files," she said, with the same careful neutrality she uses for everything related to this case,and now they're spread across my living room floor at 11:47 PM, tabs and sticky notes and margin notes everywhere.
 
 He was right. They're excessive.
 
@@ -5683,11 +5683,11 @@ Every supplier traced to source. Every safety standard cross-referenced. Every t
 
 I set the binder down.
 
-That one stops me. Not because it's the most significant thing I've read tonight—there are hundreds of notes, and most of them are more technically detailed, more thorough, more objectively impressive. But *B. would want proof, not promises* is written in the margin of a routine supplier re-verification. A document that no one ever needed to check twice. A check he ran anyway, months after the glaze crisis, for a subcontractor nobody had complained about.
+That one stops me. Not because it's the most significant thing I've read tonight,there are hundreds of notes, and most of them are more technically detailed, more thorough, more objectively impressive. But *B. would want proof, not promises* is written in the margin of a routine supplier re-verification. A document that no one ever needed to check twice. A check he ran anyway, months after the glaze crisis, for a subcontractor nobody had complained about.
 
 He wasn't documenting for me. He was documenting like me.
 
-I carry the binders to my office—next to the folder, next to the floor plan, next to every artifact of the last eight months that I can't bring myself to throw away.
+I carry the binders to my office,next to the folder, next to the floor plan, next to every artifact of the last eight months that I can't bring myself to throw away.
 
 The number on the calendar doesn't feel like a countdown anymore.
 
@@ -5735,31 +5735,31 @@ Because I spent six hours reading about Sam Reyes in his own handwriting, and I 
 
 The third floor is empty.
 
-Of course it is. It's 7:14 AM on a Wednesday. The other tenants—the graphic design firm, the podcast startup, the accountant who exclusively wears Patagonia vests—won't arrive for at least two hours. I know this because I have been tracking arrival patterns since November. Not intentionally. Just... observationally. The way you notice things about places where you've spent a lot of time not admitting that you're spending time there.
+Of course it is. It's 7:14 AM on a Wednesday. The other tenants,the graphic design firm, the podcast startup, the accountant who exclusively wears Patagonia vests,won't arrive for at least two hours. I know this because I have been tracking arrival patterns since November. Not intentionally. Just... observationally. The way you notice things about places where you've spent a lot of time not admitting that you're spending time there.
 
 Sam's corner is at the far end.
 
-I walk toward it. My heels click on the concrete floor—a sound that used to announce my arrival, that used to make him look up from whatever prototype he was testing and smile like I'd brought good weather. I haven't heard that click in twenty-three days.
+I walk toward it. My heels click on the concrete floor,a sound that used to announce my arrival, that used to make him look up from whatever prototype he was testing and smile like I'd brought good weather. I haven't heard that click in twenty-three days.
 
 His desk comes into view.
 
 My hands go still at my sides.
 
-It's exactly the same. Which shouldn't surprise me—people don't reorganize their entire workspace in three weeks—but somehow I expected it to look different. Emptier. Sadder. Some physical evidence of the distance I'd demanded.
+It's exactly the same. Which shouldn't surprise me,people don't reorganize their entire workspace in three weeks,but somehow I expected it to look different. Emptier. Sadder. Some physical evidence of the distance I'd demanded.
 
 Instead: chaos. The beautiful, productive chaos of Sam Reyes at work.
 
-Sketches everywhere. Pinned to the corkboard, scattered across the desk, taped to the partition wall. Some I recognize from before—early concepts for the handle system, the rejected wheel designs, the user feedback diagrams. But some are new.
+Sketches everywhere. Pinned to the corkboard, scattered across the desk, taped to the partition wall. Some I recognize from before,early concepts for the handle system, the rejected wheel designs, the user feedback diagrams. But some are new.
 
 A lot of them are new.
 
 I move closer. My spreadsheet of belongings temporarily forgotten.
 
-The new sketches show a grip system I've never seen. More ergonomic. The angle is different, gentler on the wrist. There are annotations in Sam's handwriting—messy, excited, the letters getting bigger when he's onto something:
+The new sketches show a grip system I've never seen. More ergonomic. The angle is different, gentler on the wrist. There are annotations in Sam's handwriting,messy, excited, the letters getting bigger when he's onto something:
 
 *Tested with arthritis simulation*
 *Claire says easier for her aunt*
-*COATING FIXED—see sample*
+*COATING FIXED,see sample*
 
 And next to the last note, circled three times:
 
@@ -5771,11 +5771,11 @@ I touch the paper without meaning to.
 
 The prototype is on his workbench.
 
-I know I shouldn't look at it. I'm here for my cardigan and my legal pad and my Pilot G2s—my seventeen documented items, catalogued and spreadsheet-verified. I'm not here to examine his work. I'm not here to find evidence.
+I know I shouldn't look at it. I'm here for my cardigan and my legal pad and my Pilot G2s,my seventeen documented items, catalogued and spreadsheet-verified. I'm not here to examine his work. I'm not here to find evidence.
 
 But the prototype is *right there*, and Berna Alvarez has never successfully walked past evidence in her entire life.
 
-It's a walker handle. The same model I've seen him test a hundred times—the one he designed for stroke survivors, the one that went to user testing last month. But this version is different.
+It's a walker handle. The same model I've seen him test a hundred times,the one he designed for stroke survivors, the one that went to user testing last month. But this version is different.
 
 The coating is different.
 
@@ -5789,7 +5789,7 @@ He wasn't writing about the business. He was writing about the people who would 
 
 He was making the work better so that the trust was justified.
 
-I set the handle down. My hands are shaking slightly. Not with anxiety—with recognition. The feeling of finding evidence that supports a conclusion you wanted to reach but were too afraid to assume.
+I set the handle down. My hands are shaking slightly. Not with anxiety,with recognition. The feeling of finding evidence that supports a conclusion you wanted to reach but were too afraid to assume.
 
 *This is who he is now.*
 
@@ -5803,7 +5803,7 @@ The partition wall is where we used to leave messages.
 
 Not love notes. Post-its. The most unsexy form of communication ever invented, and somehow Sam Reyes turned them into a whole thing.
 
-It started in November, before the contract was signed. I'd demanded changes to the first draft—Sam's version was too loose, too many undefined terms—and he'd responded by leaving a Post-it on my laptop: *Your clause is showing.*
+It started in November, before the contract was signed. I'd demanded changes to the first draft,Sam's version was too loose, too many undefined terms,and he'd responded by leaving a Post-it on my laptop: *Your clause is showing.*
 
 I'd left one on his coffee mug: *Your methodology is questionable.*
 
@@ -5821,7 +5821,7 @@ By December, the partition wall was covered in them. Yellow squares, blue square
 
 I haven't left a Post-it in twenty-three days.
 
-Neither has he. The wall looks the same as it did the last time I was here—mid-February, before the gap, before I demanded space to think. The most recent one is still visible, slightly curled at the edges:
+Neither has he. The wall looks the same as it did the last time I was here,mid-February, before the gap, before I demanded space to think. The most recent one is still visible, slightly curled at the edges:
 
 *Consortium dinner Tuesday. I'll pick you up at 6.*
 *That wasn't a question.*
@@ -5835,7 +5835,7 @@ Neither has he. The wall looks the same as it did the last time I was here—mid
 
 I read the exchange three times.
 
-Then I pull a Post-it from the stack on his desk—yellow, the classic—and I uncap a pen.
+Then I pull a Post-it from the stack on his desk,yellow, the classic,and I uncap a pen.
 
 ---
 
@@ -5857,7 +5857,7 @@ My hand moves.
 
 I stick it to the wall.
 
-It looks small. Smaller than it felt to write. Eight words that don't explain anything—not the binders I read, not the night I spent sitting with his evidence, not the three weeks I spent telling myself I was still deciding while my body already knew the answer.
+It looks small. Smaller than it felt to write. Eight words that don't explain anything,not the binders I read, not the night I spent sitting with his evidence, not the three weeks I spent telling myself I was still deciding while my body already knew the answer.
 
 But Sam will understand.
 
@@ -5865,7 +5865,7 @@ Sam always understands the things I don't say directly.
 
 ---
 
-I'm gathering my cardigan—item seven of seventeen—when I hear the elevator.
+I'm gathering my cardigan,item seven of seventeen,when I hear the elevator.
 
 My stomach drops. Not in fear. In something more complicated. The feeling of being caught in the middle of an action you were trying to complete before facing its consequences.
 
@@ -5873,21 +5873,21 @@ The elevator doors open.
 
 Footsteps on concrete.
 
-I should grab the rest of my items and leave through the back stairwell. I should avoid this conversation entirely. I should—
+I should grab the rest of my items and leave through the back stairwell. I should avoid this conversation entirely. I should,
 
 "Berna?"
 
-He's carrying coffee. Two cups. The same order we've been getting for three months—black for him, oat milk latte for me, an unspoken accommodation that started in November and never stopped.
+He's carrying coffee. Two cups. The same order we've been getting for three months,black for him, oat milk latte for me, an unspoken accommodation that started in November and never stopped.
 
 Why does he have two cups?
 
-"I was retrieving my belongings," I say. My voice is steady. My legal training kicks in automatically—neutral tone, defensible statement, no admission of intent. "Per the termination clause, I retained ownership of all personal items left on premises."
+"I was retrieving my belongings," I say. My voice is steady. My legal training kicks in automatically,neutral tone, defensible statement, no admission of intent. "Per the termination clause, I retained ownership of all personal items left on premises."
 
 Sam looks at me. Then at the cardigan in my hands. Then at the partition wall.
 
 He sees the Post-it.
 
-I watch his face change. The careful blankness he's been maintaining since March—the respect for my distance, the space I demanded—cracks open. Just for a moment. Something raw underneath.
+I watch his face change. The careful blankness he's been maintaining since March,the respect for my distance, the space I demanded,cracks open. Just for a moment. Something raw underneath.
 
 "You came back," he says.
 
@@ -5905,7 +5905,7 @@ He sets both coffees down on the nearest desk. His hands are deliberate. He's mo
 
 "Your position being..."
 
-I swallow. "That I didn't mind it. The waiting. Even when—" The words catch. I force them through anyway. "Even when I pretended that I did."
+I swallow. "That I didn't mind it. The waiting. Even when," The words catch. I force them through anyway. "Even when I pretended that I did."
 
 ---
 
@@ -5923,7 +5923,7 @@ Three feet away. Close enough to touch, if either of us reached. Far enough that
 
 "Yeah." Sam's voice is rough. "That's what I was trying to show you."
 
-"I know." I'm shaking. When did I start shaking? "I know that now. I knew it when I finished reading. I knew it when I looked at the prototype on your workbench. The new coating—the one that accommodates variable grip strength—that's what you've been working on. That's what Section 2.3 was about."
+"I know." I'm shaking. When did I start shaking? "I know that now. I knew it when I finished reading. I knew it when I looked at the prototype on your workbench. The new coating,the one that accommodates variable grip strength,that's what you've been working on. That's what Section 2.3 was about."
 
 "You looked at my prototype?"
 
@@ -5935,15 +5935,15 @@ He almost smiles. Almost. "Berna."
 
 "I was trying to prove something that mattered."
 
-"I know." My voice breaks fully this time. "I know you were. And I spent twenty-three days telling myself I needed more time, more data, more certainty. But the truth is—" I take a breath. "The truth is, I've known since January. I've known since you handed me that first draft of the contract and I wanted to find reasons to reject it and couldn't. I've known since November, probably. Since the first Post-it. Since you called my clause 'showing' and I laughed instead of objecting."
+"I know." My voice breaks fully this time. "I know you were. And I spent twenty-three days telling myself I needed more time, more data, more certainty. But the truth is," I take a breath. "The truth is, I've known since January. I've known since you handed me that first draft of the contract and I wanted to find reasons to reject it and couldn't. I've known since November, probably. Since the first Post-it. Since you called my clause 'showing' and I laughed instead of objecting."
 
 "Berna."
 
-"I'm not good at this," I say. "I'm not good at uncertainty. I'm not good at trust without documentation. I'm not good at—" I gesture between us. "Whatever this is. Whatever this has been. I needed distance because I was terrified, and I needed evidence because I don't know how to believe things without it, and I needed you to prove that you'd changed because I couldn't survive being wrong again. But you did prove it. You built six binders and a better prototype and you waited while I panicked, and now I'm standing in your workspace at 7 AM holding my cardigan and I don't actually care about the cardigan, Sam. I care about—"
+"I'm not good at this," I say. "I'm not good at uncertainty. I'm not good at trust without documentation. I'm not good at," I gesture between us. "Whatever this is. Whatever this has been. I needed distance because I was terrified, and I needed evidence because I don't know how to believe things without it, and I needed you to prove that you'd changed because I couldn't survive being wrong again. But you did prove it. You built six binders and a better prototype and you waited while I panicked, and now I'm standing in your workspace at 7 AM holding my cardigan and I don't actually care about the cardigan, Sam. I care about,"
 
 I stop.
 
-He's close enough that I can see the details of his face. The circles under his eyes—he hasn't been sleeping either. The tension in his jaw—he's holding himself still on purpose. The way his hands are shaking—
+He's close enough that I can see the details of his face. The circles under his eyes,he hasn't been sleeping either. The tension in his jaw,he's holding himself still on purpose. The way his hands are shaking,
 
 His hands are shaking.
 
@@ -5965,7 +5965,7 @@ But I'm so tired of being good at that.
 
 I reach for his hand.
 
-It's not accidental. It's not momentum. It's not the kind of touch that happens to people—the brush of fingers in a crowd, the incidental contact of shared spaces.
+It's not accidental. It's not momentum. It's not the kind of touch that happens to people,the brush of fingers in a crowd, the incidental contact of shared spaces.
 
 This is deliberate.
 
@@ -5981,7 +5981,7 @@ Not tight. Not possessive. Just... there. Present. Holding on the way you hold s
 
 "For the record," I say, and my voice is steadier than I expected, "this constitutes a material change to the terms of our arrangement."
 
-He laughs. Actually laughs—the sound cracking through three weeks of careful distance.
+He laughs. Actually laughs,the sound cracking through three weeks of careful distance.
 
 "What are the new terms?"
 
@@ -6001,15 +6001,15 @@ His thumb traces a circle on my palm. Small. Deliberate. The kind of touch that 
 
 "Your last contract had seventeen deficiencies."
 
-"And you fixed all of them." He's smiling now. Actually smiling—the smile I haven't seen in twenty-three days. "Berna. I have a proposal."
+"And you fixed all of them." He's smiling now. Actually smiling,the smile I haven't seen in twenty-three days. "Berna. I have a proposal."
 
 "I'm listening."
 
-"New terms. No termination clause. No verification binders—or actually, keep those, you seemed to like them. But no more distance. No more pretending we don't know what this is."
+"New terms. No termination clause. No verification binders,or actually, keep those, you seemed to like them. But no more distance. No more pretending we don't know what this is."
 
 "What is this?"
 
-He lifts my hand. Turns it over. Presses his lips to my palm—the gesture so unexpected, so tender, that I forget to breathe.
+He lifts my hand. Turns it over. Presses his lips to my palm,the gesture so unexpected, so tender, that I forget to breathe.
 
 "Whatever you want it to be," he says against my skin. "Whatever you're ready to call it. I'll wait for you to find the right words."
 
@@ -6021,11 +6021,11 @@ He lifts my hand. Turns it over. Presses his lips to my palm—the gesture so un
 
 "So tell me one."
 
-I look at him. At his face, his hands, his workspace full of sketches and prototypes and evidence of change. At the partition wall covered in Post-its—three months of conversation, documented in yellow and blue and pink squares. At the newest addition: *For the record: I didn't mind the queue.*
+I look at him. At his face, his hands, his workspace full of sketches and prototypes and evidence of change. At the partition wall covered in Post-its,three months of conversation, documented in yellow and blue and pink squares. At the newest addition: *For the record: I didn't mind the queue.*
 
 "Real," I say.
 
-"Real." He says it back like he's testing the weight of it. "I have to tell you, I rehearsed four different responses for if you said real, and all of them were terrible, so I'm going to — I'm just going to—"
+"Real." He says it back like he's testing the weight of it. "I have to tell you, I rehearsed four different responses for if you said real, and all of them were terrible, so I'm going to , I'm just going to,"
 
 He closes the remaining distance between us.
 
@@ -6033,7 +6033,7 @@ He closes the remaining distance between us.
 
 "I'm listening."
 
-"Not fake," I say. "Not contracted. Not strategic. Not—" I take a breath. "Not something I can put in a spreadsheet and pretend I chose for practical reasons."
+"Not fake," I say. "Not contracted. Not strategic. Not," I take a breath. "Not something I can put in a spreadsheet and pretend I chose for practical reasons."
 
 "What did you choose it for?"
 
@@ -6051,7 +6051,7 @@ The question is soft. He already knows the answer. But he's asking anyway, becau
 
 The coffee is cold by the time either of us drinks it.
 
-We're sitting on his workbench—unprofessional, undignified, completely out of character for someone who color-codes her chaos. But I don't care. I'm holding cold coffee and his hand and both feel right.
+We're sitting on his workbench,unprofessional, undignified, completely out of character for someone who color-codes her chaos. But I don't care. I'm holding cold coffee and his hand and both feel right.
 
 "The prototype," I say. "The new coating. When did you finish it?"
 
@@ -6059,7 +6059,7 @@ We're sitting on his workbench—unprofessional, undignified, completely out of 
 
 "The binders say Day Twelve."
 
-"The materials arrived early." He's not looking at me—he's looking at our hands, tangled together like this is something we've always done. "I couldn't sleep. I kept thinking about what you said. About the work. About how it wasn't enough to change the pattern if I didn't change the foundation."
+"The materials arrived early." He's not looking at me,he's looking at our hands, tangled together like this is something we've always done. "I couldn't sleep. I kept thinking about what you said. About the work. About how it wasn't enough to change the pattern if I didn't change the foundation."
 
 "I said that?"
 
@@ -6073,7 +6073,7 @@ We're sitting on his workbench—unprofessional, undignified, completely out of 
 
 "I called it 'Things Berna Told Me That I Needed To Hear.'"
 
-I laugh. Actually laugh—the sound surprising both of us. "That's a terrible file name."
+I laugh. Actually laugh,the sound surprising both of us. "That's a terrible file name."
 
 "I'm not a lawyer. I don't have your filing system."
 
@@ -6109,7 +6109,7 @@ I don't answer immediately. The Post-it is still on the wall, yellow and small a
 
 The sun shifts through the windows.
 
-8 AM. The building is starting to wake up. I can hear the coffee shop opening downstairs—the familiar sounds of espresso machines and morning conversation. Soon the other tenants will arrive. The graphic designers, the podcast people, the accountant in Patagonia.
+8 AM. The building is starting to wake up. I can hear the coffee shop opening downstairs,the familiar sounds of espresso machines and morning conversation. Soon the other tenants will arrive. The graphic designers, the podcast people, the accountant in Patagonia.
 
 Normal life, continuing.
 
@@ -6135,7 +6135,7 @@ I look at him. At the certainty in his face, the steadiness in his voice. At the
 
 "What is it?"
 
-I lean in. Slow, deliberate, the same way I reached for his hand. The kiss is small—barely a kiss, just the brush of lips against the corner of his mouth. But it's enough.
+I lean in. Slow, deliberate, the same way I reached for his hand. The kiss is small,barely a kiss, just the brush of lips against the corner of his mouth. But it's enough.
 
 It's everything.
 
@@ -6143,7 +6143,7 @@ It's everything.
 
 His hand comes up to cup my jaw. Gentle, careful, the way he handles his prototypes. The way he handles things that matter.
 
-And then he kisses me properly—not the brush of lips, not the almost-touch from all those months ago, but the real thing. The thing I've been waiting for without admitting I was waiting.
+And then he kisses me properly,not the brush of lips, not the almost-touch from all those months ago, but the real thing. The thing I've been waiting for without admitting I was waiting.
 
 I kiss him back.
 
@@ -6167,7 +6167,7 @@ VALUES (
   $akm001ch18$
 # Chapter 18
 
-We leave Forge & Flow through the back door because neither of us can wait for the polite choreography of saying goodbye to strangers. Sam's hand stays in mine—deliberate, chosen—and the April air hits us like a slap of reality that changes nothing.
+We leave Forge & Flow through the back door because neither of us can wait for the polite choreography of saying goodbye to strangers. Sam's hand stays in mine,deliberate, chosen,and the April air hits us like a slap of reality that changes nothing.
 
 "My place," he says. "It's closer."
 
@@ -6193,9 +6193,9 @@ He stares at me. "You filed paperwork during our cab ride?"
 
 "It seemed efficient."
 
-He laughs once—surprised, quiet—and then shakes his head and doesn't let go of my hand.
+He laughs once,surprised, quiet,and then shakes his head and doesn't let go of my hand.
 
-When we pull up to his building—a converted craftsman in the Hawthorne neighborhood that I've never seen before—he pays the driver with a twenty and doesn't wait for change. I follow him up three flights of stairs, watching the way he takes them two at a time, keys already in his hand.
+When we pull up to his building,a converted craftsman in the Hawthorne neighborhood that I've never seen before,he pays the driver with a twenty and doesn't wait for change. I follow him up three flights of stairs, watching the way he takes them two at a time, keys already in his hand.
 
 "I should warn you," he says, unlocking the door, "my apartment looks like a design student exploded inside a very nice library."
 
@@ -6203,17 +6203,17 @@ When we pull up to his building—a converted craftsman in the Hawthorne neighbo
 
 "Both." He pushes the door open and steps aside to let me in first. "Also there might be a very judgmental cactus on the windowsill. His name is Gerald. Don't let him intimidate you."
 
-The apartment is exactly what I expected and nothing like what I expected. Exposed brick walls lined with overflowing bookshelves. A massive drafting table covered in sketches and Post-its. Mismatched furniture that somehow works together—a deep green velvet couch, a coffee table made from reclaimed wood, a reading chair that looks like it's been sat in approximately ten thousand times.
+The apartment is exactly what I expected and nothing like what I expected. Exposed brick walls lined with overflowing bookshelves. A massive drafting table covered in sketches and Post-its. Mismatched furniture that somehow works together,a deep green velvet couch, a coffee table made from reclaimed wood, a reading chair that looks like it's been sat in approximately ten thousand times.
 
 "Gerald seems reasonable," I say, nodding at the small cactus on the windowsill.
 
-"He's not. He judges everyone." Sam closes the door behind us and for a moment we just stand there, the two of us in his space, the city muffled by walls and distance. "Can I get you something? Water, wine, the complete works of Shakespeare annotated with my increasingly unhinged margin notes—"
+"He's not. He judges everyone." Sam closes the door behind us and for a moment we just stand there, the two of us in his space, the city muffled by walls and distance. "Can I get you something? Water, wine, the complete works of Shakespeare annotated with my increasingly unhinged margin notes,"
 
 "Sam."
 
 He stops. Looks at me.
 
-"We don't need to do the bit," I say. "The banter. The deflection. We can just—" I take a breath. "I'm nervous."
+"We don't need to do the bit," I say. "The banter. The deflection. We can just," I take a breath. "I'm nervous."
 
 His whole face softens. "Me too."
 
@@ -6221,7 +6221,7 @@ His whole face softens. "Me too."
 
 He crosses to me slowly, giving me time to change my mind. I don't. When he's close enough to touch, he reaches up and traces the line of my jaw with his fingertips, so gentle it makes my chest ache.
 
-"Last time," he says quietly, "I didn't know what I was doing. I mean, I knew what I was doing—I've done the thing before—but I didn't know it was *this*. I didn't know I was falling in love with you."
+"Last time," he says quietly, "I didn't know what I was doing. I mean, I knew what I was doing,I've done the thing before,but I didn't know it was *this*. I didn't know I was falling in love with you."
 
 "And now?"
 
@@ -6233,7 +6233,7 @@ He crosses to me slowly, giving me time to change my mind. I don't. When he's cl
 
 "Because we already survived wrong. We survived the worst possible version of wrong." I turn my head and press a kiss to his palm. "Everything from here is extra credit."
 
-He laughs—a small, surprised sound—and then he kisses me.
+He laughs,a small, surprised sound,and then he kisses me.
 
 The first time we did this, in that dim workshop, there was a frantic quality to it. Discovery. Exploration. The giddy rush of *yes, this works, this body fits against this body in ways I didn't expect*. We learned each other in shorthand, guessing and adjusting, figuring out the shape of something new.
 
@@ -6243,13 +6243,13 @@ His mouth finds mine and I *know* him now. I know the way he kisses like he's as
 
 "Bed," I say against his mouth.
 
-"Down the hall. Left. Unless you want the couch, which I should warn you has a structural weakness that—"
+"Down the hall. Left. Unless you want the couch, which I should warn you has a structural weakness that,"
 
 "Sam."
 
 "Bed. Yes. Good."
 
-We move through his apartment without separating, a complicated dance of mouths and hands and furniture obstacles that somehow doesn't result in injury. His bedroom is small and lived-in—unmade bed, books stacked on the nightstand, a truly impressive quantity of blankets—and when we tumble onto it together, I have the fleeting thought that I've never been in a bed that felt more like *him*.
+We move through his apartment without separating, a complicated dance of mouths and hands and furniture obstacles that somehow doesn't result in injury. His bedroom is small and lived-in,unmade bed, books stacked on the nightstand, a truly impressive quantity of blankets,and when we tumble onto it together, I have the fleeting thought that I've never been in a bed that felt more like *him*.
 
 He pulls back just enough to look at me, propped on his elbow, eyes roaming over my face like he's memorizing something.
 
@@ -6281,7 +6281,7 @@ He lets me undress him, staying very still except for the rapid rise and fall of
 
 "You'll survive." I press my palm flat against his sternum, feeling his heartbeat. "I like that you're nervous."
 
-"I'm not nervous, I'm—" He exhales. "Okay, I'm nervous. But also I'm experiencing approximately seventeen emotions simultaneously and I don't have words for most of them, which is distressing because words are my whole thing, and—"
+"I'm not nervous, I'm," He exhales. "Okay, I'm nervous. But also I'm experiencing approximately seventeen emotions simultaneously and I don't have words for most of them, which is distressing because words are my whole thing, and,"
 
 I kiss him. He stops talking.
 
@@ -6301,7 +6301,7 @@ We shed the rest of our clothes in a tangle of cooperation that would have been 
 
 "We saw each other every day."
 
-"I know. I missed you anyway." He traces patterns on my shoulder blade. "I missed being able to touch you. I missed that thing you do when you laugh—really laugh, not the polite one—where your nose crinkles up."
+"I know. I missed you anyway." He traces patterns on my shoulder blade. "I missed being able to touch you. I missed that thing you do when you laugh,really laugh, not the polite one,where your nose crinkles up."
 
 "It does not."
 
@@ -6317,7 +6317,7 @@ He rolls us so I'm beneath him, his weight a familiar pressure, his eyes very da
 
 "No promises."
 
-"Fair." He takes a breath. "I love you. I know I said that at the party, but I need you to know I mean it here, now, sober, not in crisis mode. I love you and it's not because you're beautiful, although you are, and it's not because you kissed me, although I liked that part, it's because—" He pauses, searching. "You argue with me. Not to win, but because you actually care about being right. You challenge every stupid thing I say and you make me work for it and I've never felt more respected in my entire life."
+"Fair." He takes a breath. "I love you. I know I said that at the party, but I need you to know I mean it here, now, sober, not in crisis mode. I love you and it's not because you're beautiful, although you are, and it's not because you kissed me, although I liked that part, it's because," He pauses, searching. "You argue with me. Not to win, but because you actually care about being right. You challenge every stupid thing I say and you make me work for it and I've never felt more respected in my entire life."
 
 I blink at him. "That's the most romantic thing anyone's ever said to me."
 
@@ -6325,7 +6325,7 @@ I blink at him. "That's the most romantic thing anyone's ever said to me."
 
 "Shut up. I love you too."
 
-His jaw shifts, the relief landing visibly before the rest of him catches up—eyes going bright in a way that's dangerously close to tears. "Yeah?"
+His jaw shifts, the relief landing visibly before the rest of him catches up,eyes going bright in a way that's dangerously close to tears. "Yeah?"
 
 "Yeah." I pull him down to me. "Now stop talking."
 
@@ -6335,7 +6335,7 @@ For once, he listens.
 
 Making love to someone you know is different than making love to someone you're discovering.
 
-I learned that the first time, in his workshop—the specific way his body responds, the sounds he makes, the rhythm he prefers. I catalogued it without meaning to, filed it away under *things I can never think about again*.
+I learned that the first time, in his workshop,the specific way his body responds, the sounds he makes, the rhythm he prefers. I catalogued it without meaning to, filed it away under *things I can never think about again*.
 
 But bodies forget what minds remember. Or maybe the reverse. Either way, when his hands move over me now, there's none of the hesitation from before. He knows where to touch. I know how to arch into it. We fit together like we've done this a hundred times instead of once.
 
@@ -6347,7 +6347,7 @@ But bodies forget what minds remember. Or maybe the reverse. Either way, when hi
 
 "This." I guide his hand lower. "Here. Like that."
 
-He follows instruction. He's always been good at that, actually—better than his chaotic energy would suggest. When his fingers find the right pressure, the right angle, I make a sound that I'd be embarrassed about if I had any pride left.
+He follows instruction. He's always been good at that, actually,better than his chaotic energy would suggest. When his fingers find the right pressure, the right angle, I make a sound that I'd be embarrassed about if I had any pride left.
 
 "Good?" he asks.
 
@@ -6357,7 +6357,7 @@ He follows instruction. He's always been good at that, actually—better than hi
 
 "You're adequate."
 
-"Adequate!" He laughs against my skin. "I'm giving you adequate? That's—" He does something with his hand that makes me gasp. "How about now?"
+"Adequate!" He laughs against my skin. "I'm giving you adequate? That's," He does something with his hand that makes me gasp. "How about now?"
 
 "Improving."
 
@@ -6373,15 +6373,15 @@ I pull him up and over me, wrapping my legs around his waist. "Prove you're bett
 
 "Consider it a performance review."
 
-He laughs—really laughs, the kind that crinkles his nose—and then he pushes into me and I stop thinking in complete sentences.
+He laughs,really laughs, the kind that crinkles his nose,and then he pushes into me and I stop thinking in complete sentences.
 
 This. *This* is what I missed. Not just the physical mechanics, but the way it feels to be known while being touched. He moves with intent now, no guessing, reading my responses like text on a page. When I grip his shoulders, he slows down. When my breath hitches, he angles differently. When I say *there, yes, like that*, he commits it to memory.
 
-"I love you," he says, voice ragged. "I love you, I love you, I—"
+"I love you," he says, voice ragged. "I love you, I love you, I,"
 
 "I know." I pull him closer, bury my face in his neck. "I know."
 
-We finish together—or close enough that it doesn't matter—and afterward, tangled in his ridiculous quantity of blankets, I feel something I haven't felt in years.
+We finish together,or close enough that it doesn't matter,and afterward, tangled in his ridiculous quantity of blankets, I feel something I haven't felt in years.
 
 Safe.
 
@@ -6395,13 +6395,13 @@ Not safe as in nothing bad will ever happen. Safe as in: whatever happens, I won
 
 "The confidence. It's devastating."
 
-"I've been told." I trace shapes on his chest—constellations, contract clauses, nothing in particular. "What happens now?"
+"I've been told." I trace shapes on his chest,constellations, contract clauses, nothing in particular. "What happens now?"
 
-"Now we lie here for a while and I resist the urge to spiral about whether I performed well enough to—"
+"Now we lie here for a while and I resist the urge to spiral about whether I performed well enough to,"
 
 "Not in bed. I mean with everything. The company. The lawsuit. Gloria."
 
-He's quiet for a moment. "The settlement came through yesterday. Dev's team accepted the terms—restructured NDA, mutual non-disclosure, financial compensation that won't bankrupt anyone. It's done."
+He's quiet for a moment. "The settlement came through yesterday. Dev's team accepted the terms,restructured NDA, mutual non-disclosure, financial compensation that won't bankrupt anyone. It's done."
 
 I sit up. "It's *done*?"
 
@@ -6409,7 +6409,7 @@ I sit up. "It's *done*?"
 
 It's an email. Three sentences.
 
-*Reyes. Tell Alvarez her approach worked. Honesty as architecture—who knew. We're keeping you both.*
+*Reyes. Tell Alvarez her approach worked. Honesty as architecture,who knew. We're keeping you both.*
 
 I read it twice. "She wrote that?"
 
@@ -6419,7 +6419,7 @@ I read it twice. "She wrote that?"
 
 "I know. I think she might have feelings."
 
-I lie back down, staring at his ceiling, processing. The career survived. The architecture held. Everything I was afraid of—losing my job, losing my credibility, losing the careful structure I'd built—none of it happened.
+I lie back down, staring at his ceiling, processing. The career survived. The architecture held. Everything I was afraid of,losing my job, losing my credibility, losing the careful structure I'd built,none of it happened.
 
 "I thought we'd be fired," I admit.
 
@@ -6441,7 +6441,7 @@ I roll toward him, press my face against his chest. He wraps his arms around me 
 
 "I didn't think we would."
 
-"Neither did I. I planned for failure. I had a whole speech prepared about how I'd wait for you, how I'd prove I was worth the risk, how—"
+"Neither did I. I planned for failure. I had a whole speech prepared about how I'd wait for you, how I'd prove I was worth the risk, how,"
 
 "You had a *speech*?"
 
@@ -6461,7 +6461,7 @@ I roll toward him, press my face against his chest. He wraps his arms around me 
 
 "It was practical."
 
-"It was tragic. You were going to exile yourself to—what, contracts? Regulatory compliance?"
+"It was tragic. You were going to exile yourself to,what, contracts? Regulatory compliance?"
 
 "Immigration law. The LA office."
 
@@ -6485,7 +6485,7 @@ I kiss him, slow and thorough, just because I can. Just because there's no one s
 
 "I'll take it."
 
-We stay like that for a while, wrapped in blankets and each other, not talking. The city hums outside his window—traffic, sirens, the bass-line of a bar three blocks over. His heartbeat steadies under my palm. I watch the ceiling and let myself feel something I've been afraid of for so long I forgot it was fear.
+We stay like that for a while, wrapped in blankets and each other, not talking. The city hums outside his window,traffic, sirens, the bass-line of a bar three blocks over. His heartbeat steadies under my palm. I watch the ceiling and let myself feel something I've been afraid of for so long I forgot it was fear.
 
 Joy.
 
@@ -6499,7 +6499,7 @@ Pure, unguarded, earned.
 
 He tenses slightly. "Okay."
 
-"It's nothing bad. It's just—" I take a breath. "I'm not good at this. The relationship part. I've never been good at it. I work too much and I forget to call and I get caught up in cases and I have a tendency to think I know best even when I don't."
+"It's nothing bad. It's just," I take a breath. "I'm not good at this. The relationship part. I've never been good at it. I work too much and I forget to call and I get caught up in cases and I have a tendency to think I know best even when I don't."
 
 "You do know best. Most of the time."
 
@@ -6527,7 +6527,7 @@ I close my eyes. Let it sink in. The weight of that word, the structure of it. T
 
 "Okay." I open my eyes. "Let's figure it out."
 
-He smiles—that stupid, wonderful smile that I've been pretending doesn't affect me for seven months.
+He smiles,that stupid, wonderful smile that I've been pretending doesn't affect me for seven months.
 
 "First step," he says. "We should probably tell HR."
 
@@ -6559,7 +6559,7 @@ Some things are worth the risk.
 
 ---
 
-Later—hours later, after we've exhausted ourselves and ordered bad Thai food and eaten it in bed like the irresponsible adults we've become—my phone buzzes with a text from Gloria.
+Later,hours later, after we've exhausted ourselves and ordered bad Thai food and eaten it in bed like the irresponsible adults we've become,my phone buzzes with a text from Gloria.
 
 *Enjoy your weekend, Alvarez. Monday we rebuild.*
 
@@ -6623,7 +6623,7 @@ VALUES (
 
 The disclosure form is four pages long. I know this because I wrote it.
 
-Not this instance of it — the template. Section 2.4 of the firm's conflict-of-interest policy, the paragraph that begins *In the event that a supervising attorney develops a personal relationship with a client or former client of the firm*, and then continues for nine lines of subordinate clauses that I personally restructured in 2022 because the previous version had a dangling modifier in the third sentence and I could not let that stand.
+Not this instance of it , the template. Section 2.4 of the firm's conflict-of-interest policy, the paragraph that begins *In the event that a supervising attorney develops a personal relationship with a client or former client of the firm*, and then continues for nine lines of subordinate clauses that I personally restructured in 2022 because the previous version had a dangling modifier in the third sentence and I could not let that stand.
 
 I am now filling it out in triplicate.
 
@@ -6639,11 +6639,11 @@ I sign the triplicate. I submit. I refill my coffee.
 
 At 9:23, Gloria's email arrives.
 
-*Alvarez — Form received and processed. Equity track review has been rescheduled to Q3. The Reyes matter is yours if you want it; Rafael Reyes asked for you specifically. —GL*
+*Alvarez , Form received and processed. Equity track review has been rescheduled to Q3. The Reyes matter is yours if you want it; Rafael Reyes asked for you specifically. ,GL*
 
 I read it twice. The first read is for content. The second read is for the clause I didn't expect: *The Reyes matter is yours if you want it.* Rafael Reyes is a $40M patent dispute that three senior associates have been circling for two months. Gloria does not offer files as comfort. Gloria offers files as assessment. She is telling me she has done the math on the situation and the math checks out.
 
-I write back: *Understood. Reyes, yes. —BA*
+I write back: *Understood. Reyes, yes. ,BA*
 
 She responds in forty seconds: *Obviously.*
 
@@ -6651,7 +6651,7 @@ I add it to my calendar.
 
 ---
 
-Sam comes in at eleven to sign the amended settlement documents — Dev Chen's team wanted initialed copies of the final restructured NDA, which technically required an in-person signature from the restructuring attorney of record, which is now Marcus Paulsen, but the paperwork ran through our office and someone had to be there to witness.
+Sam comes in at eleven to sign the amended settlement documents , Dev Chen's team wanted initialed copies of the final restructured NDA, which technically required an in-person signature from the restructuring attorney of record, which is now Marcus Paulsen, but the paperwork ran through our office and someone had to be there to witness.
 
 I am not the someone. I am at my desk, fifteen feet from the conference room, when Sam walks past.
 
@@ -6659,13 +6659,13 @@ Gloria is in the hallway.
 
 I watch this from my desk with the specific attention I give to depositions I cannot interrupt.
 
-Gloria looks at Sam the way she looks at contracts she hasn't signed yet — measuring, noncommittal, taking in the fine print. Sam sees her, stops, extends his hand. "Sam Reyes," he says. "You're Gloria Leary." Not a question.
+Gloria looks at Sam the way she looks at contracts she hasn't signed yet , measuring, noncommittal, taking in the fine print. Sam sees her, stops, extends his hand. "Sam Reyes," he says. "You're Gloria Leary." Not a question.
 
 "I am." She shakes his hand once. "Your CeraTest situation was resolved appropriately."
 
 Sam says: "Your associate is exceptional. I don't think the situation gets resolved without her."
 
-Gloria looks at him for two seconds — which is one second longer than she looks at most people. "No," she says. "It doesn't."
+Gloria looks at him for two seconds , which is one second longer than she looks at most people. "No," she says. "It doesn't."
 
 She continues down the hallway. Sam watches her go with the expression of a man who has just been evaluated by a large and impartial animal and found acceptable.
 
@@ -6693,7 +6693,7 @@ Elena comes in, surveys the kitchen, kisses Sam on the cheek, opens the wine, po
 
 "Okay," she says, sitting on the barstool beside me. "I have questions."
 
-"Elena—"
+"Elena,"
 
 "I've been polite for three weeks, Sam. You got three weeks of polite." She turns to face me with the full attention of someone who has earned the right to use it. "Where did you go to law school?"
 
@@ -6721,9 +6721,9 @@ Elena considers this. "Why third?"
 
 "Better than his ex?"
 
-"Elena—"
+"Elena,"
 
-"I'm asking the important questions," Elena says, unperturbed. She steals a piece of prosciutto off my charcuterie plate — I brought charcuterie, because Sam's plan was risotto and I did not fully trust the plan — and eats it with the cheerful entitlement of someone who has decided we are already family. "His ex didn't have opinions. She had preferences. There's a difference. Opinions have reasons."
+"I'm asking the important questions," Elena says, unperturbed. She steals a piece of prosciutto off my charcuterie plate , I brought charcuterie, because Sam's plan was risotto and I did not fully trust the plan , and eats it with the cheerful entitlement of someone who has decided we are already family. "His ex didn't have opinions. She had preferences. There's a difference. Opinions have reasons."
 
 "My opinions have reasons," I confirm.
 
@@ -6733,7 +6733,7 @@ Elena considers this. "Why third?"
 
 Sam, without looking up: "I know."
 
-"Then why—"
+"Then why,"
 
 "Because I'm committed to the process and reversing course now feels like admitting defeat."
 
@@ -6745,7 +6745,7 @@ Elena looks at me. I look at Elena.
 
 Gerald is on the windowsill behind Elena, silhouetted against the April dark, looking at the kitchen situation with the fixed expression of a cactus that has seen things. I have been formally introduced to Gerald. The introduction went well, I think. He is three inches tall and entirely without mercy.
 
-Sam's hand finds my shoulder blade when he leans past me to get to the salt — not reaching for me, just: passing through, contact made, contact not noted, continuing to the salt. He goes back to the risotto. Elena watches this with the expression of someone who has just confirmed a hypothesis she already had.
+Sam's hand finds my shoulder blade when he leans past me to get to the salt , not reaching for me, just: passing through, contact made, contact not noted, continuing to the salt. He goes back to the risotto. Elena watches this with the expression of someone who has just confirmed a hypothesis she already had.
 
 "Okay," she says, "I'm satisfied."
 
@@ -6781,7 +6781,7 @@ I note the number, which Elena gives me because she assumes I want it, and I do:
 
 Sam's phone rings at 8:30. He looks at it, looks at me, and answers with the slightly different posture of a person dealing with a known quantity.
 
-"Mami." A pause, something said on the other end. "Yes, I'm at home. No, we're having dinner — Elena's here, and Marco." Pause. "And Berna, yes." Longer pause. "I don't — Mami." He stands up from the table, moves toward the kitchen, and I watch him from across the room. "She's great. She's — no, she's right here, I'm not going to — Mami, I'm not going to describe her like she's a listing." Elena is watching too. We exchange a look across the table that requires no annotation. "She's Berna," Sam says, into the phone, with the tone of someone who has located the correct word after a long search and found it was embarrassingly simple. "That's not — that's the whole — yes, okay. Yes. I'll tell her."
+"Mami." A pause, something said on the other end. "Yes, I'm at home. No, we're having dinner , Elena's here, and Marco." Pause. "And Berna, yes." Longer pause. "I don't , Mami." He stands up from the table, moves toward the kitchen, and I watch him from across the room. "She's great. She's , no, she's right here, I'm not going to , Mami, I'm not going to describe her like she's a listing." Elena is watching too. We exchange a look across the table that requires no annotation. "She's Berna," Sam says, into the phone, with the tone of someone who has located the correct word after a long search and found it was embarrassingly simple. "That's not , that's the whole , yes, okay. Yes. I'll tell her."
 
 He comes back to the table. Sits down. His hand finds the back of my chair, then settles there without deciding to.
 
@@ -6803,7 +6803,7 @@ Marco puts down his fork. "That's unfair."
 
 ---
 
-Dev Chen is in the Mobility Workshop space on Wednesday — he wants to walk through the production area with the new operations coordinator, something about insurance riders and the updated liability matrix. Sam mentions this to me Tuesday night with the specific casualness of someone who is not managing me but is giving me information I can choose to use.
+Dev Chen is in the Mobility Workshop space on Wednesday , he wants to walk through the production area with the new operations coordinator, something about insurance riders and the updated liability matrix. Sam mentions this to me Tuesday night with the specific casualness of someone who is not managing me but is giving me information I can choose to use.
 
 I choose to use it.
 
@@ -6811,7 +6811,7 @@ Dev Chen is shorter than I expected, which is relevant only because I had no men
 
 "Dev Chen," I say. "I know yours."
 
-He says: "The settlement restructuring — you put the mutual non-disclosure before the compensation clause."
+He says: "The settlement restructuring , you put the mutual non-disclosure before the compensation clause."
 
 "The compensation clause is more specific. Specifics should follow frameworks."
 
@@ -6829,7 +6829,7 @@ Dev says: "I was concerned about this situation. The conflict-of-interest exposu
 
 I wait.
 
-"It was thorough," he says. This lands the way a favorable verdict lands — not dramatic, just: accurate, and therefore satisfying.
+"It was thorough," he says. This lands the way a favorable verdict lands , not dramatic, just: accurate, and therefore satisfying.
 
 Dev shakes my hand, goes to find the operations coordinator, and disappears into the production area.
 
@@ -6839,7 +6839,7 @@ Sam says: "That was extremely positive, by the way."
 
 He looks at me. "You knew."
 
-"He said it was thorough. Dev Chen does not use positive modifiers unless the underlying assessment is favorable. It's in his term sheets — he only qualifies upward when he means it."
+"He said it was thorough. Dev Chen does not use positive modifiers unless the underlying assessment is favorable. It's in his term sheets , he only qualifies upward when he means it."
 
 Sam stares at me for a moment. "You've read his term sheets."
 
@@ -6849,7 +6849,7 @@ Sam stares at me for a moment. "You've read his term sheets."
 
 "To understand the structure I was working inside." I pause. "Also general interest."
 
-He laughs — the surprised, quiet kind — and shakes his head, and we go find Dev Chen to look at insurance riders.
+He laughs , the surprised, quiet kind , and shakes his head, and we go find Dev Chen to look at insurance riders.
 
 ---
 
@@ -6899,13 +6899,13 @@ The argument about umbrellas began two blocks from Sam's apartment and had not r
 
 "Gerald," Sam said, "is a cactus with intentions."
 
-The sky had been doing this all morning — that particular Portland May thing where it can't commit. Overcast but not actively raining. The kind of light that turns everything a specific shade of gray-green, like the city has been photographed with a filter it didn't ask for. It was sixty-one degrees. I had checked before we left because I check things.
+The sky had been doing this all morning , that particular Portland May thing where it can't commit. Overcast but not actively raining. The kind of light that turns everything a specific shade of gray-green, like the city has been photographed with a filter it didn't ask for. It was sixty-one degrees. I had checked before we left because I check things.
 
 Sam had not checked. Sam had put on a jacket that was in the approximate vicinity of appropriate for the weather and walked out into it without further research.
 
-I have been building a taxonomy of this. The ways he moves through the world with a kind of provisional confidence — not recklessness, not carelessness, but a working assumption that the world will cooperate, and if it doesn't, he'll adjust. It is different from my approach, which is to determine in advance all ways the world might fail to cooperate and build redundancy into the plan. These are both reasonable methodologies. I am cataloguing the ways they intersect.
+I have been building a taxonomy of this. The ways he moves through the world with a kind of provisional confidence , not recklessness, not carelessness, but a working assumption that the world will cooperate, and if it doesn't, he'll adjust. It is different from my approach, which is to determine in advance all ways the world might fail to cooperate and build redundancy into the plan. These are both reasonable methodologies. I am cataloguing the ways they intersect.
 
-We turned toward the river. The Hawthorne Bridge was visible from here — that particular green of it, the steel truss framework catching the gray light, functional and unpretentious in the way Portland tends to be. You wouldn't call it beautiful in any dramatic sense. But it's there and it works, which is more than you can say for a lot of beautiful things.
+We turned toward the river. The Hawthorne Bridge was visible from here , that particular green of it, the steel truss framework catching the gray light, functional and unpretentious in the way Portland tends to be. You wouldn't call it beautiful in any dramatic sense. But it's there and it works, which is more than you can say for a lot of beautiful things.
 
 ---
 
@@ -6919,13 +6919,13 @@ We turned toward the river. The Hawthorne Bridge was visible from here — that 
 
 "Sure, but you. Today. If you were designing a bridge over the Willamette."
 
-I considered this with the seriousness it deserved, which was moderate. "I would probably have retained the through-truss structure. It's efficient. I might have reconsidered the draw span mechanism — the vertical lift design has had documented reliability issues over the years."
+I considered this with the seriousness it deserved, which was moderate. "I would probably have retained the through-truss structure. It's efficient. I might have reconsidered the draw span mechanism , the vertical lift design has had documented reliability issues over the years."
 
 "You've researched the bridge."
 
 "I looked it up when you said we should walk to it."
 
-He stopped walking. Not dramatically — he just slowed and stopped, the way you do when something has genuinely delighted you and you need a moment to experience that. He was looking at me with an expression I've catalogued under several headings, none of them quite sufficient.
+He stopped walking. Not dramatically , he just slowed and stopped, the way you do when something has genuinely delighted you and you need a moment to experience that. He was looking at me with an expression I've catalogued under several headings, none of them quite sufficient.
 
 "What?" I said.
 
@@ -6939,9 +6939,9 @@ We kept walking.
 
 ---
 
-The draw span was raised for a boat when we got there — some kind of working vessel heading south, and the pedestrian signal had gone red, and we stood at the edge of the bridge approach with a small cluster of other people, waiting.
+The draw span was raised for a boat when we got there , some kind of working vessel heading south, and the pedestrian signal had gone red, and we stood at the edge of the bridge approach with a small cluster of other people, waiting.
 
-The rain started then. Not dramatically. Just the sky making a decision it had been putting off all morning — a light, purposeful rain, the kind that doesn't ask permission.
+The rain started then. Not dramatically. Just the sky making a decision it had been putting off all morning , a light, purposeful rain, the kind that doesn't ask permission.
 
 Around us, people made umbrella decisions. A man produced one from a bag. A woman pulled up her hood. Sam turned his face up for a moment, the way he does, and then looked at me with an expression that was somewhere between vindicated and apologetic.
 
@@ -6963,13 +6963,13 @@ The draw span came back down. The signal went green. We walked.
 
 "I read the terms and conditions," I said.
 
-He looked over at me. We were on the bridge now, the Willamette moving below us in that flat, pewter way it has in May — not beautiful, exactly, but honest. The kind of river that doesn't perform.
+He looked over at me. We were on the bridge now, the Willamette moving below us in that flat, pewter way it has in May , not beautiful, exactly, but honest. The kind of river that doesn't perform.
 
 "All of them?" Sam said.
 
 "I wrote several amendments."
 
-He was quiet for a moment. Not the quiet of confusion — the quiet of someone receiving something and holding it correctly.
+He was quiet for a moment. Not the quiet of confusion , the quiet of someone receiving something and holding it correctly.
 
 "Are the amendments binding?" he said finally.
 
@@ -6985,7 +6985,7 @@ He was quiet for a moment. Not the quiet of confusion — the quiet of someone r
 
 He made the sound he makes when he's trying not to smile too widely. I've catalogued that too. It is not a difficult sound to recognize.
 
-The rain was heavier now — not yet rain-rain, still the polite kind, but making its presence felt. My jacket was getting that damp-wool smell that is either pleasant or unpleasant depending on context. I was locating it, presently, in the pleasant column.
+The rain was heavier now , not yet rain-rain, still the polite kind, but making its presence felt. My jacket was getting that damp-wool smell that is either pleasant or unpleasant depending on context. I was locating it, presently, in the pleasant column.
 
 Sam said: "The version of the terms I got had a pretty significant gap in Section 4."
 
@@ -6999,13 +6999,13 @@ Sam said: "The version of the terms I got had a pretty significant gap in Sectio
 
 "There are six. I was thorough."
 
-He laughed then — the laugh I heard before I saw his face, that first week, through the glass partition in the office that was not his office. It sounded the same. I don't know why I thought it would be different.
+He laughed then , the laugh I heard before I saw his face, that first week, through the glass partition in the office that was not his office. It sounded the same. I don't know why I thought it would be different.
 
 ---
 
 I thought, briefly and without drama, about the street outside The Wayward bar in November. The dark. The three inches of air between his fingers and my face. The decision he made not to cross them.
 
-I had thought about it at the time in terms of restraint — his, mine, the situation's. The appropriate maintenance of professional distance, which was the accurate framing. I had not let myself think about it as loss, because loss would have required me to name what I wanted, and I was not prepared to file that paperwork yet.
+I had thought about it at the time in terms of restraint , his, mine, the situation's. The appropriate maintenance of professional distance, which was the accurate framing. I had not let myself think about it as loss, because loss would have required me to name what I wanted, and I was not prepared to file that paperwork yet.
 
 The three inches had been the entire distance between what was and what was possible.
 
@@ -7013,15 +7013,15 @@ They seem, from here, very small.
 
 I took his hand.
 
-Not as a conclusion. Not as a statement. I just reached over and took it, the way you take something you've decided belongs to you — not urgently, not tentatively. His fingers were cold from the rain. So were mine. He adjusted his grip without looking over, without stopping, without making anything of it, and we kept walking.
+Not as a conclusion. Not as a statement. I just reached over and took it, the way you take something you've decided belongs to you , not urgently, not tentatively. His fingers were cold from the rain. So were mine. He adjusted his grip without looking over, without stopping, without making anything of it, and we kept walking.
 
 The bridge continued. The rain continued. The Willamette moved below us with complete indifference to what was happening on the pedestrian path above it.
 
 ---
 
-On the far side, there's a small covered area where the bridge meets the Hawthorne neighborhood — not a shelter, exactly, just an overhang where the structure extends. We stopped there without discussing it. The rain had graduated from polite to intentional, and standing in the narrow dry space, watching it fall on the bridge we'd just crossed, seemed like the reasonable thing to do.
+On the far side, there's a small covered area where the bridge meets the Hawthorne neighborhood , not a shelter, exactly, just an overhang where the structure extends. We stopped there without discussing it. The rain had graduated from polite to intentional, and standing in the narrow dry space, watching it fall on the bridge we'd just crossed, seemed like the reasonable thing to do.
 
-Sam was looking out at the water. His hand was still in mine. There was nothing particular happening on his face — no performance of contentment, no documentation of the moment. He was just there.
+Sam was looking out at the water. His hand was still in mine. There was nothing particular happening on his face , no performance of contentment, no documentation of the moment. He was just there.
 
 "We need to find an umbrella," I said.
 
