@@ -1,4 +1,4 @@
-name: Hygiene Gate
+name: Housekeeping Gate
 
 on:
   pull_request:
