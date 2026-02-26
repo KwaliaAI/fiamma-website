@@ -32,7 +32,7 @@ const heteronyms: HeteronymCardData[] = [
   {
     name: 'Aubrey Kenneth-Moss',
     slug: 'aubrey-kenneth-moss',
-    bio: "Dry, precise, and unapologetically high-heat. Aubrey writes the kind of tension that makes you hold your breath—usually in professional settings where everyone is too competent to admit they're in trouble.",
+    bio: "Dry, precise, and unapologetically high-heat. Aubrey writes the kind of tension that makes you hold your breath,usually in professional settings where everyone is too competent to admit they're in trouble.",
     imagePath: '/assets/heteronyms/aubrey/portrait_author_3x4_1200x1600.png',
     videoPath: '/assets/heteronyms/aubrey/hover_loop.mp4',
     status: 'active',
