@@ -32,7 +32,7 @@ const heteronyms: HeteronymCardData[] = [
   {
     name: 'Aubrey Kenneth-Moss',
     slug: 'aubrey-kenneth-moss',
-    bio: 'A sharp, modern voice blending psychological tension with unapologetically high heat romance.',
+    bio: "Dry, precise, and unapologetically high-heat. Aubrey writes the kind of tension that makes you hold your breath—usually in professional settings where everyone is too competent to admit they're in trouble.",
     imagePath: '/assets/heteronyms/aubrey/portrait_author_3x4_1200x1600.png',
     videoPath: '/assets/heteronyms/aubrey/hover_loop.mp4',
     status: 'active',
@@ -40,14 +40,14 @@ const heteronyms: HeteronymCardData[] = [
   {
     name: 'Seph Blackwood',
     slug: 'seph-blackwood',
-    bio: 'Dark glamour, dangerous longing, and stories that flirt with obsession.',
+    bio: "Dark glamour and dangerous longing. Seph writes for the 3 AM crowd, chasing the kind of obsession that doesn't resolve cleanly and stays with you long after the lights come up.",
     imagePath: '/assets/heteronyms/seph/portrait_author_3x4_1200x1600.png',
-    status: 'upcoming',
+    status: 'active',
   },
   {
-    name: 'Casey',
+    name: 'Casey Blake',
     slug: 'casey',
-    bio: 'Tender chaos and witty sparks for readers who crave emotional impact with every chapter.',
+    bio: 'Casey Blake writes the heart of the game. From messy dorm rooms to high-stakes Olympic arenas, she captures the grit, sweat, and undeniable heat of college and professional sports romance. Unpretentious, authentic, and always game-day ready.',
     imagePath: '/assets/heteronyms/casey/portrait_author_3x4_1200x1600.png',
     videoPath: '/assets/heteronyms/casey/hover_loop.mp4',
     status: 'upcoming',
