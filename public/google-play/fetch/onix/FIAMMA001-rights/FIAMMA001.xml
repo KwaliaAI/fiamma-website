@@ -1,0 +1,133 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ONIXMessage xmlns="http://www.editeur.org/onix/3.0/reference" release="3.0">
+  <Header>
+    <Sender>
+      <SenderName>Kwalia AI</SenderName>
+    </Sender>
+    <Addressee>
+      <AddresseeName>Google</AddresseeName>
+    </Addressee>
+    <SentDateTime>20260226T2107</SentDateTime>
+  </Header>
+  <Product>
+    <RecordReference>akm-001-terms-and-conditions</RecordReference>
+    <NotificationType>03</NotificationType>
+    <ProductIdentifier>
+      <ProductIDType>15</ProductIDType>
+      <IDValue>9781917717250</IDValue>
+    </ProductIdentifier>
+    <ProductIdentifier>
+      <ProductIDType>03</ProductIDType>
+      <IDValue>9781917717250</IDValue>
+    </ProductIdentifier>
+    <DescriptiveDetail>
+      <ProductComposition>00</ProductComposition>
+      <ProductForm>ED</ProductForm>
+      <ProductFormDetail>E101</ProductFormDetail>
+      <PrimaryContentType>10</PrimaryContentType>
+      <TitleDetail>
+        <TitleType>01</TitleType>
+        <TitleElement>
+          <TitleElementLevel>01</TitleElementLevel>
+          <TitleText>Terms &amp; Conditions: A Novel</TitleText>
+        </TitleElement>
+      </TitleDetail>
+      <Contributor>
+        <SequenceNumber>1</SequenceNumber>
+        <ContributorRole>A01</ContributorRole>
+        <PersonName>Aubrey Kenneth-Moss</PersonName>
+        <PersonNameInverted>Kenneth-Moss, Aubrey</PersonNameInverted>
+      </Contributor>
+      <Language>
+        <LanguageRole>01</LanguageRole>
+        <LanguageCode>eng</LanguageCode>
+      </Language>
+      <Subject>
+        <SubjectSchemeIdentifier>10</SubjectSchemeIdentifier>
+        <SubjectCode>FIC027020</SubjectCode>
+      </Subject>
+      <Subject>
+        <SubjectSchemeIdentifier>93</SubjectSchemeIdentifier>
+        <SubjectCode>FRD</SubjectCode>
+      </Subject>
+      <Subject>
+        <SubjectSchemeIdentifier>20</SubjectSchemeIdentifier>
+        <SubjectHeadingText>romance</SubjectHeadingText>
+      </Subject>
+      <Subject>
+        <SubjectSchemeIdentifier>20</SubjectSchemeIdentifier>
+        <SubjectHeadingText>contemporary romance</SubjectHeadingText>
+      </Subject>
+      <Subject>
+        <SubjectSchemeIdentifier>20</SubjectSchemeIdentifier>
+        <SubjectHeadingText>enemies to lovers</SubjectHeadingText>
+      </Subject>
+      <Subject>
+        <SubjectSchemeIdentifier>20</SubjectSchemeIdentifier>
+        <SubjectHeadingText>forced proximity</SubjectHeadingText>
+      </Subject>
+      <Subject>
+        <SubjectSchemeIdentifier>20</SubjectSchemeIdentifier>
+        <SubjectHeadingText>workplace romance</SubjectHeadingText>
+      </Subject>
+    </DescriptiveDetail>
+    <CollateralDetail>
+      <TextContent>
+        <TextType>03</TextType>
+        <ContentAudience>00</ContentAudience>
+        <Text>Berna Alvarez is a corporate liability attorney who believes in proof, not promises. Sam Reyes is a mobility-tech founder who would rather build than litigate. When an asbestos shutdown forces Berna into Sam's coworking world, legal certainty and startup chaos become a volatile attraction neither can ignore.</Text>
+      </TextContent>
+      <TextContent>
+        <TextType>12</TextType>
+        <ContentAudience>00</ContentAudience>
+        <Text>Aubrey Kenneth-Moss writes contemporary romance about brilliant women who are exceptional at work and vulnerable in love, with legal precision, dry humor, and slow-burn emotional stakes.</Text>
+      </TextContent>
+    </CollateralDetail>
+    <PublishingDetail>
+      <Publisher>
+        <PublishingRole>01</PublishingRole>
+        <PublisherName>Fiamma Books</PublisherName>
+      </Publisher>
+      <PublishingStatus>04</PublishingStatus>
+      <PublishingDate>
+        <PublishingDateRole>01</PublishingDateRole>
+        <Date>20260303</Date>
+      </PublishingDate>
+      <SalesRights>
+        <SalesRightsType>01</SalesRightsType>
+        <Territory>
+          <RegionsIncluded>WORLD</RegionsIncluded>
+        </Territory>
+      </SalesRights>
+    </PublishingDetail>
+    <ProductSupply>
+      <SupplyDetail>
+        <ProductAvailability>20</ProductAvailability>
+        <Price>
+          <PriceType>01</PriceType>
+          <PriceAmount>4.99</PriceAmount>
+          <CurrencyCode>GBP</CurrencyCode>
+          <Territory>
+            <RegionsIncluded>WORLD</RegionsIncluded>
+          </Territory>
+        </Price>
+        <Price>
+          <PriceType>01</PriceType>
+          <PriceAmount>5.99</PriceAmount>
+          <CurrencyCode>EUR</CurrencyCode>
+          <Territory>
+            <RegionsIncluded>WORLD</RegionsIncluded>
+          </Territory>
+        </Price>
+        <Price>
+          <PriceType>01</PriceType>
+          <PriceAmount>6.99</PriceAmount>
+          <CurrencyCode>USD</CurrencyCode>
+          <Territory>
+            <RegionsIncluded>WORLD</RegionsIncluded>
+          </Territory>
+        </Price>
+      </SupplyDetail>
+    </ProductSupply>
+  </Product>
+</ONIXMessage>
