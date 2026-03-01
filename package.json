@@ -8,6 +8,7 @@
     "build": "tsc -b && vite build",
     "lint": "eslint .",
     "preview": "vite preview",
+    "mailerlite:aubrey-flow": "node scripts/mailerlite_apply_aubrey_welcome_flow.mjs",
     "housekeeping:gate": "bash ./scripts/housekeeping_gate.sh",
     "release:gate": "bash ./scripts/release_gate.sh",
     "deploy:prod": "bash ./scripts/deploy_prod.sh"
