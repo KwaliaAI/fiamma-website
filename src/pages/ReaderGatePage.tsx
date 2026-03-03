@@ -193,11 +193,11 @@ export function ReaderGatePage() {
       <div className="mx-auto max-w-2xl text-center">
         <p className="mb-2 text-sm font-semibold uppercase tracking-wide text-fiamma-coral">Fiamma reader</p>
         <h1 className="mb-2 font-display text-5xl font-bold">Read {book.title}</h1>
-        <p className="mb-4 text-gray-600">Your first two reads are our gift. Keep each one on your shelf forever once unlocked.</p>
+        <p className="mb-4 text-gray-600">Your first book is our gift. Keep it on your shelf forever once unlocked.</p>
 
         {giftCreditsRemaining !== null ? (
           <p className="mx-auto mb-6 max-w-xl rounded-lg border border-fiamma-coral/30 bg-fiamma-coral/10 px-4 py-3 text-sm text-fiamma-text">
-            Complimentary reads remaining: <span className="font-semibold">{giftCreditsRemaining}</span> of {giftCreditsTotal}
+            Complimentary access remaining: <span className="font-semibold">{giftCreditsRemaining}</span> of {giftCreditsTotal}
           </p>
         ) : null}
 

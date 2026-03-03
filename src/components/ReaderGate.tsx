@@ -69,6 +69,9 @@ export function ReaderGate({ title, onSendLink, onVerifyOtp }: ReaderGateProps) 
           placeholder="you@example.com"
           className="w-full rounded-xl border border-gray-300 bg-white px-4 py-3 text-fiamma-text outline-none transition-colors focus:border-fiamma-coral"
         />
+        <p className="text-center text-xs text-gray-400">
+          The first book is our gift to you. Everything after is Fiamma Membership — from £4.99/month.
+        </p>
         <button
           type="submit"
           disabled={submitting}

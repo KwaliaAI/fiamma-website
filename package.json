@@ -8,6 +8,8 @@
     "build": "tsc -b && vite build",
     "lint": "eslint .",
     "preview": "vite preview",
+    "google-fetch:stage": "node scripts/stage_google_play_fetch_assets.mjs",
+    "mailerlite:aubrey-flow": "node scripts/mailerlite_apply_aubrey_welcome_flow.mjs",
     "housekeeping:gate": "bash ./scripts/housekeeping_gate.sh",
     "release:gate": "bash ./scripts/release_gate.sh",
     "deploy:prod": "bash ./scripts/deploy_prod.sh"
