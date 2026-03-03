@@ -66,7 +66,7 @@ export function ShelfPage() {
 
         {giftMeter ? (
           <p className="mx-auto mb-8 max-w-xl rounded-lg border border-fiamma-coral/30 bg-fiamma-coral/10 px-4 py-3 text-center text-sm text-fiamma-text">
-            Complimentary reads remaining: <span className="font-semibold">{giftMeter.remaining}</span> of {giftMeter.total}
+            Complimentary access remaining: <span className="font-semibold">{giftMeter.remaining}</span> of {giftMeter.total}
           </p>
         ) : null}
 

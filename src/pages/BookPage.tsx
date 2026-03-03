@@ -70,6 +70,10 @@ export function BookPage() {
           <p className="mb-6 text-lg text-gray-600">by {book.heteronym}</p>
           <p className="mb-8 whitespace-pre-line text-gray-700">{book.blurb_300 ?? book.blurb_short ?? 'Coming soon.'}</p>
 
+          <p className="mb-4 text-sm text-gray-500">
+            The first book is our gift to you. Everything after is Fiamma Membership — from £4.99/month.
+          </p>
+
           <Link
             to={`/read/${book.slug}`}
             className="mb-8 inline-block w-full rounded-full bg-fiamma-coral px-6 py-4 text-center font-semibold text-white transition-colors hover:bg-fiamma-dark"
@@ -79,11 +83,11 @@ export function BookPage() {
 
           {giftCreditsRemaining !== null ? (
             <p className="mb-8 rounded-lg border border-fiamma-coral/30 bg-fiamma-coral/10 px-4 py-3 text-sm text-fiamma-text">
-              Complimentary reads remaining: <span className="font-semibold">{giftCreditsRemaining}</span> of {giftCreditsTotal}
+              Complimentary access remaining: <span className="font-semibold">{giftCreditsRemaining}</span> of {giftCreditsTotal}
             </p>
           ) : (
             <p className="mb-8 rounded-lg border border-fiamma-coral/30 bg-fiamma-coral/10 px-4 py-3 text-sm text-fiamma-text">
-              Your first two reads are complimentary.
+              Your first book is complimentary.
             </p>
           )}
 

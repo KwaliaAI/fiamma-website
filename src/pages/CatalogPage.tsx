@@ -22,13 +22,16 @@ export function CatalogPage() {
     <main className="section-padding pt-32 md:pt-40">
       <div className="mx-auto max-w-6xl">
         <h1 className="mb-4 text-center font-display text-5xl font-bold">Our Books</h1>
-        <p className="mx-auto mb-12 max-w-2xl text-center text-gray-600">
-          Discover books by our heteronyms. Your first two reads are our gift.
+        <p className="mx-auto mb-2 max-w-2xl text-center text-gray-600">
+          Discover books by our heteronyms. Start with a complimentary read.
+        </p>
+        <p className="mx-auto mb-12 max-w-2xl text-center text-sm text-gray-500">
+          The first book is our gift to you. Everything after is Fiamma Membership — from £4.99/month.
         </p>
 
         {giftMeter ? (
           <p className="mx-auto mb-8 max-w-xl rounded-lg border border-fiamma-coral/30 bg-fiamma-coral/10 px-4 py-3 text-center text-sm text-fiamma-text">
-            Complimentary reads remaining: <span className="font-semibold">{giftMeter.remaining}</span> of {giftMeter.total}
+            Complimentary access remaining: <span className="font-semibold">{giftMeter.remaining}</span> of {giftMeter.total}
           </p>
         ) : null}
 
