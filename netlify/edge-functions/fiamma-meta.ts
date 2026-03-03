@@ -1,5 +1,5 @@
 const DEFAULT_TITLE = 'Fiamma Books | Romance On Fire'
-const DEFAULT_DESCRIPTION = 'Discover bold romance at Fiamma Books. Unlock your first two complimentary reads and build your shelf.'
+const DEFAULT_DESCRIPTION = 'Discover bold romance at Fiamma Books. Start with a complimentary read and build your shelf.'
 const DEFAULT_OG_IMAGE = '/assets/fiamma-logo.png'
 
 type BookMeta = {
