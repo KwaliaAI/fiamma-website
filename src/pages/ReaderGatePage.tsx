@@ -20,7 +20,7 @@ export function ReaderGatePage() {
   const navigate = useNavigate()
   const [book, setBook] = useState<FiammaBook | null>(null)
   const [giftCreditsRemaining, setGiftCreditsRemaining] = useState<number | null>(null)
-  const [giftCreditsTotal, setGiftCreditsTotal] = useState<number>(1)
+  const [giftCreditsTotal, setGiftCreditsTotal] = useState<number>(2)
   const [accessBlocked, setAccessBlocked] = useState(false)
   const [statusError, setStatusError] = useState<string | null>(null)
   const [retrying, setRetrying] = useState(false)
@@ -193,7 +193,7 @@ export function ReaderGatePage() {
       <div className="mx-auto max-w-2xl text-center">
         <p className="mb-2 text-sm font-semibold uppercase tracking-wide text-fiamma-coral">Fiamma reader</p>
         <h1 className="mb-2 font-display text-5xl font-bold">Read {book.title}</h1>
-        <p className="mb-4 text-gray-600">Your first book is our gift. Keep it on your shelf forever once unlocked.</p>
+        <p className="mb-4 text-gray-600">Your first two books are our gift. Keep them on your shelf forever once unlocked.</p>
 
         {giftCreditsRemaining !== null ? (
           <p className="mx-auto mb-6 max-w-xl rounded-lg border border-fiamma-coral/30 bg-fiamma-coral/10 px-4 py-3 text-sm text-fiamma-text">
@@ -203,7 +203,7 @@ export function ReaderGatePage() {
 
         {accessBlocked ? (
           <div className="mx-auto mb-6 max-w-xl rounded-lg border border-amber-200 bg-amber-50 px-4 py-4 text-left text-amber-900">
-            <p className="mb-2 text-sm font-semibold">Your complimentary read has been used.</p>
+            <p className="mb-2 text-sm font-semibold">Your complimentary reads have been used.</p>
             <p className="text-sm">This title will be available through retail editions. Check back soon for the next release.</p>
             <Link to={`/books/${book.slug}`} className="mt-3 inline-block text-sm font-semibold text-fiamma-coral underline">
               Back to book page

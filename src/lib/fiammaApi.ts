@@ -192,7 +192,7 @@ export async function getReaderGiftStatus(bookId: string): Promise<ReaderGiftSta
       isAuthenticated: false,
       isUnlocked: false,
       giftCreditsRemaining: 0,
-      giftCreditsTotal: 1,
+      giftCreditsTotal: 2,
     }
   }
 
@@ -203,7 +203,7 @@ export async function getReaderGiftStatus(bookId: string): Promise<ReaderGiftSta
       isAuthenticated: false,
       isUnlocked: false,
       giftCreditsRemaining: 0,
-      giftCreditsTotal: 1,
+      giftCreditsTotal: 2,
     }
   }
 
@@ -224,8 +224,8 @@ export async function getReaderGiftStatus(bookId: string): Promise<ReaderGiftSta
   return {
     isAuthenticated: true,
     isUnlocked: Boolean(unlock),
-    giftCreditsRemaining: profile?.gift_credits_remaining ?? 1,
-    giftCreditsTotal: profile?.gift_credits_total ?? 1,
+    giftCreditsRemaining: profile?.gift_credits_remaining ?? 2,
+    giftCreditsTotal: profile?.gift_credits_total ?? 2,
   }
 }
 
@@ -234,7 +234,7 @@ export async function getReaderGiftBalance(): Promise<ReaderGiftBalance> {
     return {
       isAuthenticated: false,
       giftCreditsRemaining: 0,
-      giftCreditsTotal: 1,
+      giftCreditsTotal: 2,
     }
   }
 
@@ -244,7 +244,7 @@ export async function getReaderGiftBalance(): Promise<ReaderGiftBalance> {
     return {
       isAuthenticated: false,
       giftCreditsRemaining: 0,
-      giftCreditsTotal: 1,
+      giftCreditsTotal: 2,
     }
   }
 
@@ -256,8 +256,8 @@ export async function getReaderGiftBalance(): Promise<ReaderGiftBalance> {
 
   return {
     isAuthenticated: true,
-    giftCreditsRemaining: profile?.gift_credits_remaining ?? 1,
-    giftCreditsTotal: profile?.gift_credits_total ?? 1,
+    giftCreditsRemaining: profile?.gift_credits_remaining ?? 2,
+    giftCreditsTotal: profile?.gift_credits_total ?? 2,
   }
 }
 
@@ -266,7 +266,7 @@ export async function claimGiftUnlock(bookId: string): Promise<ClaimGiftUnlockRe
     return {
       status: 'no_credits',
       gift_credits_remaining: 0,
-      gift_credits_total: 1,
+      gift_credits_total: 2,
     }
   }
 
@@ -278,7 +278,7 @@ export async function claimGiftUnlock(bookId: string): Promise<ClaimGiftUnlockRe
     return {
       status: 'profile_missing',
       gift_credits_remaining: 0,
-      gift_credits_total: 1,
+      gift_credits_total: 2,
     }
   }
   return result

@@ -221,7 +221,7 @@ async function runSingleAccount(testIndex, context) {
     redirectBase,
   } = context
   const email = `qa_gate_${runId}_${testIndex}@example.net`
-  const expectedStatuses = ['unlocked', 'already_unlocked', 'no_credits', 'no_credits']
+  const expectedStatuses = ['unlocked', 'already_unlocked', 'unlocked', 'no_credits']
 
   const result = {
     index: testIndex,
@@ -329,7 +329,7 @@ async function runSingleAccount(testIndex, context) {
 
     const remaining = Number(profileAfter?.gift_credits_remaining ?? NaN)
     const total = Number(profileAfter?.gift_credits_total ?? NaN)
-    if (remaining !== 0 || total !== 1) {
+    if (remaining !== 0 || total !== 2) {
       throw new Error(`Unexpected credits after flow: remaining=${remaining}, total=${total}`)
     }
     result.notes.push('credit_balance_ok')
@@ -341,7 +341,7 @@ async function runSingleAccount(testIndex, context) {
     if (unlockError) throw unlockError
     const uniqueUnlocks = new Set((unlockRows ?? []).map((row) => row.book_id))
     result.unlockCount = uniqueUnlocks.size
-    if (result.unlockCount !== 1 || !uniqueUnlocks.has(books[0].title_id) || uniqueUnlocks.has(books[1].title_id)) {
+    if (result.unlockCount !== 2 || !uniqueUnlocks.has(books[0].title_id) || !uniqueUnlocks.has(books[1].title_id)) {
       throw new Error(`Unexpected unlock set: count=${result.unlockCount}`)
     }
     result.notes.push('unlock_set_ok')

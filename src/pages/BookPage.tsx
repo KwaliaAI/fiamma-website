@@ -8,7 +8,7 @@ export function BookPage() {
   const [book, setBook] = useState<FiammaBook | null>(null)
   const [allBooks, setAllBooks] = useState<FiammaBook[]>([])
   const [giftCreditsRemaining, setGiftCreditsRemaining] = useState<number | null>(null)
-  const [giftCreditsTotal, setGiftCreditsTotal] = useState<number>(1)
+  const [giftCreditsTotal, setGiftCreditsTotal] = useState<number>(2)
   const [isUnlocked, setIsUnlocked] = useState(false)
 
   useEffect(() => {
@@ -22,7 +22,7 @@ export function BookPage() {
       .then((status) => {
         if (!status.isAuthenticated) {
           setGiftCreditsRemaining(null)
-          setGiftCreditsTotal(1)
+          setGiftCreditsTotal(2)
           setIsUnlocked(false)
           return
         }
@@ -33,7 +33,7 @@ export function BookPage() {
       })
       .catch(() => {
         setGiftCreditsRemaining(null)
-        setGiftCreditsTotal(1)
+        setGiftCreditsTotal(2)
         setIsUnlocked(false)
       })
   }, [book])
@@ -71,7 +71,7 @@ export function BookPage() {
           <p className="mb-8 whitespace-pre-line text-gray-700">{book.blurb_300 ?? book.blurb_short ?? 'Coming soon.'}</p>
 
           <p className="mb-4 text-sm text-gray-500">
-            The first book is our gift to you. Everything after is Fiamma Membership — from £4.99/month.
+            The first two books are our gift to you. Everything after is Fiamma Membership — from £4.99/month.
           </p>
 
           <Link
@@ -87,13 +87,13 @@ export function BookPage() {
             </p>
           ) : (
             <p className="mb-8 rounded-lg border border-fiamma-coral/30 bg-fiamma-coral/10 px-4 py-3 text-sm text-fiamma-text">
-              Your first book is complimentary.
+              Your first two books are complimentary.
             </p>
           )}
 
           {giftCreditsRemaining === 0 && !isUnlocked ? (
             <p className="mb-8 rounded-lg border border-amber-200 bg-amber-50 px-4 py-3 text-sm text-amber-900">
-              You have used your complimentary read. This title will be available through retail editions.
+              You have used your complimentary reads. This title will be available through retail editions.
             </p>
           ) : null}
 
