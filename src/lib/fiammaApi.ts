@@ -68,6 +68,7 @@ const placeholderBooks: FiammaBook[] = [
 
 const localCoverFallbacks: Record<string, string> = {
   'terms-and-conditions': '/assets/covers/terms-and-conditions.jpg',
+  'field-study': '/assets/covers/field-study.jpg',
 }
 
 function withLocalCoverFallback(book: FiammaBook): FiammaBook {
