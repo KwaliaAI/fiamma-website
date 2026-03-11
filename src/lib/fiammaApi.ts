@@ -169,6 +169,37 @@ export async function getReaderSession() {
 
 export async function upsertReaderProfile(email: string): Promise<void> {
   if (!supabase) return
+  const normalizedEmail = email.trim().toLowerCase()
+  const { data: sessionData } = await supabase.auth.getSession()
+  const accessToken = sessionData.session?.access_token ?? null
+
+  if (accessToken) {
+    try {
+      const response = await fetch('/.netlify/functions/fiamma-reader-sync', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+          Authorization: `Bearer ${accessToken}`,
+        },
+        body: JSON.stringify({
+          email: normalizedEmail,
+        }),
+      })
+
+      if (response.ok) return
+
+      const body = await response.text().catch(() => '')
+      console.warn('Fiamma reader sync failed', {
+        status: response.status,
+        body: body.slice(0, 300),
+      })
+    } catch (error) {
+      console.warn('Fiamma reader sync transport error', {
+        error: error instanceof Error ? error.message : String(error),
+      })
+    }
+  }
+
   const { data } = await supabase.auth.getUser()
   const user = data.user
   if (!user) return
@@ -177,7 +208,7 @@ export async function upsertReaderProfile(email: string): Promise<void> {
     [
       {
         user_id: user.id,
-        email,
+        email: normalizedEmail,
         last_seen: new Date().toISOString(),
       },
     ],

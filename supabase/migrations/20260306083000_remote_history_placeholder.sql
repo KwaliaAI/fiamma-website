@@ -1,0 +1,2 @@
+-- Remote history placeholder for shared Supabase project migration 20260306083000.
+-- Canonical SQL lives in the catalog workspace.
