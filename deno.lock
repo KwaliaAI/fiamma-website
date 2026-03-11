@@ -28,6 +28,7 @@
         "npm:eslint@^9.39.1",
         "npm:globals@^16.5.0",
         "npm:lucide-react@0.575",
+        "npm:nodemailer@^8.0.2",
         "npm:postcss@^8.5.6",
         "npm:react-dom@^19.2.0",
         "npm:react-router-dom@^7.13.0",
