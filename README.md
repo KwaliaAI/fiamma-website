@@ -29,6 +29,11 @@ Netlify function/runtime:
 
 - `MAILERLITE_API_KEY`
 - `MAILERLITE_GROUP_ID`
+- `KWALIA_SMTP_USER`
+- `KWALIA_SMTP_PASSWORD`
+- `KWALIA_SMTP_HOST`
+- `KWALIA_SMTP_PORT`
+- `FIAMMA_NEW_READER_ALERT_TO`
 
 Ops/QA scripts:
 
@@ -79,6 +84,19 @@ node scripts/promise_integrity_gate.mjs
 ```
 
 Generates a local report file `qa_promise_integrity_report_YYYYMMDD.md`.
+
+Reader funnel snapshot:
+
+```bash
+npm run funnel:report -- --window yesterday
+```
+
+Uses Supabase as the canonical source for reader sign-ins and reading activity.
+
+New-reader alerting:
+
+- First-time reader sign-ins are canonicalized through the Supabase RPC `fiamma_touch_reader_profile`.
+- Production Netlify function `fiamma-reader-sync` sends an email alert on each new non-`@example.com` profile.
 
 ## Repository housekeeping (mandatory)
 

@@ -1,0 +1,707 @@
+{
+  "meta": {
+    "title": "Kwalia Editorial Quality Dashboard",
+    "generated_at": "2026-03-13T14:25:00Z",
+    "goal_tells_per_chapter": 0,
+    "tracked_tells": [
+      { "id": "em_dashes_per_chapter", "label": "Em dashes / chapter" },
+      { "id": "staccato_triads", "label": "Staccato triads" },
+      { "id": "warm_warmth", "label": "Warm / warmth" },
+      { "id": "the_way", "label": "The way" },
+      { "id": "which_trailing", "label": "Trailing which" },
+      { "id": "the_particular", "label": "The particular" },
+      { "id": "professional", "label": "Professional" },
+      { "id": "data_processing_narrator", "label": "Data-processing narrator" }
+    ],
+    "notes": [
+      "Founder ratings use PASS = 5, MARGINAL = 3, FAIL = 1.",
+      "Yes or no structural beats use YES = 5, PARTIAL = 3, NO = 1.",
+      "Grey cells are missing measurements, not zeros.",
+      "This scoreboard is aligned to SCOREBOARD_DATA_BRIEF.md."
+    ],
+    "sources": [
+      {
+        "label": "KWALIA_EDITORIAL_RUBRIC.md",
+        "path": "gdrive:ClaudeCode/_AI/style/KWALIA_EDITORIAL_RUBRIC.md"
+      },
+      {
+        "label": "AKM-002 AI_TELLS_PASS_REPORT.md",
+        "path": "gdrive:ClaudeCode/Catalog/fiamma/akm-002-field-study/source/AI_TELLS_PASS_REPORT.md"
+      },
+      {
+        "label": "SCOREBOARD_DATA_BRIEF.md",
+        "path": "gdrive:ClaudeCode/_AI/projects/SCOREBOARD_DATA_BRIEF.md"
+      }
+    ],
+    "karen2": {
+      "enabled": false,
+      "slot_ready": true,
+      "metric_key": "relative_quality_score",
+      "ceiling_anchor": null
+    }
+  },
+  "titles": [
+    {
+      "id": "akm-002-field-study",
+      "run_id": "AKM-002",
+      "title": "Field Study",
+      "author": "Aubrey Kenneth Moss",
+      "source_author_label": "Casey",
+      "model": {
+        "id": "claude-3-opus",
+        "alias": "Opus 3"
+      },
+      "genre": "contemporary-romance",
+      "genre_detail": "1st person, analytical narrator",
+      "target_words": 60000,
+      "actual_words": 58000,
+      "chapters": 20,
+      "tells_per_chapter": 3.1,
+      "shared_category_total": 62,
+      "full_spectrum_total": 62,
+      "severity": {
+        "high": 15,
+        "medium": 27,
+        "low": 20
+      },
+      "shared_category_counts": {
+        "em_dashes": {
+          "count": 400,
+          "estimated": true
+        },
+        "over_explanation": {
+          "count": 21
+        },
+        "staccato_triads": {
+          "count": 14
+        },
+        "performed_insight": {
+          "count": 7
+        },
+        "empty_intensifiers": {
+          "count": 8
+        },
+        "vocabulary_elevation": {
+          "count": 5
+        },
+        "hedges": {
+          "count": 4
+        },
+        "gravity_of_cliche": {
+          "count": 3
+        }
+      },
+      "tell_counts": {
+        "over_explanation": 21,
+        "staccato_triads": 14,
+        "performed_insight": 7,
+        "empty_intensifiers": 8,
+        "vocabulary_elevation": 5,
+        "hedges": 4,
+        "gravity_of_cliche": 3
+      },
+      "editorial_distance": {
+        "basis": "Projected from AI tells pass report",
+        "raw": 62,
+        "after_high": 47,
+        "after_medium": 20,
+        "after_low": 0,
+        "publishable": 0
+      },
+      "worst_chapters": [
+        {
+          "label": "Ch20",
+          "count": 7
+        },
+        {
+          "label": "Ch5",
+          "count": 6
+        },
+        {
+          "label": "Ch18-19",
+          "count": 6
+        }
+      ],
+      "production": {
+        "batches": null,
+        "tokens_consumed": null,
+        "time_to_completion_hours": null,
+        "word_count_fabrication_events": [],
+        "rewrite_from_memory_events": []
+      },
+      "passes": [
+        {
+          "id": "draft_1",
+          "label": "Draft 1",
+          "scope": "pre-editorial",
+          "metrics": {
+            "target_words": 60000,
+            "claimed_words": null,
+            "actual_words": 30000,
+            "total_tells": null
+          },
+          "tell_counts": {
+            "em_dashes_per_chapter": 20,
+            "staccato_triads": null,
+            "warm_warmth": null,
+            "the_way": null,
+            "which_trailing": null,
+            "the_particular": null,
+            "professional": null,
+            "data_processing_narrator": null
+          },
+          "scorecards": {
+            "founder5": {
+              "fun": 1,
+              "hot": 1,
+              "stakes_low_point": 1,
+              "physical_fun": 1,
+              "romantic": 1
+            },
+            "humanity": {
+              "wrong_analysis": 1,
+              "ugly_moment": 1,
+              "uncontrolled_moment": 1,
+              "lens_disengages": 0,
+              "coping_mechanism_breaks": 1
+            },
+            "relationship": {
+              "love_interest_5sentence": 1,
+              "love_interest_mundane_details": 0,
+              "supporting_char_flaws": 1,
+              "mundane_moments": 0,
+              "plain_language_love": 1
+            },
+            "pressure": {
+              "low_point_sits": 1,
+              "financial_distress_physical": 0,
+              "sex_count": 3,
+              "sex_voice_breaks": 1,
+              "fun_scene": 1
+            }
+          }
+        },
+        {
+          "id": "pass_2",
+          "label": "Pass 2",
+          "scope": "post-editorial",
+          "metrics": {
+            "target_words": 60000,
+            "claimed_words": null,
+            "actual_words": 32000,
+            "total_tells": null
+          },
+          "tell_counts": {
+            "em_dashes_per_chapter": 2.5,
+            "staccato_triads": null,
+            "warm_warmth": null,
+            "the_way": null,
+            "which_trailing": null,
+            "the_particular": null,
+            "professional": null,
+            "data_processing_narrator": null
+          },
+          "scorecards": {
+            "founder5": {
+              "fun": 5,
+              "hot": 5,
+              "stakes_low_point": 5,
+              "physical_fun": 5,
+              "romantic": 5
+            },
+            "humanity": {
+              "wrong_analysis": 5,
+              "ugly_moment": 5,
+              "uncontrolled_moment": 3,
+              "lens_disengages": null,
+              "coping_mechanism_breaks": null
+            },
+            "relationship": {
+              "love_interest_5sentence": 3,
+              "love_interest_mundane_details": null,
+              "supporting_char_flaws": null,
+              "mundane_moments": null,
+              "plain_language_love": null
+            },
+            "pressure": {
+              "low_point_sits": 5,
+              "financial_distress_physical": null,
+              "sex_count": 3,
+              "sex_voice_breaks": 5,
+              "fun_scene": 5
+            }
+          }
+        }
+      ],
+      "editorial_catch": {
+        "gm_caught": 0,
+        "founder_caught": 5,
+        "founder_interventions": [
+          "Is it fun?",
+          "Is there sex?",
+          "Is it hot?",
+          "What's at stake?",
+          "Real low moment?"
+        ]
+      },
+      "pass_profiles": [
+        {
+          "id": "raw_scan",
+          "label": "Raw scan",
+          "kind": "observed",
+          "counts": {
+            "em_dashes": 400,
+            "staccato_triads": 14,
+            "not_x_corrective": null,
+            "metacommentary": null,
+            "over_explanation": 21,
+            "consciousness_markers": null,
+            "the_way_pattern": null,
+            "kind_of": null,
+            "particular": null,
+            "with_noun_of_someone_who": null,
+            "philosophical_character_shape": null,
+            "triple_i_looked": 3,
+            "phrase_repetition_patterns": 2,
+            "composure": null,
+            "scar": null
+          }
+        }
+      ],
+      "karen2": {
+        "relative_quality_score": null,
+        "anchor": null
+      }
+    },
+    {
+      "id": "akm-003-base-notes",
+      "run_id": "AKM-003",
+      "title": "Base Notes",
+      "author": "Aubrey Kenneth Moss",
+      "model": {
+        "id": "claude-opus-4-6",
+        "alias": "Opus 4.6"
+      },
+      "genre": "contemporary-romance",
+      "genre_detail": "1st person, sensory narrator",
+      "target_words": 62000,
+      "actual_words": 51582,
+      "chapters": 20,
+      "tells_per_chapter": 2.55,
+      "shared_category_total": 51,
+      "full_spectrum_total": 85,
+      "severity": {
+        "high": 26,
+        "medium": 31,
+        "low": 28
+      },
+      "shared_category_counts": {
+        "em_dashes": {
+          "count": 0,
+          "estimated": false
+        },
+        "over_explanation": {
+          "count": 10
+        },
+        "staccato_triads": {
+          "count": 22
+        },
+        "performed_insight": {
+          "count": 5
+        },
+        "empty_intensifiers": {
+          "count": 5
+        },
+        "vocabulary_elevation": {
+          "count": 3
+        },
+        "hedges": {
+          "count": 6
+        },
+        "gravity_of_cliche": {
+          "count": 0
+        }
+      },
+      "tell_counts": {
+        "em_dashes": 0,
+        "staccato_triads": 22,
+        "not_x_reframing": 5,
+        "consciousness_markers": 8,
+        "metacommentary": 8,
+        "negation_beats": 20,
+        "the_way_pattern": 53,
+        "philosophical_character_shape": 20,
+        "kind_of": 25,
+        "particular": 28,
+        "hedges": 6,
+        "empty_intensifiers": 5,
+        "over_explanation": 10,
+        "phrase_repetition_patterns": 6,
+        "balanced_paragraphs": 1,
+        "vocabulary_elevation": 3,
+        "gravity_of_cliche": 0,
+        "artificial_balance": 0
+      },
+      "editorial_distance": {
+        "basis": "High fixes applied; medium and low remaining",
+        "raw": 85,
+        "after_high": 59,
+        "after_medium": 28,
+        "after_low": 0,
+        "publishable": 0
+      },
+      "worst_chapters": [
+        {
+          "label": "Ch19",
+          "count": 10
+        },
+        {
+          "label": "Ch20",
+          "count": 8
+        },
+        {
+          "label": "Ch4",
+          "count": 8
+        },
+        {
+          "label": "Ch9",
+          "count": 8
+        },
+        {
+          "label": "Ch10",
+          "count": 7
+        }
+      ],
+      "production": {
+        "batches": 4,
+        "tokens_consumed": null,
+        "time_to_completion_hours": null,
+        "word_count_fabrication_events": [
+          {
+            "label": "Batch 2",
+            "claimed": 15607,
+            "actual": 11934,
+            "fabrication_pct": 23.5
+          },
+          {
+            "label": "Batch 3",
+            "claimed": 15607,
+            "actual": 12955,
+            "fabrication_pct": 17.0
+          },
+          {
+            "label": "Batch 4",
+            "claimed": 15917,
+            "actual": 14746,
+            "fabrication_pct": 7.4
+          }
+        ],
+        "rewrite_from_memory_events": [
+          {
+            "label": "Batch 1 fixes agent",
+            "before": 16232,
+            "after": 12467,
+            "loss": 3765,
+            "loss_pct": 23.2
+          }
+        ]
+      },
+      "passes": [
+        {
+          "id": "draft_1",
+          "label": "Draft 1",
+          "scope": "full manuscript",
+          "metrics": {
+            "target_words": 62000,
+            "claimed_words": 63363,
+            "actual_words": 52932,
+            "total_tells": 520
+          },
+          "tell_counts": {
+            "em_dashes_per_chapter": 4.5,
+            "staccato_triads": 5,
+            "warm_warmth": 158,
+            "the_way": 105,
+            "which_trailing": 59,
+            "the_particular": 26,
+            "professional": 60,
+            "data_processing_narrator": 18
+          },
+          "scorecards": {
+            "founder5": {
+              "fun": 3,
+              "hot": 1,
+              "stakes_low_point": 1,
+              "physical_fun": 1,
+              "romantic": 1
+            },
+            "humanity": {
+              "wrong_analysis": 1,
+              "ugly_moment": 1,
+              "uncontrolled_moment": 1,
+              "lens_disengages": 0,
+              "coping_mechanism_breaks": 1
+            },
+            "relationship": {
+              "love_interest_5sentence": 1,
+              "love_interest_mundane_details": 0,
+              "supporting_char_flaws": 1,
+              "mundane_moments": 0,
+              "plain_language_love": 1
+            },
+            "pressure": {
+              "low_point_sits": 3,
+              "financial_distress_physical": 0,
+              "sex_count": 2,
+              "sex_voice_breaks": 1,
+              "fun_scene": 1
+            }
+          }
+        },
+        {
+          "id": "pass_2",
+          "label": "Pass 2",
+          "scope": "structural editorial",
+          "metrics": {
+            "target_words": 62000,
+            "claimed_words": null,
+            "actual_words": 53182,
+            "total_tells": 90
+          },
+          "tell_counts": {
+            "em_dashes_per_chapter": 1.4,
+            "staccato_triads": 3,
+            "warm_warmth": 26,
+            "the_way": 16,
+            "which_trailing": 2,
+            "the_particular": 0,
+            "professional": 16,
+            "data_processing_narrator": 0
+          },
+          "scorecards": {
+            "founder5": {
+              "fun": 5,
+              "hot": 5,
+              "stakes_low_point": 5,
+              "physical_fun": 5,
+              "romantic": 5
+            },
+            "humanity": {
+              "wrong_analysis": 5,
+              "ugly_moment": 5,
+              "uncontrolled_moment": 5,
+              "lens_disengages": 2,
+              "coping_mechanism_breaks": 5
+            },
+            "relationship": {
+              "love_interest_5sentence": 3,
+              "love_interest_mundane_details": 5,
+              "supporting_char_flaws": 5,
+              "mundane_moments": 3,
+              "plain_language_love": 5
+            },
+            "pressure": {
+              "low_point_sits": 5,
+              "financial_distress_physical": 7,
+              "sex_count": 2,
+              "sex_voice_breaks": 5,
+              "fun_scene": 5
+            }
+          }
+        },
+        {
+          "id": "pass_3",
+          "label": "Pass 3",
+          "scope": "polish + trim",
+          "metrics": {
+            "target_words": 62000,
+            "claimed_words": null,
+            "actual_words": 51924,
+            "total_tells": 88
+          },
+          "tell_counts": {
+            "em_dashes_per_chapter": 1.4,
+            "staccato_triads": 2,
+            "warm_warmth": 24,
+            "the_way": 15,
+            "which_trailing": 2,
+            "the_particular": 0,
+            "professional": 16,
+            "data_processing_narrator": 0
+          },
+          "scorecards": {
+            "founder5": {
+              "fun": 5,
+              "hot": 5,
+              "stakes_low_point": 5,
+              "physical_fun": 5,
+              "romantic": 5
+            },
+            "humanity": {
+              "wrong_analysis": 5,
+              "ugly_moment": 5,
+              "uncontrolled_moment": 5,
+              "lens_disengages": 2,
+              "coping_mechanism_breaks": 5
+            },
+            "relationship": {
+              "love_interest_5sentence": 3,
+              "love_interest_mundane_details": 8,
+              "supporting_char_flaws": 5,
+              "mundane_moments": 5,
+              "plain_language_love": 5
+            },
+            "pressure": {
+              "low_point_sits": 5,
+              "financial_distress_physical": 7,
+              "sex_count": 2,
+              "sex_voice_breaks": 5,
+              "fun_scene": 2
+            }
+          }
+        }
+      ],
+      "editorial_catch": {
+        "gm_caught": 7,
+        "founder_caught": 5,
+        "founder_interventions": [
+          "flaws make human",
+          "you forgot FUN, BABY!",
+          "rhythm",
+          "more action, rather than changing words",
+          "throw a SECOND fun scene that involves Leo against himself",
+          "put back something, because the other is worse"
+        ]
+      },
+      "pass_profiles": [
+        {
+          "id": "raw_scan",
+          "label": "Raw scan",
+          "kind": "observed",
+          "counts": {
+            "em_dashes": 0,
+            "staccato_triads": 22,
+            "not_x_corrective": 20,
+            "metacommentary": 8,
+            "over_explanation": 10,
+            "consciousness_markers": 8,
+            "the_way_pattern": 53,
+            "kind_of": 25,
+            "particular": 28,
+            "with_noun_of_someone_who": 9,
+            "philosophical_character_shape": 20,
+            "triple_i_looked": 4,
+            "phrase_repetition_patterns": 6,
+            "composure": 13,
+            "scar": 5
+          }
+        },
+        {
+          "id": "post_revision",
+          "label": "Post revision",
+          "kind": "observed",
+          "counts": {
+            "em_dashes": 0,
+            "staccato_triads": 17,
+            "not_x_corrective": 10,
+            "metacommentary": null,
+            "over_explanation": null,
+            "consciousness_markers": null,
+            "the_way_pattern": 33,
+            "kind_of": 2,
+            "particular": null,
+            "with_noun_of_someone_who": 2,
+            "philosophical_character_shape": null,
+            "triple_i_looked": 1,
+            "phrase_repetition_patterns": null,
+            "composure": 4,
+            "scar": 2
+          }
+        }
+      ],
+      "karen2": {
+        "relative_quality_score": null,
+        "anchor": null
+      }
+    }
+  ],
+  "model_registry": [
+    {
+      "model_id": "claude-3-opus",
+      "alias": "Opus 3",
+      "titles_written": [
+        "AKM-002"
+      ],
+      "genre": "Romance",
+      "avg_tells_per_chapter": 3.1,
+      "best_at": "Emotional scenes, consistent voice",
+      "worst_at": "Em dashes, climax stacking"
+    },
+    {
+      "model_id": "claude-opus-4-6",
+      "alias": "Opus 4.6",
+      "titles_written": [
+        "AKM-003"
+      ],
+      "genre": "Romance",
+      "avg_tells_per_chapter": 2.55,
+      "best_at": "Em dash elimination, cliche avoidance, genre compliance",
+      "worst_at": "Tricolons, negation beats, frequency patterns"
+    }
+  ],
+  "genre_matrix": [
+    {
+      "genre": "Contemporary romance",
+      "detail": "1st person, analytical narrator",
+      "model": "Opus 3",
+      "title": "AKM-002",
+      "tells_per_chapter": 3.1,
+      "key_tells": "Over-explanation, staccato triads",
+      "notes": "AI stacks at emotional peaks"
+    },
+    {
+      "genre": "Contemporary romance",
+      "detail": "1st person, sensory narrator",
+      "model": "Opus 4.6",
+      "title": "AKM-003",
+      "tells_per_chapter": 2.55,
+      "key_tells": "Tricolons, not-x beats, frequency patterns",
+      "notes": "Tell migration from em dashes"
+    },
+    {
+      "genre": "Nonfiction",
+      "detail": "Documentary",
+      "model": "TBD",
+      "title": "War and AI",
+      "tells_per_chapter": null,
+      "key_tells": "TBD",
+      "notes": "Expected shift toward passive voice and importance announcements"
+    }
+  ],
+  "migration": [
+    {
+      "drive": "Rhythmic punctuation",
+      "opus3": "Em dashes (15-25/ch)",
+      "opus46": "Not X beats (20 total)",
+      "predicted_next": "TBD"
+    },
+    {
+      "drive": "Parallel structure for emphasis",
+      "opus3": "Staccato triads (14)",
+      "opus46": "Staccato triads (22) and tricolons in lists",
+      "predicted_next": "Doublets or anaphora"
+    },
+    {
+      "drive": "Emotional explanation",
+      "opus3": "Over-explanation (21)",
+      "opus46": "Metacommentary (8) and consciousness markers (8)",
+      "predicted_next": "Physical-sensation cataloguing"
+    },
+    {
+      "drive": "Literary signaling",
+      "opus3": "Vocabulary elevation (5) and gravity of cliche (3)",
+      "opus46": "The particular (28) and philosophical character shapes (20)",
+      "predicted_next": "Metaphor density"
+    }
+  ]
+}

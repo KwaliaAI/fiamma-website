@@ -6,9 +6,14 @@ import { initAnalytics, trackPageView } from '@/lib/analytics'
 import { BookPage } from '@/pages/BookPage'
 import { CatalogPage } from '@/pages/CatalogPage'
 import { HomePage } from '@/pages/HomePage'
+import { EditorialDashboardPage } from '@/pages/EditorialDashboardPage'
+import { HeteronymPage } from '@/pages/HeteronymPage'
 import { ReaderGatePage } from '@/pages/ReaderGatePage'
 import { ReaderPage } from '@/pages/ReaderPage'
 import { ShelfPage } from '@/pages/ShelfPage'
+import { TikTokCallbackPage } from '@/pages/TikTokCallbackPage'
+import { PrivacyPolicyPage } from '@/pages/PrivacyPolicyPage'
+import { TermsOfServicePage } from '@/pages/TermsOfServicePage'
 
 function AppLayout({ children }: { children: ReactNode }) {
   return (
@@ -62,6 +67,22 @@ function App() {
           }
         />
         <Route
+          path="/heteronyms/:slug"
+          element={
+            <AppLayout>
+              <HeteronymPage />
+            </AppLayout>
+          }
+        />
+        <Route
+          path="/editorial"
+          element={
+            <AppLayout>
+              <EditorialDashboardPage />
+            </AppLayout>
+          }
+        />
+        <Route
           path="/read/:slug"
           element={
             <AppLayout>
@@ -82,6 +103,30 @@ function App() {
           element={
             <AppLayout>
               <ShelfPage />
+            </AppLayout>
+          }
+        />
+        <Route
+          path="/tiktok/callback"
+          element={
+            <AppLayout>
+              <TikTokCallbackPage />
+            </AppLayout>
+          }
+        />
+        <Route
+          path="/privacy"
+          element={
+            <AppLayout>
+              <PrivacyPolicyPage />
+            </AppLayout>
+          }
+        />
+        <Route
+          path="/terms"
+          element={
+            <AppLayout>
+              <TermsOfServicePage />
             </AppLayout>
           }
         />

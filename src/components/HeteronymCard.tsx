@@ -1,17 +1,8 @@
 import { useEffect, useMemo, useRef, useState } from 'react'
+import { Link } from 'react-router-dom'
+import type { HeteronymProfile } from '@/lib/heteronyms'
 
-type HeteronymStatus = 'active' | 'upcoming'
-
-export interface HeteronymCardData {
-  name: string
-  slug: string
-  bio: string
-  imagePath: string
-  videoPath?: string
-  status: HeteronymStatus
-}
-
-type HeteronymCardProps = HeteronymCardData
+type HeteronymCardProps = HeteronymProfile
 
 function bindMediaQueryListener(query: MediaQueryList, listener: () => void) {
   if (typeof query.addEventListener === 'function') {
@@ -151,6 +142,21 @@ export function HeteronymCard({ name, slug, bio, imagePath, videoPath, status }:
 
       <p className="mb-3 text-xs uppercase tracking-[0.2em] text-gray-400">{slug}</p>
       <p className="text-sm leading-relaxed text-gray-600 sm:text-base">{bio}</p>
+
+      <div className="mt-5">
+        {status === 'active' ? (
+          <Link
+            to={`/heteronyms/${slug}`}
+            className="inline-flex rounded-full border border-fiamma-coral px-4 py-2 text-sm font-semibold text-fiamma-coral transition-colors hover:bg-fiamma-coral hover:text-white"
+          >
+            View books
+          </Link>
+        ) : (
+          <span className="inline-flex rounded-full border border-gray-200 px-4 py-2 text-sm font-semibold text-gray-500">
+            Coming soon
+          </span>
+        )}
+      </div>
     </article>
   )
 }

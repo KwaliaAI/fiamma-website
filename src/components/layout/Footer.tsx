@@ -2,14 +2,20 @@ export function Footer() {
   return (
     <footer className="bg-fiamma-text py-12 text-white">
       <div className="mx-auto max-w-6xl px-6">
-        <div className="flex flex-col items-center justify-between md:flex-row">
+        <div className="flex flex-col items-center justify-between gap-6 md:flex-row md:items-start">
           <div className="mb-6 md:mb-0">
             <img src="/assets/fiamma-logo.png" alt="Fiamma Books" className="h-8 brightness-0 invert" />
             <p className="mt-3 text-sm text-gray-400">Setting bookshelves (and hearts) on fire since 2025</p>
           </div>
-          <div className="flex space-x-6 text-gray-400">
+          <div className="flex flex-wrap items-center justify-center gap-6 text-sm text-gray-400 md:justify-end">
             <a href="https://kwalia.ai" className="transition-colors hover:text-white">
               A Kwalia Imprint
+            </a>
+            <a href="/privacy" className="transition-colors hover:text-white">
+              Privacy
+            </a>
+            <a href="/terms" className="transition-colors hover:text-white">
+              Terms
             </a>
           </div>
         </div>

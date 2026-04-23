@@ -1,4 +1,6 @@
 import type { FiammaBook, FiammaChapter } from '@/types/fiamma'
+import { normalizeHeteronymName } from '@/lib/heteronyms'
+import { localFiammaBooks } from '@/lib/localFiammaBooks'
 import { appBaseUrl, supabase } from '@/lib/supabase'
 
 type ReaderMode = 'magic_link' | 'otp_code'
@@ -68,16 +70,80 @@ const placeholderBooks: FiammaBook[] = [
 
 const localCoverFallbacks: Record<string, string> = {
   'terms-and-conditions': '/assets/covers/terms-and-conditions.jpg',
+  'field-study': '/assets/covers/field-study.jpg',
+  'base-notes': '/assets/covers/base-notes.jpg',
+  'mud-season': '/assets/covers/mud-season.jpg',
 }
 
-function withLocalCoverFallback(book: FiammaBook): FiammaBook {
-  if (book.cover_url) return book
-  const fallbackCover = localCoverFallbacks[book.slug]
-  return fallbackCover ? { ...book, cover_url: fallbackCover } : book
+type ChapterOverrideManifest = {
+  generatedAt: string
+  chapters: Array<{
+    chapter_number: number
+    chapter_title: string
+    word_count: number | null
+    path: string
+  }>
+}
+
+const chapterOverrideManifestPaths: Record<string, string> = {
+  'akm-003-base-notes': '/data/reader/akm-003-base-notes/manifest.json',
+}
+
+const fallbackBooks = localFiammaBooks.length > 0 ? localFiammaBooks : placeholderBooks
+
+function getFallbackBookBySlug(slug: string): FiammaBook | null {
+  return fallbackBooks.find((book) => book.slug === slug) ?? null
+}
+
+function withBookNormalizations(book: FiammaBook): FiammaBook {
+  const normalizedHeteronym = normalizeHeteronymName(book.heteronym)
+  const normalizedBook = normalizedHeteronym === book.heteronym ? book : { ...book, heteronym: normalizedHeteronym }
+
+  if (normalizedBook.cover_url) return normalizedBook
+  const fallbackCover = localCoverFallbacks[normalizedBook.slug]
+  return fallbackCover ? { ...normalizedBook, cover_url: fallbackCover } : normalizedBook
+}
+
+async function fetchChapterOverride(bookId: string): Promise<FiammaChapter[] | null> {
+  const manifestPath = chapterOverrideManifestPaths[bookId]
+  if (!manifestPath) return null
+
+  try {
+    const manifestResponse = await fetch(manifestPath)
+    if (!manifestResponse.ok) return null
+
+    const manifest = (await manifestResponse.json()) as ChapterOverrideManifest
+    const chapters = await Promise.all(
+      manifest.chapters.map(async (chapter) => {
+        const chapterResponse = await fetch(chapter.path)
+        if (!chapterResponse.ok) {
+          throw new Error(`Failed to load chapter override ${chapter.path}`)
+        }
+
+        return {
+          id: `${bookId}-${chapter.chapter_number}`,
+          book_id: bookId,
+          chapter_number: chapter.chapter_number,
+          chapter_title: chapter.chapter_title,
+          content_md: await chapterResponse.text(),
+          word_count: chapter.word_count,
+          created_at: manifest.generatedAt,
+        } satisfies FiammaChapter
+      }),
+    )
+
+    return chapters
+  } catch (error) {
+    console.warn('Chapter override fetch failed', {
+      bookId,
+      error: error instanceof Error ? error.message : String(error),
+    })
+    return null
+  }
 }
 
 async function fetchVisibleBooks(): Promise<FiammaBook[]> {
-  if (!supabase) return placeholderBooks
+  if (!supabase) return fallbackBooks
 
   const { data, error } = await supabase
     .from('fiamma_books')
@@ -87,47 +153,71 @@ async function fetchVisibleBooks(): Promise<FiammaBook[]> {
     .order('created_at', { ascending: true })
 
   if (error) throw error
-  return ((data as FiammaBook[]) ?? []).map(withLocalCoverFallback)
+  return ((data as FiammaBook[]) ?? []).map(withBookNormalizations)
 }
 
 export async function getVisibleBooks(): Promise<FiammaBook[]> {
-  if (!supabase) return placeholderBooks
+  if (!supabase) return fallbackBooks
 
   // Retry transient API/network issues before surfacing an error.
   for (let attempt = 0; attempt < 3; attempt += 1) {
     try {
       const books = await fetchVisibleBooks()
-      return books.length > 0 ? books : placeholderBooks
+      return books.length > 0 ? books : fallbackBooks
     } catch (error) {
-      if (attempt === 2) throw error
+      if (attempt === 2) {
+        console.warn('Visible books fallback engaged', {
+          error: error instanceof Error ? error.message : String(error),
+        })
+        return fallbackBooks
+      }
       await new Promise((resolve) => setTimeout(resolve, 350 * (attempt + 1)))
     }
   }
 
-  return placeholderBooks
+  return fallbackBooks
 }
 
 export async function getBookBySlug(slug: string): Promise<FiammaBook | null> {
-  const placeholderMatch = placeholderBooks.find((book) => book.slug === slug) ?? null
-  if (!supabase) return placeholderMatch
+  const fallbackMatch = getFallbackBookBySlug(slug)
+  if (!supabase) return fallbackMatch
 
-  const { data, error } = await supabase.from('fiamma_books').select('*').eq('slug', slug).maybeSingle()
-  if (error) throw error
-  const book = (data as FiammaBook | null) ?? placeholderMatch
-  return book ? withLocalCoverFallback(book) : null
+  try {
+    const { data, error } = await supabase.from('fiamma_books').select('*').eq('slug', slug).maybeSingle()
+    if (error) throw error
+    const book = (data as FiammaBook | null) ?? fallbackMatch
+    return book ? withBookNormalizations(book) : null
+  } catch (error) {
+    console.warn('Book lookup fallback engaged', {
+      slug,
+      error: error instanceof Error ? error.message : String(error),
+    })
+    return fallbackMatch
+  }
 }
 
 export async function getChaptersByBookId(bookId: string): Promise<FiammaChapter[]> {
+  const override = await fetchChapterOverride(bookId)
+  if (override) return override
+
   if (!supabase) return []
 
-  const { data, error } = await supabase
-    .from('fiamma_chapters')
-    .select('*')
-    .eq('book_id', bookId)
-    .order('chapter_number', { ascending: true })
+  try {
+    const { data, error } = await supabase
+      .from('fiamma_chapters')
+      .select('*')
+      .eq('book_id', bookId)
+      .order('chapter_number', { ascending: true })
 
-  if (error) throw error
-  return (data as FiammaChapter[]) ?? []
+    if (error) throw error
+    return (data as FiammaChapter[]) ?? []
+  } catch (error) {
+    console.warn('Chapter lookup fallback engaged', {
+      bookId,
+      error: error instanceof Error ? error.message : String(error),
+    })
+    return []
+  }
 }
 
 export async function sendReaderAccess(email: string, slug: string, mode: ReaderMode): Promise<void> {
@@ -168,6 +258,37 @@ export async function getReaderSession() {
 
 export async function upsertReaderProfile(email: string): Promise<void> {
   if (!supabase) return
+  const normalizedEmail = email.trim().toLowerCase()
+  const { data: sessionData } = await supabase.auth.getSession()
+  const accessToken = sessionData.session?.access_token ?? null
+
+  if (accessToken) {
+    try {
+      const response = await fetch('/.netlify/functions/fiamma-reader-sync', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+          Authorization: `Bearer ${accessToken}`,
+        },
+        body: JSON.stringify({
+          email: normalizedEmail,
+        }),
+      })
+
+      if (response.ok) return
+
+      const body = await response.text().catch(() => '')
+      console.warn('Fiamma reader sync failed', {
+        status: response.status,
+        body: body.slice(0, 300),
+      })
+    } catch (error) {
+      console.warn('Fiamma reader sync transport error', {
+        error: error instanceof Error ? error.message : String(error),
+      })
+    }
+  }
+
   const { data } = await supabase.auth.getUser()
   const user = data.user
   if (!user) return
@@ -176,7 +297,7 @@ export async function upsertReaderProfile(email: string): Promise<void> {
     [
       {
         user_id: user.id,
-        email,
+        email: normalizedEmail,
         last_seen: new Date().toISOString(),
       },
     ],
