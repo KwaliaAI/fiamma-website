@@ -1,6 +1,7 @@
 import { useEffect, useMemo, useState } from 'react'
 import { Link, useParams } from 'react-router-dom'
 import { getBookBySlug, getReaderGiftStatus, getVisibleBooks } from '@/lib/fiammaApi'
+import { getHeteronymProfileByName, matchesHeteronymName } from '@/lib/heteronyms'
 import type { FiammaBook } from '@/types/fiamma'
 
 export function BookPage() {
@@ -40,8 +41,9 @@ export function BookPage() {
 
   const relatedByHeteronym = useMemo(() => {
     if (!book) return []
-    return allBooks.filter((candidate) => candidate.heteronym === book.heteronym && candidate.slug !== book.slug)
+    return allBooks.filter((candidate) => matchesHeteronymName(candidate.heteronym, book.heteronym) && candidate.slug !== book.slug)
   }, [allBooks, book])
+  const authorProfile = useMemo(() => getHeteronymProfileByName(book?.heteronym), [book?.heteronym])
 
   if (!book) {
     return (
@@ -139,7 +141,17 @@ export function BookPage() {
               {book.heteronym} writes emotionally charged romance for Fiamma readers who want heat, tension, and unforgettable characters.
             </p>
 
-            <h3 className="mb-3 font-display text-xl font-bold">Also by {book.heteronym}</h3>
+            <div className="mb-3 flex flex-wrap items-center gap-3">
+              <h3 className="font-display text-xl font-bold">Also by {book.heteronym}</h3>
+              {authorProfile ? (
+                <Link
+                  to={`/heteronyms/${authorProfile.slug}`}
+                  className="text-sm font-semibold text-fiamma-coral underline-offset-4 hover:underline"
+                >
+                  View author page
+                </Link>
+              ) : null}
+            </div>
             {relatedByHeteronym.length === 0 ? (
               <p className="text-gray-600">More titles coming soon.</p>
             ) : (

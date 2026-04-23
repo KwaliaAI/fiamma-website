@@ -1,0 +1,128 @@
+{
+  "bookId": "akm-003-base-notes",
+  "version": "v6",
+  "source": "akm003_FULL_MANUSCRIPT_v6.md",
+  "generatedAt": "2026-04-22T00:00:00Z",
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "chapter_title": "Chapter One: Arrival",
+      "word_count": 3563,
+      "path": "/data/reader/akm-003-base-notes/chapter-001.txt"
+    },
+    {
+      "chapter_number": 2,
+      "chapter_title": "Chapter Two: The Grille",
+      "word_count": 3346,
+      "path": "/data/reader/akm-003-base-notes/chapter-002.txt"
+    },
+    {
+      "chapter_number": 3,
+      "chapter_title": "Chapter Three: The Kitchen",
+      "word_count": 3624,
+      "path": "/data/reader/akm-003-base-notes/chapter-003.txt"
+    },
+    {
+      "chapter_number": 4,
+      "chapter_title": "Chapter Four: The Skin Study",
+      "word_count": 4711,
+      "path": "/data/reader/akm-003-base-notes/chapter-004.txt"
+    },
+    {
+      "chapter_number": 5,
+      "chapter_title": "Chapter Five: The Morning After",
+      "word_count": 3629,
+      "path": "/data/reader/akm-003-base-notes/chapter-005.txt"
+    },
+    {
+      "chapter_number": 6,
+      "chapter_title": "Chapter Six: The Decision",
+      "word_count": 3000,
+      "path": "/data/reader/akm-003-base-notes/chapter-006.txt"
+    },
+    {
+      "chapter_number": 7,
+      "chapter_title": "Chapter Seven: Edouard's Wound",
+      "word_count": 3467,
+      "path": "/data/reader/akm-003-base-notes/chapter-007.txt"
+    },
+    {
+      "chapter_number": 8,
+      "chapter_title": "Chapter Eight: Chiara's Night",
+      "word_count": 3984,
+      "path": "/data/reader/akm-003-base-notes/chapter-008.txt"
+    },
+    {
+      "chapter_number": 9,
+      "chapter_title": "Chapter Nine: The Terrace",
+      "word_count": 3173,
+      "path": "/data/reader/akm-003-base-notes/chapter-009.txt"
+    },
+    {
+      "chapter_number": 10,
+      "chapter_title": "Chapter Ten: The Weather System",
+      "word_count": 2947,
+      "path": "/data/reader/akm-003-base-notes/chapter-010.txt"
+    },
+    {
+      "chapter_number": 11,
+      "chapter_title": "Chapter Eleven: The Festa",
+      "word_count": 3185,
+      "path": "/data/reader/akm-003-base-notes/chapter-011.txt"
+    },
+    {
+      "chapter_number": 12,
+      "chapter_title": "Chapter Twelve: The Wound",
+      "word_count": 2579,
+      "path": "/data/reader/akm-003-base-notes/chapter-012.txt"
+    },
+    {
+      "chapter_number": 13,
+      "chapter_title": "Chapter Thirteen: The Oud",
+      "word_count": 2733,
+      "path": "/data/reader/akm-003-base-notes/chapter-013.txt"
+    },
+    {
+      "chapter_number": 14,
+      "chapter_title": "Chapter Fourteen: Rupture",
+      "word_count": 3123,
+      "path": "/data/reader/akm-003-base-notes/chapter-014.txt"
+    },
+    {
+      "chapter_number": 15,
+      "chapter_title": "Chapter Fifteen: She Works",
+      "word_count": 3760,
+      "path": "/data/reader/akm-003-base-notes/chapter-015.txt"
+    },
+    {
+      "chapter_number": 16,
+      "chapter_title": "Chapter Sixteen: The Terrace",
+      "word_count": 2866,
+      "path": "/data/reader/akm-003-base-notes/chapter-016.txt"
+    },
+    {
+      "chapter_number": 17,
+      "chapter_title": "Chapter Seventeen: Edouard, Briefly",
+      "word_count": 4195,
+      "path": "/data/reader/akm-003-base-notes/chapter-017.txt"
+    },
+    {
+      "chapter_number": 18,
+      "chapter_title": "Chapter Eighteen: Base Note",
+      "word_count": 3002,
+      "path": "/data/reader/akm-003-base-notes/chapter-018.txt"
+    },
+    {
+      "chapter_number": 19,
+      "chapter_title": "Chapter Nineteen: Blind Panel",
+      "word_count": 3316,
+      "path": "/data/reader/akm-003-base-notes/chapter-019.txt"
+    },
+    {
+      "chapter_number": 20,
+      "chapter_title": "Chapter Twenty: After",
+      "word_count": 2419,
+      "path": "/data/reader/akm-003-base-notes/chapter-020.txt"
+    }
+  ]
+}

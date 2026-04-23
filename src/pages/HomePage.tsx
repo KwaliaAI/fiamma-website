@@ -1,9 +1,10 @@
 import { useEffect, useState } from 'react'
 import { BookCard } from '@/components/BookCard'
-import { type HeteronymCardData, HeteronymCard } from '@/components/HeteronymCard'
+import { HeteronymCard } from '@/components/HeteronymCard'
 import { Footer } from '@/components/layout/Footer'
 import { Navbar } from '@/components/layout/Navbar'
 import { getVisibleBooks } from '@/lib/fiammaApi'
+import { heteronymProfiles } from '@/lib/heteronyms'
 import type { FiammaBook } from '@/types/fiamma'
 
 const imprints = [
@@ -25,32 +26,6 @@ const imprints = [
     title: 'Fiamma Spark',
     description:
       "The ache of the build. The tension that makes you want to scream at the characters to just do it already. It's slow, it's painful, and it's always worth the wait.",
-  },
-]
-
-const heteronyms: HeteronymCardData[] = [
-  {
-    name: 'Aubrey Kenneth-Moss',
-    slug: 'aubrey-kenneth-moss',
-    bio: "Dry, precise, and unapologetically high-heat. Aubrey writes the kind of tension that makes you hold your breath,usually in professional settings where everyone is too competent to admit they're in trouble.",
-    imagePath: '/assets/heteronyms/aubrey/portrait_author_3x4_1200x1600.png',
-    videoPath: '/assets/heteronyms/aubrey/hover_loop.mp4',
-    status: 'active',
-  },
-  {
-    name: 'Seph Blackwood',
-    slug: 'seph-blackwood',
-    bio: "Dark glamour and dangerous longing. Seph writes for the 3 AM crowd, chasing the kind of obsession that doesn't resolve cleanly and stays with you long after the lights come up.",
-    imagePath: '/assets/heteronyms/seph/portrait_author_3x4_1200x1600.png',
-    status: 'active',
-  },
-  {
-    name: 'Casey Blake',
-    slug: 'casey',
-    bio: 'Casey Blake writes the heart of the game. From messy dorm rooms to high-stakes Olympic arenas, she captures the grit, sweat, and undeniable heat of college and professional sports romance. Unpretentious, authentic, and always game-day ready.',
-    imagePath: '/assets/heteronyms/casey/portrait_author_3x4_1200x1600.png',
-    videoPath: '/assets/heteronyms/casey/hover_loop.mp4',
-    status: 'upcoming',
   },
 ]
 
@@ -106,7 +81,7 @@ export function HomePage() {
             Distinct author identities shaping new worlds across Fiamma&apos;s evolving catalog.
           </p>
           <div className="grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
-            {heteronyms.map((heteronym) => (
+            {heteronymProfiles.map((heteronym) => (
               <HeteronymCard key={heteronym.slug} {...heteronym} />
             ))}
           </div>

@@ -7,6 +7,7 @@ import { BookPage } from '@/pages/BookPage'
 import { CatalogPage } from '@/pages/CatalogPage'
 import { HomePage } from '@/pages/HomePage'
 import { EditorialDashboardPage } from '@/pages/EditorialDashboardPage'
+import { HeteronymPage } from '@/pages/HeteronymPage'
 import { ReaderGatePage } from '@/pages/ReaderGatePage'
 import { ReaderPage } from '@/pages/ReaderPage'
 import { ShelfPage } from '@/pages/ShelfPage'
@@ -62,6 +63,14 @@ function App() {
           element={
             <AppLayout>
               <BookPage />
+            </AppLayout>
+          }
+        />
+        <Route
+          path="/heteronyms/:slug"
+          element={
+            <AppLayout>
+              <HeteronymPage />
             </AppLayout>
           }
         />
