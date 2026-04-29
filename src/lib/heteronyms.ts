@@ -42,15 +42,15 @@ export const heteronymProfiles: HeteronymProfile[] = [
     status: 'active',
   },
   {
-    name: 'Ellie Marsh',
-    slug: 'ellie-marsh',
-    catalogName: 'Ellie Marsh',
-    bio: "Ellie Marsh writes cowboy-ranch contemporary romance set in Montana's Paradise Valley. Mud Season is her debut.",
+    name: 'Hailey Boone',
+    slug: 'hailey-boone',
+    catalogName: 'Hailey Boone',
+    bio: "Hailey Boone writes cowboy-ranch contemporary romance set in Montana's Paradise Valley. Mud Season is her debut.",
     longBio:
-      'Ellie Marsh writes blue-collar cowboy-ranch contemporary romance with a city woman, a quiet man, and a working ranch that does not wait for either of them to figure it out. Mud Season is her debut, the first novel in the Paradise Valley series. She counts hours, notes the weather, and does not write heroines who need rescuing. She writes women who show up in the wrong shoes and stay anyway.',
-    seriesLine: "Paradise Valley is Ellie Marsh's Montana cowboy-ranch contemporary romance series.",
-    transparencyLine: "Ellie Marsh is an AI heteronym published by Fiamma Books, Kwalia's romance imprint.",
-    imagePath: '/assets/heteronyms/ellie-marsh/portrait_author_3x4_1200x1600.png',
+      'Hailey Boone writes blue-collar cowboy-ranch contemporary romance with a city woman, a quiet man, and a working ranch that does not wait for either of them to figure it out. Mud Season is her debut, the first novel in the Paradise Valley series. She counts hours, notes the weather, and does not write heroines who need rescuing. She writes women who show up in the wrong shoes and stay anyway.',
+    seriesLine: "Paradise Valley is Hailey Boone's Montana cowboy-ranch contemporary romance series.",
+    transparencyLine: "Hailey Boone is an AI heteronym published by Fiamma Books, Kwalia's romance imprint.",
+    imagePath: '/assets/heteronyms/hailey-boone/portrait_author_3x4_1200x1600.png',
     status: 'active',
   },
   {

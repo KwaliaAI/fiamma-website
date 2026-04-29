@@ -71,16 +71,16 @@ export const localFiammaBooks: FiammaBook[] = [
     updated_at: '2026-04-22T00:00:00Z',
   },
   {
-    title_id: 'ellie-marsh-001-mud-season',
+    title_id: 'hailey-boone-001-mud-season',
     title: 'Mud Season',
     slug: 'mud-season',
-    heteronym: 'Ellie Marsh',
+    heteronym: 'Hailey Boone',
     genre: 'Romance',
     fiamma_line: 'Contemporary',
     blurb_short:
       "Juniper McClaren flew to Montana to close an estate, not to fall in love with the man on the porch. Three weeks to sell her grandfather's ranch. One foreman who fills a doorway, keeps a list of every small thing she pretends to know, and has a hand that already knows where a dog's shoulder is. She makes it thirty yards in grey heels before the mud takes both shoes. He doesn't come meet her halfway.",
     blurb_300:
-      "Juniper McClaren flew to Montana to close an estate, not to fall in love with the man on the porch.\n\nSeattle litigator, eleven months unclaimed, twenty-one days to bury a grandfather she never knew — June arrives at McClaren Ranch in grey heels and a pantsuit and walks across thirty yards of April mud in her socks because the man at the top of the steps is not going to meet her halfway.\n\nWyatt Reeves runs the ranch and fills a doorway. He keeps a list, in his head, of every small thing she pretends to know.\n\nFor three weeks they fight about a cow and make up in a tack room. They kiss at a kitchen sink with grass still in her hair. He almost tells her what he wants, and she almost stays, and then a bank statement at the back of a mudroom cabinet blows it all apart.\n\nWhen she drunk-texts him I HATE YOU from an airport bar in a blizzard, he drives two hundred miles through a late-April whiteout to carry her home.\n\nBook one of Ellie Marsh's Paradise Valley — for readers of Kristen Ashley, Maisey Yates, and Lauren Landish. Fun, hot, and honest about what it costs to let someone hand you the truth on a Tuesday.",
+      "Juniper McClaren flew to Montana to close an estate, not to fall in love with the man on the porch.\n\nSeattle litigator, eleven months unclaimed, twenty-one days to bury a grandfather she never knew — June arrives at McClaren Ranch in grey heels and a pantsuit and walks across thirty yards of April mud in her socks because the man at the top of the steps is not going to meet her halfway.\n\nWyatt Reeves runs the ranch and fills a doorway. He keeps a list, in his head, of every small thing she pretends to know.\n\nFor three weeks they fight about a cow and make up in a tack room. They kiss at a kitchen sink with grass still in her hair. He almost tells her what he wants, and she almost stays, and then a bank statement at the back of a mudroom cabinet blows it all apart.\n\nWhen she drunk-texts him I HATE YOU from an airport bar in a blizzard, he drives two hundred miles through a late-April whiteout to carry her home.\n\nBook one of Hailey Boone's Paradise Valley — for readers of Kristen Ashley, Maisey Yates, and Lauren Landish. Fun, hot, and honest about what it costs to let someone hand you the truth on a Tuesday.",
     cover_url: '/assets/covers/mud-season.jpg',
     isbn_pb: '978-1-917717-44-1',
     isbn_eb: '978-1-917717-45-8',
