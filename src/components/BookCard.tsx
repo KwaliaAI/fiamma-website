@@ -3,9 +3,14 @@ import type { FiammaBook } from '@/types/fiamma'
 
 type BookCardProps = {
   book: FiammaBook
+  ctaLabel?: string
+  ctaHref?: string
+  progressLabel?: string | null
 }
 
-export function BookCard({ book }: BookCardProps) {
+export function BookCard({ book, ctaLabel = 'Start reading', ctaHref, progressLabel = null }: BookCardProps) {
+  const resolvedCtaHref = ctaHref ?? `/read/${book.slug}`
+
   return (
     <article className="book-card overflow-hidden rounded-2xl bg-white shadow-lg">
       <Link to={`/books/${book.slug}`} className="block" aria-label={`Open ${book.title}`}>
@@ -20,14 +25,15 @@ export function BookCard({ book }: BookCardProps) {
       <div className="p-6">
         <h3 className="mb-2 font-display text-xl font-bold">{book.title}</h3>
         <p className="mb-1 text-sm text-gray-600">by {book.heteronym}</p>
+        {progressLabel ? <p className="mb-1 text-xs font-semibold uppercase tracking-wide text-fiamma-coral">{progressLabel}</p> : null}
         <p className="mb-4 text-sm text-gray-600">{book.blurb_short ?? 'A story that will set your heart ablaze.'}</p>
         <div className="flex items-center justify-between gap-3">
           <span className="text-sm font-medium text-fiamma-coral">{book.fiamma_line ?? 'Fiamma'}</span>
           <Link
-            to={`/read/${book.slug}`}
+            to={resolvedCtaHref}
             className="rounded-full bg-fiamma-coral px-4 py-2 text-sm font-semibold text-white transition-colors hover:bg-fiamma-dark"
           >
-            Start reading
+            {ctaLabel}
           </Link>
         </div>
       </div>

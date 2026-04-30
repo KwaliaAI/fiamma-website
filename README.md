@@ -11,9 +11,9 @@ Production web app for Fiamma Books (`https://fiammabooks.com`).
 ## Key features
 
 - Catalog + book pages
-- Reader gate (magic link + OTP)
+- Reader gate (magic link + OTP) with email request intake
 - Complimentary-read entitlement logic (2 credits)
-- Reader shelf and progress persistence
+- Reader shelf and cross-device progress persistence
 - MailerLite subscriber sync (non-blocking)
 - Dynamic metadata edge function
 
@@ -93,8 +93,9 @@ npm run funnel:report -- --window yesterday
 
 Uses Supabase as the canonical source for reader sign-ins and reading activity.
 
-New-reader alerting:
+Reader intake + alerting:
 
+- Email requests are tracked through the Supabase RPC `fiamma_touch_reader_intake`.
 - First-time reader sign-ins are canonicalized through the Supabase RPC `fiamma_touch_reader_profile`.
 - Production Netlify function `fiamma-reader-sync` sends an email alert on each new non-`@example.com` profile.
 

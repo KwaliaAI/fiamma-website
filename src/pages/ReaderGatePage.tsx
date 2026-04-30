@@ -6,6 +6,7 @@ import {
   getBookBySlug,
   getReaderGiftStatus,
   getReaderSession,
+  getSavedProgress,
   sendReaderAccess,
   upsertReaderProfile,
   verifyReaderOtp,
@@ -42,6 +43,15 @@ export function ReaderGatePage() {
     return null
   }, [])
 
+  const routeToReader = useCallback(
+    async (bookId: string) => {
+      const savedChapter = await getSavedProgress(bookId).catch(() => null)
+      const nextChapter = savedChapter && savedChapter > 1 ? savedChapter : 1
+      navigate(`/read/${slug}/${nextChapter}`, { replace: true })
+    },
+    [navigate, slug],
+  )
+
   const claimAndRoute = useCallback(
     async (bookId: string): Promise<boolean> => {
       setStatusError(null)
@@ -52,14 +62,14 @@ export function ReaderGatePage() {
       setGiftCreditsTotal(result.gift_credits_total)
 
       if (result.status === 'unlocked' || result.status === 'already_unlocked') {
-        navigate(`/read/${slug}/1`, { replace: true })
+        await routeToReader(bookId)
         return true
       }
 
       setAccessBlocked(true)
       return false
     },
-    [navigate, slug],
+    [routeToReader],
   )
 
   const claimWithRetry = useCallback(
@@ -98,11 +108,12 @@ export function ReaderGatePage() {
         setGiftCreditsTotal(status.giftCreditsTotal)
 
         if (status.isUnlocked) {
-          navigate(`/read/${slug}/1`, { replace: true })
+          await routeToReader(bookId)
           return
         }
 
-        await claimWithRetry(bookId)
+        const unlocked = await claimWithRetry(bookId)
+        if (!unlocked) return
       } catch (error) {
         const code = getErrorCode(error)
         console.error('Gift access flow failed', { error, code, slug, bookId })
@@ -111,7 +122,7 @@ export function ReaderGatePage() {
         processingRef.current = false
       }
     },
-    [claimWithRetry, navigate, slug],
+    [claimWithRetry, routeToReader, slug],
   )
 
   useEffect(() => {
@@ -193,7 +204,9 @@ export function ReaderGatePage() {
       <div className="mx-auto max-w-2xl text-center">
         <p className="mb-2 text-sm font-semibold uppercase tracking-wide text-fiamma-coral">Fiamma reader</p>
         <h1 className="mb-2 font-display text-5xl font-bold">Read {book.title}</h1>
-        <p className="mb-4 text-gray-600">Your first two books are our gift. Keep them on your shelf forever once unlocked.</p>
+        <p className="mb-4 text-gray-600">
+          Enter your email, get the link, and we’ll save your reader profile so you can come back to the same place later.
+        </p>
 
         {giftCreditsRemaining !== null ? (
           <p className="mx-auto mb-6 max-w-xl rounded-lg border border-fiamma-coral/30 bg-fiamma-coral/10 px-4 py-3 text-sm text-fiamma-text">
