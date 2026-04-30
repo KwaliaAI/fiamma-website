@@ -1,4 +1,5 @@
 import type { FiammaBook, FiammaChapter } from '@/types/fiamma'
+import { getBookImprint, getBookImprintId } from '@/lib/fiammaBrand'
 import { normalizeHeteronymName } from '@/lib/heteronyms'
 import { localFiammaBooks } from '@/lib/localFiammaBooks'
 import { appBaseUrl, supabase } from '@/lib/supabase'
@@ -23,6 +24,13 @@ export type ReaderGiftBalance = {
   isAuthenticated: boolean
   giftCreditsRemaining: number
   giftCreditsTotal: number
+}
+
+export type ReaderShelfEntry = {
+  book: FiammaBook
+  lastChapter: number | null
+  completed: boolean
+  updatedAt: string | null
 }
 
 const placeholderBooks: FiammaBook[] = [
@@ -73,6 +81,8 @@ const localCoverFallbacks: Record<string, string> = {
   'field-study': '/assets/covers/field-study.jpg',
   'base-notes': '/assets/covers/base-notes.jpg',
   'mud-season': '/assets/covers/mud-season.jpg',
+  'heat-wave': '/assets/covers/heat-wave.jpg',
+  'bar-fight': '/assets/covers/bar-fight.jpg',
 }
 
 type ChapterOverrideManifest = {
@@ -85,28 +95,57 @@ type ChapterOverrideManifest = {
   }>
 }
 
-const chapterOverrideManifestPaths: Record<string, string> = {
-  'akm-003-base-notes': '/data/reader/akm-003-base-notes/manifest.json',
-}
-
 const fallbackBooks = localFiammaBooks.length > 0 ? localFiammaBooks : placeholderBooks
 
 function getFallbackBookBySlug(slug: string): FiammaBook | null {
   return fallbackBooks.find((book) => book.slug === slug) ?? null
 }
 
+function mergeVisibleBookSources(remoteBooks: FiammaBook[]): FiammaBook[] {
+  const merged = new Map<string, FiammaBook>()
+
+  for (const remoteBook of remoteBooks.map(withBookNormalizations)) {
+    merged.set(remoteBook.slug, remoteBook)
+  }
+
+  for (const fallbackBook of fallbackBooks.map(withBookNormalizations)) {
+    if (!merged.has(fallbackBook.slug)) {
+      merged.set(fallbackBook.slug, fallbackBook)
+    }
+  }
+
+  return Array.from(merged.values()).sort((a, b) => {
+    const seriesA = a.series_order ?? Number.MAX_SAFE_INTEGER
+    const seriesB = b.series_order ?? Number.MAX_SAFE_INTEGER
+    if (seriesA !== seriesB) return seriesA - seriesB
+
+    const createdA = a.created_at ?? ''
+    const createdB = b.created_at ?? ''
+    if (createdA !== createdB) return createdA.localeCompare(createdB)
+
+    return a.title.localeCompare(b.title)
+  })
+}
+
 function withBookNormalizations(book: FiammaBook): FiammaBook {
   const normalizedHeteronym = normalizeHeteronymName(book.heteronym)
-  const normalizedBook = normalizedHeteronym === book.heteronym ? book : { ...book, heteronym: normalizedHeteronym }
+  const normalizedBook =
+    normalizedHeteronym === book.heteronym ? book : { ...book, heteronym: normalizedHeteronym }
 
-  if (normalizedBook.cover_url) return normalizedBook
-  const fallbackCover = localCoverFallbacks[normalizedBook.slug]
-  return fallbackCover ? { ...normalizedBook, cover_url: fallbackCover } : normalizedBook
+  const imprint = normalizedBook.imprint ?? getBookImprintId(normalizedBook)
+  const imprintSubline = normalizedBook.imprint_subline ?? getBookImprint(normalizedBook).positioning
+  const brandedBook =
+    normalizedBook.imprint === imprint && normalizedBook.imprint_subline === imprintSubline
+      ? normalizedBook
+      : { ...normalizedBook, imprint, imprint_subline: imprintSubline }
+
+  if (brandedBook.cover_url) return brandedBook
+  const fallbackCover = localCoverFallbacks[brandedBook.slug]
+  return fallbackCover ? { ...brandedBook, cover_url: fallbackCover } : brandedBook
 }
 
 async function fetchChapterOverride(bookId: string): Promise<FiammaChapter[] | null> {
-  const manifestPath = chapterOverrideManifestPaths[bookId]
-  if (!manifestPath) return null
+  const manifestPath = `/data/reader/${bookId}/manifest.json`
 
   try {
     const manifestResponse = await fetch(manifestPath)
@@ -153,7 +192,7 @@ async function fetchVisibleBooks(): Promise<FiammaBook[]> {
     .order('created_at', { ascending: true })
 
   if (error) throw error
-  return ((data as FiammaBook[]) ?? []).map(withBookNormalizations)
+  return mergeVisibleBookSources((data as FiammaBook[]) ?? [])
 }
 
 export async function getVisibleBooks(): Promise<FiammaBook[]> {
@@ -223,9 +262,16 @@ export async function getChaptersByBookId(bookId: string): Promise<FiammaChapter
 export async function sendReaderAccess(email: string, slug: string, mode: ReaderMode): Promise<void> {
   if (!supabase) return
 
+  const normalizedEmail = email.trim().toLowerCase()
+  try {
+    await supabase.rpc('fiamma_touch_reader_intake', { p_email: normalizedEmail, p_slug: slug, p_mode: mode })
+  } catch {
+    // Intake tracking must never block link delivery.
+  }
+
   const redirectUrl = `${appBaseUrl}/read/${slug}`
   const { error } = await supabase.auth.signInWithOtp({
-    email,
+    email: normalizedEmail,
     options: {
       emailRedirectTo: redirectUrl,
       shouldCreateUser: true,
@@ -305,6 +351,50 @@ export async function upsertReaderProfile(email: string): Promise<void> {
   )
 
   if (error) throw error
+
+  try {
+    await supabase.rpc('fiamma_touch_reader_profile', { p_email: normalizedEmail })
+  } catch (rpcError) {
+    console.warn('Fiamma reader activation sync failed', {
+      email: normalizedEmail,
+      error: rpcError instanceof Error ? rpcError.message : String(rpcError),
+    })
+  }
+}
+
+export async function getReaderProgressForBooks(
+  bookIds: string[],
+): Promise<Map<string, { lastChapter: number | null; completed: boolean; updatedAt: string | null }>> {
+  const progressMap = new Map<string, { lastChapter: number | null; completed: boolean; updatedAt: string | null }>()
+
+  if (!supabase || bookIds.length === 0) return progressMap
+
+  const { data } = await supabase.auth.getUser()
+  const user = data.user
+  if (!user) return progressMap
+
+  const { data: progressRows, error } = await supabase
+    .from('fiamma_reading_progress')
+    .select('book_id,last_chapter,completed,updated_at')
+    .eq('user_id', user.id)
+    .in('book_id', bookIds)
+
+  if (error) throw error
+
+  for (const row of (progressRows ?? []) as Array<{
+    book_id: string
+    last_chapter: number | null
+    completed: boolean | null
+    updated_at: string | null
+  }>) {
+    progressMap.set(row.book_id, {
+      lastChapter: row.last_chapter ?? null,
+      completed: Boolean(row.completed),
+      updatedAt: row.updated_at ?? null,
+    })
+  }
+
+  return progressMap
 }
 
 export async function getReaderGiftStatus(bookId: string): Promise<ReaderGiftStatus> {
@@ -467,6 +557,52 @@ export async function getReaderShelfBooks(): Promise<FiammaBook[]> {
 
   const booksById = new Map((books as FiammaBook[]).map((book) => [book.title_id, book]))
   return bookIds.map((bookId) => booksById.get(bookId)).filter((book): book is FiammaBook => Boolean(book))
+}
+
+export async function getReaderShelfEntries(): Promise<ReaderShelfEntry[]> {
+  if (!supabase) return []
+
+  const { data } = await supabase.auth.getUser()
+  const user = data.user
+  if (!user) return []
+
+  const { data: unlocks, error: unlocksError } = await supabase
+    .from('fiamma_book_unlocks')
+    .select('book_id, unlocked_at')
+    .eq('user_id', user.id)
+    .order('unlocked_at', { ascending: false })
+
+  if (unlocksError) throw unlocksError
+
+  const bookIds = (unlocks ?? []).map((row) => row.book_id).filter(Boolean)
+  if (bookIds.length === 0) return []
+
+  const [{ data: books, error: booksError }, progressMap] = await Promise.all([
+    supabase
+      .from('fiamma_books')
+      .select('*')
+      .in('title_id', bookIds)
+      .eq('visible', true),
+    getReaderProgressForBooks(bookIds),
+  ])
+
+  if (booksError) throw booksError
+
+  const booksById = new Map((books as FiammaBook[]).map((book) => [book.title_id, book]))
+  return bookIds
+    .map((bookId) => {
+      const book = booksById.get(bookId)
+      if (!book) return null
+
+      const progress = progressMap.get(bookId) ?? null
+      return {
+        book,
+        lastChapter: progress?.lastChapter ?? null,
+        completed: progress?.completed ?? false,
+        updatedAt: progress?.updatedAt ?? null,
+      } satisfies ReaderShelfEntry
+    })
+    .filter((entry): entry is ReaderShelfEntry => Boolean(entry))
 }
 
 export async function saveReaderProgress(bookId: string, chapter: number, completed = false): Promise<void> {

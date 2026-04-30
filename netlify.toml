@@ -15,6 +15,22 @@
 
 [[edge_functions]]
   function = "fiamma-meta"
+  path = "/heteronyms"
+
+[[edge_functions]]
+  function = "fiamma-meta"
+  path = "/heteronyms/*"
+
+[[edge_functions]]
+  function = "fiamma-meta"
+  path = "/imprints"
+
+[[edge_functions]]
+  function = "fiamma-meta"
+  path = "/imprints/*"
+
+[[edge_functions]]
+  function = "fiamma-meta"
   path = "/read/*"
 
 [[edge_functions]]

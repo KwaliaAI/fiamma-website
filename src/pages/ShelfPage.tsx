@@ -1,13 +1,13 @@
 import { useEffect, useState } from 'react'
 import { Link, Navigate } from 'react-router-dom'
 import { BookCard } from '@/components/BookCard'
-import { getReaderGiftBalance, getReaderSession, getReaderShelfBooks } from '@/lib/fiammaApi'
+import { getReaderGiftBalance, getReaderSession, getReaderShelfEntries } from '@/lib/fiammaApi'
 import type { FiammaBook } from '@/types/fiamma'
 
 export function ShelfPage() {
   const [loading, setLoading] = useState(true)
   const [isAuthenticated, setIsAuthenticated] = useState(false)
-  const [books, setBooks] = useState<FiammaBook[]>([])
+  const [books, setBooks] = useState<Array<FiammaBook & { progressLabel: string | null; ctaHref: string; ctaLabel: string }>>([])
   const [error, setError] = useState<string | null>(null)
   const [giftMeter, setGiftMeter] = useState<{ remaining: number; total: number } | null>(null)
 
@@ -24,9 +24,24 @@ export function ShelfPage() {
         }
 
         setIsAuthenticated(true)
-        const [shelfBooks, balance] = await Promise.all([getReaderShelfBooks(), getReaderGiftBalance()])
+        const [shelfEntries, balance] = await Promise.all([getReaderShelfEntries(), getReaderGiftBalance()])
         if (!isActive) return
-        setBooks(shelfBooks)
+        setBooks(
+          shelfEntries.map(({ book, lastChapter, completed }) => {
+            const progressLabel = completed
+              ? 'Completed'
+              : lastChapter && lastChapter > 1
+                ? `Continue at chapter ${lastChapter}`
+                : 'Recently unlocked'
+
+            return {
+              ...book,
+              progressLabel,
+              ctaHref: lastChapter && lastChapter > 1 ? `/read/${book.slug}/${lastChapter}` : `/read/${book.slug}`,
+              ctaLabel: completed ? 'Read again' : lastChapter && lastChapter > 1 ? 'Resume' : 'Start reading',
+            }
+          }),
+        )
         if (balance.isAuthenticated) {
           setGiftMeter({ remaining: balance.giftCreditsRemaining, total: balance.giftCreditsTotal })
         }
@@ -87,7 +102,13 @@ export function ShelfPage() {
         {books.length > 0 ? (
           <div className="grid gap-8 md:grid-cols-2 lg:grid-cols-3">
             {books.map((book) => (
-              <BookCard key={book.title_id} book={book} />
+              <BookCard
+                key={book.title_id}
+                book={book}
+                progressLabel={book.progressLabel}
+                ctaHref={book.ctaHref}
+                ctaLabel={book.ctaLabel}
+              />
             ))}
           </div>
         ) : null}

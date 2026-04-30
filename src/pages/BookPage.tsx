@@ -1,7 +1,9 @@
 import { useEffect, useMemo, useState } from 'react'
 import { Link, useParams } from 'react-router-dom'
-import { getBookBySlug, getReaderGiftStatus, getVisibleBooks } from '@/lib/fiammaApi'
+import { getBookBySlug, getReaderGiftStatus, getReaderSession, getSavedProgress, getVisibleBooks } from '@/lib/fiammaApi'
 import { getHeteronymProfileByName, matchesHeteronymName } from '@/lib/heteronyms'
+import { complimentaryReaderSummary } from '@/lib/readerPolicy'
+import { supabase } from '@/lib/supabase'
 import type { FiammaBook } from '@/types/fiamma'
 
 export function BookPage() {
@@ -11,11 +13,40 @@ export function BookPage() {
   const [giftCreditsRemaining, setGiftCreditsRemaining] = useState<number | null>(null)
   const [giftCreditsTotal, setGiftCreditsTotal] = useState<number>(2)
   const [isUnlocked, setIsUnlocked] = useState(false)
+  const [resumeChapter, setResumeChapter] = useState<number | null>(null)
 
   useEffect(() => {
     getBookBySlug(slug).then(setBook)
     getVisibleBooks().then(setAllBooks)
   }, [slug])
+
+  useEffect(() => {
+    let isActive = true
+
+    const loadResumeState = async () => {
+      if (!book) return
+      const session = await getReaderSession().catch(() => null)
+      if (!isActive || !session?.user) {
+        setResumeChapter(null)
+        return
+      }
+
+      const savedProgress = await getSavedProgress(book.title_id).catch(() => null)
+      if (!isActive) return
+      setResumeChapter(savedProgress && savedProgress > 1 ? savedProgress : null)
+    }
+
+    void loadResumeState()
+
+    const { data: authSubscription } = supabase?.auth.onAuthStateChange(() => {
+      void loadResumeState()
+    }) ?? { data: { subscription: null } }
+
+    return () => {
+      isActive = false
+      authSubscription.subscription?.unsubscribe()
+    }
+  }, [book])
 
   useEffect(() => {
     if (!book) return
@@ -73,14 +104,18 @@ export function BookPage() {
           <p className="mb-8 whitespace-pre-line text-gray-700">{book.blurb_300 ?? book.blurb_short ?? 'Coming soon.'}</p>
 
           <p className="mb-4 text-sm text-gray-500">
-            The first two books are our gift to you. Everything after is Fiamma Membership — from £4.99/month.
+            {complimentaryReaderSummary()}
           </p>
 
           <Link
-            to={`/read/${book.slug}`}
+            to={isUnlocked && resumeChapter ? `/read/${book.slug}/${resumeChapter}` : `/read/${book.slug}`}
             className="mb-8 inline-block w-full rounded-full bg-fiamma-coral px-6 py-4 text-center font-semibold text-white transition-colors hover:bg-fiamma-dark"
           >
-            {isUnlocked ? 'Continue reading' : 'Start complimentary read'}
+            {isUnlocked && resumeChapter
+              ? `Continue from chapter ${resumeChapter}`
+              : isUnlocked
+                ? 'Continue reading'
+                : 'Start complimentary read'}
           </Link>
 
           {giftCreditsRemaining !== null ? (
@@ -96,6 +131,12 @@ export function BookPage() {
           {giftCreditsRemaining === 0 && !isUnlocked ? (
             <p className="mb-8 rounded-lg border border-amber-200 bg-amber-50 px-4 py-3 text-sm text-amber-900">
               You have used your complimentary reads. This title will be available through retail editions.
+            </p>
+          ) : null}
+
+          {resumeChapter && isUnlocked ? (
+            <p className="mb-8 rounded-lg border border-gray-200 bg-white px-4 py-3 text-sm text-gray-700">
+              Your last saved spot is chapter <span className="font-semibold">{resumeChapter}</span>.
             </p>
           ) : null}
 

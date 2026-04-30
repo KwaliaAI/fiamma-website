@@ -1,5 +1,6 @@
 import { useState } from 'react'
 import type { FormEvent } from 'react'
+import { complimentaryReaderMessage } from '@/lib/readerPolicy'
 
 type ReaderGateProps = {
   title: string
@@ -70,7 +71,7 @@ export function ReaderGate({ title, onSendLink, onVerifyOtp }: ReaderGateProps) 
           className="w-full rounded-xl border border-gray-300 bg-white px-4 py-3 text-fiamma-text outline-none transition-colors focus:border-fiamma-coral"
         />
         <p className="text-center text-xs text-gray-400">
-          The first book is our gift to you. Everything after is Fiamma Membership — from £4.99/month.
+          We’ll email your reading link, add your reader profile, and keep your place for next time.
         </p>
         <button
           type="submit"
@@ -79,7 +80,7 @@ export function ReaderGate({ title, onSendLink, onVerifyOtp }: ReaderGateProps) 
         >
           {submitting ? 'Sending...' : `Send reading link for ${title}`}
         </button>
-        <p className="text-sm text-gray-600">Complimentary reads: your first two books are on us.</p>
+        <p className="text-sm text-gray-600">Complimentary reads: {complimentaryReaderMessage()}</p>
       </form>
 
       {linkSent ? (

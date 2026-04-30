@@ -1,6 +1,7 @@
 import { useEffect, useState } from 'react'
 import { BookCard } from '@/components/BookCard'
 import { getReaderGiftBalance, getVisibleBooks } from '@/lib/fiammaApi'
+import { complimentaryReaderSummary } from '@/lib/readerPolicy'
 import type { FiammaBook } from '@/types/fiamma'
 
 export function CatalogPage() {
@@ -26,7 +27,7 @@ export function CatalogPage() {
           Discover books by our heteronyms. Start with a complimentary read.
         </p>
         <p className="mx-auto mb-12 max-w-2xl text-center text-sm text-gray-500">
-          The first book is our gift to you. Everything after is Fiamma Membership — from £4.99/month.
+          {complimentaryReaderSummary()}
         </p>
 
         {giftMeter ? (
@@ -37,11 +38,53 @@ export function CatalogPage() {
 
         {error ? <p className="mb-8 text-center text-red-600">{error}</p> : null}
 
-        <div className="grid gap-8 md:grid-cols-2 lg:grid-cols-3">
-          {books.map((book) => (
-            <BookCard key={book.title_id} book={book} />
-          ))}
-        </div>
+        {books.length > 0 ? (
+          <section className="mb-12">
+            <div className="mb-6 flex items-end justify-between gap-4">
+              <div>
+                <p className="mb-2 text-sm font-semibold uppercase tracking-[0.24em] text-fiamma-coral">Highlights</p>
+                <h2 className="font-display text-3xl font-bold">New and notable</h2>
+              </div>
+            </div>
+            <div className="grid gap-8 md:grid-cols-2 lg:grid-cols-3">
+              {books.slice(0, 3).map((book) => (
+                <BookCard key={book.title_id} book={book} ctaLabel="Open book" />
+              ))}
+            </div>
+          </section>
+        ) : null}
+
+        {books.some((book) => book.heteronym === 'Hailey Boone') ? (
+          <section className="mb-12 rounded-3xl border border-gray-200 bg-white p-8 shadow-sm">
+            <div className="mb-6 flex items-end justify-between gap-4">
+              <div>
+                <p className="mb-2 text-sm font-semibold uppercase tracking-[0.24em] text-fiamma-coral">Paradise Valley</p>
+                <h2 className="font-display text-3xl font-bold">Hailey Boone series shelf</h2>
+              </div>
+            </div>
+            <div className="grid gap-8 md:grid-cols-2 lg:grid-cols-3">
+              {books
+                .filter((book) => book.heteronym === 'Hailey Boone')
+                .map((book) => (
+                  <BookCard key={book.title_id} book={book} ctaLabel="Start reading" />
+                ))}
+            </div>
+          </section>
+        ) : null}
+
+        <section>
+          <div className="mb-6 flex items-end justify-between gap-4">
+            <div>
+              <p className="mb-2 text-sm font-semibold uppercase tracking-[0.24em] text-fiamma-coral">All books</p>
+              <h2 className="font-display text-3xl font-bold">Browse the current Fiamma catalog</h2>
+            </div>
+          </div>
+          <div className="grid gap-8 md:grid-cols-2 lg:grid-cols-3">
+            {books.map((book) => (
+              <BookCard key={book.title_id} book={book} />
+            ))}
+          </div>
+        </section>
       </div>
     </main>
   )

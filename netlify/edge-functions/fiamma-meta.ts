@@ -8,6 +8,53 @@ type BookMeta = {
   image: string
 }
 
+type PageMeta = {
+  title: string
+  description: string
+  image?: string
+}
+
+const HETERONYM_META: Record<string, PageMeta> = {
+  'aubrey-kenneth-moss': {
+    title: 'Aubrey Kenneth Moss — Fiamma Spark | Fiamma Books',
+    description:
+      'Aubrey Kenneth Moss writes high-heat, slow-burn romance for readers who like precision, pressure, and a payoff that lands hard.',
+  },
+  'hailey-boone': {
+    title: 'Hailey Boone — Fiamma Contemporary | Fiamma Books',
+    description:
+      'Hailey Boone writes Montana ranch romance with heat, restraint, and real emotional stakes. Mud Season opens the Paradise Valley series.',
+  },
+  'seph-blackwood': {
+    title: 'Seph Blackwood — Fiamma Fuoco | Fiamma Books',
+    description:
+      'Seph Blackwood writes dark, high-voltage romance for readers who want glamour, danger, and heat that does not apologize for itself.',
+  },
+  casey: {
+    title: 'Casey Blake — Fiamma Contemporary | Fiamma Books',
+    description:
+      'Casey Blake writes college and professional sports romance with grit, momentum, and undeniable chemistry for Fiamma Contemporary.',
+  },
+}
+
+const IMPRINT_META: Record<string, PageMeta> = {
+  contemporary: {
+    title: 'Fiamma Contemporary | Romance On Fire',
+    description:
+      'Stories for right now. No waiting, no permission, just the heat that happens when two people stop pretending they do not want it.',
+  },
+  spark: {
+    title: 'Fiamma Spark | Romance On Fire',
+    description:
+      'The ache of the build. The tension that makes you want to scream at the characters to just do it already.',
+  },
+  fuoco: {
+    title: 'Fiamma Fuoco | Romance On Fire',
+    description:
+      'Zero chill. For when you are done with the slow burn and just want the fire.',
+  },
+}
+
 function escapeHtml(value: string): string {
   return value
     .replaceAll('&', '&amp;')
@@ -55,6 +102,39 @@ async function getBookMeta(slug: string): Promise<BookMeta | null> {
   }
 }
 
+function getRouteMeta(url: URL): PageMeta | null {
+  const segments = url.pathname.split('/').filter(Boolean)
+  if (segments[0] === 'heteronyms' && segments.length === 2) {
+    return HETERONYM_META[segments[1]] ?? {
+      title: 'Fiamma Authors | Romance On Fire',
+      description: 'Meet the Fiamma heteronyms and explore the books behind each voice.',
+    }
+  }
+
+  if (segments[0] === 'imprints' && segments.length === 1) {
+    return {
+      title: 'Fiamma Imprints | Romance On Fire',
+      description: 'Find the Fiamma lane that fits your reading mood across Contemporary, Spark, and Fuoco.',
+    }
+  }
+
+  if (segments[0] === 'imprints' && segments.length === 2) {
+    return IMPRINT_META[segments[1]] ?? {
+      title: 'Fiamma Imprints | Romance On Fire',
+      description: 'Find the Fiamma lane that fits your reading mood across Contemporary, Spark, and Fuoco.',
+    }
+  }
+
+  if (segments[0] === 'heteronyms' && segments.length === 1) {
+    return {
+      title: 'Fiamma Authors | Romance On Fire',
+      description: 'Meet the Fiamma heteronyms and explore the books behind each voice.',
+    }
+  }
+
+  return null
+}
+
 export default async (request: Request, context: { next: () => Promise<Response> }) => {
   const url = new URL(request.url)
   const segments = url.pathname.split('/').filter(Boolean)
@@ -69,8 +149,9 @@ export default async (request: Request, context: { next: () => Promise<Response>
 
   const html = await response.text()
   const bookMeta = slug ? await getBookMeta(slug) : null
-  const title = escapeHtml(bookMeta?.title || DEFAULT_TITLE)
-  const description = escapeHtml(bookMeta?.description || DEFAULT_DESCRIPTION)
+  const routeMeta = getRouteMeta(url)
+  const title = escapeHtml(routeMeta?.title || bookMeta?.title || DEFAULT_TITLE)
+  const description = escapeHtml(routeMeta?.description || bookMeta?.description || DEFAULT_DESCRIPTION)
   const imageUrl = new URL(bookMeta?.image || DEFAULT_OG_IMAGE, url.origin).toString()
   const escapedImageUrl = escapeHtml(imageUrl)
   const canonicalUrl = `${url.origin}${url.pathname}`

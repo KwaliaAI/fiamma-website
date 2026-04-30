@@ -11,3 +11,6 @@ npm run lint
 
 echo "[release_gate] Running build..."
 npm run build
+
+echo "[release_gate] Checking reader onboarding contract..."
+npm run reader:onboarding:check
