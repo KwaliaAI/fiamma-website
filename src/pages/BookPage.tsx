@@ -2,6 +2,7 @@ import { useEffect, useMemo, useState } from 'react'
 import { Link, useParams } from 'react-router-dom'
 import { getBookBySlug, getReaderGiftStatus, getReaderSession, getSavedProgress, getVisibleBooks } from '@/lib/fiammaApi'
 import { getHeteronymProfileByName, matchesHeteronymName } from '@/lib/heteronyms'
+import { complimentaryReaderSummary } from '@/lib/readerPolicy'
 import { supabase } from '@/lib/supabase'
 import type { FiammaBook } from '@/types/fiamma'
 
@@ -103,7 +104,7 @@ export function BookPage() {
           <p className="mb-8 whitespace-pre-line text-gray-700">{book.blurb_300 ?? book.blurb_short ?? 'Coming soon.'}</p>
 
           <p className="mb-4 text-sm text-gray-500">
-            The first two books are our gift to you. Everything after is Fiamma Membership — from £4.99/month.
+            {complimentaryReaderSummary()}
           </p>
 
           <Link

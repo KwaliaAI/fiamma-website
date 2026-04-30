@@ -99,6 +99,11 @@ Reader intake + alerting:
 - First-time reader sign-ins are canonicalized through the Supabase RPC `fiamma_touch_reader_profile`.
 - Production Netlify function `fiamma-reader-sync` sends an email alert on each new non-`@example.com` profile.
 
+Reader onboarding contract:
+
+- See [docs/READER_ONBOARDING.md](docs/READER_ONBOARDING.md) for the canonical checklist.
+- Run `npm run reader:onboarding:check` before releasing new reader-manifest content.
+
 ## Repository housekeeping (mandatory)
 
 Before deploy/migration actions:

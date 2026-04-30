@@ -1,6 +1,7 @@
 import { useEffect, useState } from 'react'
 import { BookCard } from '@/components/BookCard'
 import { getReaderGiftBalance, getVisibleBooks } from '@/lib/fiammaApi'
+import { complimentaryReaderSummary } from '@/lib/readerPolicy'
 import type { FiammaBook } from '@/types/fiamma'
 
 export function CatalogPage() {
@@ -26,7 +27,7 @@ export function CatalogPage() {
           Discover books by our heteronyms. Start with a complimentary read.
         </p>
         <p className="mx-auto mb-12 max-w-2xl text-center text-sm text-gray-500">
-          The first book is our gift to you. Everything after is Fiamma Membership — from £4.99/month.
+          {complimentaryReaderSummary()}
         </p>
 
         {giftMeter ? (

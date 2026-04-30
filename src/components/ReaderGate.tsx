@@ -1,5 +1,6 @@
 import { useState } from 'react'
 import type { FormEvent } from 'react'
+import { complimentaryReaderMessage } from '@/lib/readerPolicy'
 
 type ReaderGateProps = {
   title: string
@@ -79,7 +80,7 @@ export function ReaderGate({ title, onSendLink, onVerifyOtp }: ReaderGateProps) 
         >
           {submitting ? 'Sending...' : `Send reading link for ${title}`}
         </button>
-        <p className="text-sm text-gray-600">Complimentary reads: your first two books are on us.</p>
+        <p className="text-sm text-gray-600">Complimentary reads: {complimentaryReaderMessage()}</p>
       </form>
 
       {linkSent ? (
