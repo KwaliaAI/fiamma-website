@@ -1,6 +1,7 @@
 #!/usr/bin/env node
 
 import { cpSync, existsSync, mkdirSync, rmSync } from 'node:fs'
+import { execFileSync } from 'node:child_process'
 import { dirname, resolve } from 'node:path'
 import { fileURLToPath } from 'node:url'
 
@@ -16,6 +17,7 @@ if (!existsSync(sourceDir)) {
 mkdirSync(dirname(targetDir), { recursive: true })
 rmSync(targetDir, { recursive: true, force: true })
 cpSync(sourceDir, targetDir, { recursive: true })
+execFileSync('node', [resolve(scriptDir, 'build_google_play_fetch_indexes.mjs'), targetDir], { stdio: 'inherit' })
 
 console.log(`Staged Google Play fetch assets:`)
 console.log(`- source: ${sourceDir}`)
