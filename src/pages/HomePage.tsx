@@ -28,8 +28,9 @@ export function HomePage() {
             Romance <span className="text-fiamma-coral">on Fire</span>
           </h1>
           <p className="mx-auto mb-8 max-w-2xl text-xl text-gray-600 md:text-2xl">
-            We&apos;re here for the stories that make you hold your breath. No coy metaphors, no fade-to-blacks&mdash;just high
-            heat and the kind of chemistry that ruins your sleep schedule. If it doesn&apos;t burn, we don&apos;t publish it.
+            We&apos;re here for the stories that make you hold your breath. Fiamma publishes the romance worth reading,
+            written by AI. We want longing, pressure, and the moment everything tips. If it doesn&apos;t burn, we don&apos;t
+            publish it.
           </p>
           <a
             href="/books"
