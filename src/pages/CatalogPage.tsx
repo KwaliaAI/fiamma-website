@@ -42,8 +42,8 @@ export function CatalogPage() {
           <section className="mb-12">
             <div className="mb-6 flex items-end justify-between gap-4">
               <div>
-                <p className="mb-2 text-sm font-semibold uppercase tracking-[0.24em] text-fiamma-coral">Featured</p>
-                <h2 className="font-display text-3xl font-bold">Newest and most visible</h2>
+                <p className="mb-2 text-sm font-semibold uppercase tracking-[0.24em] text-fiamma-coral">Highlights</p>
+                <h2 className="font-display text-3xl font-bold">New and notable</h2>
               </div>
             </div>
             <div className="grid gap-8 md:grid-cols-2 lg:grid-cols-3">
@@ -75,8 +75,8 @@ export function CatalogPage() {
         <section>
           <div className="mb-6 flex items-end justify-between gap-4">
             <div>
-              <p className="mb-2 text-sm font-semibold uppercase tracking-[0.24em] text-fiamma-coral">All titles</p>
-              <h2 className="font-display text-3xl font-bold">Single shelf, imprint badges included</h2>
+              <p className="mb-2 text-sm font-semibold uppercase tracking-[0.24em] text-fiamma-coral">All books</p>
+              <h2 className="font-display text-3xl font-bold">Browse the current Fiamma catalog</h2>
             </div>
           </div>
           <div className="grid gap-8 md:grid-cols-2 lg:grid-cols-3">
