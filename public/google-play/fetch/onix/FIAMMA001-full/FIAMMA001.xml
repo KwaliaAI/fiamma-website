@@ -7,18 +7,18 @@
     <Addressee>
       <AddresseeName>Google</AddresseeName>
     </Addressee>
-    <SentDateTime>20260422T1410</SentDateTime>
+    <SentDateTime>20260430T0951</SentDateTime>
   </Header>
   <Product>
-    <RecordReference>akm-003-base-notes</RecordReference>
+    <RecordReference>hailey-boone-001-mud-season</RecordReference>
     <NotificationType>03</NotificationType>
     <ProductIdentifier>
       <ProductIDType>15</ProductIDType>
-      <IDValue>9781917717427</IDValue>
+      <IDValue>9781917717458</IDValue>
     </ProductIdentifier>
     <ProductIdentifier>
       <ProductIDType>03</ProductIDType>
-      <IDValue>9781917717427</IDValue>
+      <IDValue>9781917717458</IDValue>
     </ProductIdentifier>
     <DescriptiveDetail>
       <ProductComposition>00</ProductComposition>
@@ -29,7 +29,7 @@
         <TitleType>01</TitleType>
         <TitleElement>
           <TitleElementLevel>01</TitleElementLevel>
-          <TitleText>Base Notes</TitleText>
+          <TitleText>Mud Season</TitleText>
         </TitleElement>
       </TitleDetail>
       <Collection>
@@ -38,20 +38,20 @@
           <TitleType>01</TitleType>
           <TitleElement>
             <TitleElementLevel>02</TitleElementLevel>
-            <TitleText>Aubrey Kenneth Moss</TitleText>
+            <TitleText>Paradise Valley</TitleText>
           </TitleElement>
         </TitleDetail>
         <CollectionSequence>
           <CollectionSequenceType>02</CollectionSequenceType>
-          <CollectionSequenceNumber>3</CollectionSequenceNumber>
+          <CollectionSequenceNumber>1</CollectionSequenceNumber>
         </CollectionSequence>
       </Collection>
       <Contributor>
         <SequenceNumber>1</SequenceNumber>
         <ContributorRole>A01</ContributorRole>
-        <PersonName>Aubrey Kenneth Moss</PersonName>
-        <PersonNameInverted>Moss, Aubrey Kenneth</PersonNameInverted>
-        <BiographicalNote>Aubrey Kenneth Moss writes contemporary romance about women who are very good at their jobs and slightly worse at their feelings. Her debut, Terms &amp; Conditions, launched the Fiamma Books imprint in March 2026. Base Notes is her third novel. She counts things, notices smells, and does not use exclamation marks.</BiographicalNote>
+        <PersonName>Hailey Boone</PersonName>
+        <PersonNameInverted>Boone, Hailey</PersonNameInverted>
+        <BiographicalNote>Hailey Boone writes blue-collar cowboy-ranch contemporary romance with a city woman, a quiet man, and a working ranch that does not wait for either of them to figure it out. Mud Season is her debut, the first novel in the Paradise Valley series. She counts hours, notes the weather, and does not write heroines who need rescuing. She writes women who show up in the wrong shoes and stay anyway.</BiographicalNote>
       </Contributor>
       <Language>
         <LanguageRole>01</LanguageRole>
@@ -59,17 +59,17 @@
       </Language>
       <Extent>
         <ExtentType>08</ExtentType>
-        <ExtentValue>268</ExtentValue>
+        <ExtentValue>160</ExtentValue>
         <ExtentUnit>03</ExtentUnit>
       </Extent>
       <Subject>
         <MainSubject />
         <SubjectSchemeIdentifier>10</SubjectSchemeIdentifier>
-        <SubjectCode>FIC027020</SubjectCode>
+        <SubjectCode>FIC027090</SubjectCode>
       </Subject>
       <Subject>
         <SubjectSchemeIdentifier>10</SubjectSchemeIdentifier>
-        <SubjectCode>FIC044000</SubjectCode>
+        <SubjectCode>FIC027020</SubjectCode>
       </Subject>
       <Subject>
         <SubjectSchemeIdentifier>93</SubjectSchemeIdentifier>
@@ -77,47 +77,65 @@
       </Subject>
       <Subject>
         <SubjectSchemeIdentifier>20</SubjectSchemeIdentifier>
-        <SubjectHeadingText>perfumer romance</SubjectHeadingText>
+        <SubjectHeadingText>cowboy romance</SubjectHeadingText>
       </Subject>
       <Subject>
         <SubjectSchemeIdentifier>20</SubjectSchemeIdentifier>
-        <SubjectHeadingText>Positano Italy romance</SubjectHeadingText>
+        <SubjectHeadingText>ranch romance</SubjectHeadingText>
       </Subject>
       <Subject>
         <SubjectSchemeIdentifier>20</SubjectSchemeIdentifier>
-        <SubjectHeadingText>rivals to lovers</SubjectHeadingText>
+        <SubjectHeadingText>small town romance</SubjectHeadingText>
       </Subject>
       <Subject>
         <SubjectSchemeIdentifier>20</SubjectSchemeIdentifier>
-        <SubjectHeadingText>workplace romance</SubjectHeadingText>
+        <SubjectHeadingText>Montana romance</SubjectHeadingText>
       </Subject>
       <Subject>
         <SubjectSchemeIdentifier>20</SubjectSchemeIdentifier>
-        <SubjectHeadingText>contemporary romance</SubjectHeadingText>
+        <SubjectHeadingText>blue collar romance</SubjectHeadingText>
       </Subject>
       <Subject>
         <SubjectSchemeIdentifier>20</SubjectSchemeIdentifier>
-        <SubjectHeadingText>slow burn romance</SubjectHeadingText>
+        <SubjectHeadingText>widower romance</SubjectHeadingText>
       </Subject>
       <Subject>
         <SubjectSchemeIdentifier>20</SubjectSchemeIdentifier>
-        <SubjectHeadingText>literary romance</SubjectHeadingText>
+        <SubjectHeadingText>grumpy sunshine romance</SubjectHeadingText>
       </Subject>
       <Subject>
         <SubjectSchemeIdentifier>20</SubjectSchemeIdentifier>
-        <SubjectHeadingText>women's fiction</SubjectHeadingText>
+        <SubjectHeadingText>opposites attract romance</SubjectHeadingText>
+      </Subject>
+      <Subject>
+        <SubjectSchemeIdentifier>20</SubjectSchemeIdentifier>
+        <SubjectHeadingText>forced proximity romance</SubjectHeadingText>
+      </Subject>
+      <Subject>
+        <SubjectSchemeIdentifier>20</SubjectSchemeIdentifier>
+        <SubjectHeadingText>spicy contemporary romance</SubjectHeadingText>
       </Subject>
     </DescriptiveDetail>
     <CollateralDetail>
       <TextContent>
         <TextType>03</TextType>
         <ContentAudience>00</ContentAudience>
-        <Text>Margot Crane can identify over three thousand aromatic compounds. She can tell you what soap you used this morning, what you ate for lunch, and whether you're nervous. She is very good at her job and she is about to lose her studio. Two hundred and three thousand pounds in debt after a conglomerate gutted her contract, Margot flies to Positano with forty thousand euros of vintage oud on her lap to compete for a commission that could keep her afloat. The residency is two weeks. The competitors are Edouard Pelletier, a sixty-one-year-old French perfumer who irons his own shirts and has nothing left to prove, and Leo Vance, an independent from New York whose heart accord Margot has written about in print and whose base note she cannot identify. That has never happened to her before. For fourteen days, Margot works through a partition wall from a man she can hear but not read. She can smell his soap, his laundered cotton, the top notes and the heart of whatever he is building. But the base, the part of a fragrance that tells you who someone actually is, comes back blank. Every time. The competition has a fee that could change her life. The proximity has a cost she did not budget for. And the answer to why she cannot read Leo Vance is closer than she thinks, built into the architecture of her own formula, hiding in the one place a perfumer's nose cannot reach. Base Notes is a novel about work and want and the specific chemistry of two people who found the same raw material from different directions. It is a love story told through the nose of a woman who would rather profile your cologne than admit she is falling for you.</Text>
+        <Text>Juniper McClaren flew to Montana to close an estate, not to fall in love with the man on the porch.
+
+Seattle litigator, eleven months unclaimed, twenty-one days to bury a grandfather she never knew — June arrives at McClaren Ranch in grey heels and a pantsuit and walks across thirty yards of April mud in her socks because the man at the top of the steps is not going to meet her halfway.
+
+Wyatt Reeves runs the ranch and fills a doorway. He keeps a list, in his head, of every small thing she pretends to know.
+
+For three weeks they fight about a cow and make up in a tack room. They kiss at a kitchen sink with grass still in her hair. He almost tells her what he wants, and she almost stays, and then a bank statement at the back of a mudroom cabinet blows it all apart.
+
+When she drunk-texts him I HATE YOU from an airport bar in a blizzard, he drives two hundred miles through a late-April whiteout to carry her home.
+
+Book one of Hailey Boone's Paradise Valley — for readers of Kristen Ashley, Maisey Yates, and Lauren Landish. Fun, hot, and honest about what it costs to let someone hand you the truth on a Tuesday.</Text>
       </TextContent>
       <TextContent>
         <TextType>12</TextType>
         <ContentAudience>00</ContentAudience>
-        <Text>Aubrey Kenneth Moss writes contemporary romance about women who are very good at their jobs and slightly worse at their feelings. Her debut, Terms &amp; Conditions, launched the Fiamma Books imprint in March 2026. Base Notes is her third novel. She counts things, notices smells, and does not use exclamation marks.</Text>
+        <Text>Hailey Boone writes blue-collar cowboy-ranch contemporary romance with a city woman, a quiet man, and a working ranch that does not wait for either of them to figure it out. Mud Season is her debut, the first novel in the Paradise Valley series. She counts hours, notes the weather, and does not write heroines who need rescuing. She writes women who show up in the wrong shoes and stay anyway.</Text>
       </TextContent>
       <SupportingResource>
         <ResourceContentType>01</ResourceContentType>
@@ -125,7 +143,7 @@
         <ResourceMode>03</ResourceMode>
         <ResourceVersion>
           <ResourceForm>02</ResourceForm>
-          <ResourceLink>9781917717427.jpg</ResourceLink>
+          <ResourceLink>9781917717458.jpg</ResourceLink>
         </ResourceVersion>
       </SupportingResource>
     </CollateralDetail>
@@ -137,7 +155,7 @@
       <PublishingStatus>04</PublishingStatus>
       <PublishingDate>
         <PublishingDateRole>01</PublishingDateRole>
-        <Date>20260312</Date>
+        <Date>20260427</Date>
       </PublishingDate>
       <SalesRights>
         <SalesRightsType>01</SalesRightsType>
@@ -151,17 +169,9 @@
         <ProductRelationCode>06</ProductRelationCode>
         <ProductIdentifier>
           <ProductIDType>15</ProductIDType>
-          <IDValue>9781917717410</IDValue>
+          <IDValue>9781917717441</IDValue>
         </ProductIdentifier>
         <ProductForm>BC</ProductForm>
-      </RelatedProduct>
-      <RelatedProduct>
-        <ProductRelationCode>06</ProductRelationCode>
-        <ProductIdentifier>
-          <ProductIDType>15</ProductIDType>
-          <IDValue>9781917717434</IDValue>
-        </ProductIdentifier>
-        <ProductForm>AJ</ProductForm>
       </RelatedProduct>
     </RelatedMaterial>
     <ProductSupply>
@@ -174,7 +184,7 @@
         <ProductAvailability>20</ProductAvailability>
         <Price>
           <PriceType>01</PriceType>
-          <PriceAmount>3.99</PriceAmount>
+          <PriceAmount>4.99</PriceAmount>
           <CurrencyCode>GBP</CurrencyCode>
         </Price>
         <Price>
