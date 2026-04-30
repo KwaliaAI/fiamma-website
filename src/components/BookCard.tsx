@@ -1,4 +1,5 @@
 import { Link } from 'react-router-dom'
+import { getBookImprint } from '@/lib/fiammaBrand'
 import type { FiammaBook } from '@/types/fiamma'
 
 type BookCardProps = {
@@ -10,6 +11,7 @@ type BookCardProps = {
 
 export function BookCard({ book, ctaLabel = 'Start reading', ctaHref, progressLabel = null }: BookCardProps) {
   const resolvedCtaHref = ctaHref ?? `/read/${book.slug}`
+  const imprint = getBookImprint(book)
 
   return (
     <article className="book-card overflow-hidden rounded-2xl bg-white shadow-lg">
@@ -23,6 +25,12 @@ export function BookCard({ book, ctaLabel = 'Start reading', ctaHref, progressLa
         )}
       </Link>
       <div className="p-6">
+        <Link
+          to={`/imprints/${imprint.slug}`}
+          className="mb-3 inline-flex rounded-full border border-fiamma-coral/30 bg-fiamma-coral/10 px-3 py-1 text-[11px] font-semibold uppercase tracking-[0.2em] text-fiamma-coral"
+        >
+          {imprint.title}
+        </Link>
         <h3 className="mb-2 font-display text-xl font-bold">{book.title}</h3>
         <p className="mb-1 text-sm text-gray-600">by {book.heteronym}</p>
         {progressLabel ? <p className="mb-1 text-xs font-semibold uppercase tracking-wide text-fiamma-coral">{progressLabel}</p> : null}

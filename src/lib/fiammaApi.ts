@@ -1,4 +1,5 @@
 import type { FiammaBook, FiammaChapter } from '@/types/fiamma'
+import { getBookImprint, getBookImprintId } from '@/lib/fiammaBrand'
 import { normalizeHeteronymName } from '@/lib/heteronyms'
 import { localFiammaBooks } from '@/lib/localFiammaBooks'
 import { appBaseUrl, supabase } from '@/lib/supabase'
@@ -100,11 +101,19 @@ function getFallbackBookBySlug(slug: string): FiammaBook | null {
 
 function withBookNormalizations(book: FiammaBook): FiammaBook {
   const normalizedHeteronym = normalizeHeteronymName(book.heteronym)
-  const normalizedBook = normalizedHeteronym === book.heteronym ? book : { ...book, heteronym: normalizedHeteronym }
+  const normalizedBook =
+    normalizedHeteronym === book.heteronym ? book : { ...book, heteronym: normalizedHeteronym }
 
-  if (normalizedBook.cover_url) return normalizedBook
-  const fallbackCover = localCoverFallbacks[normalizedBook.slug]
-  return fallbackCover ? { ...normalizedBook, cover_url: fallbackCover } : normalizedBook
+  const imprint = normalizedBook.imprint ?? getBookImprintId(normalizedBook)
+  const imprintSubline = normalizedBook.imprint_subline ?? getBookImprint(normalizedBook).positioning
+  const brandedBook =
+    normalizedBook.imprint === imprint && normalizedBook.imprint_subline === imprintSubline
+      ? normalizedBook
+      : { ...normalizedBook, imprint, imprint_subline: imprintSubline }
+
+  if (brandedBook.cover_url) return brandedBook
+  const fallbackCover = localCoverFallbacks[brandedBook.slug]
+  return fallbackCover ? { ...brandedBook, cover_url: fallbackCover } : brandedBook
 }
 
 async function fetchChapterOverride(bookId: string): Promise<FiammaChapter[] | null> {

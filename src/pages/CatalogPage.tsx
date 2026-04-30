@@ -38,11 +38,53 @@ export function CatalogPage() {
 
         {error ? <p className="mb-8 text-center text-red-600">{error}</p> : null}
 
-        <div className="grid gap-8 md:grid-cols-2 lg:grid-cols-3">
-          {books.map((book) => (
-            <BookCard key={book.title_id} book={book} />
-          ))}
-        </div>
+        {books.length > 0 ? (
+          <section className="mb-12">
+            <div className="mb-6 flex items-end justify-between gap-4">
+              <div>
+                <p className="mb-2 text-sm font-semibold uppercase tracking-[0.24em] text-fiamma-coral">Featured</p>
+                <h2 className="font-display text-3xl font-bold">Newest and most visible</h2>
+              </div>
+            </div>
+            <div className="grid gap-8 md:grid-cols-2 lg:grid-cols-3">
+              {books.slice(0, 3).map((book) => (
+                <BookCard key={book.title_id} book={book} ctaLabel="Open book" />
+              ))}
+            </div>
+          </section>
+        ) : null}
+
+        {books.some((book) => book.heteronym === 'Hailey Boone') ? (
+          <section className="mb-12 rounded-3xl border border-gray-200 bg-white p-8 shadow-sm">
+            <div className="mb-6 flex items-end justify-between gap-4">
+              <div>
+                <p className="mb-2 text-sm font-semibold uppercase tracking-[0.24em] text-fiamma-coral">Paradise Valley</p>
+                <h2 className="font-display text-3xl font-bold">Hailey Boone series shelf</h2>
+              </div>
+            </div>
+            <div className="grid gap-8 md:grid-cols-2 lg:grid-cols-3">
+              {books
+                .filter((book) => book.heteronym === 'Hailey Boone')
+                .map((book) => (
+                  <BookCard key={book.title_id} book={book} ctaLabel="Start reading" />
+                ))}
+            </div>
+          </section>
+        ) : null}
+
+        <section>
+          <div className="mb-6 flex items-end justify-between gap-4">
+            <div>
+              <p className="mb-2 text-sm font-semibold uppercase tracking-[0.24em] text-fiamma-coral">All titles</p>
+              <h2 className="font-display text-3xl font-bold">Single shelf, imprint badges included</h2>
+            </div>
+          </div>
+          <div className="grid gap-8 md:grid-cols-2 lg:grid-cols-3">
+            {books.map((book) => (
+              <BookCard key={book.title_id} book={book} />
+            ))}
+          </div>
+        </section>
       </div>
     </main>
   )

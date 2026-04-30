@@ -6,6 +6,8 @@ export const localFiammaBooks: FiammaBook[] = [
     title: 'Terms and Conditions: A Novel',
     slug: 'terms-and-conditions',
     heteronym: 'Aubrey Kenneth Moss',
+    imprint: 'fiamma-spark',
+    imprint_subline: 'The ache of the build. The tension that makes you want to scream at the characters to just do it already. It is slow, it is painful, and it is always worth the wait.',
     genre: 'Romance',
     fiamma_line: 'Contemporary',
     blurb_short:
@@ -29,6 +31,8 @@ export const localFiammaBooks: FiammaBook[] = [
     title: 'Field Study',
     slug: 'field-study',
     heteronym: 'Aubrey Kenneth Moss',
+    imprint: 'fiamma-spark',
+    imprint_subline: 'The ache of the build. The tension that makes you want to scream at the characters to just do it already. It is slow, it is painful, and it is always worth the wait.',
     genre: 'Romance',
     fiamma_line: 'Literary',
     blurb_short:
@@ -52,6 +56,8 @@ export const localFiammaBooks: FiammaBook[] = [
     title: 'Base Notes',
     slug: 'base-notes',
     heteronym: 'Aubrey Kenneth Moss',
+    imprint: 'fiamma-spark',
+    imprint_subline: 'The ache of the build. The tension that makes you want to scream at the characters to just do it already. It is slow, it is painful, and it is always worth the wait.',
     genre: 'Romance',
     fiamma_line: 'Contemporary',
     blurb_short:
@@ -75,6 +81,8 @@ export const localFiammaBooks: FiammaBook[] = [
     title: 'Mud Season',
     slug: 'mud-season',
     heteronym: 'Hailey Boone',
+    imprint: 'fiamma-contemporary',
+    imprint_subline: 'Stories for right now. No waiting, no permission, just the heat that happens when two people stop pretending they do not want it.',
     genre: 'Romance',
     fiamma_line: 'Contemporary',
     blurb_short:

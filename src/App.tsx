@@ -7,7 +7,10 @@ import { BookPage } from '@/pages/BookPage'
 import { CatalogPage } from '@/pages/CatalogPage'
 import { HomePage } from '@/pages/HomePage'
 import { EditorialDashboardPage } from '@/pages/EditorialDashboardPage'
+import { HeteronymIndexPage } from '@/pages/HeteronymIndexPage'
 import { HeteronymPage } from '@/pages/HeteronymPage'
+import { ImprintPage } from '@/pages/ImprintPage'
+import { ImprintsPage } from '@/pages/ImprintsPage'
 import { ReaderGatePage } from '@/pages/ReaderGatePage'
 import { ReaderPage } from '@/pages/ReaderPage'
 import { ShelfPage } from '@/pages/ShelfPage'
@@ -67,10 +70,34 @@ function App() {
           }
         />
         <Route
+          path="/heteronyms"
+          element={
+            <AppLayout>
+              <HeteronymIndexPage />
+            </AppLayout>
+          }
+        />
+        <Route
           path="/heteronyms/:slug"
           element={
             <AppLayout>
               <HeteronymPage />
+            </AppLayout>
+          }
+        />
+        <Route
+          path="/imprints"
+          element={
+            <AppLayout>
+              <ImprintsPage />
+            </AppLayout>
+          }
+        />
+        <Route
+          path="/imprints/:slug"
+          element={
+            <AppLayout>
+              <ImprintPage />
             </AppLayout>
           }
         />

@@ -1,6 +1,7 @@
 import { useEffect, useMemo, useState } from 'react'
 import { Link, useParams } from 'react-router-dom'
 import { BookCard } from '@/components/BookCard'
+import { getImprintById } from '@/lib/fiammaBrand'
 import { getVisibleBooks } from '@/lib/fiammaApi'
 import { getHeteronymProfileBySlug, matchesHeteronymName } from '@/lib/heteronyms'
 import type { FiammaBook } from '@/types/fiamma'
@@ -37,7 +38,6 @@ export function HeteronymPage() {
       }),
     [books],
   )
-
   if (!profile) {
     return (
       <main className="section-padding pt-32 md:pt-40">
@@ -56,12 +56,13 @@ export function HeteronymPage() {
   }
 
   const statusLabel = profile.status === 'active' ? 'Active' : 'Upcoming'
+  const imprint = getImprintById(profile.imprintId)
 
   return (
     <main className="section-padding pt-32 md:pt-40">
       <div className="mx-auto max-w-6xl">
-        <Link to="/#heteronyms" className="mb-6 inline-block text-sm font-semibold text-fiamma-coral hover:text-fiamma-dark">
-          Back to heteronyms
+        <Link to="/heteronyms" className="mb-6 inline-block text-sm font-semibold text-fiamma-coral hover:text-fiamma-dark">
+          Back to authors
         </Link>
 
         <section className="mb-14 grid gap-10 lg:grid-cols-[320px,1fr] lg:items-start">
@@ -72,12 +73,27 @@ export function HeteronymPage() {
           <div>
             <p className="mb-3 text-sm font-semibold uppercase tracking-[0.28em] text-fiamma-coral">{statusLabel}</p>
             <h1 className="mb-4 font-display text-5xl font-bold text-fiamma-text md:text-6xl">{profile.name}</h1>
-            <p className="mb-4 max-w-3xl text-lg leading-8 text-gray-700">{profile.bio}</p>
+            <p className="mb-4 max-w-3xl text-lg leading-8 text-gray-700">{profile.seoDescription}</p>
+            <p className="mb-4 max-w-3xl text-base leading-8 text-gray-700">{profile.bio}</p>
             {profile.longBio ? <p className="mb-6 max-w-3xl text-base leading-8 text-gray-700">{profile.longBio}</p> : null}
             <div className="flex flex-wrap items-center gap-3">
               <span className="rounded-full border border-fiamma-coral/30 bg-fiamma-coral/10 px-4 py-2 text-sm font-medium text-fiamma-text">
                 {sortedBooks.length} visible title{sortedBooks.length === 1 ? '' : 's'}
               </span>
+              {imprint ? (
+                <Link
+                  to={`/imprints/${imprint.slug}`}
+                  className="rounded-full border border-fiamma-coral px-4 py-2 text-sm font-semibold text-fiamma-coral transition-colors hover:bg-fiamma-coral hover:text-white"
+                >
+                  {imprint.title}
+                </Link>
+              ) : null}
+              <Link
+                to="/heteronyms"
+                className="rounded-full border border-gray-200 px-4 py-2 text-sm font-semibold text-gray-600 transition-colors hover:border-fiamma-coral hover:text-fiamma-coral"
+              >
+                Back to authors
+              </Link>
               <Link
                 to="/books"
                 className="rounded-full border border-fiamma-coral px-4 py-2 text-sm font-semibold text-fiamma-coral transition-colors hover:bg-fiamma-coral hover:text-white"

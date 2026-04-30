@@ -1,36 +1,17 @@
-import { useEffect, useState } from 'react'
+import { useEffect, useMemo, useState } from 'react'
+import { Link } from 'react-router-dom'
 import { BookCard } from '@/components/BookCard'
-import { HeteronymCard } from '@/components/HeteronymCard'
 import { Footer } from '@/components/layout/Footer'
 import { Navbar } from '@/components/layout/Navbar'
 import { getVisibleBooks } from '@/lib/fiammaApi'
-import { heteronymProfiles } from '@/lib/heteronyms'
+import { getHeteronymProfileBySlug } from '@/lib/heteronyms'
+import { getPublicImprints } from '@/lib/fiammaBrand'
 import type { FiammaBook } from '@/types/fiamma'
-
-const imprints = [
-  {
-    title: 'Fiamma Contemporary',
-    description:
-      "Stories for right now. No waiting, no permission, just the heat that happens when two people stop pretending they don't want it.",
-  },
-  {
-    title: 'Fiamma Classics',
-    description: "Old-world repression meets modern desire. Because honestly? Those corsets were never meant to stay laced.",
-  },
-  {
-    title: 'Fiamma Fuoco',
-    description:
-      "Zero chill. For when you're done with the slow burn and just want the fire. Dante's Inferno was just the warm-up.",
-  },
-  {
-    title: 'Fiamma Spark',
-    description:
-      "The ache of the build. The tension that makes you want to scream at the characters to just do it already. It's slow, it's painful, and it's always worth the wait.",
-  },
-]
 
 export function HomePage() {
   const [books, setBooks] = useState<FiammaBook[]>([])
+  const featuredAuthor = useMemo(() => getHeteronymProfileBySlug('hailey-boone'), [])
+  const publicImprints = useMemo(() => getPublicImprints(), [])
 
   useEffect(() => {
     getVisibleBooks().then(setBooks).catch(() => setBooks([]))
@@ -74,16 +55,35 @@ export function HomePage() {
         </div>
       </section>
 
-      <section id="heteronyms" className="section-padding">
-        <div className="mx-auto max-w-6xl">
-          <h2 className="mb-4 text-center text-4xl font-bold md:text-5xl">Heteronyms</h2>
-          <p className="mx-auto mb-12 max-w-2xl text-center text-gray-600">
-            Distinct author identities shaping new worlds across Fiamma&apos;s evolving catalog.
-          </p>
-          <div className="grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
-            {heteronymProfiles.map((heteronym) => (
-              <HeteronymCard key={heteronym.slug} {...heteronym} />
-            ))}
+      <section className="section-padding bg-white">
+        <div className="mx-auto grid max-w-6xl gap-8 lg:grid-cols-[1.15fr,0.85fr] lg:items-center">
+          <div>
+            <p className="mb-3 text-sm font-semibold uppercase tracking-[0.28em] text-fiamma-coral">Featured author</p>
+            <h2 className="mb-4 font-display text-4xl font-bold md:text-5xl">{featuredAuthor?.name ?? 'Hailey Boone'}</h2>
+            <p className="mb-6 text-lg leading-8 text-gray-700">
+              {featuredAuthor?.seoDescription ??
+                "Montana ranch romance with heat, restraint, and a clean emotional line. Hailey Boone writes the Paradise Valley series for readers who want the pull to feel earned."}
+            </p>
+            <div className="flex flex-wrap gap-3">
+              <Link
+                to="/heteronyms/hailey-boone"
+                className="rounded-full bg-fiamma-coral px-6 py-3 font-semibold text-white transition-colors hover:bg-fiamma-dark"
+              >
+                Read the author page
+              </Link>
+              <Link
+                to="/heteronyms"
+                className="rounded-full border border-fiamma-coral px-6 py-3 font-semibold text-fiamma-coral transition-colors hover:bg-fiamma-coral hover:text-white"
+              >
+                Meet all authors
+              </Link>
+            </div>
+          </div>
+
+          <div className="overflow-hidden rounded-3xl border border-gray-200 bg-gray-50 shadow-sm">
+            {featuredAuthor ? (
+              <img src={featuredAuthor.imagePath} alt={`${featuredAuthor.name} portrait`} className="aspect-[4/5] w-full object-cover" />
+            ) : null}
           </div>
         </div>
       </section>
@@ -94,13 +94,16 @@ export function HomePage() {
           <p className="mx-auto mb-12 max-w-xl text-center text-gray-600">Four flames, one fire. Find your heat level.</p>
 
           <div className="grid gap-8 md:grid-cols-2">
-            {imprints.map((imprint) => (
+            {publicImprints.map((imprint) => (
               <div
-                key={imprint.title}
+                key={imprint.id}
                 className="rounded-2xl border-2 border-gray-100 p-8 transition-colors hover:border-fiamma-coral"
               >
                 <h3 className="mb-3 font-display text-2xl font-bold">{imprint.title}</h3>
-                <p className="text-gray-600">{imprint.description}</p>
+                <p className="text-gray-600">{imprint.shortDescription}</p>
+                <Link to="/imprints" className="mt-4 inline-block text-sm font-semibold text-fiamma-coral underline-offset-4 hover:underline">
+                  Explore the imprint
+                </Link>
               </div>
             ))}
           </div>

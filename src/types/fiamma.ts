@@ -3,6 +3,8 @@ export type FiammaBook = {
   title: string
   slug: string
   heteronym: string
+  imprint?: 'fiamma-contemporary' | 'fiamma-spark' | 'fiamma-fuoco' | 'fiamma-classics'
+  imprint_subline?: string
   genre: string
   fiamma_line: string | null
   blurb_short: string | null
