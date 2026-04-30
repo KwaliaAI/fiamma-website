@@ -81,6 +81,8 @@ const localCoverFallbacks: Record<string, string> = {
   'field-study': '/assets/covers/field-study.jpg',
   'base-notes': '/assets/covers/base-notes.jpg',
   'mud-season': '/assets/covers/mud-season.jpg',
+  'heat-wave': '/assets/covers/heat-wave.jpg',
+  'bar-fight': '/assets/covers/bar-fight.jpg',
 }
 
 type ChapterOverrideManifest = {
@@ -97,6 +99,32 @@ const fallbackBooks = localFiammaBooks.length > 0 ? localFiammaBooks : placehold
 
 function getFallbackBookBySlug(slug: string): FiammaBook | null {
   return fallbackBooks.find((book) => book.slug === slug) ?? null
+}
+
+function mergeVisibleBookSources(remoteBooks: FiammaBook[]): FiammaBook[] {
+  const merged = new Map<string, FiammaBook>()
+
+  for (const remoteBook of remoteBooks.map(withBookNormalizations)) {
+    merged.set(remoteBook.slug, remoteBook)
+  }
+
+  for (const fallbackBook of fallbackBooks.map(withBookNormalizations)) {
+    if (!merged.has(fallbackBook.slug)) {
+      merged.set(fallbackBook.slug, fallbackBook)
+    }
+  }
+
+  return Array.from(merged.values()).sort((a, b) => {
+    const seriesA = a.series_order ?? Number.MAX_SAFE_INTEGER
+    const seriesB = b.series_order ?? Number.MAX_SAFE_INTEGER
+    if (seriesA !== seriesB) return seriesA - seriesB
+
+    const createdA = a.created_at ?? ''
+    const createdB = b.created_at ?? ''
+    if (createdA !== createdB) return createdA.localeCompare(createdB)
+
+    return a.title.localeCompare(b.title)
+  })
 }
 
 function withBookNormalizations(book: FiammaBook): FiammaBook {
@@ -164,7 +192,7 @@ async function fetchVisibleBooks(): Promise<FiammaBook[]> {
     .order('created_at', { ascending: true })
 
   if (error) throw error
-  return ((data as FiammaBook[]) ?? []).map(withBookNormalizations)
+  return mergeVisibleBookSources((data as FiammaBook[]) ?? [])
 }
 
 export async function getVisibleBooks(): Promise<FiammaBook[]> {
