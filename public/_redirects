@@ -1,6 +1,13 @@
 # Google fetch paths are file-backed. Missing payload files must not fall through
 # to the SPA shell, because Google treats a 200 HTML response as a bad asset.
 /google-play/fetch/* /404.html 404
+# Mud Season legacy title_id alias. The Supabase fiamma_books row for slug
+# `mud-season` still has the old `ellie-marsh-001-mud-season` title_id (rename
+# blocked by fiamma_book_unlocks FK; queued for proper DB cascade in DD
+# reconciliation queue). The reader manifest lives at the new
+# `hailey-boone-001-mud-season` path; this rewrite serves it under the legacy
+# path that the SPA still asks for. Remove once the DB rename lands. 2026-05-01.
+/data/reader/ellie-marsh-001-mud-season/*  /data/reader/hailey-boone-001-mud-season/:splat  200
 # Reader manifest + chapter files are file-backed. A missing manifest must hard-404
 # rather than serve the SPA shell — the shell would parse as JSON failure and
 # silently fall back to "Chapters are coming soon." Detected 2026-05-01.
