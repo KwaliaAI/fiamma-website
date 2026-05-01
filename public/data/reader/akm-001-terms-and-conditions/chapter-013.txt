@@ -1,0 +1,387 @@
+The independent materials report arrived at 6:47 AM.
+
+I was already awake. Sleep had become a negotiation these past few days—four hours here, three there, my body refusing to fully surrender while the CeraTest situation hung unresolved. Sam was the opposite. He slept hard and deep when he finally let himself, his body's way of conserving energy for the fight. I'd watched him last night, his face slack and young in the dim light from the street, and felt something sharp lodged between my ribs that wouldn't dissolve.
+
+My phone buzzed on the nightstand. Email notification. The lab Sam had hired—Patterson Materials Testing out of Berkeley, impeccable credentials, no connection to either CeraTest or Mobility Workshop. The gold standard of independent verification.
+
+I should have waited. Should have let Sam see it first. It was his report, his company, his crisis.
+
+But my name was on the engagement letter. My firm had facilitated the introduction. And somewhere in the legal portion of my brain that never fully shut off, I knew I needed to see this before anyone else did.
+
+I slipped out of bed without waking him. His apartment was cold in the early morning, February light just starting to gray the windows. I took my phone to the kitchen, made coffee I wouldn't drink, and opened the attachment.
+
+Twelve pages. Technical specifications, test methodologies, comparative analysis. I scrolled past the executive summary—lawyers always do, we don't trust summaries written by other people—and went straight to the data tables.
+
+The numbers didn't lie.
+
+CeraTest's proprietary glaze compound showed measurable degradation under sustained heat exposure. Not at the levels they'd tested to originally—their own documentation was technically accurate. But at temperatures that occurred in real-world use. Equipment cleaning cycles that ran hotter than standard protocols. Vehicles and outdoor environments during summer heat. The kind of edge cases that users created every day without thinking about it.
+
+The degradation rate was slow. Cumulative. The kind of thing that wouldn't show up in a standard product test but would absolutely matter over three years of daily use.
+
+And the degradation products included trace amounts of cadmium.
+
+Not enough to cause acute poisoning. The report was clear about that. But enough to exceed EPA safety thresholds for cumulative exposure. Enough that labeling requirements would kick in. Enough that products in the market might need to be recalled.
+
+Enough that this was no longer a dispute about documentation standards.
+
+This was a real problem.
+
+I read the section on degradation byproducts three times, hoping I'd misunderstood the chemistry. But Patterson's conclusion was unambiguous: The proprietary glaze compound demonstrates concerning stability characteristics under high-temperature cycling conditions. We recommend against extended direct-contact applications pending reformulation of the base matrix.
+
+Against extended direct-contact applications.
+
+Mobility Workshop's entire medical device line used CeraTest coating.
+
+I sat with the report for twenty minutes, watching the sky lighten over Portland's east side. Across the apartment, I could hear Sam starting to stir—the creak of bedsprings, a muffled sound that might have been my name.
+
+For one terrible moment, I considered not telling him.
+
+Not lying. Never that. But maybe... delaying. Maybe waiting until we'd had breakfast, until he was fully awake, until I could frame it in a way that didn't feel like I was dropping a grenade into his lap before he'd even had coffee.
+
+The thought lasted exactly three seconds before professional ethics kicked in. There was no version of this where waiting was acceptable. The report existed. I had read it. Every hour I didn't disclose was an hour I was complicit in information asymmetry.
+
+God, I hated my job sometimes.
+
+"Berna?" Sam's voice from the bedroom, roughened with sleep.
+
+"Kitchen," I called back. My voice sounded strange. Too controlled.
+
+He appeared in the doorway a minute later, wearing the same gray t-shirt he'd slept in, his hair flat on one side and chaotic on the other. The sight of him—rumpled and unsuspecting—made my chest ache with something that felt like preemptive grief.
+
+"You're up early." He came toward me, reaching for the coffee pot, then registered my expression. His hand stopped mid-reach. "What happened?"
+
+"The Patterson report came in."
+
+His whole body changed. The sleepy looseness dropped away, replaced by the focused tension I'd seen in him during every crisis meeting. He didn't ask to see it. He just waited, his eyes on my face, reading what the report said from my expression.
+
+"Tell me," he said quietly.
+
+So I did.
+
+I walked him through the technical findings—the degradation rates, the temperature thresholds, the byproduct analysis. I showed him the data tables, the methodology section, the conclusions. I kept my voice steady and professional because that was the only way I could get through it.
+
+When I finished, Sam was very still.
+
+"Cadmium," he said.
+
+"Trace amounts. Cumulative exposure."
+
+"But measurable."
+
+"Yes."
+
+He turned away from me, both hands flat on the counter, his shoulders rigid. I watched him process it—watched the implications cascade through him the way they'd cascaded through me twenty minutes earlier.
+
+Elena uses these products.
+
+His sister, who'd inspired everything he'd built, who'd been using Mobility Workshop devices for years. The coating on her wheelchair components. The grips on her adaptive equipment. All of it treated with CeraTest's proprietary glaze.
+
+"The exposure levels in the report," he said, his voice careful, controlled. "What's the actual risk?"
+
+"For someone using the products as intended, probably minimal. The degradation is slow, the amounts are trace. But—"
+
+"But it exceeds regulatory thresholds."
+
+"Yes."
+
+"So it's a labeling issue."
+
+"It's more than labeling." I made myself say it. "Products already in the market would need to be assessed for recall. Future production would need to stop pending reformulation. And any company that continued manufacturing with full knowledge of these results—"
+
+"Would be liable."
+
+"Criminally, potentially."
+
+Sam laughed—a short, harsh sound that didn't have any humor in it. "So this is the scenario. This is exactly what I was afraid of."
+
+"Sam—"
+
+"I built a company to help people like my sister, and instead I might have been slowly poisoning them for years." His voice was flat. Devastated. "That's what you're telling me."
+
+"The exposure levels are trace. The health impact is uncertain. We don't know—"
+
+"We don't know because we never tested properly." He turned back to face me, and the look in his eyes was worse than anger. It was the look of someone watching their worst nightmare materialize in front of them. "We trusted CeraTest's documentation. I signed off on their results. I put my name on products that—"
+
+He stopped. His jaw worked.
+
+"This is exactly what was supposed to never happen," he said quietly. "Elena trusted me. Every customer who bought our products trusted me. And I failed them because I believed documentation that I should have verified independently years ago."
+
+"You couldn't have known—"
+
+"That's the defense of every company that hurts people, Berna." His voice was sharp. "We couldn't have known. We relied on supplier documentation. We followed industry standards. Meanwhile people are using our products every day and we—"
+
+He broke off again, turning away. I watched him fight for control, watched the professional mask try to reassemble itself over the devastation underneath.
+
+I wanted to go to him. Every instinct I had was screaming to cross the kitchen, put my arms around him, tell him it would be okay.
+
+But I couldn't.
+
+Because it might not be okay. And because I had a professional obligation that was already straining at the seams.
+
+"I need to tell Gloria," I said.
+
+Sam went very still.
+
+"The firm facilitated the CeraTest engagement. We have exposure. And now I have information that—" I stopped, reorganized my words. "I can't sit on this report, Sam. The ethical obligations are clear."
+
+"I'm not asking you to sit on it."
+
+"I know you're not. But I need you to understand that when I walk into Gloria's office with this, everything changes. For both of us."
+
+He turned to look at me. The distance between us was maybe six feet—the width of his small kitchen—but it felt like miles.
+
+"Because you're involved with me," he said flatly. "Because you can't be objective anymore."
+
+"Because I should have flagged the conflict of interest months ago. Because I let this become—" I gestured between us, helpless. "Whatever this is."
+
+"Whatever this is." He repeated it back to me, and something in his voice made me flinch. "That's what we're calling it now?"
+
+"Sam, that's not what I—"
+
+"I told you I loved you four days ago. You said it back. We stood on my roof in the rain and—" He stopped, his voice catching. "And now you're standing in my kitchen telling me our relationship is a professional liability."
+
+"It's not about what it is. It's about how it looks."
+
+"Right. Perception management. Because that's what matters here—not the actual truth of anything, but how it can be spun."
+
+The bitterness in his voice landed like a physical blow. I deserved it. I knew I deserved it. But it still hurt.
+
+"I am trying to protect you," I said carefully. "If I disclose everything now—the relationship, the timeline, the conflict—then whatever comes next is documented. Above board. If I try to hide it and it comes out later—"
+
+"Then we're both damaged goods." He nodded, his expression cooling into something distant and professional. "I understand. You need to protect the firm's interests. That's your job."
+
+"That's not—"
+
+"It's fine, Berna." He held up a hand, stopping me. "Do what you need to do. I'll be dealing with the actual crisis—figuring out how to notify customers, how to manage a potential recall, how to tell my sister that the equipment she's been using for years might have been slowly leaching toxins into her system. You handle the legal optics. We'll stay in our lanes."
+
+The coldness in his voice was worse than yelling would have been. Yelling I could have fought. This careful, professional distance—this was the wall going back up.
+
+I watched it happen in real time. The man who'd held me on the rooftop, who'd said I love you, I love you, retreating behind the barrier that had protected him for so long.
+
+"Sam," I said. My voice broke on his name.
+
+He looked at me. For one second, I saw everything—the love, the fear, the devastation. All of it raw and real and right there on his face.
+
+Then he shuttered it.
+
+"You should get to the office," he said. "Talk to Gloria before this goes any further."
+
+Gloria's office was immaculate as always—clean lines, neutral colors, everything precisely arranged. The morning light came through her windows at an angle that made the whole room feel like a deposition waiting to happen.
+
+She was already at her desk when I knocked at 8:15. Early, but not unusually so. The partners at Hanover & Pryce had a complicated relationship with the concept of normal working hours.
+
+"Berna." She looked up from her screen, reading something in my expression that made her set down her coffee. "Close the door."
+
+I did.
+
+"What happened?"
+
+I laid out the situation systematically—the independent report, the degradation findings, the regulatory implications. I put the Patterson analysis on her desk and watched her read it with the same focused intensity I'd felt scrolling through it four hours earlier.
+
+When she finished, she looked up at me.
+
+"This is a significant liability issue," she said. "The engagement letter we drafted—"
+
+"I know."
+
+"The firm's exposure here—"
+
+"I know."
+
+Gloria set the report down. Her expression shifted into something I couldn't quite read. "What aren't you telling me?"
+
+Here it was. The moment I'd been dreading since I walked out of Sam's apartment.
+
+"I'm involved with Sam Reyes," I said. "Romantically. It started after the engagement was signed, but—"
+
+"How long?"
+
+"Two months. Roughly."
+
+Gloria's face didn't change, but something behind her eyes went very still. "Define 'involved.'"
+
+"We've been seeing each other regularly. Spending nights together. He told me he loved me four days ago. I said it back." I made myself hold her gaze. "I should have disclosed months ago. I didn't. That's on me."
+
+Silence. The kind of silence that fills rooms and presses against eardrums.
+
+"Let me understand this," Gloria said finally. "You've been conducting a romantic relationship with the founder of a company where Hanover & Pryce has significant engagement exposure. You've had access to privileged information on both sides. You've participated in strategic discussions knowing that your judgment was compromised by personal attachment."
+
+Each sentence landed like a verdict.
+
+"Yes," I said.
+
+"And you didn't think this warranted disclosure at any point in the past two months?"
+
+"I thought—" I stopped. What had I thought? That we could keep it separate? That professional and personal existed in different universes? That love didn't create conflicts of interest?
+
+"I don't know what I thought," I admitted. "I wanted to believe it didn't matter. That I could be objective. That my work product wouldn't be affected."
+
+"Berna." Gloria's voice was quiet, but there was steel underneath it. "I have spent fifteen years building this firm's reputation for rigorous ethical standards. You know this. You've been part of it. You've helped draft the conflict-of-interest policies that you've now violated."
+
+"I know."
+
+"Was any of your work on this engagement compromised? The due diligence? The CeraTest assessment? The materials documentation review?"
+
+The question hung in the air between us.
+
+"I don't believe so," I said carefully. "But I can't be objective about my own objectivity. That's the problem."
+
+"That is indeed the problem." Gloria stood, moving to her window. She looked out at the Portland skyline for a long moment, her back to me. "Everything you've done on this engagement is now suspect. Every conclusion, every recommendation, every piece of advice you've given Sam Reyes has to be reconsidered through the lens of your relationship."
+
+"I understand."
+
+"Do you?" She turned back to face me. "Because what I'm hearing is that you understood the rules, understood the stakes, and chose to ignore them because—what? Because you fell in love?"
+
+The word hit different coming from Gloria. Smaller. Less like a revelation and more like an excuse.
+
+"I didn't plan it," I said, knowing how weak it sounded.
+
+"No one ever does. That's why we have policies—because no one plans to lose their judgment, and everyone does anyway." Gloria sat back down, her hands flat on her desk. "You're off this engagement, effective immediately. I'll be bringing Marcus in to review everything you've done and assess whether the firm needs to make disclosures to the client."
+
+"Marcus hates me."
+
+"Marcus is thorough. That's what matters right now." Gloria's expression softened slightly—just enough to remind me of the mentor she'd been before this moment. "I'm not going to fire you, Berna. Not today. But I need you to understand that what happens next depends entirely on what Marcus finds."
+
+"And if he finds problems?"
+
+"Then we have a different conversation."
+
+I nodded. My throat felt tight. "What about Sam? The situation with CeraTest—he needs legal counsel on this. Real counsel, not me."
+
+"I'll assign someone from the corporate practice. Someone who has no connection to you or to this engagement." Gloria paused. "Does he know you're here? That you're disclosing?"
+
+"He knows I was coming to talk to you. He doesn't know what I was going to say."
+
+"I see." Something complicated moved across Gloria's face. "For what it's worth—and this doesn't excuse anything—I've watched you these past months. You've seemed happier. More grounded. I assumed it was professional confidence, but now—" She stopped herself. "It doesn't matter. Go home, Berna. Let Marcus do his work. And stay away from Sam Reyes until we sort this out."
+
+"Stay away from him?"
+
+"Any contact between you could be seen as coordination. Comparing stories. Managing the narrative." Gloria's voice was gentle but immovable. "I know that's not what's happening. But we have to manage the appearance as carefully as the reality. You know this."
+
+I did know it. I'd counseled clients on exactly this scenario a hundred times. Don't contact witnesses. Don't discuss the matter with involved parties. Don't create any appearance of impropriety.
+
+It just felt different when the witness was someone I loved.
+
+"How long?" I asked.
+
+"Until Marcus completes his review. A week, maybe two."
+
+Two weeks without seeing Sam. Two weeks without touching him, talking to him, being in the same room with him. Two weeks while his company faced potential recalls and his sister faced uncertainty about her health and everything he'd built teetered on the edge of collapse.
+
+Two weeks where I couldn't be there.
+
+"I understand," I said, because there was nothing else to say.
+
+I went home. Not to Sam's apartment—I couldn't face that, couldn't face him, couldn't figure out how to explain that seeing him now might make everything worse.
+
+Instead I went to my own place, the apartment I'd barely used since this thing between us had solidified into something real. It smelled stale. Unlived in. I opened the windows and let February air flood through, even though it was cold enough to see my breath.
+
+My phone buzzed. Sam.
+
+Did you talk to Gloria?
+
+I stared at the message for a long time.
+
+Yes, I typed back. I'm off the engagement. Marcus is reviewing everything.
+
+Three dots appeared. Disappeared. Appeared again.
+
+What does that mean for us?
+
+Us. Such a small word to hold so much weight.
+
+I can't see you, I wrote. Not until the review is complete. It would look like coordination.
+
+The dots again. Longer this time.
+
+You're serious.
+
+I have to be.
+
+Silence. A full minute with no response. Then:
+
+So you tell me you love me, and then four days later you can't even see me because of how it might look.
+
+I could hear his voice through the text. The careful control masking devastation.
+
+That's not fair.
+
+Nothing about this is fair, Berna. I'm facing a potential recall that could destroy my company. My sister is asking questions about her health that I can't answer. And the person I—
+
+He stopped typing. Started again.
+
+Never mind. Do what you have to do. I'll be here dealing with the actual crisis.
+
+Sam, please.
+
+I have to go. My lawyers are calling.
+
+He meant the new lawyers. The ones Gloria was assigning. The ones who weren't me.
+
+I set my phone down on the kitchen counter and stood there in the cold air from the open windows, feeling the distance between us crystallize into something solid and impassable.
+
+Four days ago, we'd stood on his roof in the rain and promised each other something. I didn't know what exactly—we'd been too careful to use words like forever or always—but we'd promised something. A willingness to try. A belief that this could work.
+
+Now we couldn't even be in the same room.
+
+I thought about calling him. Explaining that this wasn't what I wanted, that I was trying to protect us both, that staying away was the only way to prevent things from getting worse. But even that felt compromised now. Every conversation we had could be analyzed for signs of coordination. Every text could be read as evidence of divided loyalties.
+
+The professional ethics I'd built my career on were doing exactly what they were designed to do: creating distance. Enforcing boundaries. Preventing conflicts of interest from corrupting professional judgment.
+
+I just hadn't expected it to hurt this much.
+
+At 4:30, my phone rang. Not Sam—Marco.
+
+"You sound terrible," he said, by way of greeting.
+
+"I'm fine."
+
+"Liar. What happened?"
+
+I couldn't tell him everything. Attorney-client privilege, ongoing review, all the professional constraints that still applied even though I'd been yanked off the engagement. But I could tell him the shape of it.
+
+"I disclosed my relationship with Sam to Gloria. I'm being investigated for conflict of interest. I can't see him or talk to him until the review is complete."
+
+Silence. Then: "Carajo."
+
+"Yeah."
+
+"How long?"
+
+"A week, maybe two."
+
+"And Sam? How did he take it?"
+
+I thought about his last text. Do what you have to do. The careful distance in those words.
+
+"Not well," I admitted.
+
+Marco was quiet for a moment. "You did the right thing, you know. Disclosing."
+
+"I know."
+
+"That doesn't make it hurt less."
+
+"No." I pressed my hand against my chest, where that sharp thing was still lodged between my ribs. "It really doesn't."
+
+"Come to Sazón tonight. Don't argue—just come. I'll feed you and you can sit in the kitchen and not talk about any of it. Sometimes that helps."
+
+I wanted to say no. I wanted to stay in my cold apartment and wallow in the wreckage of everything I'd built over the past two months. But Marco was right. Sometimes the only thing you could do was let someone take care of you, even when you didn't deserve it.
+
+"Okay," I said.
+
+"Seven o'clock. Don't be late."
+
+He hung up before I could change my mind.
+
+I stood at my window and watched the light fade over Portland, thinking about all the ways things could have been different. If I'd disclosed earlier. If I'd kept things professional. If I'd never let myself fall in love with a client's founder in the first place.
+
+But I had. And now we were here—Sam facing the possible destruction of everything he'd built, me facing the possible destruction of everything I'd built, and neither of us able to reach for the other.
+
+The last time we'd touched was this morning, before I read the report. He'd reached for the coffee pot and I'd been standing right there, close enough to feel the warmth of his body. Close enough to touch, if I'd wanted to.
+
+I hadn't. I'd already known, even then, what was coming.
+
+Now the wall was back. Invisible, absolute.
+
+And I had no idea if we'd ever find a way through it again.

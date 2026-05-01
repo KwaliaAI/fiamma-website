@@ -1,0 +1,119 @@
+The Kaplan email came in at 7:14 a.m. on a Tuesday, which was not when I'd expected it. I'd expected it on a Friday afternoon, which is when institutional bad news tends to arrive — Friday afternoons, so everyone can have the weekend to absorb it and no one has to make phone calls. Good news, I'd learned, comes Tuesday mornings, because good news requires follow-up.
+
+Bridge funding approved. $138,000. Disbursement to begin April 1.
+
+I read it twice, then closed the laptop and finished my coffee. The mug was from the Hopkins gift shop — sea otter on the side, painted in the style of something aspirationally Japanese. I'd bought it because it was the only mug in the station kitchenette that didn't have a crack in the handle. I looked at the otter. The otter looked back.
+
+Then I opened the laptop again and drafted the response to MEPS. The station four finding would publish in the April cycle. The break point at 51.6m was defensible. The 91.2% figure was defensible. The timeline had held, barely, in the way that timelines hold when the work turns out to be real.
+
+I sent the email. I checked the outbox. I got up and refilled the coffee.
+
+That was that.
+
+The monarchs were thinning.
+
+I walked the eucalyptus grove on Lighthouse Avenue on my lunch break — the way I had been walking it since October, since before the peak, since the first cold morning when I'd counted approximately four thousand clusters and thought: this is something I should keep track of. I had kept track of it the way I kept track of most things, which was to say methodically, without having decided why.
+
+In November the count had climbed. In December it climbed further. Peak in late January: six thousand two hundred and eleven individual clusters in the accessible canopy, which was not all of the canopy and I had noted that caveat clearly in the margin of the count sheet. In February the numbers had begun their drift. March, a faster drift. The ones who remained clung to the upper branches of the tallest eucalyptus, the ones that get the morning sun first — I had to count from the bench beneath the third tree, leaning back until my neck ached.
+
+Today: two hundred and seventeen.
+
+I wrote the number in the margin of the yellow legal pad I'd been carrying. I'd gone through most of a pad since October. Below the number I wrote the date. Below the date I wrote the conditions: overcast, 58°F, wind NW at 6 mph.
+
+Two hundred and seventeen.
+
+The stragglers were the ones still recalibrating, or the ones who'd arrived late, or possibly just the ones who did things in their own time and would leave when they left. I didn't know enough about monarch navigation to say which. I made a note to look it up, and knew I probably wouldn't.
+
+I stood under the trees for another ten minutes, just standing. The light came through the remaining clusters in that particular way — orange and amber and a certain quality of translucence, like stained glass if stained glass had been made by something that didn't know it was making art. The sound was different now than it had been at peak. At peak there had been a low collective sound, a wing-beat frequency I'd felt more than heard. Now there was mostly the eucalyptus and the wind and two scrub jays arguing about something in the understory.
+
+I counted again to make sure: two hundred and seventeen.
+
+I walked back to the station.
+
+Owen had been right about the tide gauge data.
+
+This was not a surprise — he had told me he was right about the tide gauge data in the way Owen told you things he was right about, which was without inflection and with a specific economy of words that you only recognized as confidence once you'd spent enough time around it. He had said, back in early March, that the anomaly in the February readings was instrument drift, not a genuine tidal variation, and that if I ran the corrected dataset against the station four depth profiles, the break point would shift two meters shallower and be more defensible for publication.
+
+He had been right. The corrected break point was 51.6m. I had published 51.6m.
+
+Today he had come into the shared workspace at around four in the afternoon, when I was finalizing the MEPS supplementary materials, and set a paper cup of coffee on the corner of my desk without comment. Not my coffee order — his coffee, apparently made in quantities large enough to share. Dark roast, no milk. I drink mine with milk. He knows this. He set it down anyway.
+
+I looked at the cup. I looked at him. He had already turned back to his monitor.
+
+"The supplementary materials are going to be longer than the paper," I said.
+
+"Usually are," he said, without turning around.
+
+"That seems backwards."
+
+"Peer review wants the receipts," he said. "The paper's the conclusion. The supplementary materials are the proof."
+
+I looked at the cup again. Then I picked it up and drank some of it. It was too dark and too hot and there was no milk in it.
+
+"Thank you," I said.
+
+"Mm," he said.
+
+I went back to the supplementary materials. He went back to whatever was on his monitor. At some point he got up and left without saying anything, which was also how he arrived.
+
+I sat for a moment after he left.
+
+He knew I took milk. He had made his own coffee — not mine, his, in whatever quantity he made coffee — and he had set a cup on the corner of my desk and turned back to his screen. He had not offered it or explained it or made it into anything. He had just put it there because he was making coffee anyway and he knew I would want some. That was the observation. Not the coffee. The not-making-it-a-thing.
+
+I opened the green notebook and made the eleventh mark.
+
+Eleven marks. I had been precise about everything and approximately precise about this.
+
+I closed the notebook and put it back.
+
+Priya found me in the kitchen at four-thirty, washing the coffee cup I'd borrowed and not returned.
+
+"Kaplan came through," I said.
+
+"I heard." She was making tea, the elaborate tea she made every afternoon — loose leaf, specific steeping time, a small timer she kept in her coat pocket. She set the timer. "April cycle?"
+
+"April cycle."
+
+"Good," she said. Then: "You look like someone who got exactly what they expected to get."
+
+She wasn't wrong. I had expected, eventually, the bridge funding, or something like it. Not because I was optimistic — I am not particularly optimistic — but because the work had been real and I had argued for it correctly and sometimes that's sufficient. I had been right to stay. I had been right to push the timeline. The 91.2% figure was going to hold.
+
+The timer went off. Priya lifted the strainer and tapped it twice against the side of the mug.
+
+"Owen makes terrible coffee," she said, looking at the cup I was washing.
+
+I turned to look at her. "He does," I said.
+
+Priya picked up her mug and looked at me with the expression she'd been wearing for approximately six months, the one I'd been choosing not to decode. Then she said, very quietly and without drama: "About almost everything."
+
+She walked out.
+
+I stood at the sink for a moment. The water was still running. I turned it off.
+
+I stayed late to finish the supplementary materials. The station lit down around me in its usual sequence — Priya at five-thirty, the two visiting postdocs at six, Martinez from the dive team at six-fifteen, the door at the end of the hall going dark somewhere around seven. I worked through the data tables and the figure captions and the methodological appendix that accounted for the instrument drift correction. I wrote clearly. I cited everything. I made the work available to anyone who wanted to replicate it.
+
+At eight-fifteen I submitted the final package to MEPS.
+
+I sat back in the chair and looked at the monitor. The submission confirmation was on the screen — a reference number, a timestamp, an automated message about peer review timelines. I read it once. Then I closed the tab.
+
+Through the wall, the faint sound of typing. Owen had come back after dinner — I'd heard him come in around seven, had heard the cadence of his keystrokes, which were different from Priya's and different from the postdocs' and which I had apparently learned to identify without deciding to. He stayed late the way he stayed late: without announcement, without needing it to mean something, because there was work to do and staying late was how you did work.
+
+I gathered my things. Laptop, tide log, legal pad. I folded my jacket over my arm. I turned off the desk lamp and stood in the dark for a moment while my eyes adjusted.
+
+The typing continued through the wall.
+
+I thought about the eleven marks in the notebook. I thought about the two hundred and seventeen monarchs in the eucalyptus, and the six thousand two hundred and eleven at peak, and how the count had been declining on its own schedule, by its own logic, in ways I'd observed and recorded without having to decide what they meant. I thought about the 91.2% figure and the break point at 51.6m and the bridge funding and the way Kaplan's email had arrived on a Tuesday morning because good news requires follow-up.
+
+I had the data. I had reviewed the arithmetic. The arithmetic was complete.
+
+I picked up the green notebook from the desk drawer. I stood with it in my hand for a moment — eleven marks, one unlabeled entry written in the handwriting of someone who had known before she admitted knowing. I put it in my bag.
+
+Then I walked down the hall, knocked twice on Owen's door frame — the door was open, it was always open — and said: "Do you want to get dinner? I know it's late."
+
+He looked up from the monitor. In the desk lamp light, the scar on his left hand was pale against the red of the cold.
+
+"Yeah," he said. "Let me save this."
+
+I waited in the hall while he saved it.
+
+End of Chapter 19

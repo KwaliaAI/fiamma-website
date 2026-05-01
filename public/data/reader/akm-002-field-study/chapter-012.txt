@@ -1,0 +1,183 @@
+Kaplan sent the calendar invite on a Monday morning with a subject line that said Staff — end of week — please confirm and no further information.
+
+This was not how Kaplan usually ran meetings. His usual meetings had agendas. They had numbered items and estimated durations and occasionally a note at the bottom that said bring data if applicable. The absence of agenda in this invite communicated, with the efficiency of a scientist who had run a marine station for eleven years, that the content of the meeting would not benefit from prior preparation and that everyone attending already knew approximately what the meeting was about.
+
+I confirmed. I had, in any case, already been calculating.
+
+The station four numbers had given me a clean window. Two weeks, maybe three, before the winter mixing complicated the benthic signal past usefulness. The analysis was good. The finding was real. It needed one more sampling cycle — which meant it needed the equipment days the grant covered, which meant the grant question was not an abstract administrative concern but a practical question about whether the paper I had been building since September would land on a complete dataset or a truncated one. Truncated datasets produced findings with error bars that opened into ambiguity. Ambiguity produced reviewers who were polite and skeptical and asked for more data in the next cycle.
+
+I preferred complete datasets. I preferred them enough that I had, by Monday afternoon, already done the first draft of the budget math in the margin of my field notes. The number at the bottom was not alarming. But it was present.
+
+Kaplan ran the Friday meeting in the conference room with the south-facing windows that got the afternoon light, which today came in low and flat and December-gray off the water. Eight people around the table. Priya across from me, her notebook already open. Marcus at the far end with the slightly compressed expression of a man who had ship time scheduled in February and was now reviewing the terms of that scheduling in his head. Jonah Reeve, the other postdoc, positioned at the corner of the table with his laptop closed in a way that suggested he had closed it for an audience, so that no one would see what he'd had open on it. Owen was at the end nearest the door, a legal pad on the table in front of him, uncapped pen resting in the groove of the binding.
+
+I knew about the legal pad. He used it for field calculations. I had been aware of this since October when I had seen him do it at his desk through the partition, running numbers in the margins in the cramped handwriting of a person who thought faster than they wrote and was comfortable with that trade.
+
+I was not thinking about this now. I was here to listen to Kaplan.
+
+Kaplan clicked to his first slide, which was a bar chart with two bars and no dramatic title. He had the steady voice of a person delivering data.
+
+"The NSF cycle," he said. "There's been a timing revision. I don't have the final language yet, but the revision moves the decision window in a way that creates a gap. This gap" — he indicated the gap on the chart, which was visible and unambiguous — "lands during a quarter when we have bridge funding that was structured around the assumption of a different timeline."
+
+He paused. He clicked to the next slide, which was a table.
+
+"I am not here to tell you your jobs are at risk. I want to be direct about that. What I am telling you is that the indirect position — the one that supports two of the current appointments — is exposed during this window, and I think you should know that."
+
+The table was clear. It had columns for funding source, duration, and exposure level. The exposure column used a three-tier system: low, elevated, requires monitoring. I noted that Owen's line — coastal monitoring network / buoy array — partial — read elevated. My line, listed under the station four analysis budget, read requires monitoring, which was the third tier, which was what it said, and I was reading it, and I was monitoring it right now in real time, which seemed like a sound approach.
+
+Across the table, Priya's expression was the expression she used for data she had already processed and was now managing. She had the same exposure I did. Her equipment days came out of the same fund.
+
+Marcus asked a clarifying question about ship time that was technically about ship time and was also about whether he would have ship time in February. Kaplan answered it directly. The answer was: probably, with a caveat, and the caveat was the gap.
+
+Jonah typed something on his laptop. He had opened it partway, just the screen angle of a man taking notes, or the screen angle of a man quietly loading his CV in a new tab. I had no evidence for the second interpretation. I was also not ruling it out.
+
+Owen asked one question. It was: "Is the buoy array's line item separable from the indirect allocation, or does it run through the same account?"
+
+Kaplan said it was separable but not fully. He said in practice, linked, but not structurally dependent. He said there was room to work with it.
+
+Owen wrote something on the legal pad. I did not read it from where I was sitting. This was not a failure of vision. It was a decision.
+
+The meeting ran forty minutes. Kaplan closed by saying he would have more information in two weeks, that he did not want to speculate ahead of the data, and that if anyone wanted to talk through their individual exposure, his door was literally open, and he meant the literally. He meant this. He was a person who meant what he said about doors.
+
+The room moved after the meeting the way rooms move after meetings that were not bad news but were also not nothing — people stood up with the deliberate unhurriedness of those who do not want to appear rushed and were, in fact, rushing. Marcus and Jonah headed for the hall together, deep in a conversation that had started somewhere in the middle of slide three. Priya caught my eye, raised one eyebrow, and then did the small head gesture that meant: you and I will talk, but not here, not now. I made the corresponding face. She went out.
+
+I stood at the end of the table and looked at the chart Kaplan had left on the projector screen. Requires monitoring. I was still looking at the chart. I was doing arithmetic.
+
+I went to the hallway.
+
+The hallway outside the conference room was the long one that ran between the south-facing offices and the small common area with the bulletin board. It was four steps from the conference room door, it had no chairs, and it got good cell service, which meant it was a place you could stand and think without anyone assuming you needed anything.
+
+I stood there. I opened my notebook to a blank page because I had not brought the field notes out of my office, and I started at the beginning.
+
+Equipment days. Grant-covered equipment days remaining in the current cycle: forty-two. Equipment days required to complete the next sampling run on station four: at minimum, eighteen, assuming no weather delays, and there were almost always weather delays in December on the Monterey coast. Contingency: twelve additional days. Total exposure: thirty, and the grant window ran through mid-February, and mid-February was—
+
+"You're doing it too."
+
+I looked up. Owen was leaning against the wall across the corridor, legal pad in his left hand, pen in his right. He was looking at me with the direct assessment of a person who had just identified a parallel process.
+
+"Doing what," I said, which was not a question.
+
+"The math," he said.
+
+There was a pause. The bulletin board beside him had a tide chart from three months ago and a notice about the holiday schedule and a piece of paper that said COFFEE SIGN-UP in someone's handwriting with a list below it that had eight names.
+
+"I have forty-two equipment days," I said.
+
+"I have eleven operational buoys partially funded through the indirect line," he said. "Partially meaning sixty percent. Meaning if the indirect line narrows—"
+
+"Forty percent of eleven," I said.
+
+"Four-point-four," he said. "Buoys don't come in point-four increments."
+
+"So four or five."
+
+"So four or five." He made a small mark on the legal pad. "The question is which four."
+
+I wrote 18 + 12 = 30 in the margin. I looked at mid-February. I wrote a small number two under it that was the number of weeks, which was seven, which was forty-nine days, which was more than thirty, which meant the window was technically solvent. Technically.
+
+"What's your contingency rate on the buoys," I said.
+
+"For maintenance delay or for funding gap?"
+
+"Funding gap."
+
+He looked at the legal pad. "If the indirect drops by thirty percent in the gap window, I lose two buoys on the north array. The south array is on a different line. The north array is the one with the winter storm data I actually need."
+
+"How long to recover?"
+
+"Redeployment takes — " He calculated. I could see him calculating; he was looking at the ceiling with the focused non-focus of someone running a sequence. "Forty days minimum. Probably sixty. They'd miss the storm season."
+
+I wrote: Dec → mid-Feb = 7 wks. 49 days. Sample run: 30 days min. Buffer: 19 days. The buffer was real. It was also not large. Nineteen days was a weather window that could close in two.
+
+"Your station four thing," Owen said. "How close is the finding?"
+
+I looked at him. This was a slightly more personal question than the math had been, because the finding was mine, and its closeness was information about the quality of the work and where the work was going.
+
+"Close enough," I said. "Not close enough to survive a truncated dataset."
+
+He nodded. He understood this without requiring elaboration. The specific misery of a finding that is real and is also not yet defensible against a determined reviewer is a misery that scientists understand without ceremony.
+
+"So you need the February window," he said.
+
+"I need the February window," I said.
+
+"Then you need the grant to hold until February."
+
+"Then I need the grant to hold until February," I said. "Yes. That is the number."
+
+There was a silence in which we were both looking at our respective notebooks and both aware that we had arrived at the same structure by different routes. I needed the February window. He needed the north array through storm season. The north array ran on the indirect line. The February window ran on the indirect line. The indirect line was exposed. This was not new information. This was the same information Kaplan had put in the table, in the column marked requires monitoring, except now it had physical weight in a corridor on a Friday afternoon in December with the gray water-light coming through the window at the end of the hall.
+
+Owen capped his pen.
+
+"Kaplan will have options," he said. "He always has more room than he presents."
+
+"You've been here longer than I have," I said.
+
+"Four years." He paused. "He had a gap in 2022. He pulled a bridge fund that wasn't public until after it worked."
+
+I filed this. It was useful. It was the kind of information that only exists inside a place, and he had offered it the way people inside a place offer information to people who are newer to it — not as a favor, exactly, but as a transfer of something that costs nothing to give and is not nothing to receive.
+
+"Thank you," I said.
+
+"The north array will probably be fine," he said. This was directed at the legal pad. "I'm just going to know that it will probably be fine for another two weeks and that's an uncomfortable type of knowing."
+
+"Yes," I said. "It is."
+
+He pushed off from the wall. He had his legal pad in one hand and his jacket over his arm and he looked like he was going to go back to his desk and run the numbers again, which he would, because running the numbers again was the thing you did when the numbers didn't change but your relationship to them required another pass.
+
+He had taken two steps toward the east hallway when he turned back.
+
+"For what it's worth," he said, "the benthic signal on the north array is also clean right now. If you wanted the parallel data for the winter window."
+
+I looked at him. He said this the way he said most things — matter-of-fact, looking directly at me, without the freight of someone doing a favor. Just information. Just what was true.
+
+"I'm already pulling it," I said.
+
+Something moved in his face. Not quite a smile. The adjacent thing.
+
+"Yeah," he said. "I know."
+
+He went around the corner. I stood in the hallway with my notebook and the tide chart from September and the COFFEE SIGN-UP sheet and the flat December light at the end of the hall.
+
+I did the math one more time. The number was the same. It was always going to be the same; the number was not the point of doing it again.
+
+Wednesday came. I walked to Strand in the early evening with the cold off the water doing its December thing, honest and particular, the kind of cold that had no ambiguity about what it was.
+
+Nico was behind the bar when I came in, mid-conversation with a man at the far end who appeared to be explaining something about a boat. Nico saw me, held up two fingers — which meant two minutes, sit wherever — and continued listening with the whole-body attention of a person who ran a bar and understood that the listening was part of the service.
+
+I sat at my usual place. Two minutes was exactly two minutes. He came over with the glass already poured, the particular pour that was the right amount, and he set it down and said, "Back wall is fixed," and the way he said it was the way of someone who had moved past a thing but wanted the record corrected.
+
+"I saw the photograph," I said. "It looked significant."
+
+"It was very significant," he said. "It cost me four hours."
+
+He told me about it. The distributor, the invoice discrepancy, the argument with the logistics manager that had been professional but pointed. He was good at telling it — dry, exact, the accurate comic shape of a situation that had been aggravating at the time and had now become a story. I was accumulating it, the texture of him: how he used a story to return to equilibrium, the kitchen discipline underneath the ease of it, the fact that he asked me about my week and listened to the actual answer and did not deflect into the next subject before I had finished.
+
+I told him about the staff meeting in broad terms. Grant situation, uncertain cycle. He nodded. He knew about grants the way a person who runs a small business on a tourist economy knows about grants — as a thing that comes and goes with a logic you cannot fully predict and which you prepare for and do not assume.
+
+"You'll be okay," he said. Not a question, exactly. Not without basis.
+
+I did not say: I need a February window and nineteen days of buffer and Kaplan to have another bridge fund no one knows about. I said: "We'll see."
+
+He said: "That's the right answer."
+
+He went back to the boat man. I sat with the glass and the low bar light and the sound of Strand being its December self, and I was easy there, and I knew I was easy, and I was adding this to what I knew.
+
+I ran the numbers again on Thursday. Same number. Then again on Friday. Still the same.
+
+On Friday afternoon I pulled Owen's north array data for the previous three weeks and put it beside mine. The patterns aligned where I expected them to and diverged where the geography differed, and the divergence was the interesting part, and the interesting part wanted looking at.
+
+I put a note in the shared folder. North array — winter correlation — worth a closer look if you're running the storm window. No salutation. He would know.
+
+The folder icon showed his edit mark seventeen minutes later. He'd added a file: a preliminary graph, annotated, with a small note in the comment field that said: Agreed. See marked section — the signal attenuates differently than the south station. Unclear if gear artifact or real.
+
+I looked at the marked section. It was not a gear artifact. I was almost certain. But almost certain was not the same as defensible, and there was another sampling cycle between almost certain and defensible, and the sampling cycle required the February window.
+
+There was the number again. Same as it had always been. I was going to need those forty-nine days.
+
+I closed the laptop. I looked out the lab window at the water.
+
+Kaplan would have options. He always had more room than he presented. This was a data point from a person who had been here four years and had watched a gap in 2022 close by a mechanism that wasn't visible until after it worked.
+
+I was choosing to find this useful.
+
+End of Chapter 12

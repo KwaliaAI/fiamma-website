@@ -1,0 +1,128 @@
+{
+  "bookId": "akm-002-field-study",
+  "version": "v1",
+  "source": "gdrive:ClaudeCode/Catalog/fiamma/akm-002-field-study/source/",
+  "generatedAt": "2026-05-01T13:30:00Z",
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "chapter_title": "Chapter One: The Stairs Were Regulation Height",
+      "word_count": 2102,
+      "path": "/data/reader/akm-002-field-study/chapter-001.txt"
+    },
+    {
+      "chapter_number": 2,
+      "chapter_title": "Chapter Two: Initial Conditions",
+      "word_count": 2506,
+      "path": "/data/reader/akm-002-field-study/chapter-002.txt"
+    },
+    {
+      "chapter_number": 3,
+      "chapter_title": "Chapter Three: Wednesday",
+      "word_count": 2926,
+      "path": "/data/reader/akm-002-field-study/chapter-003.txt"
+    },
+    {
+      "chapter_number": 4,
+      "chapter_title": "Chapter Four: The Footnote",
+      "word_count": 3448,
+      "path": "/data/reader/akm-002-field-study/chapter-004.txt"
+    },
+    {
+      "chapter_number": 5,
+      "chapter_title": "Chapter Five: Last Day of the Opening",
+      "word_count": 3144,
+      "path": "/data/reader/akm-002-field-study/chapter-005.txt"
+    },
+    {
+      "chapter_number": 6,
+      "chapter_title": "Chapter Six: The Remainder",
+      "word_count": 3536,
+      "path": "/data/reader/akm-002-field-study/chapter-006.txt"
+    },
+    {
+      "chapter_number": 7,
+      "chapter_title": "Chapter Seven: The Boat",
+      "word_count": 3661,
+      "path": "/data/reader/akm-002-field-study/chapter-007.txt"
+    },
+    {
+      "chapter_number": 8,
+      "chapter_title": "Chapter Eight: The Week After",
+      "word_count": 3141,
+      "path": "/data/reader/akm-002-field-study/chapter-008.txt"
+    },
+    {
+      "chapter_number": 9,
+      "chapter_title": "Chapter Nine: The Dock",
+      "word_count": 3827,
+      "path": "/data/reader/akm-002-field-study/chapter-009.txt"
+    },
+    {
+      "chapter_number": 10,
+      "chapter_title": "Chapter Ten: Matt",
+      "word_count": 3131,
+      "path": "/data/reader/akm-002-field-study/chapter-010.txt"
+    },
+    {
+      "chapter_number": 11,
+      "chapter_title": "Chapter Eleven: Available",
+      "word_count": 2884,
+      "path": "/data/reader/akm-002-field-study/chapter-011.txt"
+    },
+    {
+      "chapter_number": 12,
+      "chapter_title": "Chapter Twelve: Staff Meeting",
+      "word_count": 2986,
+      "path": "/data/reader/akm-002-field-study/chapter-012.txt"
+    },
+    {
+      "chapter_number": 13,
+      "chapter_title": "Chapter Thirteen: Possessive",
+      "word_count": 2738,
+      "path": "/data/reader/akm-002-field-study/chapter-013.txt"
+    },
+    {
+      "chapter_number": 14,
+      "chapter_title": "Chapter Fourteen: The Gap",
+      "word_count": 2013,
+      "path": "/data/reader/akm-002-field-study/chapter-014.txt"
+    },
+    {
+      "chapter_number": 15,
+      "chapter_title": "Chapter Fifteen: Sixty-Forty",
+      "word_count": 3385,
+      "path": "/data/reader/akm-002-field-study/chapter-015.txt"
+    },
+    {
+      "chapter_number": 16,
+      "chapter_title": "Chapter Sixteen: The Two Notebooks",
+      "word_count": 2769,
+      "path": "/data/reader/akm-002-field-study/chapter-016.txt"
+    },
+    {
+      "chapter_number": 17,
+      "chapter_title": "Chapter Seventeen: The Exit",
+      "word_count": 2002,
+      "path": "/data/reader/akm-002-field-study/chapter-017.txt"
+    },
+    {
+      "chapter_number": 18,
+      "chapter_title": "Chapter Eighteen: The Crisis",
+      "word_count": 2903,
+      "path": "/data/reader/akm-002-field-study/chapter-018.txt"
+    },
+    {
+      "chapter_number": 19,
+      "chapter_title": "Chapter Nineteen: Preliminary Findings",
+      "word_count": 1769,
+      "path": "/data/reader/akm-002-field-study/chapter-019.txt"
+    },
+    {
+      "chapter_number": 20,
+      "chapter_title": "Chapter Twenty: The Door",
+      "word_count": 2252,
+      "path": "/data/reader/akm-002-field-study/chapter-020.txt"
+    }
+  ]
+}

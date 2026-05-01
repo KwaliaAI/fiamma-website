@@ -1,0 +1,171 @@
+Monday was Day 11. I had been in Pacific Grove long enough that the walk had stopped being interesting and started being mine.
+
+Down Fountain. The ice plants along the edge of the road were drying out at the tips, the fleshy leaves going papery and faintly brown the way they do in October when the coastal moisture starts to pull back. I noted this and kept walking. Past the bakery corner — seven forty-three, still locked, the smell already out before the door — and then through the parking lot and down to the station. Eleven minutes exactly. I had stopped timing it, but it was still eleven minutes.
+
+The thing about the first day of actual work, after a week of orientation and bench-claiming and figuring out which cabinet the solvent waste went in, is that it felt like walking back into a sentence you'd been composing for twelve years. I had four sampling stations across the canyon grid. I had a protocol. I had a bench with a slow sink drain and open shelving and a window that faced inland rather than the water, which on Day 5 I'd found funny and by Day 11 I'd stopped finding anything. I had crates of initial samples in cold storage that I'd been circling like something that needed time to think about me back.
+
+Day 11 was the day I opened the crates.
+
+The person across the partition arrived at eight fifty-three.
+
+I heard him before I saw him — keys, bag on floor, the sound of someone who knew exactly where everything went. I was running an initial extraction and I did not look up. There are courtesies in shared lab space that are mostly about timing. You don't interrupt a centrifuge to be friendly.
+
+I was labeled him as noise to ignore and kept working.
+
+About twenty minutes later the centrifuge finished and I pulled the rack and set it in the carrier and then I looked up, because I was done with the step that required not looking up.
+
+He was tall. Dark hair, medium-short. Rolled sleeves, forearms braced on the bench edge in the posture of someone reading data rather than looking at it. He had the kind of face that was specific in its features — a nose with some angle to it, jaw with a definition that was structural rather than aspirational — and the overall effect was a face you'd trust to tell you something accurate. There was a small scar on the back of his left hand, the shape of an open parenthesis, which I noticed because I was standing at the bench and my eyes landed there and I have a reflex about anomalous shapes that is fully automatic and not something I control.
+
+He looked up when I moved.
+
+"Owen Reid," he said.
+
+"Wren Mitchell."
+
+We shook hands briefly. He had a firm grip without performing it.
+
+"How long have you been here," I said.
+
+"Eighteen months."
+
+"How's the partition."
+
+He glanced at the partition. "Fine. The seal on my centrifuge is loose. If it rattles it's not structural."
+
+"Good to know," I said, and went back to my rack.
+
+The conflict came at ten fifteen over the fluorescence spectrophotometer.
+
+It was shared equipment, which meant it lived in the instrument room down the hall and there was a sign-up sheet on a clipboard outside the door. I had signed up for ten fifteen on Monday and Wednesday going forward. I knew I had because I'd written it there on Day 8 when I walked through and saw the clipboard.
+
+Owen had also signed up for ten fifteen on Mondays. I did not know this until I walked into the instrument room at ten fifteen and he was already there running a sample.
+
+I looked at the clipboard. My name was there at ten fifteen. His name was also there at ten fifteen. Someone — probably me, working from available data — had written Monday, not realizing the schedule was weekly by default and that a prior standing Monday appointment took precedence and should have been visible as such.
+
+The problem was that his was already logged as recurring, in a different color ink, which meant it was older.
+
+"I have ten fifteen," I said.
+
+He turned around from the instrument. "So do I. Mine's been there since September."
+
+"I'm aware. I'm pointing out that the sheet doesn't distinguish between one-time and recurring. If it did I wouldn't have double-booked."
+
+"The sheet has a column for recurring," he said. "On the right."
+
+I looked at the clipboard. The column on the right said R for recurring. His ten fifteen had an R next to it. I had not seen the column. I had not looked for a column. I had looked for my time slot and confirmed my name was there and put the clipboard back.
+
+He was correct. The column existed. I had missed it.
+
+I noted this the way I'd note a flaw in my own extraction protocol — with irritation that was entirely internal and a clean acknowledgment that the flaw had been on my end.
+
+"What are you running," I said.
+
+"Population count calibration. Thirty minutes."
+
+"I'll come back at eleven."
+
+I came back at eleven. The instrument was free. I ran my sample without further incident and the data was clean and I went back to my bench and continued.
+
+I did not think about the column on the right. I thought about my data.
+
+The first week organized itself around the bench. This was the correct way for it to organize itself. I had not come to Pacific Grove for the fog or the monarchs or the restaurant on 17th, or not primarily. I had come because Dr. Kaplan had a dataset that went back seventeen years and a Monterey Canyon project with four sampling stations that needed someone who understood what they were looking for in the dark.
+
+I understood what I was looking for. I had been looking for it since graduate school, the long argument with the universe about what constitutes a viable condition for life. Most people assumed viable meant hospitable. I had been arguing for ten years that viable and hospitable were two different measurements entirely.
+
+The organisms at the bottom of Monterey Bay had not gotten the hospitable memo. The pressure down there was enough to close a fist around a car. The temperature was two degrees above freezing at best. There was no photosynthesis, no sunlight, no standard energy pathway. What there was was hydrogen sulfide leaking from the seafloor, and the organisms had looked at that and made metabolic machinery out of it the way you'd build a house out of the materials on the site.
+
+I found this genuinely interesting. I would have found it interesting on a Tuesday at three in the afternoon. I would have found it interesting in a fluorescence spectrophotometer line dispute. I found it interesting now, pulling initial reads on my four stations, working through the numbers from the first week of sampling.
+
+Stations one through three came in as expected — within the bounds of the existing dataset, minor variance attributable to seasonal flow. Standard. Clean. The kind of data that was good because it meant you were measuring what you intended to measure and the instrument wasn't lying to you.
+
+Station four came in higher.
+
+I looked at the number. It sat at the high end of expected — still inside the range, technically within the envelope of seventeen years of baseline — but at the edge of it. The way a temperature reading sits at ninety-nine point eight when the threshold for fever is one hundred: inside, but asking a question.
+
+I noted it in my log. I would re-run it Wednesday. Could be drift in my extraction when I'd been tired on collection day. Could be a localized event in the water column, some disturbance I'd pulled into the sample. Could be a calibration issue with this tube set.
+
+Could be something else. I didn't know yet.
+
+I moved on to the afternoon's work and left the question sitting there.
+
+Priya knocked on the doorframe at five-thirty with her reading glasses pushed to the top of her head and what appeared to be dried pale blue paint on her wrist in a shape that bore no resemblance to any lab task I could identify.
+
+"Dinner," she said. "I know a place."
+
+"The crudo place," I said.
+
+"Not the crudo place. Different place. You can do the crudo place on your own time." She said this with the tone of someone who had strong feelings about sequencing. "This is a taco place. It has the correct amount of lime."
+
+I saved my work. "How do you know how much lime I need."
+
+"I've been doing this for three years," she said. "I know how much lime everyone needs."
+
+The taco place was three blocks from the station, on the inland side, and it was the kind of place that did not look like anything from the outside and then made you understand why people talk about a city in terms of the restaurants. Priya ordered without consulting the menu. I ordered based on what was being carried out of the kitchen and into the dining room on plates around me, which is my preferred method for data collection in unfamiliar systems.
+
+She was good to eat dinner with. She talked about her work the way I liked people to talk about their work — specifically, with genuine interest in the problem rather than the performance of the problem. She was tracking vocalization patterns in Pacific bottlenose dolphins across a three-year dataset. She had a hypothesis about acoustic complexity and social structure that she described with her hands and a diagram drawn on a napkin, and I followed the logic of it and asked a question about the controls and she lit up in the particular way scientists light up when someone asks the right question, which is different from lighting up when someone asks a polite question.
+
+I told her about station four. Not as a finding — I was careful about that. I told her I had a number that was sitting high and I was going to re-run it.
+
+"What do you think it is," she said.
+
+"I think it's probably sampling error. I was tired on collection day."
+
+"But."
+
+"No but. I just noted it."
+
+She looked at me with the expression of someone who had her own opinions about my "no but" and was deciding whether to share them. She decided against it. "Re-run it," she said. "And then have a but."
+
+"That's the plan."
+
+We ate. The lime was, in fact, correct.
+
+At some point she asked how I was finding Pacific Grove. Whether I'd explored. I said I'd walked around some. I mentioned the restaurant on 17th.
+
+She put her taco down. She didn't pick it up again immediately. "Strand," she said.
+
+"The crudo was excellent."
+
+She looked at me — not long, just a beat, the way you'd pause before deciding how to say something — and then she said: "Nico makes excellent crudo."
+
+That was the whole sentence. It was not about the food.
+
+I said, "I know," before I'd thought about it.
+
+The speed at which I said it was information. I registered the speed and moved on, the way you note a number sitting at the high end and continue with the rest of the analysis.
+
+We paid. We walked back toward the station to get our bags and then in our separate directions from there. The fog had come in the way it always did, not dramatically, just solidly, as if it had never been somewhere else.
+
+Owen was still at his bench when I came back for my bag.
+
+I hadn't expected anyone to be there. The floor was dark except for the instrument room, where someone had left the light on, and the glow from his bench lamp, which was low and directed at the notebook in front of him. He was writing by hand, which I noted because almost no one does, and his left hand was braced on the page to keep it flat, the parenthesis-scar on the back of it pale in the lamp light.
+
+I collected my bag. I said, "Goodnight."
+
+He said, "Night," without looking up.
+
+It was not rude. It was the response of someone mid-sentence who was measuring their interruption accurately. I recognized the register. It was the same thing I did when I was mid-extraction and someone said something and I gave a minimal answer not out of hostility but out of accounting.
+
+I walked home up Fountain. The bakery corner was dark. The ice plants were dark. Eleven minutes in the other direction.
+
+Tuesday I found the R column and marked my time slots accordingly. I did not mention this to Owen. It was not a conversation that needed to happen, and he didn't bring it up either, which I credited to accurate social calibration. We passed in the hall once and he moved to the right and I moved to the right and we both moved to the left at the same time and there was a brief comedic impasse that resolved itself, as these things do, without commentary. He was going to the cold storage. I was coming back from it.
+
+Wednesday I re-ran station four. The number came in at the same place: high end of the range, inside the envelope, asking a question. I noted this with more specificity than I'd noted the first one. Sampling error was less likely if the same tube set returned the same read. Calibration drift was less likely if the other stations were clean.
+
+I added a row to my log and marked it for follow-up.
+
+It was a flag, not a finding. I had been in science long enough to know the difference. Findings took time. A flag was just the place where you wrote down that you didn't have an answer yet.
+
+By Wednesday evening I knew I was going to Strand.
+
+I'd known this since Tuesday, which was probably when I'd actually decided, or since Monday when I'd logged station four and needed somewhere to put my attention that wasn't my own data. Or since the dinner, when Priya had said Nico makes excellent crudo and the full sentence had arrived in a particular order. Or since the week before, when I'd walked in on a Wednesday, which was apparently something I did on Wednesdays now.
+
+I got home at five-forty. The fog was already coming in, right on schedule. I changed my shirt and brushed my teeth, which I note because I was aware of doing it.
+
+I walked south on Lighthouse four blocks, turned right on 17th, walked three blocks east to Junipero.
+
+The light inside was warm.
+
+I went in.
+
+End of Chapter 2

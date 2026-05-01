@@ -3,6 +3,7 @@ import path from 'node:path'
 
 const rootDir = process.cwd()
 const readerDir = path.join(rootDir, 'public', 'data', 'reader')
+const localFiammaBooksPath = path.join(rootDir, 'src', 'lib', 'localFiammaBooks.ts')
 
 function markProblem(problems, message) {
   problems.push(message)
@@ -17,19 +18,71 @@ async function pathExists(filePath) {
   }
 }
 
+// Extract { title_id, visible } pairs from the TypeScript source.
+// Each book is an object literal containing both `title_id: '<id>'` and `visible: <bool>`.
+// We parse object-by-object to keep the pairing correct.
+async function loadVisibleTitleIds() {
+  if (!(await pathExists(localFiammaBooksPath))) {
+    return null
+  }
+  const source = await fs.readFile(localFiammaBooksPath, 'utf8')
+  const objects = source.split(/\}\s*,\s*\{/)
+  const visibleIds = []
+  for (const block of objects) {
+    const titleMatch = block.match(/title_id:\s*['"]([^'"]+)['"]/)
+    const visibleMatch = block.match(/visible:\s*(true|false)/)
+    if (titleMatch && visibleMatch && visibleMatch[1] === 'true') {
+      visibleIds.push(titleMatch[1])
+    }
+  }
+  return visibleIds
+}
+
 async function main() {
+  const problems = []
+
+  // Gate 1 (added 2026-05-01): every visible book in localFiammaBooks.ts must have a manifest folder.
+  // Why: the previous version validated only existing folders; HB-001/002/003 shipped to /read/ with
+  // no manifest and no Supabase chapters and silently fell back to "Chapters are coming soon."
+  // The reader-funnel audit (report_subagent_fiamma-reader-funnel-audit_2026-05-01.md) caught this.
+  const visibleIds = await loadVisibleTitleIds()
+  if (visibleIds === null) {
+    console.warn(`warning: could not read ${localFiammaBooksPath} — visible-books gate skipped`)
+  }
+
   if (!(await pathExists(readerDir))) {
+    if (visibleIds && visibleIds.length > 0) {
+      for (const id of visibleIds) {
+        markProblem(problems, `${id}: visible:true in localFiammaBooks but no public/data/reader directory exists at all`)
+      }
+      for (const problem of problems) console.error(problem)
+      process.exitCode = 1
+      return
+    }
     console.log('No reader onboarding content found.')
     return
   }
 
   const folders = (await fs.readdir(readerDir, { withFileTypes: true })).filter((entry) => entry.isDirectory())
+
+  if (visibleIds) {
+    const folderNames = new Set(folders.map((f) => f.name))
+    for (const id of visibleIds) {
+      if (!folderNames.has(id)) {
+        markProblem(problems, `${id}: visible:true in localFiammaBooks but no manifest folder at public/data/reader/${id}/`)
+      }
+    }
+  }
+
   if (folders.length === 0) {
+    if (problems.length > 0) {
+      for (const problem of problems) console.error(problem)
+      process.exitCode = 1
+      return
+    }
     console.log('No reader onboarding content found.')
     return
   }
-
-  const problems = []
 
   for (const folder of folders) {
     const folderPath = path.join(readerDir, folder.name)

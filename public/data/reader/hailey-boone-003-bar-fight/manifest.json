@@ -1,0 +1,80 @@
+{
+  "bookId": "hailey-boone-003-bar-fight",
+  "version": "v1",
+  "source": "MANUSCRIPT_v2.md",
+  "generatedAt": "2026-05-01T12:00:00Z",
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "chapter_title": "Chapter One: I Live Here",
+      "word_count": 3500,
+      "path": "/data/reader/hailey-boone-003-bar-fight/chapter-001.txt"
+    },
+    {
+      "chapter_number": 2,
+      "chapter_title": "Chapter Two: One Bed",
+      "word_count": 3480,
+      "path": "/data/reader/hailey-boone-003-bar-fight/chapter-002.txt"
+    },
+    {
+      "chapter_number": 3,
+      "chapter_title": "Chapter Three: Ground Rules",
+      "word_count": 3482,
+      "path": "/data/reader/hailey-boone-003-bar-fight/chapter-003.txt"
+    },
+    {
+      "chapter_number": 4,
+      "chapter_title": "Chapter Four: Porch Dark",
+      "word_count": 3683,
+      "path": "/data/reader/hailey-boone-003-bar-fight/chapter-004.txt"
+    },
+    {
+      "chapter_number": 5,
+      "chapter_title": "Chapter Five: Walkthrough",
+      "word_count": 3378,
+      "path": "/data/reader/hailey-boone-003-bar-fight/chapter-005.txt"
+    },
+    {
+      "chapter_number": 6,
+      "chapter_title": "Chapter Six: Woodstove",
+      "word_count": 3477,
+      "path": "/data/reader/hailey-boone-003-bar-fight/chapter-006.txt"
+    },
+    {
+      "chapter_number": 7,
+      "chapter_title": "Chapter Seven: Before He Cheats",
+      "word_count": 3394,
+      "path": "/data/reader/hailey-boone-003-bar-fight/chapter-007.txt"
+    },
+    {
+      "chapter_number": 8,
+      "chapter_title": "Chapter Eight: Bar Fight That Isn't",
+      "word_count": 3582,
+      "path": "/data/reader/hailey-boone-003-bar-fight/chapter-008.txt"
+    },
+    {
+      "chapter_number": 9,
+      "chapter_title": "Chapter Nine: Rain",
+      "word_count": 3581,
+      "path": "/data/reader/hailey-boone-003-bar-fight/chapter-009.txt"
+    },
+    {
+      "chapter_number": 10,
+      "chapter_title": "Chapter Ten: The Voicemail",
+      "word_count": 3487,
+      "path": "/data/reader/hailey-boone-003-bar-fight/chapter-010.txt"
+    },
+    {
+      "chapter_number": 11,
+      "chapter_title": "Chapter Eleven: Home Now",
+      "word_count": 3370,
+      "path": "/data/reader/hailey-boone-003-bar-fight/chapter-011.txt"
+    },
+    {
+      "chapter_number": 12,
+      "chapter_title": "Chapter Twelve: Halloween",
+      "word_count": 3356,
+      "path": "/data/reader/hailey-boone-003-bar-fight/chapter-012.txt"
+    }
+  ]
+}

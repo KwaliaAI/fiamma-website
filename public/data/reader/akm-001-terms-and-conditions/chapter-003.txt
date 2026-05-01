@@ -1,0 +1,289 @@
+The thing about partition walls is that they create an illusion of privacy without actually providing any.
+
+I know this because I'm currently listening to Sam pitch his prototype to someone important, and I can hear every word despite the cork barrier between us, despite my headphones, despite my active attempts to focus on the liability assessment Gloria assigned me this morning.
+
+"The hinge mechanism allows for a full ninety-degree rotation," Sam is saying, "which means the user can adjust the angle without any tools. It's intuitive. You don't need to read a manual. You just—here, try it."
+
+A pause. The sound of something mechanical clicking into place.
+
+"That's... actually very smooth." This voice is different. Older. The kind of voice that's spent decades in boardrooms, evaluating pitches from people who want things. "And the weight distribution?"
+
+"Completely balanced. I spent six months on that alone. The first prototype kept tipping, which is, you know, the opposite of helpful for a mobility device. But this version uses a counterweight system based on—actually, let me show you."
+
+More sounds. Something being adjusted. The investor making an interested noise.
+
+I should not be listening to this. I have work to do. Real work, involving real contracts, with real deadlines that don't care about my neighbor's hinge mechanisms or the way his voice changes when he talks about something he built. There's a confidence in it I haven't heard before. Not the easy charm from the coffee machine disaster. Something more grounded. More certain.
+
+He sounds like someone who knows exactly what he's doing.
+
+This is a workplace. I am a professional. I'm going to stop eavesdropping on my neighbor's investor pitch and focus on indemnification clauses like a normal person.
+
+"The market for this is significant," the boardroom voice is saying. "But the manufacturing costs concern me. You're proposing premium materials at a price point that undercuts the competition. The margins don't—"
+
+"The margins work if we scale. I've modeled it out. At ten thousand units, we break even. At twenty thousand, we're profitable. And the materials aren't negotiable. The foam here is the same grade they use in high-end prosthetics, not the stuff that breaks down after six months and leaves users with pressure sores."
+
+There's something in his voice now. An edge. Not defensive, exactly. Protective.
+
+"And you've tested this? User feedback?"
+
+"Three rounds of testing with the disability advocacy group downtown. They've been incredible. Showed me things I never would have thought of on my own. One of their members, Maria, she's been using the prototype for two months now. Says it's the first assistive device she's had that doesn't make her feel like a patient. That's the whole point. Nobody wants to feel like a patient in their own life."
+
+Something in my chest does something I don't authorize. It's not my business what Sam builds or why he builds it. It's not my business that he apparently collaborates with advocacy groups and remembers individual testers by name. None of this is relevant to my liability assessment, which is due in four hours and currently consists of three bullet points and a growing sense of dread.
+
+I try to refocus on the contract in front of me. Something about indemnification clauses. The words blur.
+
+My phone buzzes. Gloria.
+
+"Berna. Do you have a minute?"
+
+"I have several minutes. I'm surrounded by minutes. They're multiplying."
+
+"That's either very efficient or very concerning and I don't have time to determine which. Listen, I need you to add something to your workload."
+
+"My workload is already a geological formation. You'd need excavation equipment to add anything else."
+
+"It's a small project. Startup liability review. One of our partners is considering an investment and they want us to flag any obvious issues before they proceed."
+
+I close my eyes. I already know what's coming. I don't know how I know, but I know.
+
+"What kind of startup?"
+
+"Assistive technology. Mobility devices. The founder apparently has a prototype that's generating some buzz. Very Portland, very mission-driven, probably completely unprepared for the regulatory landscape they're walking into. FDA considerations, product liability exposure, the usual nightmare scenarios for hardware startups."
+
+"What's the company name?"
+
+"Mobility Kitchen. No, wait—" Papers shuffling. "Workshop. Mobility Workshop. The founder is a designer named Sam something. The file's in your inbox."
+
+The partition wall has never felt thinner.
+
+"Berna? You still there?"
+
+"I'm here."
+
+"Is there a problem?"
+
+There are several problems. The most immediate problem is that I'm now professionally obligated to review the liability exposure of the man I've been eavesdropping on for twenty minutes. The second problem is that said man is currently pitching an investor approximately twelve feet from my desk. The third problem is that I can still hear his voice through the wall, and it's doing something inconvenient to my concentration.
+
+"No problem," I say. "I'll review the file."
+
+"Great. Let me know if you find anything catastrophic. The partners want a preliminary assessment by end of week. And Berna? Be thorough. Harrison's putting personal capital into this one. He doesn't like surprises."
+
+She hangs up. I stare at my phone. I stare at the partition wall. Through it, I can hear Sam wrapping up his pitch, the investor making interested noises, the click of the hinge mechanism being demonstrated one more time.
+
+I'm going to be his lawyer.
+
+Not his lawyer, technically. The firm's lawyer, conducting an assessment for the firm's client, who is a potential investor in his company. But the distinction feels thin. Thinner than the wall. Thinner than the excuse I'm constructing for why I'm still listening to his pitch instead of reading my contracts.
+
+The meeting ends. I hear handshakes, goodbyes, the investor's footsteps retreating toward the elevator. Then silence, followed by a long exhale that sounds like relief and exhaustion and hope all tangled together.
+
+A Post-it appears on my monitor.
+
+I didn't see him come around the partition. I was too busy spiraling. But there it is: yellow, angular handwriting, dead center.
+
+That was the biggest investor I've ever pitched. I think he might actually be interested. I need to scream into a pillow but there are no pillows here so I'm writing you instead.
+
+How's your day going?
+
+— S
+
+I write back. I shouldn't, but I do.
+
+My day just got complicated. Congratulations on the pitch. Try the meditation room on the second floor. There are pillows there. I've been told the energy is very unblocked.
+
+— B
+
+I stick it on his monitor when he's in the bathroom. When I get back to my desk, the file from Gloria is waiting in my inbox.
+
+Mobility Workshop. Founded eighteen months ago. One employee: Sam Reyes, designer and CEO. Product: adjustable mobility aids with "design-forward aesthetics." Current funding: personal savings and a small grant from a disability advocacy nonprofit. Seeking: Series A investment to scale manufacturing.
+
+I open the attachment. It's a mess.
+
+Not a malicious mess. Not a fraudulent mess. The kind of mess that happens when someone who cares deeply about building a good product doesn't have anyone to help them with the paperwork. The liability waivers are incomplete—half of them are missing signature lines entirely. The testing documentation is inconsistent, with dates that jump around and methodology descriptions that vary from one report to the next. There's a safety certification from a lab I've never heard of, which might be legitimate or might be someone's garage with a certificate printer.
+
+The corporate structure is nonexistent. He hasn't filed the right forms for investor capital. His insurance coverage is inadequate for the risk profile. The intellectual property situation is unclear—there's mention of a provisional patent but no evidence it was ever converted to a full filing.
+
+And then there's the CeraTest report.
+
+CeraTest is a materials testing company. They provide certification that the components in a product meet certain durability and safety standards. The report in Sam's file says all his materials passed. But something about it looks... thin. The methodology section is shorter than I'd expect. The sample sizes are smaller than industry standard. The date is from eight months ago, which means he might have changed suppliers since then without getting new certification.
+
+It's probably nothing. It's probably just a small company cutting corners on paperwork because they don't know better, because they're too busy building something they believe in to worry about documentation. But "probably nothing" is not the same as "definitely nothing," and my job is to flag anything that might become something.
+
+I make a note. I highlight the CeraTest section. I keep reading.
+
+At 6:30, my phone buzzes again. Not Gloria this time. Marco.
+
+Marco: Emergency. Come to the restaurant.
+
+Me: What kind of emergency?
+
+Marco: The life-or-death kind. Also I need you to taste something.
+
+Me: Those are different levels of emergency.
+
+Marco: They're the same level when you're me. Get here. Bring opinions.
+
+Marco's restaurant is a twenty-minute bus ride from the Central Eastside, tucked into a corner of a neighborhood that hasn't been gentrified yet but is eyeing the process with interest. It's called Sazón, which means "seasoning" in Spanish, and it serves food that Marco describes as "what his grandmother would make if she had access to a sous vide machine and no fear of God."
+
+When I arrive, the emergency is immediately apparent: there are boxes everywhere.
+
+"What happened?" I ask, stepping over a stack of what appears to be industrial mixing bowls.
+
+"The supplier sent double. Of everything. I ordered fifty pounds of flour, they sent a hundred. I ordered ten cases of tomatoes, they sent twenty. My walk-in looks like a doomsday prepper's fantasy and I have a food blogger coming tomorrow."
+
+"That's not an emergency. That's an inventory error. Call them and—"
+
+"I tried. Three times. They're closed until Monday. And the blogger is coming tomorrow, Berna. She has forty thousand followers and opinions about plating. I can't have her see my kitchen looking like a warehouse exploded."
+
+He looks genuinely distressed. Marco always looks genuinely distressed; it's his resting state, inherited from his mother along with his cheekbones and his inability to let anything go. But this is a higher frequency of distress than usual.
+
+"What do you need me to do?"
+
+"Help me organize. Taste things. Tell me if the new appetizer is too spicy or not spicy enough. Be a human being in my presence while I slowly lose my mind."
+
+"I can do that."
+
+We spend the next hour moving boxes, reorganizing the walk-in refrigerator, and debating the appropriate heat level for a chipotle crema that Marco insists is "perfectly balanced" and I insist is "committing assault."
+
+"It's not that hot," he says, watching me drink my third glass of water.
+
+"My taste buds are filing a police report."
+
+"Your taste buds are dramatic."
+
+"They learned it from watching you."
+
+The back door opens. Marco's sous chef, a woman named Elena who has worked with him for three years and has the patience required to survive Marco, sticks her head in.
+
+"Marco, someone's here about the delivery mixup."
+
+"Finally. Send them back."
+
+"It's not from the supplier. It's some guy who says he was walking by and noticed you got double-shipped. He wants to know if you need help moving boxes."
+
+Marco and I exchange glances. Portland is friendly, but this is aggressively helpful even by Portland standards.
+
+"Send him back," Marco says. "If he's a serial killer, Berna's a lawyer. She'll handle it."
+
+"That's not how any of this works."
+
+The back door opens wider, and Sam walks in.
+
+For a moment, neither of us speaks. He's wearing a different shirt now—a henley, sleeves pushed up past his elbows—and carrying a canvas bag that appears to contain tools. His hair looks like he's been running his hands through it, which tracks with the exhausted-but-wired energy coming off him. He looks like someone who just finished the most important pitch of his career and then walked fifteen blocks to help strangers with produce.
+
+He looks at me. I look at him. Marco looks at both of us with the expression of a man who has just realized something interesting is happening.
+
+"Berna?"
+
+"Sam."
+
+"You work here?"
+
+"I'm helping a friend. With an emergency. Involving tomatoes."
+
+"I'm Marco," he says, extending his hand. "You know Berna?"
+
+"We're neighbors. At the coworking space." Sam shakes Marco's hand, still looking at me with an expression I can't quite decode. Surprise, maybe. Or something warmer. "I was walking home and I saw the delivery truck leaving and the driver said something about a double shipment, so I thought—I don't know, I thought maybe someone could use a hand. I'm good with logistics. And I had tools in my bag because I always have tools in my bag, which is a personality trait I'm working on accepting."
+
+"You just... offered to help a stranger with boxes?"
+
+"I like helping people." He says it simply, without embarrassment. "Also, I've been sitting all day and I needed to move. Seemed like a good solution to both problems."
+
+Marco is looking at me now. The look says many things, all of them inappropriate to address in front of a witness.
+
+"Well," Marco says, "we could definitely use another set of hands. The tomatoes aren't going to organize themselves."
+
+For the next forty-five minutes, Sam helps us reorganize the kitchen. He's good at it—efficient in a way that suggests he's spent time thinking about how spaces work, how objects flow from one place to another. He asks questions about the kitchen layout, makes suggestions about storage that Marco actually considers instead of dismissing, which is unprecedented.
+
+And I notice things.
+
+I notice the concentration on his face when he's solving a spatial problem, the way his eyes go slightly unfocused like he's running calculations. I notice his hands—capable, certain—stacking boxes in configurations that maximize floor space. I notice the easy way he moves around obstacles, the unconscious grace of someone comfortable in physical work.
+
+I notice that when Marco makes a joke about the tomato situation being "a true Italian tragedy," Sam's whole face transforms, his smile reaching his eyes, crinkling the corners in a way that—
+
+I should not be cataloging the corners of his eyes. I should be thinking about CeraTest methodology sections and inadequate insurance coverage.
+
+"Earth to Berna." Marco is waving a hand in front of my face. "Chipotle crema. Final verdict."
+
+"Too spicy."
+
+"You said that an hour ago."
+
+"I stand by my assessment."
+
+Marco sighs. Sam smiles. I pretend I'm not aware of every time our shoulders nearly touch in the narrow aisle between the prep station and the walk-in.
+
+When the kitchen is finally organized, Marco insists on sending Sam home with food. "You helped. You get fed. House rules."
+
+"I can't accept—"
+
+"It's not negotiable. Berna, tell him it's not negotiable."
+
+"It's not negotiable," I say. "Marco will actually follow you home and leave food on your doorstep. He's done it before."
+
+"To who?"
+
+"To me. For two months after I passed the bar. I had so much arroz con pollo I had to buy a second freezer."
+
+Sam takes the container. Our fingers don't touch this time. I notice.
+
+"Thank you," he says, to both of us but looking at me. "For letting me help. And for the food. And for—" He stops, recalibrates. "Just thank you."
+
+"Thank you for moving the tomatoes," Marco says. "Very neighborly of you."
+
+Sam leaves. Marco waits approximately four seconds before turning to me with the expression of a man who has just won something.
+
+"Don't," I say.
+
+"I didn't say anything."
+
+"You're about to."
+
+"He carried boxes, Berna. He walked in off the street and carried boxes for strangers. And he kept looking at you when he thought you weren't looking."
+
+"He was looking at the kitchen. It's a nice kitchen."
+
+"He was looking at you rearranging tomatoes like it was the most interesting thing he'd ever seen. I know what I saw."
+
+"What you saw was a neighbor being neighborly. It's a Portland thing. People here help each other. It's exhausting but apparently mandatory."
+
+"People here passive-aggressively correct your recycling habits. That—" Marco points at the door Sam just walked through. "That was a man who wanted to be in the same room as you and invented a reason to do it."
+
+I think about the coffee machine. I think about the chocolate. I think about the Post-it notes, still in my desk drawer, evidence of something I haven't named.
+
+"He's a client," I say.
+
+"He's a guy who moved tomatoes."
+
+"His company. It's a potential investment for one of our partners. I'm doing the liability review."
+
+Marco's expression shifts. "Oh."
+
+"Yeah."
+
+"That's complicated."
+
+"I'm aware."
+
+He hands me a container of chipotle crema. "Take this. It's not too spicy."
+
+"It's definitely too spicy."
+
+"Take it anyway. And Berna?" He waits until I'm looking at him. "Just because something's complicated doesn't mean it's wrong. Sometimes it just means you have to be more careful."
+
+I take the bus home. I eat Marco's food, which is too spicy but also delicious. I open the Mobility Workshop file again. I highlight the CeraTest report. I draft three questions I'll need answered before I can complete the assessment.
+
+The file doesn't mention that Sam walks fifteen blocks to help strangers with delivery emergencies. The file doesn't mention his smile or his competence or the way he talks about the people who use his products. The file only contains what can be documented: dates, certifications, corporate structures, gaps in paperwork.
+
+My job is the gaps. My job is always the gaps. The things people forget to document, the corners they cut, the risks they don't see because they're too close to what they're building.
+
+The CeraTest report sits open on my screen until midnight. The methodology section is still too short. The sample sizes are still too small. And somewhere across the city, Sam is probably eating my brother's food and not knowing that I'm about to write a report that could determine whether his dream gets funded.
+
+That's the job. That's always been the job. Find the risks. Name them. Let other people decide what to do about it.
+
+I close the laptop. I go to bed.
+
+I don't dream about anything.
+
+Or if I do, I don't remember it in the morning. Which is functionally the same thing.
+
+Which is what I tell myself, anyway.

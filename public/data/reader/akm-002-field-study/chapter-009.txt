@@ -1,0 +1,275 @@
+- Ending pattern: Three consecutive chapters ending with inventory-before-image structure ("X. X. X. I drank my tea."). Ch10 must close on a different structure — single action or single image, no preceding inventory.
+
+| Detail | Canonical Value |
+|--------|----------------|
+| Owen Count 5 | He laughs at the stairs. Full awareness on her part. She makes the fifth mark at home that night, knowing exactly what she is doing, and does not stop. |
+| Accident story canonical form | "Eight years. A flight of stairs at my own going-away party. The stairs were regulation height. I've checked." He laughs at the stairs. Correct laugh. She recognizes the precision. |
+| Dock conversation | End of day, 4th Thursday of November. Neither went for the conversation. ~2 hours. Covered: NASA/stairs, marine biology after, canyon ("I don't know yet — that's why I'm still here"), his population work / calling trends early, hydrothermal communities, what-it's-like. "Best answer." |
+| Priya hallway line | "You're very precise about everything. About almost everything." One sentence. Does not name the exception. Says it once. Wren deflects with station four. Priya accepts the deflection for now. |
+| Grant mention | Kaplan, Tuesday staff meeting: "Funding is going to be a conversation this cycle. Not now — I want to flag it." Not a crisis. Wren writes "funding — flag" in margin. |
+| Owen Count end Ch9 | 5 |
+| False positive/false negative exchange | His field: false negative catastrophic, call early. Her field: doesn't know which error is worse, keeps collecting. Two readings simultaneously visible. Neither named. |
+
+The staff meeting that week was on Tuesday, which was unusual. Kaplan ran them on Thursdays as a rule, but the Thursday before Thanksgiving had evaporated into travel logistics and borrowed equipment and the kind of scheduling friction that came, every year, from the fact that marine biologists had families in places that were not Monterey. The Tuesday meeting was in the small seminar room, the one with the window that looked out over the kelp bed and the chairs that had been collected from three different decades of furniture procurement, and eight of us were there, distributed along the table with the asymmetry of people who had arrived independently and arranged themselves without planning.
+
+Kaplan was at the front with his laptop and his coffee. He had the quality he always had before a meeting that was going to cover more than one agenda item: a stillness, the way a person sits when they have sorted through the topics in advance and are prepared to deliver them in order.
+
+The first twenty minutes were logistical. The canyon transect schedule for December. The graduate student whose rotation was ending in January. The equipment bay inventory that Marcus had been asking about for six weeks and had finally completed.
+
+Then Kaplan said, in the same register he'd been using for all of it: "Funding is going to be a conversation this cycle. Not now — I want to flag it so no one's surprised when it comes up."
+
+He looked around the table. His expression was calibrated: informative, not alarming. He had the manner of a department head who had delivered news of varying weights at enough Tuesday and Thursday meetings to know the difference between a statement that needed a reaction and one that simply needed to be logged.
+
+Nobody said anything.
+
+"That's all," he said, and moved to the next item.
+
+I looked at my notebook for a moment, then back at the agenda. Marcus was writing something. Jonah was looking at the window. Owen, two seats down on the opposite side, was looking at Kaplan with the focused attention he brought to information he was filing for later use.
+
+I wrote funding — flag in the margin and left it.
+
+Wednesday I went to Strand.
+
+The walk down Lighthouse in the last of the November light, the bar at the far end, the same seat at the corner of the counter where I had been sitting since the first Wednesday in October. Nico came out early that week, before the late dinner service, and we talked for forty minutes about the November curing window and whether the Bodega Bay visit had changed the protocol or confirmed it. The answer was confirmed, mostly, with a revision to the acid balance that he'd been testing and that was, I thought when I tasted the current crudo, almost exactly right.
+
+"One more week," he said, tasting it himself.
+
+"Maybe half a week," I said.
+
+He looked at me. "You're precise."
+
+"I study gradients for a living."
+
+He laughed. He went back to the kitchen. I ate the crudo, which was within half a week of right, and drank a glass of something cold and white that he had chosen without asking me what I wanted and that was correct in a way that made me think he had been paying attention since October.
+
+I walked home at eleven-fifteen. The fog was down, the eucalyptus invisible above the path, and I thought about the acid balance and the half-week calibration and how the cold water of the bay governed, through a chain of physical relationships, the flavor profile of a plate of cured fish.
+
+I was going back next Wednesday. This was not in question.
+
+The dock was where I went on Thursday evening to do the end-of-week sample log.
+
+It was the fourth Thursday of November, late enough in the afternoon that the light was already going, the low-angle November sun hitting the water at the angle that made the kelp canopy visible just below the surface as a dark irregular geometry. I had three sample cases to log and a CTD readout to cross-check against the station four records, and the dock was the place where I did this because the dock had the orientation and the light and the habit of it, which was reason enough.
+
+I had the log clipboard and my field notebook and the bench at the end of the equipment dock, the one that was bolted to the rail and faced south, and I was working through the first sample case when I heard footsteps on the planking.
+
+Owen.
+
+He had his field pack and his buoy data binder and the expression of a man who had also come to the dock for a reason and had now arrived at a dock that already had someone on it. He stopped. He looked at the water. He looked at me.
+
+"Equipment check," he said. Not a question. Just the identification of a reason.
+
+"Sample log," I said.
+
+He nodded. He went to the equipment locker at the far end of the dock and opened it and did the thing he needed to do with the equipment inside, which was check the mooring line condition on the two surface buoys stored there, which I knew because he did this every two weeks and I had been at this dock often enough to have cross-referenced his schedule without intending to.
+
+I went back to the sample log.
+
+The dock was quiet in the way that late-November docks are quiet: the harbor sounds at a distance, the lap of water under the planking, the absence of wind that happened sometimes at dusk before the offshore flow picked up. The cold was the sustained kind, not sharp but present, the kind that settled in if you stayed still.
+
+I stayed still. I worked through the second sample case.
+
+Owen finished with the buoys. He put the binder away. He did not leave.
+
+He came to the end of the dock and leaned on the rail with his forearms on the top plank and looked at the water in the way he looked at things when he was thinking about something that was not the thing in front of him.
+
+After a moment he said: "How long were you at NASA?"
+
+I looked up.
+
+He was still looking at the water. The question had arrived with the quality of something that had been sitting in a reasonable location and had found a moment to be asked.
+
+"Eight years," I said.
+
+He turned his head, just slightly, in my direction. Not asking for more — just indicating that he was listening.
+
+I set the clipboard down.
+
+"Eight years," I said again. "Then a flight of stairs at my own going-away party."
+
+He turned to look at me fully now.
+
+"The stairs were regulation height," I said. "I've checked."
+
+He laughed.
+
+Not at the eight years. Not at the going-away party, which had its own cruelty if you let yourself look at it that way, which I generally did not, which was a decision I had made about three months after the fall when I'd realized that the pathos version of the story was less interesting and also less accurate. Not at the career. He laughed at the stairs. The stairs — regulation height, I've checked — the joke in the setup, the place where the joke lived.
+
+I watched him laugh.
+
+A person who laughs at the injury is being polite. A person who laughs at the stairs has heard the joke. These were not equivalent responses, and I had told this story enough times, in enough rooms, to know the difference in under a second.
+
+He had heard the joke.
+
+"How," he said, when he'd settled. Just that. Not how did it happen, not the full sympathy-question, just the one-word version that meant he was asking for the actual information.
+
+"Coming down from the second floor. End of the party. Biomechanically uninteresting — I caught the edge of the step wrong and the angle was bad. Inner ear, specifically." I paused. "The inner ear is what they were worried about for the program anyway. Not the way I would have chosen to surface the data point, but it surfaced."
+
+"The vestibular condition," he said.
+
+"Which was already there. Which I knew about. Which the stairs made impossible to argue with any further."
+
+He looked at the water. He had the quality of a person processing information carefully, not filling the gap with reflex.
+
+"So the stairs," he said.
+
+"The stairs," I said. "Regulation height. I have the code reference."
+
+He made a sound that was not quite a laugh but was adjacent to one — the sound of a person who appreciated the return to the joke. His mouth did the thing it did when something landed correctly, the half-degree shift at the corner.
+
+"Marine biology," he said.
+
+"Marine biology."
+
+"Because."
+
+"Because it was the thing I'd done before NASA." I looked at the water. The kelp canopy was a dark irregular shape in the failing light. "I'd been doing coastal ecology since my twenties. It was still here when the other door closed. And it turned out I was better at it than I'd given it credit for, which is the kind of thing you find out when it becomes your primary option."
+
+"Not a consolation prize," he said.
+
+"It stopped being one around year two."
+
+He nodded. He had the quality, when he was listening, of someone who was entirely present with what you were saying rather than composing his response while you spoke. I noticed this. I had noticed it before, in smaller doses — in the lab, in how he handled new data, in how he'd processed the Thursday thermocline shift before offering it — but here, on the dock, in the sustained version, it was clearer.
+
+"What made you stay in Monterey," he said.
+
+"The canyon," I said. "The station four site. I came here for a postdoc and the canyon system was doing something interesting and I couldn't leave it before I knew what."
+
+"What's it doing?"
+
+"I don't know yet. That's why I'm still here."
+
+He looked at me. The straight-on look.
+
+"Best answer," he said.
+
+The cold came up off the water the way it does in the fourth week of November: gradually, then comprehensively. Neither of us mentioned it.
+
+We talked about his work — not the surface layer of it, the population monitoring and the buoy schedules, but the level below that, how the data aggregated over years into something you could either call a trend or a noise problem depending on where you set your confidence threshold, and the difficulty of setting that threshold when the question you were asking was whether a population was in decline or in a natural trough, and the answer mattered in ways that were not only scientific.
+
+"You have to call it before you have enough data to be certain," he said. "If you wait until you're certain, you've waited too long."
+
+"That's true of a lot of things," I said.
+
+"In ecology." He looked at the water. "In other domains I'm less confident."
+
+I thought about the station four gradient, sitting at the edge of the historical envelope, applying pressure to the boundary without yet having crossed it. The finding was close. I knew what direction it was going to go. I was not going to call it until the dataset was complete.
+
+"It depends on the cost of being wrong in each direction," I said. "False positive or false negative. Which one is worse."
+
+"In the population case," he said, "false negative is catastrophic and false positive is embarrassing. So you call it early."
+
+"In my case," I said, "I don't know yet which error is worse. So I keep collecting."
+
+He looked at me.
+
+I was talking about the canyon. This was obvious. There was another reading of what I had just said, and that other reading was visible, and Owen was the kind of person who was precise enough to have noticed it, and I had said it anyway.
+
+He looked back at the water.
+
+"The canyon data," he said. Not a question, exactly. The inflection of a person acknowledging the stated meaning.
+
+"The canyon data," I said.
+
+We were on the dock for longer than I had planned to be.
+
+I finished the sample log. He did not have anything left to do with the equipment locker and did not leave. We were two people on a cold dock at the end of a Thursday in November, and the conversation continued, and neither of us noted the time, and the harbor lights came on at some point in the way harbor lights do, without announcement.
+
+At some point he said: "You study things that shouldn't be alive."
+
+I looked at him.
+
+"The hydrothermal communities," he said. "The tube worm populations. Your dissertation." He had the quality of someone who had read something carefully and was being precise about it. "Things that exist in conditions where, by most accounts, they shouldn't be able to."
+
+"That's accurate," I said.
+
+"What's it like."
+
+I thought about how to answer this correctly. "Clarifying," I said. "If something is alive in conditions where it shouldn't be, the conditions are wrong. Or the model is wrong. And the model being wrong is always more interesting than the conditions being wrong."
+
+He was quiet for a moment. "So you went from that," he said, "to the canyon gradient."
+
+"The gradient is also something that shouldn't be this far along," I said. "The seventeen-year baseline says it should be well within the envelope. It's at the edge. If it crosses, the model is wrong." I paused. "Or conditions have changed enough that the model no longer applies, which is a different kind of wrong."
+
+"Both of which are more interesting than being right," he said.
+
+"Both of which are considerably more interesting than being right."
+
+He looked at the water with the expression of a person who understood this at the level below conversation.
+
+I drove home at seven-forty-five.
+
+The fog was down — the full fourth-week variety, the thick roll off the water that made Lighthouse a series of lit pools between long stretches of grey. I drove with the window cracked the way I did when I needed the cold air to keep the thinking clean, and I thought about the conversation on the dock, which had the quality of conversations that cover more ground than you realized while you were in them and reveal the full distance only afterward.
+
+He had asked the right questions. Not are you okay about NASA, which was the question that people asked when they wanted to be kind and did not know how to be useful. Not do you miss it, which assumed a clean relationship between a person and a lost thing that was not how it worked, in practice. He had asked why marine biology and what's the canyon doing and what's it like — the questions that assumed the thing was real and worth asking about.
+
+I had my coat on the passenger seat. I had the sample log completed, filed in the station four folder. I had the field notebook in my bag, which was where it always was.
+
+I pulled into the driveway of the yellow house and sat in the car for a moment.
+
+Then I got out and went inside and put the kettle on, and while it was heating I went to my desk and I opened the field notebook to the page where the four marks were.
+
+I looked at the four marks.
+
+I knew what I was doing. I was fully aware of what I was doing. I had been aware of what I was doing since October, with increasing precision, but I had been able to maintain a useful ambiguity about the mechanism — the marks were observations, the marks were data, the notebook was a field notebook and I was a field scientist and I made marks in field notebooks as a matter of professional habit, and the fact that these marks were all associated with Owen was a feature of the dataset rather than a statement about the dataset.
+
+The ambiguity was gone now. I knew exactly what I was doing and I knew that the laugh at the stairs was what had done it — not the laugh itself, or not only the laugh, but the precision of it, the fact that he had heard the joke and laughed at the right part and that this was, in the category of responses to the accident story, exceptional, and that I had known it was exceptional in the moment, and that I had filed it with full clarity, and that I was now sitting at my desk with a field notebook open to a page with four marks on it and I knew.
+
+I picked up the pencil.
+
+I made the fifth mark.
+
+I looked at it for a moment. The fifth mark sat on the page with the other four, small and clean, the mark of a person who had observed something and recorded it. I did not annotate it. The thing did not need an annotation. The thing was the mark.
+
+I closed the notebook.
+
+The kettle was done. I made the tea. I sat at the kitchen table with it and looked at the window, which showed me the fog and the yellow reflection of the kitchen light and, in the gap where the fog thinned, one harbor light at the bottom of the hill.
+
+I was inside an experiment of my own design, which was the situation I was most comfortable operating in, and I was collecting data, which was the thing I was best at, and the data was clear, and I had made the mark, and I was not going to stop.
+
+I drank my tea. I went to bed.
+
+The conversation with Priya happened the next morning, in the hallway outside the equipment room, which was where conversations happened that were not for the open lab.
+
+She was coming out with a tide gauge battery pack. I was going in with a sample case. We were both going to be there for thirty seconds and we both knew it.
+
+"Wren," she said.
+
+The way she said my name had a quality I had learned, over two months of Thursdays, meant she was going to say one thing and that the one thing would be the thing.
+
+I waited.
+
+"You're very precise about everything," she said. She had the battery pack in both hands. She was looking at me with the direct look, the one that didn't do the prediction-landing expression because this was not a prediction, this was a statement. "About almost everything."
+
+She did not say what the exception was.
+
+I looked at the sample case. "The station four data is getting there," I said.
+
+She let that sit for a moment.
+
+"Okay," she said.
+
+She went past me down the hallway. I went into the equipment room. The door swung shut behind me.
+
+I stood in the equipment room for a moment with the sample case and the fluorescent light and the smell of the neoprene gear hanging on the far wall.
+
+She had said it once. She was not going to repeat it. This was how Priya worked with things that had been said correctly — she placed them and left them for you to look at in your own time, and the placement was the act, and the rest was yours.
+
+I put the sample case in the right drawer. I went back to the lab.
+
+I did not think about it again until much later, which was itself a form of thinking about it, but I was willing to accept the imprecision.
+
+The station four gradient, as of the fourth Thursday of November, was still at the edge of the historical envelope.
+
+Still applying pressure to the boundary. Still not having crossed it. The finding was close — I had been saying this for three weeks, which was longer than I would have predicted when I said it the first time, but the dataset was the dataset and the finding would arrive when it arrived and not before.
+
+I put the updated comparison table in the station four folder. I wrote up the sample log entries from the dock. I checked the shared drive for the Tuesday buoy series, which Owen updated every Tuesday and which I checked every Tuesday morning, and the thermocline data for the week was consistent with the November pattern — moving back toward the mean, rate as expected, nothing anomalous.
+
+I looked at it for a moment longer than I needed to for purely technical reasons, and then I closed the drive, and I made a cup of tea.
+
+The dock had been cold. The harbor lights had come on without announcement. The conversation had covered more ground than I had been tracking while I was in it.
+
+I had the notebook. I had the marks. The data was building.
+
+I drank my tea.
+
+End of Chapter 9
