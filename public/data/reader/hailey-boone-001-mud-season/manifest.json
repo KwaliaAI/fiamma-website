@@ -1,0 +1,80 @@
+{
+  "bookId": "hailey-boone-001-mud-season",
+  "version": "v1",
+  "source": "MANUSCRIPT_v1.md",
+  "generatedAt": "2026-05-01T12:00:00Z",
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "chapter_title": "Chapter One: Mud Season",
+      "word_count": 3192,
+      "path": "/data/reader/hailey-boone-001-mud-season/chapter-001.txt"
+    },
+    {
+      "chapter_number": 2,
+      "chapter_title": "Chapter Two: Cinder",
+      "word_count": 3489,
+      "path": "/data/reader/hailey-boone-001-mud-season/chapter-002.txt"
+    },
+    {
+      "chapter_number": 3,
+      "chapter_title": "Chapter Three: Grass In Her Hair",
+      "word_count": 3455,
+      "path": "/data/reader/hailey-boone-001-mud-season/chapter-003.txt"
+    },
+    {
+      "chapter_number": 4,
+      "chapter_title": "Chapter Four: Hot Water Fix",
+      "word_count": 3899,
+      "path": "/data/reader/hailey-boone-001-mud-season/chapter-004.txt"
+    },
+    {
+      "chapter_number": 5,
+      "chapter_title": "Chapter Five: Town Day",
+      "word_count": 3283,
+      "path": "/data/reader/hailey-boone-001-mud-season/chapter-005.txt"
+    },
+    {
+      "chapter_number": 6,
+      "chapter_title": "Chapter Six: The Stupid Cow",
+      "word_count": 3448,
+      "path": "/data/reader/hailey-boone-001-mud-season/chapter-006.txt"
+    },
+    {
+      "chapter_number": 7,
+      "chapter_title": "Chapter Seven: Branding Day",
+      "word_count": 3562,
+      "path": "/data/reader/hailey-boone-001-mud-season/chapter-007.txt"
+    },
+    {
+      "chapter_number": 8,
+      "chapter_title": "Chapter Eight: Sunday",
+      "word_count": 3424,
+      "path": "/data/reader/hailey-boone-001-mud-season/chapter-008.txt"
+    },
+    {
+      "chapter_number": 9,
+      "chapter_title": "Chapter Nine: Bullshit",
+      "word_count": 3174,
+      "path": "/data/reader/hailey-boone-001-mud-season/chapter-009.txt"
+    },
+    {
+      "chapter_number": 10,
+      "chapter_title": "Chapter Ten: I Hate You",
+      "word_count": 4085,
+      "path": "/data/reader/hailey-boone-001-mud-season/chapter-010.txt"
+    },
+    {
+      "chapter_number": 11,
+      "chapter_title": "Chapter Eleven: Three Days",
+      "word_count": 3443,
+      "path": "/data/reader/hailey-boone-001-mud-season/chapter-011.txt"
+    },
+    {
+      "chapter_number": 12,
+      "chapter_title": "Chapter Twelve: In Love With You",
+      "word_count": 3412,
+      "path": "/data/reader/hailey-boone-001-mud-season/chapter-012.txt"
+    }
+  ]
+}

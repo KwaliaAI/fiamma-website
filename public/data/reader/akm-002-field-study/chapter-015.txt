@@ -1,0 +1,231 @@
+January came in the way January always comes to the coast: not with drama but with insistence. The light shifted by increments. The water stayed cold in a way that felt deliberate. The storms that had been accumulating in the north array data since November were now expressing themselves weekly, which was good for Owen's storm-season dataset and meant a lot of whitecap afternoons visible from the lab windows and the general ambient consciousness of the station being in its winter mode.
+
+I had seven marks in the green notebook and a station four benthic gradient that was beginning to resolve into something I could describe in a methods section without hedging. For the first twelve days of the month I worked with the focus that arrives when a dataset starts returning coherent answers — the kind where you stop writing down what you're doing because you're too busy doing it and the field notes get sparse and the working notebook fills up instead with calculations.
+
+This was the good kind of problem.
+
+The first mark of the new year came on a Wednesday that was not a Strand Wednesday.
+
+The pattern I had maintained since October was Wednesdays, plural, but not every Wednesday — the Strand evenings had a rhythm determined by Nico's schedule and mine, and there were Wednesdays when I was in the lab until nine running numbers and there were Wednesdays when I drove home early and there were the Strand Wednesdays, which were their own category. This was a working Wednesday. I was at the communal whiteboard in the main lab, trying to diagram the layer structure of the station four gradient, and I had written three depth intervals in three different marker colors and then stood back and looked at what I'd produced.
+
+It was the wrong diagram.
+
+Not factually wrong. The labels were correct, the depths were accurate, and the color coding was internally consistent. But I had drawn the transition between the middle and deep layers as smooth — a gradual gradient line rather than a stepped structure — and looking at it on the board, I could feel the flaw in the representation without yet being able to articulate it. This happens sometimes. The hand knows before the analysis does.
+
+Owen was at the other end of the room, entering buoy relay data into the terminal. He had been there when I came in, working with the focused quiet he brought to data entry. He glanced over.
+
+"You've got a discontinuity in the middle there," he said.
+
+I looked at the diagram. "I know."
+
+"No," he said. He came over. He looked at the board without touching it, hands in his pockets, and then indicated the gap I'd left between the 40-meter and 60-meter color bands. "Not a gap in the diagram. A discontinuity in the structure. The way you've drawn the transition — it's too continuous. If that's a real gradient, it should have a break point. Somewhere in there, you'd expect the rate of change to shift."
+
+I looked at the board.
+
+He was right.
+
+I had drawn the transition as smooth because the data could support smooth — the raw numbers didn't rule it out — but he was correct that I had not checked for a break point, and if there was a structural discontinuity at mid-depth, a continuous interpolation would bury it. You would see the smooth curve and not ask the question.
+
+"I'll run a curvature analysis," I said.
+
+"Yeah," he said, and went back to the terminal.
+
+I erased the gradient band and redrew it with a gap at 52 meters, which was an estimate without the curvature analysis behind it, more hypothesis than finding. Then I went back to my desk and opened the green notebook to the January page and made a mark.
+
+Eight.
+
+He had looked at a whiteboard diagram for approximately four seconds and identified the analytical question I had been too close to the data to see. Not a social grace. Not an effort to be useful. That was how he looked at things.
+
+The Strand Wednesday that week was the twelfth. The eleventh session in my running count, almost twelve, which put me at closing on three months of Wednesday evenings at the bar with a man who made good canyon cocktails and asked good questions and had a degree of warmth I had not been manufacturing interest in — the interest was real, I had been testing it for eleven sessions and it had not reduced.
+
+Nico was behind the bar and the room had its usual winter quality: low and warm, the kind of light that comes from pendant fixtures over a bar top rather than from anything overhead. He asked what I'd been working on and I told him about the station four gradient — the break point hypothesis, the curvature analysis I was going to run — and he listened with the quality of a person who was tracking the shape of the problem rather than its content, nodding at the right intervals.
+
+"So you think there are two different layers and your instruments are only seeing one of them?" he said.
+
+"My instruments are seeing the lower one. The buoys are seeing the upper one. The question is whether there's a structural gap between them or whether they're continuous."
+
+"And that matters because."
+
+"Because if it's two water masses, the mixing dynamics are different. My benthic data and his buoy data would be describing different things. We've been assuming we're looking at the same system."
+
+Nico nodded. He was making a drink while I talked — a measured pour in a fixed order — and the motion had the ease of deep competence, the way the lab's best technicians handled equipment. He finished the pour and slid the drink toward the customer at the far end of the bar and came back.
+
+"That seems like something you'd want to know before you publish," he said.
+
+"Yes," I said. "That's the February window."
+
+The canyon questions were present. The follow-up rate was what it had been: sufficient, attentive, oriented toward the shape of my thinking rather than its content. I had three data points now — engagement differential, possessiveness, asymmetry — and I had been maintaining them correctly since December. Three points was a beginning. I was not declaring a result.
+
+By eleven o'clock I had noted, not for the first time, the distinction between enjoying an evening and wanting more evenings in the same series. These were related but not identical propositions. I had been testing whether they were convergent and the results remained inconclusive — less from insufficient data than from the inconclusiveness itself, which I had been examining and which had a texture I did not have clean language for yet.
+
+I walked home. The air smelled like January bay and cold salt, and I put both hands in my pockets and thought about the break point at 52 meters, and about how Owen had looked at the diagram for four seconds before identifying the missing question.
+
+This was a thought I was having. I did not analyze it further. I had enough open variables.
+
+The disagreement started on a Friday.
+
+Owen had added a note to the shared folder that morning, attached to the north array compilation. The note was technical and precise and, when I read it, was also wrong — or if not wrong, then operating from an assumption about the water column structure that conflicted with my benthic data in a way that mattered and could not be quietly set aside.
+
+His note said: Thermocline at ~45m confirms continuous stratification through January storm window. No structural break indicated. See unit 3 and unit 7 temps.
+
+I read it twice. Then I pulled up his buoy data.
+
+The buoy data said what it said. Unit 3 and unit 7 both showed smooth temperature profiles through the depth range they covered, which was surface to approximately 60 meters in the north array. The profiles were clean. No inflection point, no change in rate of change, no evidence of a structural break at any sampled depth.
+
+There was also no evidence of a structural break because his instruments did not sample at 52 meters.
+
+Unit 3 sampled at five-meter intervals: 40, 45, 50, 55, 60. If the break point was between 47 and 58 meters and the instruments were measuring at 50 and 55, a thin discontinuity would slip through the gap entirely. You would see smooth on either side. You would conclude continuous stratification. You would write no structural break indicated because your data did not have the resolution to find one.
+
+I noted this. Then I wrote a note back in the shared folder: Benthic gradient at S4 shows break-point signal between 47–58m. Curvature analysis pending. May not register in north array instruments — spatial separation ~4.2km and sampling resolution may not capture narrow discontinuity. Recommend holding stratification assessment pending S4 February window.
+
+He would see it when he opened the folder. He would either agree, in which case we would have a shared understanding, or he would disagree, in which case we would need to work through the conflict in the record.
+
+He disagreed.
+
+He came by the lab at two in the afternoon. I was running the curvature analysis on my own data, which had not yet resolved into certainty but was trending in a direction I felt prepared to defend. The progress bar was at 41 percent when he came through the door, which meant it would finish in approximately another twenty minutes.
+
+"Your S4 note," he said.
+
+"Yes."
+
+"The buoy data doesn't support a structural discontinuity."
+
+"The buoy data doesn't cover the depth range where I'm seeing the signal."
+
+He pulled a chair up to the edge of my desk and sat. This was a working posture, not an adversarial one — the chair was turned slightly sideways, the way you sit when you're thinking together rather than at each other. I had a clear read on this. I noted it.
+
+"The buoys cover to 60 meters," he said.
+
+"Unit 3 samples at five-meter intervals. That means there's a 10-meter gap centered on 52 meters. If the discontinuity is narrow — and the signal I'm seeing suggests it might be on the order of three or four meters — you'd miss it entirely. You'd see smooth on either side of the gap and interpolate smooth."
+
+He was quiet for a moment. "The temperature profile is smooth."
+
+"At the resolution you're measuring at. Yes." I turned the screen toward him. "This is the conductivity-temperature profile from my last cast. The 47-to-58 range."
+
+He looked at the screen. The curve was there — the subtle inflection at approximately 51 meters, a change in the rate of change rather than a clean break, the kind of signal that required knowing what you were looking for to see it. I had been looking at it for a week. I knew what it looked like.
+
+"That could be instrument drift," he said.
+
+"I ran the calibration three times. The offset is within tolerance."
+
+"Or a micro-layer. A localized thermal lens that won't persist."
+
+"It could be," I said. "That's what the February window is for. But here's what I need you to engage with: if you're reporting continuous stratification in the north array analysis, and I have a break-point signal at S4, we have a conflict in the record. We can't both be right in the published interpretation unless we account for the possibility that we're measuring at different spatial resolutions and potentially different layers."
+
+He picked up the printout he'd brought and looked at it. The north array compilation, four pages, four rows of temperature profiles that all said the same thing: smooth, continuous, no break.
+
+"The spatial separation is 4.2 kilometers," he said.
+
+"Yes."
+
+"So even if you're right about S4, it doesn't necessarily extend to the north array location."
+
+"Correct. I'm not arguing that the north array has a discontinuity. I'm arguing that you can't use north array data to rule out a discontinuity at S4. They're different locations. Different depth profiles. Different instrument configurations."
+
+He set the printout on the edge of my desk and looked at it. I looked at my screen. The curvature analysis was at 67 percent.
+
+"What does the break point mean for the gradient continuity question," he said. It was not quite a question — his voice did not inflect upward the way questions usually do, which was a speech pattern I had cataloged and which meant he was working through something out loud rather than asking me to supply an answer.
+
+"If it's real, the system isn't behaving as a single stratified unit through the winter season. You'd have two layers with meaningfully different mixing dynamics. Your storm data and my benthic data would be coming from different parts of a discontinuous column. We could be reading two different water masses and calling them one system."
+
+The room was quiet. The analysis bar moved to 71 percent and then stayed there.
+
+"The storm-season water mass tracking in my dataset," he said, slowly, as if he was revising something as he said it, "is calibrated on the assumption of single-layer continuity."
+
+"Yes."
+
+"If you're right about the break point, that assumption needs to be revisited."
+
+"Yes."
+
+Another pause. I had not seen him sit with a problem this way before — not uncertain, exactly, but in the process of updating, the way you look when the world is giving you new information and you are deciding what to do with it. His elbows were on his knees. His printout was on my desk.
+
+"What's your confidence level on the inflection," he said.
+
+"Currently about sixty percent."
+
+"That's not very high."
+
+"No," I said. "That's why I said February window."
+
+He was quiet for a moment. Then he said: "If you get to eighty, it changes the interpretation framework for the whole winter dataset."
+
+"I know."
+
+He looked at the screen again. The progress bar reached 78 percent and stopped moving, as progress bars sometimes do, sitting at exactly the number at which I most needed it to move, which it declined to do for approximately thirty seconds.
+
+"Sixty-forty is still a lean," he said.
+
+"In which direction?"
+
+"In yours."
+
+I looked at him. He was looking at the progress bar, which had started moving again, and there was something in how he said it — the flatness of it, the absence of the hedging I would have expected from a scientist making a concession on data that was 60 percent confident — that landed differently than a scientific concession should land. He had not said probably or the data suggests or we should wait for the full analysis. He had said: in yours.
+
+Sixty percent was not certainty. A person operating rigorously on sixty percent says the data leans toward or initial results suggest. He had said the lean was mine. Full stop. The way you say something you already believe rather than something you are assessing.
+
+The progress bar reached 83 percent.
+
+"I'll flag the conflict in the methods section," I said. My voice came out at the correct level. I was satisfied with this.
+
+"Yeah," he said. He picked up the printout. "Let me know when February gets you to eighty."
+
+He left.
+
+The analysis finished at 84 percent of a clean break-point signal at 51.6 meters.
+
+I looked at the result for a moment. Then I looked at the door.
+
+I stood in the corridor for longer than I needed to.
+
+A fact. I was a person who moved from task to task with purpose and did not linger in institutional corridors, and I was lingering, and I was aware of the lingering, and I did not immediately resolve it.
+
+The building had its Friday afternoon quality: Tomás's voice from somewhere near the equipment storage, the faint sound of someone's chair rolling on the tile in the back office, the ventilation system running the way it ran continuously throughout the year with no seasonal variation. Ordinary sounds. I had been in this building since early October and I could identify most of them by location without looking.
+
+Marcus came around the corner from the direction of the copy room, holding a stack of papers against his chest with one arm and walking with the forward-leaning distraction of a person composing an email in their head.
+
+"You're standing in the hall," he said, without breaking stride.
+
+"I'm thinking," I said.
+
+"Great," he said, and kept walking.
+
+I watched him go until he turned the far corner.
+
+I reorganized my face.
+
+This was a voluntary action. I was aware of that. A person who is not thinking anything in particular does not need to reorganize their face; their face is already in its default configuration. I reorganized mine in the direction of a person who had just concluded a productive scientific disagreement and was now proceeding with her afternoon, which was a face I had worn before and knew the positions of.
+
+I did not go back into the lab.
+
+I went to the bathroom at the end of the corridor — it had better lighting than the one near the stairwell — and washed my hands and looked at myself in the mirror for approximately three seconds, which was long enough to determine that I looked like myself and that my face was organized correctly. Then I went to the vending machine and bought a pack of crackers I did not particularly want, because the vending machine was there and the motion of doing something purposeful with my hands was useful.
+
+I did not open my working notebook.
+
+I did not open the green notebook.
+
+I ate a cracker standing in the corridor and thought about the break point at 51.6 meters, which was real — 84 percent real, which in this field and with this instrument configuration was real — and which would require a revised interpretation of the north array winter dataset, and which I had been right about, and which Owen had called correctly before the analysis finished.
+
+I thought about this. I ate the second cracker.
+
+Then I walked back to the lab, picked up my bag and my working notebook, and left.
+
+That evening I made the mark.
+
+I was at the kitchen table with the analysis printout and the green notebook open side by side, the way I work when I'm moving between computation and annotation. The result was solid. The curvature had resolved cleanly at 84 percent confidence, above the threshold I had named, and the break point was at 51.6 meters, which was inside the gap in the north array instrument coverage, exactly as I had argued.
+
+Owen had been right when he said sixty-forty is a lean in yours before the analysis was complete.
+
+That was the thing I was counting. Not the concession — the concession was procedural. Scientists concede when data accumulates; the willingness to update a dataset interpretation given new evidence was not a remarkable trait, it was a baseline expectation, and I did not award marks for meeting baseline expectations. What I was counting was something else: he had looked at incomplete data, a 60 percent signal and a pending analysis, and he had read the direction correctly. He had committed to the lean before I could show him the finish.
+
+This was a different kind of thing.
+
+I made the ninth mark.
+
+Then I looked at nine marks for a moment. They were evenly spaced. The ninth one looked like the other eight. No gap, no approximation — this one was clean, timestamped, sourced to a specific exchange in a room I could name, at a confidence level I could cite.
+
+Outside, the January fog had come in off the bay and pressed itself against the window glass, the kind that turns parking lot lights into diffuse halos rather than points. The printout was on the table. The analysis said 84 percent. The notebook said nine.
+
+I closed both and left them on the table, and the fog did what fog does, which is stay.
+
+End of Chapter 15

@@ -1,0 +1,207 @@
+- "six weeks ago" removed from final section. Ch5 is October 23; October 11 was 12 days prior, not six weeks. Kept "my first week at Hopkins."
+
+| Detail | Canonical Value |
+|--------|----------------|
+| Owen Count 2 | "Your station four gradient is running southwest." — from behind partition, without looking up. Tick mark in field notebook margin, October 9th entry. No label. First mark: October 11th, "my first week at Hopkins." She knows what both marks mean. |
+| Station four Ch5 | Directional, southwest, 11 days sustained, 4 calibration settings tested, all consistent. First in 17 years. Finding, not result. Not reported to Kaplan. |
+| Thursday location | Priya's apartment, 3rd floor Victorian, Spruce Street, 4 blocks from Hopkins. Steep staircase, problematic second-floor landing — Wren paces herself for it. |
+| Thursday regulars | Priya (host), Marcus (physical ocean yr2 — holds bowl with both hands as thinking posture), Jonah (invert zoo postdoc yr3 — TV drama theory, 2015 threshold, "no one has successfully argued against it"), Cecily (marine mammal acoustics, visiting, Alaska — beluga whale call modification in response to sea ice changes, three field seasons, Beaufort Sea, dreams in clicks, six weeks with broken watermaker) |
+| Thursday food | Priya made dal — cumin and cardamom, she makes it without measuring |
+| Owen comedy beat | Priya mentions Owen neutrally (tide count on dock). Wren launches into his methodology, cross-system pattern recognition, adjacent datasets, ends on "he's a very good scientist." Jonah stops talking. Marcus manages face carefully. Cecily confused. Priya's face does the prediction-landing thing. Wren files under "ambiguous data." |
+| Monarch count | Oct 23: 5,200 clusters. Sequence: Oct 3: 3,800 / Oct 7: 4,100 / Oct 11: 4,400 / Oct 15: 4,700 / Oct 19: 5,000 / Oct 23: 5,200. Still climbing — no plateau. Peak expected late January. Danaus plexippus: sun compass, circadian clock. She does not draw a line to anything else. |
+| Ch5 ending register | Two tick marks in notebook. She knows what two marks mean. Closes notebook. Goes back to data. |
+| Owen Count end of Ch5 | 2 |
+
+The station four data came back the same way it had been coming back for eleven days: directional, southwest, holding its ground.
+
+I pulled the full run on Tuesday morning and sat with it for twenty minutes before I did anything else. Eleven days was not a large number in geological time, but in my dataset — seventeen years of station four readings, the longest continuous record in the Hopkins archive — eleven days of sustained movement in the same direction, with the same gradient slope, was a number that meant something. I knew what it meant. Kaplan had said, the first time I'd brought a flag to his office: A finding means look harder and longer. A finding was not a result. A finding was the data saying: you're not done yet, which was either exciting or exhausting depending on the day, and today I was deciding it was exciting, because I'd had enough coffee to make that decision hold.
+
+I had not reported it to Kaplan yet. I was going to need more than eleven days before I walked back into that office.
+
+I was in the middle of mapping the gradient contour against the canyon topography — there was a feature at the southwest edge of the survey grid that might be relevant, a pressure differential Huber hadn't fully characterized in 2019 — when Owen said, from behind the partition, without looking up:
+
+"Your station four gradient is running southwest."
+
+He said it the same way he said most things: as a statement of observable fact, the same register he used for it's supposed to rain on Thursday or the calibration log is on your bench. Not a question. Not an announcement. Just a thing that was apparently true and worth saying.
+
+I paused.
+
+I turned back to my screen.
+
+I opened the field notebook to the October 9th entry — the first day I'd had three consecutive readings pointing the same direction — and made a small mark in the margin. A tick. No label. I had made a mark like it once before, next to a different entry, approximately October 11th, my first week at the station. I knew what both marks meant. I did not need to write down what I was doing, because I knew exactly what I was doing.
+
+"I know," I said.
+
+"Okay," Owen said.
+
+He turned a page. I heard it from across the partition. That was the whole conversation.
+
+I went back to the canyon feature.
+
+The Priya dinners had been a Thursday thing since my second week, which I had been invited to and not made it to until now, due to a combination of unpacking inertia and the fact that for the first several Thursdays I'd been leaving the lab at nine-thirty and arriving home with the specific exhaustion of someone still learning what the data wanted from her. But by week five the data had started talking back, and Priya had started texting with the energy of a person who had infinite patience for exactly one more Thursday of excuses.
+
+This week. Third floor. I made dal. If you don't come I'm going to assume you're avoiding us and tell everyone.
+
+I'm not avoiding you.
+
+Then come.
+
+The apartment was a Victorian on Spruce Street, four blocks from Hopkins, the kind that had probably been renovated twice in the eighties and once in the 2010s and retained the bones of all three. Third floor. The staircase was steep — I had opinions about the staircase, specifically about the landing on the second floor, which sat at an angle that someone had clearly thought was fine and which was not fine — and I paced myself for it, one hand on the rail, which was solid, which I had confirmed before committing my weight to the turn.
+
+The apartment itself was warm and smelled like cumin and cardamom, and Priya had the kind of living room that had accumulated its furniture through a process of scientific interest rather than design intent: a good couch, a bookcase overloaded with journals and one shelf given over entirely to dead houseplants in various stages of petrification, and a coffee table that had clearly been doing double duty as a desk.
+
+Marcus was already there when I arrived, sitting at one end of the couch holding a beer with both hands, which I would come to recognize as his neutral resting position. He was in his second year — physical oceanography, time at sea, the kind of steadiness that accumulated in people who had been on research vessels in bad weather. He shook my hand with the grip of someone who found handshakes informative and had decided I passed.
+
+Jonah was on the floor with his back against the couch, and when I walked in he said: "Finally. Someone who can settle an argument."
+
+"What's the argument."
+
+"All prestige TV drama after 2015 is structurally identical. I've been saying this for three years. No one has successfully argued against it."
+
+"Because you define 'structurally identical' so broadly that nothing qualifies as a counterexample," Marcus said, in the tone of someone who had delivered this response a number of times.
+
+"I define it correctly," Jonah said. "The definition is the argument."
+
+He was three years into his invertebrate zoology postdoc and had the specific energy of a person who had developed a theory and discovered, to everyone's mild annoyance, that nobody had managed to prove him wrong. He was very cheerful about this.
+
+Cecily arrived eight minutes after I did, still wearing a fleece that said UNIVERSITY OF ALASKA FAIRBANKS on the chest in letters that had been partially eaten by what appeared to be several seasons of salt spray, and when she came through the door she was already talking: "— the sonar array was still reading it but we couldn't confirm visually, which is the exact kind of thing that makes a paper reviewable and also makes you want to throw the paper into the sea — sorry, hi, you're the new one, I'm Cecily, I've been on a boat since August —"
+
+"Wren," I said.
+
+"I know," she said. "Priya's told us everything." She grinned. She had the kind of laugh that arrived suddenly, like a door opening in a quiet room, and she deployed it approximately twice in the next forty-five seconds while she was still taking off her jacket. She was visiting from a lab in Fairbanks that tracked beluga whale migration acoustics — specifically, she explained, the way individual whales modified their calls in response to sea ice coverage changes, year over year. She had spent the last three field seasons recording a particular population in the Beaufort Sea, and she had been on this research vessel since August, and the vessel had had a broken watermaker for six of those weeks, which she mentioned with the equanimity of someone who had long since moved all of their complaints about watermakers into a separate mental file labeled the cost of the work.
+
+"The thing about recording marine mammals for eight months," she said, accepting a bowl of dal from Priya, "is that after a while you start dreaming in clicks. Which is actually — statistically, the neurological literature suggests this is an adaptation response, but I've started to worry it's just my brain trying to communicate that I've been alone at sea too long."
+
+"Is that distinct from the scientific interpretation?" Jonah asked.
+
+"Barely," she said happily.
+
+Priya's dal was excellent. She put it on the table with the confidence of someone who had made this specific dish enough times to have stopped measuring, and she looked at me as I was taking my second serving and said: "Okay. Tell us about station four."
+
+I had not mentioned station four to anyone outside the lab.
+
+"Priya," I said.
+
+"I'm in bioacoustics. My hydrophones are in the same water column. Of course I know about station four."
+
+Marcus set down his beer. "How sustained?"
+
+This was the right question. Not what is it or is it significant but how sustained, which was the question that understood what sustained meant in this context. I looked at him.
+
+"Eleven days," I said. "Southwest gradient, statistically consistent across all calibration settings I've run it through."
+
+"How many calibrations."
+
+"Four. Different baseline assumptions, same directional result."
+
+He held his bowl with both hands — his thinking posture, I would figure out later — and looked at the table. "That's not nothing."
+
+"That's not nothing," I agreed.
+
+"Is it the first in the dataset?"
+
+"First sustained directional in seventeen years of station four readings. There's a cyclical phenomenon in the adjacent canyon — Huber 2019, page twelve, footnote — but that's an eight-year cycle, different topography. I don't think they're the same thing."
+
+"You don't think," Marcus said. Not skepticism. A precision request.
+
+"I don't have enough yet to think definitively. I have enough to carry it as a finding and keep watching. Kaplan's word: finding. Not result. You look harder and longer."
+
+Jonah pointed his spoon at me. "That's season three, episode four of any prestige drama after 2015. The protagonist has the clue and can't call it yet."
+
+"Jonah," Priya said.
+
+"I'm serious. It's a structural beat. The information is present, the confirmation is withheld, the audience knows before the character does —"
+
+"Eat your dal," Priya said.
+
+Jonah ate his dal. Cecily was laughing.
+
+I was good at this part — the table, the question-and-answer, the pleasure of presenting a finding to people who were sharp enough to ask where the holes were. Marcus had asked exactly the right question. Jonah's structural analysis was wrong but it was wrong in an interesting way. Cecily, who had been on a research vessel since August, looked at me with the recognition of someone who understood that eleven days of data was both a lot and almost nothing, which was one of those contradictions that only made sense inside the work.
+
+"Does Kaplan know?" Priya asked.
+
+"Not yet."
+
+She nodded, satisfied in the way of someone who had successfully maneuvered a friend into a conversation they needed to have. "You should tell him soon."
+
+"I know."
+
+"I'm just saying."
+
+"I know what you're saying."
+
+She pointed at my bowl with her spoon. "More dal?"
+
+The Owen thing happened later, when the bowls had been cleared and Jonah was explaining his TV drama theory to Cecily, who was approaching it with the fresh scholarly interest of someone who had not yet had three years to formulate her objections, which was giving Jonah the audience he'd been waiting for.
+
+Priya had her feet tucked under her on the couch and was going through something on her laptop that she claimed was a grant report and that had the specific quality of something she was going to deal with tomorrow.
+
+"I ran into Owen on the dock today," she said, not looking up. Casual. The conversational register of someone noting the weather. "He was finishing his tide count."
+
+"Oh, Owen's great," I said. "He noticed the station four gradient before I'd said anything about it, I hadn't mentioned it to anyone, he just looked at the log and said 'your gradient is running southwest,' and I've been running the data through four calibration settings and he's right, the methodology he's been using for his population tracking would actually complement the — he's very good at cross-system pattern recognition, which is the most useful thing in a lab partner if you're working with something like station four, I think his approach to adjacent datasets is — anyway. He's a very good scientist."
+
+There was a pause.
+
+Jonah had stopped talking, which was notable, because Jonah did not stop talking.
+
+Cecily was looking at me with the expression of someone who had arrived at a party in the middle of a joke and was trying to figure out whether it was still going.
+
+Marcus was holding his beer with both hands again, and he was doing something with his face that was very controlled, very deliberate, in the way of a man who had been to sea many times and had learned to manage his expression in conditions of significant weather.
+
+Priya had looked up from the laptop.
+
+Her face was a specific thing. It was the face of someone watching a very long-odds prediction come in exactly right, at a time she had not expected, in front of more witnesses than she'd anticipated, and was now trying to decide whether to say anything about it or simply commit the moment to memory and use it later.
+
+She looked back down at the laptop.
+
+"Anyway," she said. "His tide count was off by two, which I think was the cold."
+
+"Sure," I said.
+
+I ate my dal. The conversation moved on to Cecily's beluga click-dreams and whether the neurological literature supported the interpretation that she was adapting or just very lonely, and Marcus's view that the two were not mutually exclusive.
+
+Something had just happened. I could not identify exactly what. The table had rearranged itself slightly in a way I hadn't tracked, and Priya had done something with her face that she had not done with her face before.
+
+I filed this under ambiguous data and let it sit.
+
+The grove was on my way home.
+
+I had not gone the night before — had walked the four blocks from Priya's on Spruce straight north on Lighthouse, fog thick enough that the trees were shapes in the murk and I couldn't have counted anything even if I'd tried. But the next morning I went early, before Sandra's, the eucalyptus smell arriving ahead of the trees the way it always did, something between antiseptic and alive.
+
+I stood at the edge of the grove and counted.
+
+The technique was systematic: I worked section by section, estimating cluster density, adjusting for the visual overlap at the canopy margins. The monarchs were there in the specific orange-brown of folded wings, holding still in the cool morning air. October 23rd. I wrote the number in my field notebook when I was done: approximately 5,200 clusters.
+
+Below it I wrote the sequence:
+
+Oct 3: 3,800 / Oct 7: 4,100 / Oct 11: 4,400 / Oct 15: 4,700 / Oct 19: 5,000 / Oct 23: 5,200.
+
+The curve was consistent with historical records. No plateau yet.
+
+Danaus plexippus. Sun compass. Circadian clock. A navigation system that used the position of the sun and corrected for time of day — one of the most precisely calibrated biological instruments in the animal kingdom, contained in a nervous system that weighed less than a gram. They had arrived knowing this was where they were supposed to be. Not in the approximate sense. In the specific sense. The grove, the eucalyptus trees on Lighthouse Avenue, this latitude, this light.
+
+I knew the mechanism. I understood the circadian coupling, the solar azimuth compensation. I had read the literature. None of this made the number smaller.
+
+I wrote 5,200 and I did not draw a line to anything else.
+
+I put the notebook away and walked to Sandra's.
+
+Wednesday was in two days.
+
+I knew what was going to happen on Wednesday. I had known it since the bar, two weeks ago, since the conversation about community structure and sourcing philosophy and the way he'd said come back with the matter-of-fact weight of a variable already in the equation. I was not confused about Wednesday.
+
+That evening I came home from the lab and put my bag down and opened the laptop and went back to the station four data, the full eleven-day run. I looked at the gradient map for a while, the southwest vector consistent across everything I'd put it through, the canyon feature at the edge of the survey grid sitting where it had always been sitting.
+
+The finding was real. I was going to need more time to make it a result, but the finding was real, and I knew it, the same way I knew what was going to happen on Wednesday: clearly, without requiring more data, certain enough to carry it past the threshold between watching and knowing.
+
+I opened the field notebook to the October 9th entry. The tick mark in the margin. No label.
+
+The one before it was there too: October 11th, my first week at Hopkins, next to a notation about benthic coverage in the northern grid. A mark that looked like this one. Meant the same kind of thing.
+
+Two marks. I knew what two marks meant.
+
+I closed the notebook.
+
+I went back to the data.
+
+End of Chapter 5

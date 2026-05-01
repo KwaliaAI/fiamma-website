@@ -1,0 +1,237 @@
+- Lines 217–222: Changed "I did not make a fourth mark" to mark being made. Count tracking mechanism maintained — four marks in notebook at end of Ch7, consistent with Owen Count 4 canonical state.
+
+| Detail | Canonical Value |
+|--------|----------------|
+| Owen Count 4 | Thermocline shift — station seven, Tuesday buoy data, 51.8m average depth. Standard 60m deployment would catch boundary layer. She should go to 68m. Delivered while actively miserable. She laughs too hard to deliver acknowledgment in correct register. Count 4. |
+| Vestibular irony | Ocean swell does not trigger her condition. The condition is yaw/roll of zero-G simulation, centrifuge, visual-vestibular conflict. She has wristbands and ginger in her kit for reasons she does not explain. She has been seeing a vestibular PT since the stairs. |
+| Priya photo | Taken 9:47. Wren's left hand flat on Owen's shoulder blade (PT-learned pressure technique). Owen facing horizon. Wren's body angled toward his. Content: the kind of attention that is oriented. She doesn't know Priya took it until later. |
+| "Mm" mirror | When Owen says "thank you" for the ginger, she says "mm" back in his exact inflection. They both notice. Neither names it. |
+| Register shift | 3 seconds on a dock strap. 3-minute walk. A silence with a frequency she hadn't heard before. Not named. Not acted on. She is not going to look at it directly. |
+| Owen Count end Ch7 | 4 |
+| Strand Ch7 | Present but brief — she went, crudo was cold-cured citric, walked home thinking about 68 meters. |
+
+The research vessel was called the Caridad, and it left the Hopkins dock at six-forty-five in the morning, which was November, which was dark.
+
+I was on it because the station four sampling run required a deeper-water deployment than the dock equipment could manage — three casts, two retrieval dives I would not be doing because I was not yet certified for the Bay's cold, and a CTD rosette deployment at the canyon edge that Kaplan had approved three weeks ago and that I had been waiting for since September. Owen was on it because his population monitoring sites included three offshore buoy stations, and the Caridad was going past all three, and Marcus, who coordinated research vessel access, had put us on the same trip with the same logistical economy he applied to everything.
+
+I had been on boats since I was seven. Lake Erie first, then the various training vessels of a career built around things at the bottom of water. My vestibular condition, the one that had disqualified me from NASA's ASCAN program, the one with the inner-ear mechanism and the history involving a flight of stairs, had a particular profile — the yaw and roll of zero-G simulation, the centrifuge component of the training protocol, the disorienting visual-vestibular conflict of certain environments. It was not, as I had discovered in four years of field work, triggered by ocean swell. The open water, with its low-frequency rhythmic motion and clear visual horizon, was apparently not the problem. The problem had always been the other thing.
+
+I had mentioned this to no one, because it was not relevant information until it was.
+
+It became relevant at approximately seven-fifteen, once the Caridad had cleared the breakwater and found the bay's full swell.
+
+Owen was sitting on the port-side bench when I came up from the equipment bay, and I could tell, from the quality of his stillness, that the morning had already changed character for him. He was not moving his head. He was looking at a fixed point on the horizon — the correct instinct, medically speaking — with the concentrated focus of a man who had arrived at the boat with a plan and was revising it in real time. His field notebook was in his lap. He had not opened it.
+
+Priya was three feet away from him, sitting backward on the bench with her elbows on the rail and her face turned up into the cold November air, looking completely fine. She had her camera around her neck — she brought it on every field trip, the way other people brought a particular pen — and she was watching the Hopkins buildings get small on the shore.
+
+I sat down next to Owen.
+
+"How long have you been out of the bay?" I asked.
+
+"Forty minutes," he said, precisely, which told me he was tracking time with the focus of someone who had quantified how bad the next several hours might be. He did not look at me when he said it.
+
+"Okay," I said.
+
+He turned his head two degrees in my direction, just enough to bring me into peripheral vision without committing to a full reorientation. "I took something before we left. It hasn't —"
+
+"Kicked in yet."
+
+"Kicked in yet," he agreed. He looked back at the horizon.
+
+I was about to go back to my own equipment prep and let him manage it, which would have been the polite option. But I had read everything there was to read about vestibular management in marine contexts — a fairly narrow literature, but thorough — and I knew what helped and what didn't, and what Owen was doing, which was sitting with his back to the bow and his body rigid and his breathing shallow, was the approach that made the next six hours maximally difficult.
+
+"You need to face forward," I said. "Into the motion, not across it."
+
+He considered this. "The bench —"
+
+"Turn around. Face the bow. You want to see where you're going before you feel it."
+
+He looked at me for the first time since I'd sat down. There was a quality to his expression that I could not immediately classify — not gratitude, not irritation, something adjacent to a person who has decided that all available options require trust and has made a selection.
+
+He turned around.
+
+"Other side of the bench," I said. "Your back's against nothing right now. You want something solid."
+
+He moved. He sat with his back against the equipment casing and his face pointed forward toward the bow and the open Bay, and I could see him recalibrate, some small degree of the tension going out of his shoulders.
+
+"Better," he said. Slightly.
+
+"Slightly," I agreed.
+
+Priya had turned around and was watching this exchange with the expression she used when something confirmed a hypothesis she hadn't known she was running. She did not say anything. She lifted her camera and looked through the viewfinder at the water and appeared to be thinking about something else entirely.
+
+The first cast went well.
+
+I ran it from the stern with Marcus, who had done this configuration before and knew the winch with the ease of someone who'd operated it in worse conditions. Owen stayed on the port bench, working his population data log with the focused effort of a person who had decided that if they were going to be miserable they were going to be productively miserable. I could see him making notes in his precise handwriting, occasionally stopping, occasionally looking at the horizon, continuing.
+
+The Caridad hit the canyon-edge station at nine-fifteen, which was when the swell changed quality. Not larger — different. The resonance of the deeper water produced a longer-period roll, the kind that takes the boat all the way through its arc and back, and by nine-twenty Owen had stopped writing.
+
+I came back from the stern with the first retrieval sample and found him standing at the rail, one hand on it, the other at his side, exercising the specific dignity of a person who is going to get through this without assistance and is also currently reconsidering that position.
+
+I put the sample case down.
+
+"Wristbands," I said.
+
+He turned his head. "What."
+
+"Pericardium-6. Here." I reached into the front pocket of my field vest — I had put them there this morning, not with any particular foresight, they lived in my kit — and handed him the acupressure bands. "Three finger-widths down from your wrist crease, between the tendons. The band goes there."
+
+He looked at the bands. "Do these actually —"
+
+"Probably not with any rigorous mechanism," I said. "But the pressure is distracting and distraction is underrated. Give me your wrist."
+
+He held out his left hand.
+
+I positioned the band, pressed the button against the point, and felt him take a small involuntary breath — the way you respond to a new sensory input arriving in a location that had been clenched. I did the right wrist.
+
+"Okay," I said.
+
+He looked at his wrists. The parenthesis scar was just visible below the left band. "You carry these."
+
+"I carry a lot of things."
+
+He looked at me. I could not tell if he was going to ask the logical follow-up question — why — or if he had decided, correctly, that the answer was contained in the fact of the bands and the fact that I had produced them without being asked.
+
+He did not ask.
+
+"Look at the horizon," I said. "Same point. Don't track the wave, track the fixed point past the wave."
+
+He looked.
+
+Priya photographed us at nine-forty-seven. I know this because I found out about it later, and when I asked she told me the time with the precision of someone who had been waiting to be asked. I did not know she was doing it. What she got was this: me, standing at the rail beside Owen, my left hand on his shoulder blade with the flat-palm steadying pressure I'd learned from the vestibular PT I'd been seeing since the stairs, and Owen, facing the horizon, and the angle of my body toward his, which was — I would see the photograph eventually, months later, and I would understand immediately what she'd seen through the viewfinder. From outside it looked like the kind of attention that is oriented. That has a subject.
+
+From the inside I was thinking about the wrist placement and whether the medication would kick in before the canyon-edge retrieval dive.
+
+Priya lowered her camera. She did not say anything. She saved the photograph.
+
+Owen came back to himself in stages.
+
+The medication arrived around ten-fifteen — I could see it in the gradual unlocking of his posture, the quality of his hands on the rail changing from gripping to resting. I brought him water at ten-twenty. He accepted it without turning to look at me, which I interpreted as a man conserving his vestibular budget, and drank about half of it, and handed it back.
+
+"You could sit," I said.
+
+"I'm fine."
+
+He was not fine in any objective sense. He was managing, which was its own category and, I was noting, the category in which he apparently preferred to operate.
+
+"Ginger," I said.
+
+He looked at me, the full turn this time, now that the swell had eased slightly. "Do you have —"
+
+I held out the ginger chews. They lived in the same vest pocket as the wristbands, which I realized was going to require an explanation I did not currently feel like providing.
+
+He took three. He looked at them for a moment and then looked at me with the expression of a man who had several questions and had decided to ask none of them.
+
+"Thank you," he said.
+
+"Mm," I said.
+
+He looked at me for a moment longer, and I looked back, and neither of us said anything about the fact that I had just given him his own exact inflection back, and then he turned back to the horizon and ate a ginger chew with the careful focus of a person who was not going to make any unnecessary movements.
+
+By ten-forty he had the notebook out. By eleven he was standing without holding anything, which was a reasonable test of the current situation. The sea had settled to its baseline long-period swell and the morning's worst was behind us, and I could see him returning — not all the way, but meaningfully — to the quality of presence that was his standard operating mode.
+
+I was working the second CTD deployment when I heard him say, from where he'd positioned himself near the stern to watch the retrieval: "Your rosette depth."
+
+"Sixty meters," I said. "Canyon edge."
+
+"You're going to get a mixed sample at sixty. The thermocline is sitting around fifty-two this week — there was a shift on Tuesday, I have it in my buoy data. You want sixty-eight to clear it if you're trying to isolate the benthic signal."
+
+I straightened up.
+
+I looked at him.
+
+He was standing with his field notebook open, the parenthesis scar visible where his hand gripped it, and he looked like a person who had spent the last two hours losing a dignified argument with the Pacific Ocean and was now, with some of his faculties restored, continuing to do his actual job. He had his pencil in his hand. He was completely serious.
+
+"The thermocline shifted Tuesday," I said.
+
+"Two days of buoy data. It's in my —" he turned a page "— Tuesday reading at station seven. Average depth fifty-one point eight. Standard deployment at sixty is going to catch the boundary layer on both sides. If you want the pure benthic signal for the station four comparison, you want below it."
+
+I was laughing. I was not sure when this had started.
+
+"Sixty-eight," he said, with the patience of a man who had offered an accurate piece of information and was waiting for it to be acknowledged.
+
+"You're right," I said. I was still laughing. It came out wrong — not you're right in the flat confirming register I delivered it in when I was writing in my notebook, but something that had too much air in it, the kind of you're right that meant additionally, layered, which was not what I would have chosen to deploy at this moment but which had apparently deployed itself. "You're right, I'll adjust the depth."
+
+He looked at me. Something in his face shifted — not a smile, exactly, a loosening, the same quality I'd noticed after the wristbands, the recalibration of a person who has been presented with unexpected information and is deciding what to do with it.
+
+"I'll put it in the log," he said. He looked back at his notebook.
+
+I wrote 68m on the deployment sheet. My handwriting was worse than usual.
+
+This was Count 4. I knew it was Count 4 when it was happening. I was laughing too hard to deliver the acknowledgment correctly, and by the time I had my handwriting back he had returned to his buoy data with the focused efficiency of someone who had said the accurate thing and was done, and the moment had passed, and I let it.
+
+The second rosette deployment took twenty minutes. I changed the depth to sixty-eight. The sample I pulled came back with a clean benthic signal, no boundary interference, exactly as predicted.
+
+I labeled the sample case in Owen's direction, where he was standing at the stern. He saw me do it. He made a small gesture with his pencil — acknowledgment, nothing more — and went back to his log.
+
+"You know he was right," Priya said, from behind me.
+
+"I said he was right."
+
+"You said it while laughing."
+
+"I was multitasking."
+
+She adjusted the camera strap on her shoulder. Her reading glasses were pushed up into her hair. She looked at me for a moment with the expression she had deployed at Thursday dinner — the prediction-landing face, the one that was now making more appearances in my general vicinity than I thought was scientifically justified.
+
+"The sample's clean," I said.
+
+"I know," she said. "I saw the display."
+
+She went to help Marcus with the final line prep.
+
+We were back at the Hopkins dock by three-fifteen. The Bay in November was already losing the light — the low-angle sun that turned the water pewter and the shore buildings into flat shapes against the sky — and the Caridad came in with the ease of a vessel that knew its home.
+
+I helped carry the sample cases up the dock. Owen had his population data binder and his field pack and was helping with the equipment straps with the steady competence of a person who had moved past the morning and was now simply finishing the day. He looked fine. He looked, in fact, like a man who had gone on a research boat, collected excellent data from his three buoy stations, identified a thermocline shift that would have compromised my canyon-edge sample, and was now ready to go write up his notes.
+
+Which was accurate. All of it was accurate. None of it required annotation.
+
+I had my hand on a sample case and he had his hand on the strap of it, and for approximately three seconds at the dock railing we were both holding the same piece of equipment and neither of us was looking at the other, and then I had the case and he released the strap and we walked up the dock in the ordinary way you walked with a colleague at the end of a long day.
+
+Something was slightly different.
+
+I could not have named it precisely. The Bay was the same color it always was in November. The Caridad was being tied off by the deck hand who always did this and who always nodded at us when we left. The fog was beginning its four-o'clock arrival from the west, the thick November variety that moved in off the water with the patient efficiency of a system that knew it had time.
+
+We walked from the dock to the lab building side by side. The walk was three minutes. Neither of us said anything. This was not unusual — we walked from the dock to the lab without speaking on a routine basis — but the quality of the silence was not exactly the usual quality. It had a frequency I hadn't heard before. I noticed it the way you notice a new sound in a room you thought you knew, and I did not try to identify what it was.
+
+I went upstairs to log the samples.
+
+He went to his bench.
+
+I pulled the sea surface temperature data for Nico that evening. It took me eleven minutes. I emailed it over and then sat at my desk and looked at the station four deployment data from the afternoon.
+
+The sixty-eight-meter sample was clean. The benthic signal was clear and strong, no thermocline contamination, and it matched the directional gradient exactly as the station four dataset predicted it should. Owen had known about the Tuesday shift. Owen had been watching the buoy readings. Owen's data and my data pointed to the same place, which was not new information — this was what happened when two people were studying the same bay from different angles — but the afternoon sample was the first time his data had directly corrected mine in real time, mid-deployment, and the correction had been right, and I had called it while I was laughing, which was not my most controlled moment on record.
+
+I opened the field notebook.
+
+I looked at the page.
+
+There were three tick marks already. October 11th, October 9th, November 4th.
+
+I made a fourth mark.
+
+I looked at the four marks for a moment, and then I closed the notebook and put it in my bag, and I thought about Wednesday. Wednesday was in two days. Strand on 17th, the walk south on Lighthouse, the bar at the far end, the crudo that was always a different argument from the same kitchen.
+
+I was going. It was going to be good. These facts were stable.
+
+What was also sitting in the back of my attention — with the quality of an observation I had logged and set down and had not yet found the right column for — was a sixty-eight-meter sample case, and a hand on a strap, and a three-minute walk from a dock at the end of a November afternoon, in a silence that had been entirely ordinary and had also, at the same time, not been.
+
+I was not going to look at that directly.
+
+I picked up my bag and went home.
+
+The next day in the lab had a slightly different frequency. Not in any way I could have pointed to. Owen was at his bench when I arrived; I was at mine. We worked through the morning without speaking much, the same arrangement as every other morning, and at eleven-fifteen he said, without preamble, "The station seven buoy data is on the shared drive if you want the full Tuesday series," and I said "thank you," and he said "mm," and that was that.
+
+Except the "mm" was a different one than I had heard before. I could not have explained the distinction. I was probably not going to spend analytical energy on it at eleven-fifteen on a Thursday morning with a sample case to process.
+
+I processed the sample case.
+
+Wednesday I went to Strand. The crudo was cold-cured with something sharply citric and a small amount of heat that arrived late, after the acid, which was a different argument than the week before. Nico came out at nine-thirty. He was good company and the wine was good and I walked home at twelve-forty with the fog full on Lighthouse, the eucalyptus dark and heavy above the path.
+
+I was thinking about the clean benthic signal. I was thinking about sixty-eight meters.
+
+The yellow house was ahead. The handrail was where it always was.
+
+I had my hand on it before I'd thought about it.
+
+End of Chapter 7

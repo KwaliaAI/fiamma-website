@@ -1,0 +1,429 @@
+The liability review begins on a Tuesday, which feels appropriate. Tuesdays are the most bureaucratic day of the week. They lack the momentum of Monday, the hope of Wednesday, the anticipation of Thursday. Tuesdays are for documentation and uncomfortable conversations and sitting in rooms with people whose futures you're professionally obligated to complicate.
+
+I arrive at Mobility Workshop at 9:00 AM. The address Gloria sent is a converted garage in a neighborhood I've never been to, somewhere in Southeast Portland where the streets have names instead of numbers and every third building is either a coffee roaster or a vintage furniture collective.
+
+The garage is... exactly what I expected. Industrial. Unfinished. The kind of space that looks terrible on paper but probably photographs well for brand storytelling. There's a large worktable in the center covered with prototypes at various stages of completion. Tools hang on pegboard walls in arrangements that suggest both organization and obsession. The concrete floor has paint marks in places, evidence of projects past.
+
+Sam is waiting by the door.
+
+"You're here," he says, which is not a greeting but is technically accurate.
+
+"I'm here."
+
+"I mean, I knew you were coming. Gloria emailed me the schedule. But it's different, you being here. In person. In my space." He's wearing a gray t-shirt that fits well and jeans that have actual work stains on them, not the distressed-by-design kind. He smells like coffee and something else, something metallic. Solder, maybe. Or machine oil.
+
+I notice these things because I'm a detail-oriented person. Not for any other reason.
+
+"Should we start?" I ask.
+
+"Right. Yes. Starting." He steps back, gesturing me inside. "I cleaned up. I mean, it's always clean, but I cleaned more. Because you're... evaluating things. It seemed important that the things being evaluated were clean."
+
+"I'm evaluating documents, not floor cleanliness."
+
+"The documents are also clean. Metaphorically." He pauses. "Some of them are actually physical documents, though. I printed things. I wasn't sure if you'd want paper or digital, so I did both. Is that excessive? That feels excessive."
+
+He's nervous. The easy confidence from the investor pitch is gone, replaced by something more uncertain. It should make this easier, having him off-balance. Instead it just makes me aware of the power differential, the fact that I'm here to find problems with something he built with his own hands.
+
+"Paper is fine," I say. "Where should I set up?"
+
+He leads me to a smaller table near the window, where a stack of folders sits next to a laptop and a mug that says "ITERATING UNTIL IT WORKS." The window overlooks a small courtyard where someone has attempted a garden. The attempt appears unsuccessful, but committed.
+
+"I can pull up anything you need," Sam says, hovering near the table like he's not sure if he should sit down or remain standing. "The file structure's a little... organic. I built the company before I knew how companies were supposed to be organized. So things are in weird places sometimes. But I know where everything is. Mostly."
+
+"Let's start with the product liability documentation."
+
+"Sure. Great. That's—" He opens the laptop, clicks through several folders. "Here. This is everything from the testing phases. User feedback, safety assessments, the whole—actually, do you want coffee first? I have good coffee now. Not the Forge & Flow war crime. Real coffee. I invested in an actual machine after..." He trails off, color rising slightly in his face. "After the incident."
+
+"After you broke the communal espresso machine."
+
+"After I ambitiously improved the communal espresso machine in a way that temporarily reduced its functionality."
+
+"You flooded the kitchen."
+
+"The flooding was brief."
+
+I almost smile. I catch myself and don't.
+
+"Coffee would be fine," I say. "Thank you."
+
+He makes coffee with the same focused intensity he applies to everything else. I watch him measure grounds precisely, adjust the water temperature, wait for the exact moment to press the plunger. The French press looks new but well-used, the kind of object that gets handled multiple times daily with care.
+
+"You take it black, right?" He's not looking at me, still focused on the coffee. "I noticed. At the office."
+
+"You noticed how I take my coffee."
+
+"I notice things." He pours, hands me a mug. His fingers come close to mine but don't touch. I notice this too. "It's a design thing. Observation. You can't build things for people if you don't pay attention to how they use things."
+
+The coffee is good. Better than good. I don't tell him this.
+
+"Let's look at the testing documentation."
+
+We spend the next two hours going through files. It's exactly as messy as I expected: a mix of formal reports and informal notes, some dated and some not, some signed and some just... there. Sam explains each document as I flag it, his voice shifting into that grounded confidence I heard through the partition wall.
+
+"Maria's feedback was crucial here," he says, pointing to a section of user testing results. "She uses a manual wheelchair and she told me the original grip angle was wrong. I thought it was fine because I'd tested it on myself, but I don't actually use mobility aids daily. I couldn't feel what she felt."
+
+"You tested on yourself?"
+
+"Of course. How else would I know if something works?"
+
+"By having qualified testers. Following established protocols."
+
+"I did that too. Eventually. After I'd built something worth testing." He leans back in his chair, running a hand through his hair in a gesture that reads as unconscious, habitual. "Look, I know the documentation is a mess. I know there are gaps. I was building something that mattered, and the paperwork felt less urgent than getting the product right. Which is probably exactly what every founder says before their company gets sued into oblivion."
+
+"It's exactly what every founder says, yes."
+
+"Is this where you tell me I'm doomed?"
+
+"This is where I tell you that you have work to do. The gaps aren't unfixable, but they need to be fixed. Especially the safety certifications."
+
+His expression shifts. Something tightens around his eyes. "The CeraTest report."
+
+"You know it's insufficient."
+
+"I know it's what I could afford eight months ago. They're a smaller lab, but they're legitimate. I checked. I wouldn't put something in people's hands if I didn't think it was safe."
+
+"I believe that. But believing something is safe and proving something is safe are different legal categories. Your investors are going to want proof. More importantly, if something ever goes wrong, a judge is going to want proof. This—" I tap the report. "This is thin."
+
+He doesn't argue. He just nods, slow and reluctant.
+
+"What would I need?"
+
+"A more comprehensive assessment. Larger sample sizes. Standardized methodology. It's not cheap, but it's necessary."
+
+"How not cheap?"
+
+"Twenty to thirty thousand, depending on scope."
+
+The number lands like a physical weight. I watch him absorb it, watch the calculation happening behind his eyes: budget versus timeline versus everything else he's trying to hold together.
+
+"Okay," he says finally. "Okay. I'll figure it out."
+
+"There's also the matter of your corporate structure."
+
+"My corporate structure is just me."
+
+"Exactly."
+
+We go through more documents. I flag the incomplete liability waivers, the missing IP documentation, the insurance coverage that won't protect him if someone gets hurt. With each item, he listens carefully, takes notes in a small notebook with handwriting I can't quite read, asks questions that suggest he's actually processing the information rather than just waiting for me to finish.
+
+At noon, my stomach growls. Audibly. Embarrassingly.
+
+"Lunch," Sam says, standing up before I can pretend it didn't happen. "There's a place two blocks over that does incredible banh mi. My treat. Consider it part of the liability review experience."
+
+"I don't think lunch is standard protocol."
+
+"Nothing about this is standard protocol. You're my neighbor and also potentially the person who decides whether my company survives the due diligence process. We're so far outside standard protocol that standard protocol is a dot on the horizon."
+
+He's not wrong.
+
+We walk to the banh mi place. It's cold outside, a Portland February afternoon with that specific damp chill that gets into your bones. Sam walks slightly faster than me, then notices and slows down. He does this twice before matching his pace to mine, like he's learning a rhythm.
+
+"Can I ask you something?" he says, not looking at me, watching the sidewalk instead.
+
+"You can ask."
+
+"Why law? Corporate liability specifically. It seems like a field designed to make people paranoid about everything."
+
+"That's accurate."
+
+"So why?"
+
+The honest answer is complicated. The honest answer involves student loans and family expectations and the particular kind of security that comes from being paid to anticipate disaster. I don't give him the honest answer.
+
+"I'm good at finding problems. It seemed efficient to make that a career."
+
+"That's the saddest reason to choose a profession I've ever heard."
+
+"It's practical."
+
+"Practical and sad aren't mutually exclusive." He's looking at me now, something careful in his expression. "You could be good at finding problems in a lot of contexts. Detective. Quality control inspector. Restaurant critic. Why the one that involves telling people their dreams have liability exposure?"
+
+"Someone has to."
+
+"That's not an answer."
+
+"It's the answer I'm giving."
+
+He accepts this. We walk the rest of the block in silence that should be uncomfortable but isn't.
+
+The banh mi place is tiny and crowded and smells incredible. We order at a counter staffed by a woman who greets Sam by name and asks about "the prototype." Apparently he's a regular. Apparently everyone in Portland knows about his prototype.
+
+We eat standing at a narrow counter by the window, shoulders nearly touching because there's nowhere else to stand. The bread crunches. The pork is tender. I'm aware of his arm next to mine, the way he takes up space without seeming to notice he's doing it.
+
+"Tell me about the investor pitch," I say, because the silence is becoming something else and I need to redirect it. "Harrison. How did it go?"
+
+"You heard part of it. Through the wall."
+
+"I heard all of it. The partition isn't soundproof."
+
+He groans, tipping his head back. "Of course you did. Of course you heard me rambling about hinge mechanisms to a man who could fund my entire company."
+
+"You weren't rambling. You were—" I stop, reconsider. "You were confident. You knew what you were talking about."
+
+"Was that a compliment?"
+
+"It was an observation."
+
+"From you, that might be the same thing."
+
+We finish lunch. We walk back to the garage. The afternoon review continues: more documents, more gaps, more questions. By 4:00 PM, I've filled six pages of notes with issues that need addressing. Sam has consumed three more cups of coffee and developed a slight twitch in his left eye that suggests he's approaching some kind of caffeine-related breaking point.
+
+"I think that's enough for today," I say, closing my laptop.
+
+"Is it? Because I feel like there are probably more ways my company is catastrophically unprepared that you haven't told me about yet."
+
+"There are. But they can wait until Thursday."
+
+He exhales, long and slow, and for a moment he looks exhausted. Not the good kind of exhausted that comes from meaningful work. The kind that comes from realizing how much stands between where you are and where you need to be.
+
+"I know this is your job," he says. "Finding the problems. Naming them. I know you're not doing this to be cruel. But it's—" He breaks off, shakes his head. "Never mind."
+
+"It's what?"
+
+"Hard. Hearing someone list everything you did wrong. Even when you need to hear it."
+
+Something loosens in my chest. I didn't realize it was tight until it wasn't.
+
+"You didn't do everything wrong," I say. "The product testing with the advocacy group. The way you incorporated user feedback. The attention to materials quality. Those are right. Those are more right than a lot of companies I review. You just built the house before you finished the foundation."
+
+"And now I have to lift the house and build the foundation underneath it."
+
+"That's one metaphor."
+
+"What's a better one?"
+
+"I don't do better metaphors. I do liability assessments."
+
+He almost smiles. I almost smile back. We're standing by the door now, me gathering my bag, him hovering in that uncertain way he has, like he's not sure if the conversation is over or just pausing.
+
+"Thursday," he says. "Same time?"
+
+"Same time."
+
+"I'll make better coffee."
+
+"The coffee was already good."
+
+"See, you can give compliments. I knew it was in there somewhere."
+
+I'm halfway out the door when he speaks again.
+
+"Berna."
+
+I turn. He's silhouetted in the doorway, workshop light behind him, and for a moment he looks like a different person. Someone carrying something heavy and trying not to show it.
+
+"Thank you," he says. "For being honest. For not just telling me what I wanted to hear."
+
+"That's my job."
+
+"I know. But you could do it colder. Some people do it colder."
+
+I don't know what to say to this. I don't know what to do with the way he's looking at me, or the way it makes me feel something I'm not prepared to name.
+
+"Thursday," I say again, and leave before the moment can become anything else.
+
+Dev calls that night. This is unusual. Dev texts; Dev does not call. His voice over the phone sounds like the audio version of his face: precise, impatient, optimized for information transfer.
+
+"The investor pitch deadline is in six weeks," he says, without preamble. "Harrison's putting together the formal term sheet. He needs your preliminary assessment by the twenty-eighth."
+
+"I'm aware of the timeline."
+
+"Are you aware that Harrison is betting personal capital on this? Not firm money. His money. He seems to think your neighbor's little wheelchair company is going to be the next big thing in accessible design."
+
+"It's not a wheelchair company. It's mobility aids. Multiple products."
+
+"Whatever. The point is, if your assessment says there are problems, we need to know early. Harrison doesn't like surprises."
+
+"Gloria already told me that."
+
+"Gloria told you the polite version. I'm telling you the actual version. Find the problems now, before Harrison gets more attached. He already likes this guy too much. Something about 'founder energy' and 'mission alignment.' It's making him sloppy."
+
+I think about Sam in the doorway. The weight he was carrying. The way he thanked me for being honest.
+
+"I'm being thorough," I say. "The assessment will be accurate."
+
+"Accurate is good. Fast is better."
+
+He hangs up. I stare at my phone for a long moment. Then I open the Mobility Workshop file again and find the CeraTest report.
+
+The methodology section is still too short. The sample sizes are still too small. But now I'm looking at it differently. Not as a gap to flag, but as a problem with a solution. A problem that costs twenty to thirty thousand dollars that Sam almost certainly doesn't have.
+
+I make a note to look into alternative testing facilities. Lower cost, same standards. It's not my job to solve his problems. It's my job to identify them.
+
+But maybe I can identify some solutions while I'm at it.
+
+Thursday is warmer. Or maybe I'm dressed warmer; it's hard to tell. The walk from the bus stop to the garage feels different this time, more familiar. I know which door to use. I know where the garden is. I know that Sam will be waiting with good coffee and nervous energy and questions I'm not entirely prepared to answer.
+
+He's reorganized the workshop. I notice this immediately: the prototypes have been moved, rearranged into what looks like a chronological sequence. Version one, version two, version three. A visual history of iteration.
+
+"I thought you might want to see the progression," Sam says, following my gaze. "For context. It's easier to understand the documentation if you can see what the documentation is about."
+
+"That's... actually helpful."
+
+"Don't sound so surprised. I've been reading about due diligence. Turns out there are entire websites dedicated to helping founders not fail at this."
+
+"You've been reading about due diligence."
+
+"I also watched four YouTube videos and called my college roommate, who works in venture capital and told me I was 'charmingly underprepared.' Direct quote. He seemed concerned but supportive."
+
+We settle at the worktable this time, closer to the prototypes. Sam walks me through each version, explaining what worked and what didn't, how user feedback shaped the changes, why certain decisions were made and unmade and made again.
+
+His hands move when he talks. I notice this now in a way I didn't before. He gestures toward the products as he explains them, touches components to demonstrate how they work, drums his fingers on the table when he's thinking through a complicated point. The hands are capable, sure of themselves in a way his voice sometimes isn't.
+
+"The third version was the breakthrough," he says, picking up a forearm crutch that looks nothing like any forearm crutch I've seen. It's angular, almost sculptural, with a grip that curves in unexpected ways. "Maria—the tester I mentioned—she used this for two weeks and came back with a page of notes. Half of them were things I'd never considered. The angle of the handle at different terrains. The way weight shifts when you're going up stairs versus down. Things that seem obvious once someone tells you, but you can't know them unless you live them."
+
+"You listen to your users."
+
+"They're not users. They're people. They use the products, but that's not... that's not why I listen to them." He sets the crutch down, looks at it rather than at me. "I got into this because of my sister. She has MS. Progressive. She's used about fifteen different mobility aids in the past decade, and every single one of them made her feel like a patient first and a person second. Like she was defined by what she couldn't do instead of what she could. I wanted to make something that felt like hers. Not like medical equipment she borrowed from the universe."
+
+The workshop is quiet. Outside, a car passes. Inside, the overhead lights hum faintly.
+
+"You don't mention your sister in the company materials."
+
+"She asked me not to. She doesn't want to be a story. She just wants to walk to the grocery store without strangers assuming she can't handle a door."
+
+I add this to the list of things I know about Sam Reyes: good coffee, Post-it correspondence, expensive apology chocolate, a sister who doesn't want to be defined by what she can't do.
+
+The list is getting long. I'm not sure when that happened.
+
+"Let's talk about the patent situation," I say, because talking about patents is safer than whatever else we might talk about.
+
+We work through the afternoon. The gaps are still there, but they feel different now. Not like failures, but like problems waiting for solutions. I find myself explaining things more thoroughly than I normally would, offering context that goes beyond the scope of the assessment. Sam takes notes. He asks questions. At one point, he asks me to repeat something and I realize he's recording it on his phone.
+
+"For later," he says. "So I remember."
+
+"You could just read the written assessment."
+
+"Your voice explains it better."
+
+I don't know what to do with that. I focus on the patent documentation and pretend I didn't hear it.
+
+At 5:30, we're still working. The light outside has shifted, turned golden and then amber and is now fading toward dusk. I've lost track of time, which almost never happens.
+
+"I should go," I say, checking my phone. Two texts from Marco. One from Gloria. Nothing urgent, but the day is supposed to be over.
+
+"Or—" Sam hesitates. "There's an event tonight. A design showcase thing, at the Ecotrust building. A bunch of local companies presenting work. I'm not presenting, but I was going to go anyway. See what other people are building. Network, probably, although I'm terrible at networking. It's mostly just me standing in corners drinking wine and waiting for conversations to happen."
+
+"Are you inviting me to a design showcase?"
+
+"I'm inviting you to witness my networking failures firsthand. For context. Liability purposes, maybe."
+
+"That's not what liability means."
+
+"I know what liability means. I've been reading about it on websites."
+
+I should say no. I have texts to respond to, dinner to make, work to finish. This is not a professional activity. This is not part of the assessment.
+
+But I'm curious about the corners he stands in. I'm curious about the wine he drinks while waiting for conversations to happen.
+
+"Fine," I say. "But I'm driving myself."
+
+"You have a car?"
+
+"I have access to a car. Marco's."
+
+"Marco. Who makes the spicy crema."
+
+"You remember the spicy crema."
+
+"I ate the spicy crema. It's difficult to forget something that directly confronts your taste buds."
+
+The Ecotrust building is glass and exposed timber, the kind of architecture that announces its sustainability credentials through visual aesthetics. The showcase is on the third floor, a large open space filled with tables displaying various design projects. Sustainable packaging. Modular furniture. Bicycles made from reclaimed materials. Very Portland.
+
+Sam is already there when I arrive, standing in a corner exactly as he predicted, holding a glass of wine and looking slightly uncomfortable. He sees me and his expression shifts—relief, maybe, or something adjacent to it.
+
+"You came," he says.
+
+"I said I would."
+
+"People say things."
+
+"I say things I mean."
+
+He hands me a glass of wine without asking what I want. Red. Decent. The corners of the room are starting to fill with other people who presumably also struggle with networking.
+
+"Tell me about the projects," I say. "What should I be looking at?"
+
+He walks me through the room, pointing out things I wouldn't have noticed on my own. The way one furniture designer is solving a problem with modularity. The way another company is approaching packaging sustainability differently than the obvious methods. He sees the decisions behind the objects, the thinking that led to the making.
+
+His voice changes when he talks about design. That grounded confidence from the investor pitch. His shoulders relax. His hands move more freely. He occupies space differently—not taking up more of it, exactly, but claiming what he occupies with more certainty.
+
+We end up near a window, looking at the city lights beginning to appear in the dusk.
+
+"Thank you for coming," he says. "I know it wasn't required."
+
+"Nothing about this evening is required."
+
+"I know. That's why I'm thanking you."
+
+We're standing close. I can smell the coffee on him still, underneath the wine. I can see the place where his hairline meets his temple, the small scar above his eyebrow that I've never noticed before.
+
+"I found some alternative testing facilities," I say, because saying anything is better than standing in silence noticing scars. "For the CeraTest issue. There's a lab in Eugene that does comparable work for about fifteen thousand. Still not cheap, but less catastrophic."
+
+His face does something complicated. "You looked into testing facilities."
+
+"It's relevant to the assessment."
+
+"It's beyond the scope of the assessment."
+
+"My scope is flexible."
+
+"That's—" He stops, shakes his head. "You didn't have to do that."
+
+"I know."
+
+"But you did anyway."
+
+"I'm efficient. If there's a solution that addresses the problem I've identified, it seems wasteful not to mention it."
+
+"Efficient," he repeats, like he's testing the word. "Is that what this is?"
+
+"What else would it be?"
+
+He doesn't answer. He's looking at me in a way that makes me want to look away, but I don't. We stand there, in the corner he predicted he'd be standing in, not quite touching, not quite not touching.
+
+My phone buzzes. Marco.
+
+Marco: You're at a design thing? With the tomato guy?
+
+Me: How do you know that?
+
+Marco: I know everything. Also you took my car and you never take my car unless something's happening.
+
+Me: Nothing is happening. It's work.
+
+Marco: Sure. Work. That's why you're texting me instead of talking to him.
+
+I put my phone away.
+
+"Brother?" Sam asks.
+
+"He's concerned about his car."
+
+"Is his car okay?"
+
+"His car is fine."
+
+"Then why does he seem like he's texting you every four seconds?"
+
+"He's invested in my wellbeing."
+
+"Is your wellbeing in question?"
+
+I look at him. He looks at me. The room is full of people, full of sustainable design projects and reclaimed materials and wine glasses clinking, and none of it seems to exist outside this corner.
+
+"I should go," I say.
+
+"Probably."
+
+"Thursday. The assessment continues."
+
+"Thursday."
+
+I leave. I drive Marco's car home. I don't think about the scar above his eyebrow, or the way he said my name, or the testing facilities I researched that had nothing to do with the official scope of my work.
+
+I don't think about any of it.
+
+The CeraTest report sits open on my laptop until midnight. But now there's a note next to it: Eugene lab, $15K, contact info.
+
+A solution. Not my job to provide, but provided anyway.

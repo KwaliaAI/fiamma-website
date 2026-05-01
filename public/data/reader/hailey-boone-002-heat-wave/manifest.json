@@ -1,0 +1,80 @@
+{
+  "bookId": "hailey-boone-002-heat-wave",
+  "version": "v1",
+  "source": "MANUSCRIPT_v2.md",
+  "generatedAt": "2026-05-01T12:00:00Z",
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "chapter_title": "Chapter One: Paradise Valley",
+      "word_count": 3382,
+      "path": "/data/reader/hailey-boone-002-heat-wave/chapter-001.txt"
+    },
+    {
+      "chapter_number": 2,
+      "chapter_title": "Chapter Two: Working Fridge",
+      "word_count": 3528,
+      "path": "/data/reader/hailey-boone-002-heat-wave/chapter-002.txt"
+    },
+    {
+      "chapter_number": 3,
+      "chapter_title": "Chapter Three: Swim Hole",
+      "word_count": 3487,
+      "path": "/data/reader/hailey-boone-002-heat-wave/chapter-003.txt"
+    },
+    {
+      "chapter_number": 4,
+      "chapter_title": "Chapter Four: Hayloft",
+      "word_count": 3627,
+      "path": "/data/reader/hailey-boone-002-heat-wave/chapter-004.txt"
+    },
+    {
+      "chapter_number": 5,
+      "chapter_title": "Chapter Five: Six A.M.",
+      "word_count": 3383,
+      "path": "/data/reader/hailey-boone-002-heat-wave/chapter-005.txt"
+    },
+    {
+      "chapter_number": 6,
+      "chapter_title": "Chapter Six: I'm Good",
+      "word_count": 3294,
+      "path": "/data/reader/hailey-boone-002-heat-wave/chapter-006.txt"
+    },
+    {
+      "chapter_number": 7,
+      "chapter_title": "Chapter Seven: Barn Dance",
+      "word_count": 3741,
+      "path": "/data/reader/hailey-boone-002-heat-wave/chapter-007.txt"
+    },
+    {
+      "chapter_number": 8,
+      "chapter_title": "Chapter Eight: Slow Day",
+      "word_count": 3292,
+      "path": "/data/reader/hailey-boone-002-heat-wave/chapter-008.txt"
+    },
+    {
+      "chapter_number": 9,
+      "chapter_title": "Chapter Nine: Shin Guards",
+      "word_count": 3498,
+      "path": "/data/reader/hailey-boone-002-heat-wave/chapter-009.txt"
+    },
+    {
+      "chapter_number": 10,
+      "chapter_title": "Chapter Ten: Wrong Date",
+      "word_count": 3440,
+      "path": "/data/reader/hailey-boone-002-heat-wave/chapter-010.txt"
+    },
+    {
+      "chapter_number": 11,
+      "chapter_title": "Chapter Eleven: Last Night",
+      "word_count": 3503,
+      "path": "/data/reader/hailey-boone-002-heat-wave/chapter-011.txt"
+    },
+    {
+      "chapter_number": 12,
+      "chapter_title": "Chapter Twelve: Departure and Coda",
+      "word_count": 3357,
+      "path": "/data/reader/hailey-boone-002-heat-wave/chapter-012.txt"
+    }
+  ]
+}

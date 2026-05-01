@@ -1,0 +1,133 @@
+It started with the number.
+
+I was at my desk on a Tuesday in early January, annotating the north array graph Owen had added to the shared folder that morning — he had flagged a salinity anomaly in the late-December buoy readings and left a note in the margin that said check against station 4 benthic? timing looks adjacent — and I had reached for the small green notebook automatically, the way I reach for it when I'm about to log something. I opened it. I looked at the six marks.
+
+Six felt wrong.
+
+I closed it. I reopened it. I counted again.
+
+Six.
+
+I was a person who did not lose count of things. I had run the MBARI benthic survey transects three field seasons in a row with no instrument failures attributable to human error. I had carried a running total of the Thursday group attendance since September without writing it down. I had not forgotten a birthday in four years, excluding the one case where the person had told me the wrong date — which was a data integrity problem, not a recall problem, and was therefore a different category of thing.
+
+Six was wrong.
+
+I put the green notebook flat on the desk and looked at it for a moment. Then I did what I would do with any discrepancy in an ongoing dataset: I went back to the beginning of the relevant period and ran the audit.
+
+I pulled out the working notebook — the large one, brown cover, science — and found the December section. The gap was somewhere in the second week. I knew approximately when because I knew what I had been doing: two Wednesdays at Strand in a row, station four numbers, the Nico diagnostic running. Attention distributed accordingly. The brown notebook had timestamps and locations but not everything — it recorded what I logged, not what occurred, which was not the same thing.
+
+I was now using a science log to locate a moment involving a person I had been cataloging in a separate notebook. This was not the use case I had designed the system for.
+
+I kept reading.
+
+December 11 was Strand. December 12 was Thursday group — Owen didn't come to Thursday group. December 13, I was in my office running S4 numbers; Priya mentioned at some point that Owen had spent the previous day walking Tomás through the CTD calibration, which would have qualified, except Priya's account of it was not an observation and I had protocols. The weekend: a walk, two hours in the lab Sunday, no record of him, no memory.
+
+I turned to Tuesday.
+
+I was now at December 17 with nothing to show for the preceding week except a clear accounting of where I had been and what I had been doing, which had the slightly alienating quality of a thorough alibi.
+
+I turned the page.
+
+Here is what I found at Tuesday.
+
+In the entry for December 17, late afternoon, I had written: shared folder update, north array / O flagged storm buffer discrepancy / asked about S4 window. Which was an interaction. It was logged. It had been logged as work and not as — anything else, which was consistent with the timestamp, because at that point I had been in the process of running the Nico diagnostic and my attentional budget had been differently allocated.
+
+I read it again.
+
+Asked about S4 window.
+
+He had asked about the station four window. He had been looking at the shared folder, seen the storm buffer issue, flagged it, and then asked whether the timing affected my analysis — not his, mine. This was a functional work question. It was also the kind of question that required knowing what I was working on, which required a degree of sustained lateral attention that was not standard among colleagues who were professionally focused on their own dataset.
+
+I had logged it as work.
+
+I had not counted it.
+
+I read the entry a third time. Asked about S4 window. Not his window. Mine. He had seen the storm buffer issue, understood what it meant for my dataset — not his — and asked. That was not a functional work question. That was lateral attention to what I was doing, sustained and specific, from a person who ran his own dataset and had no professional need to track mine. I knew what the criteria were. I had written them down in October.
+
+That was the gap.
+
+I sat with the audit for a moment.
+
+Here was the situation. I had a count of six. The count was wrong by one. The event had been on December 17, logged in the working notebook, and I had not counted it because my attentional budget had been differently allocated and I had filed the interaction as work rather than as what it also was. The event existed. I had documentation. The principle I had been operating under since my first marine biology field course was: if a variable existed and you missed it, it still happened. The count is incomplete. The finding is not invalidated. You make a note and you proceed.
+
+I opened the green notebook.
+
+I looked at the six marks.
+
+I made a seventh.
+
+Then I looked at seven marks for a moment, which was approximately the correct amount of time to spend looking at seven marks. They were evenly spaced. The seventh one looked like the other six. It did not look like a gap or a mistake or a concession. It looked like what it was: the correct total, updated.
+
+I closed the notebook.
+
+Owen came into the lab at around four in the afternoon, which was not unusual. He had a coffee and the look of a person who had been working at the desk long enough to need to be somewhere with slightly different air. He stopped at the buoy terminal — the old one, the one that fed the north array relay directly before it went into the aggregated database — and pulled up the morning readout.
+
+I was at the annotation table with the shared folder graph and my working notebook. He was approximately twelve feet away. This was a normal working arrangement. We had been in parallel proximity since mid-November without designing it.
+
+"The salinity signal from unit seven is back," he said, to the screen rather than to me, which was the register we had developed for thinking-out-loud that did not require the other person to respond.
+
+"Storm runoff or sensor?" I said.
+
+"That's what I'm looking at."
+
+I went back to the annotation. He clicked through the buoy interface. The room had the low productive sound of two people working and not requiring anything from each other, which was a sound I had identified in November as one of the things I had stopped being surprised by.
+
+"The December sixteenth reading is clean," he said, after a few minutes. "So it's not the sensor."
+
+"Runoff lag from the December eighteenth event," I said. "The storm window I noted in the methods draft."
+
+"Yeah." He looked at the screen. "That matches."
+
+A pause.
+
+"Good catch on the benthic timing this morning," I said.
+
+He looked over. "I wasn't sure if it was adjacent enough to matter."
+
+"It's adjacent enough."
+
+He nodded and went back to the terminal. I made a note in the working notebook: unit 7 / storm runoff confirmed / O cross-ref buoy. This was a work note. I made it in the working notebook, not the green one. The green one was closed.
+
+Matt texted on a Thursday evening in late December, while I was in the middle of making rice. His texts had the quality of something composed rather than sent impulsively — you could feel the slight architecture to them, the choice of what to include. This one said: How's the station 4 situation? I remember you being worried about the February window.
+
+I set the spoon down and read it twice. He had remembered the February window. We had not spoken since early November, and he had retained: station four, February, I was worried.
+
+I texted back: It's close. We've got the data lined up, just waiting on weather and the grant timing.
+
+He replied: That sounds like oceanography. Weather and bureaucracy.
+
+I replied: That sounds like everything.
+
+He sent a photo a few minutes later. It was a house — not his house, some other house — in the snow. The caption said: Helping my brother move this weekend. Ohio in January is exactly what you'd expect.
+
+I looked at the photo for a moment. There was nothing in it that required analysis. It was a house in the snow in Ohio, and he was helping his brother, and he had sent it to me because he was sharing his life and because I was still one of the people he sent things to, and because one of us was managing the situation with more precision than the other and it was not Matt.
+
+I texted: Stay warm. Hope the moving goes fast.
+
+He sent a thumbs-up emoji.
+
+I put the phone down and turned back to the rice, which was fine.
+
+The Nico accumulation, by late December, had three points.
+
+The engagement differential was from October: the kitchen questions tracked differently than the canyon questions. The canyon questions — about my work, my research — had a slightly shallower follow-up rate than the questions about what I thought, how I saw things, what I made of situations. Not drastically shallower. But the pattern was there if you had been measuring it for two months, and I had been measuring it for two months.
+
+The possessiveness was from December: not jealous of Owen, jealous of losing what he had. I had identified this correctly at the time and had filed it in the correct column.
+
+The asymmetry was the third point, and it was the one I had the least clean data on. It was more of an orientation. He was interested in what I thought of him. He was less interested — by a degree that was measurable but not dramatic — in what I thought of things that did not involve him. This was common. This was so common as to be nearly structural in how people organized attraction. I was not dinging him for it. I was noting it because I noted things.
+
+Three points was a beginning. Not a pattern in the statistical sense. A precondition for one. I needed more entries. I was continuing to go to Strand on Wednesdays, and the evenings were warm, and the chemistry was real, and I was not going to declare a result before the data was complete.
+
+This was the only reasonable position. I maintained it.
+
+The last evening of the year, I walked to the point again. The habit had formed without my deciding to form it: when the work was stuck or the thinking needed air, I walked out to the rocks and stood for a while.
+
+December had been a long month. I had run the station four numbers more times than I cared to count. I had made seven marks in the green notebook, one of which I had found in the records rather than in real time, and the count was right. I had talked to a man in a bar eleven times, almost twelve. I had received a photo of a house in the snow in Ohio and found nothing in it to analyze.
+
+The bay at year's end looked like it always looked in winter: dark and cold and very much itself, indifferent to the calendar in the way that bodies of water are indifferent to everything that is not wind and pressure and depth. The kelp was still there on the exposed rocks, darker now than in November.
+
+I stood until the cold got into my coat, which took about seven minutes at that temperature.
+
+Then I walked back.
+
+End of Chapter 14

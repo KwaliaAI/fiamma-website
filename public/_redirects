@@ -1,1 +1,8 @@
+# Google fetch paths are file-backed. Missing payload files must not fall through
+# to the SPA shell, because Google treats a 200 HTML response as a bad asset.
+/google-play/fetch/* /404.html 404
+# Reader manifest + chapter files are file-backed. A missing manifest must hard-404
+# rather than serve the SPA shell — the shell would parse as JSON failure and
+# silently fall back to "Chapters are coming soon." Detected 2026-05-01.
+/data/reader/* /404.html 404
 /* /index.html 200

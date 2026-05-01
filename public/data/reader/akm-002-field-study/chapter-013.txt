@@ -1,0 +1,155 @@
+By the second Wednesday in December, I had been going to Strand long enough that Nico poured before I sat down. He set the glass at my place on the bar and went back to closing out the line tickets without looking up, which was the hospitality version of a hypothesis confirmed: he had predicted my arrival within a ten-minute window and the glass was the documentation.
+
+I had been thinking about this pattern since October. Not obsessively. Just: I had been thinking about it.
+
+The kitchen closed at ten. Post-service was the part of the evening that had a different texture — the volume dropped, the ticket rail cleared, and the people who remained in the bar were the ones who had chosen to stay rather than the ones still mid-meal. Nico came around to the customer side of the bar occasionally during this window. Sometimes he pulled a stool out and sat. Sometimes he leaned against the back counter and talked from there, arms crossed, which was how he stood when he was comfortable and not performing comfort for a room.
+
+Tonight it was the stool. He sat down across from me — the bar was narrow enough that across meant approximately three feet — and told me about a problem with his produce supplier that involved two separate miscommunications, a delivery driver with a different interpretation of Thursday morning than the one Nico had been operating with for six months, and a notable quantity of mislabeled shishito peppers.
+
+I asked the right questions. He answered them. He was precise in the way of someone who has already worked through the frustration and is now delivering the story as a finished object. I had been collecting these: the precision, the dry accounting of a situation, the fact that he did not over-explain once the key information was transferred.
+
+I was aware I was collecting them. I was doing it anyway.
+
+The mislabeled peppers concluded. He refilled my glass — not asking; he had read the level — and I said, "The grant situation has a new wrinkle," and told him about it: the NSF timing revision, the gap in the bridge funding, the fact that the station four analysis needed the February window to be worth anything.
+
+"How long do you have?" he said.
+
+"Forty-nine days, if the window holds. Thirty is the minimum for the sampling run. That's nineteen days of contingency."
+
+"So tight," he said.
+
+"Tight," I agreed. "But not impossible. Owen and I have been looking at the north array data together — his buoy network lines up with the benthic station in the storm window, so if the gap affects his indirect funding, we're looking at the same problem from two sides."
+
+It was a work sentence. It was a factually accurate work sentence about a collaboration that had been established over shared corridor math in the aftermath of a Friday staff meeting. I had said Owen's name before in this bar, which was a small point but was a data point.
+
+Nico's attention did not move. It stayed exactly where it was. That was the tell.
+
+I had been watching this man for eleven Wednesday evenings. When he was interested in a thing, his attention moved toward it — a slight forward adjustment, the quality of his listening sharpening by a degree you could only catch if you had been calibrating your baseline for two and a half months. When he was in motion emotionally, the motion was visible in how he held his hands, whether he was looking directly at me or at a middle distance, the rate at which he came back to the thread after a bartender interruption.
+
+Right now his attention was not moving toward the story about the grant. It was staying in place with the quality of something held still. This was not his resting state. His resting state was a lean.
+
+I finished my sentence. I watched him.
+
+He picked up his glass. He said, "This Owen — he's the one running the buoy program?"
+
+The framing was careful. This Owen, as if the name had just arrived rather than having appeared in a sentence I had said before on at least two prior Wednesdays. He's the one running, as if Nico were situating a character in a story rather than asking about a person's relationship to a piece of work that he already had context for.
+
+I did the diagnostic in the time it took him to finish the question.
+
+What it was: Nico was not threatened by Owen. The tell for actual threat reads differently — it comes with a quality of deflection, the subject-change, a new topic introduced with too much energy. What I was seeing was not deflection. It was the opposite: a controlled retention of the subject. He wanted more information. Specifically, he wanted more information about the structure of a thing, not the content of it.
+
+What it was not: jealousy of Owen as a person or a presence. That would have read as dismissal — a slight drying of the voice, maybe a different quality of question, something that created distance from the subject. There was no distance.
+
+What it was, precisely: Nico was jealous of the idea of losing the thing he currently had. The thing he had was a kind of my attention — the Wednesday version, the version that came to his bar and asked the right questions and had been calibrating her baseline for eleven weeks. He had absorbed that Owen existed in a professional context that required close collaboration and sustained contact, and the part of him that had not fully thought this through had produced a question that was trying to measure how much of that attention was being directed somewhere that was not him.
+
+He did not know I had been studying the dataset. He thought he was being subtle.
+
+He was not being subtle. He was being a man who was used to reading people correctly and who was, right now, being read.
+
+I answered the question accurately and completely, because I always answer questions accurately and completely, and also because the accurate and complete answer — yes, he runs the buoy network, eleven units on the north and south arrays, we've been cross-referencing the winter storm data with the station four benthic signal, it's a practical collaboration tied to the same grant window — was also, structurally, the answer that could be read as reassurance. Not offered as reassurance. Just accurate. The irony of that was its own layer. I put it in the same column as the rest.
+
+He nodded. He did not pursue it further, which was correct behavior, which he was executing correctly because he was smart enough to know not to pursue it further, and which I credited him for, and which I was also aware did not change what had happened.
+
+"Forty-nine days," he said, returning to the grant. "You'll know by mid-February whether the window holds?"
+
+"We'll know in two weeks whether Kaplan has a bridge option," I said. "After that, it's weather."
+
+"Always weather," he said.
+
+"Always weather," I agreed.
+
+He got up because someone at the far table needed something. I sat with my glass and the low bar light and the comfortable weight of Strand in December, and I ran the diagnostic one more time, quickly, confirming the finding.
+
+Not jealousy of Owen. Jealousy of losing the thing he has. I knew the difference immediately. I always knew the difference.
+
+The flaw I had been tracking since I noticed the asymmetry in October — the canyon questions that were not quite at the same depth as the kitchen questions, the attention that had always been slightly more organized around what I thought of him than around what he thought of anything — had taken its shape tonight. I filed it in the correct column. I was not surprised. Being right about a thing you had predicted is not the same as being satisfied by it, but it is adjacent, and I was aware of the adjacency.
+
+I drank the last of the glass. He came back. We talked about other things. The evening had the same warmth it usually had, and I was present in it, and I also now had the diagnostic and I was not putting it down.
+
+The Count gap, as it happened, was the same week.
+
+I found out about it on Friday from Priya, who mentioned it the way you mention a thing you assume the other person already knows: in passing, as a subordinate clause of another sentence, while we were both putting coats on in the hallway outside the lab.
+
+Owen had spent most of Thursday afternoon helping the new research assistant — Tomás, who had started in November and was still oriented primarily to the equipment rather than the station protocols — sort out a calibration problem on the CTD sensor. Priya described it briefly: Owen had caught the error in the pre-dive check, walked Tomás through the correction, and then stayed with him through the re-calibration until the instrument read correctly. Tomás had apparently said something about it at the equipment bench that afternoon, which was where Priya had been when she heard it.
+
+I had not been at the equipment bench on Thursday afternoon. I had been in my office running the station four numbers, which had the same value they'd had the previous four times I'd run them, and then going through the annotated graph he'd left in the shared folder, and then writing three sentences of what would become the methods section, and then deleting two of them.
+
+It was a small and correct thing, the kind of thing that would have qualified. And I had not been there, and Priya mentioned it on Friday in passing, and I filed it without realizing I had nothing to file.
+
+The number I was carrying was still six.
+
+The Thursday group had reached a new chapter.
+
+Jonah arrived with the look of a man who had been thinking since the previous Thursday and who considered this a form of preparation. He had brought a printed page, which was unusual; he typically gestured through his theories verbally, with the confidence of a person who believed his reasoning was sufficient without visual aids. Tonight he had a visual aid.
+
+"The Wire," he said, before anyone had finished sitting down. "Season four. The schools arc."
+
+Marcus's expression managed itself.
+
+"I'm listening," Priya said, with the tone of a woman who was not going to stop the situation from happening and had accepted this.
+
+"The argument I've been making is that field research has the structure of prestige television. Slow build. Interlocking storylines. The audience — which is the field — doesn't understand what's happening in episode three. It pays off in episode eight. The payoff is only visible in retrospect."
+
+"You've said this," Priya said.
+
+"I've refined it," Jonah said. He put the printed page face-down on the table. "Season four is the key because it's the season where the most important things happen to characters who are not the main characters. The main characters are doing their main-character things — which look, from inside the story, like the point. And meanwhile, in the schools arc, the actual point is happening and nobody is watching it yet."
+
+He paused. He looked around the table with the expression of a man delivering something he found genuinely elegant.
+
+"I think we're in the schools arc," he said. "I think whoever is doing the thing that matters is not the person who looks like they're doing the thing that matters."
+
+There was a silence.
+
+"I have a candidate," said Cecily's voice from the laptop. Cecily was in Pacific Grove this week, dialing into Thursday group from her apartment with the audio quality of someone whose building had been built in 1974 and whose wifi router was in a different room. She had been following the Jonah theory with what she called "professional interest," which I had understood from early November to mean she found it structurally appealing and was managing a small rivalry about not having come up with it herself.
+
+"Who's your candidate," Jonah said, rotating toward the laptop.
+
+"I'm not going to say," Cecily said. "That's the point. If I say, it means I've identified the schools arc, which means I'm now watching the schools arc, which means the schools arc has become the main arc. The whole thing collapses. It only works if nobody says it."
+
+Jonah opened his mouth.
+
+"She's right," Marcus said. He said it with the resignation of a person who did not want to be the one who said it but had found the logic inescapable.
+
+Jonah closed his mouth. He looked at the printed page. Then he looked up.
+
+"That's also in season four," he said. He sounded either pleased or troubled. It was not fully possible to distinguish.
+
+Priya looked at me with the expression I had been cataloging since August: the slight forward compression of her mouth, the fractional narrowing of her eyes, the quality of a person who had decided several minutes ago that this conversation had exceeded what she had agreed to participate in, but who also knew that the only exit was to wait for it to end. The expression, over the past several months, had acquired an additional layer: a slight directional quality, as if she were measuring how much of the situation she could attribute to me.
+
+Not incorrectly.
+
+I had started the TV theory in September, in a conversation with Jonah over coffee that had been intended to last ten minutes and had run to forty-five. This was, I was aware, a thing I had contributed to. Priya was aware I was aware. We had an understanding about this that required no verbal articulation.
+
+Cecily's audio crackled. Then she said, "I've been comparing the beluga call rate data from September and it might be the case that I accidentally trained myself to distinguish between a stress vocalization and a play vocalization by the end of the field season. Just as — I want to be clear — a completely passive byproduct of running the calls through my head while I was trying to fall asleep. For approximately three months. I have involuntarily developed a professional skill from insomnia and I genuinely don't know how to list this on a methods statement."
+
+There was a brief silence.
+
+"Involuntary expertise," Jonah said.
+
+"That's exactly what it is," Cecily said. "I have involuntary expertise. I am a person who now knows things she did not try to learn and has to figure out if they count."
+
+"They count," Marcus said.
+
+"Do they?" Cecily said. "I learned them from a sleep deficit."
+
+"All the best skills," Priya said.
+
+Cecily made a sound that was not quite a laugh and not quite disagreement and came out somewhere between the two.
+
+Jonah looked back at his printed page. He had been momentarily derailed by the involuntary expertise situation, and he was now recalibrating. "The schools arc," he said, to the table in general, returning to his text, "rewards the viewer who re-watches. On first watch, you don't see what you missed. On re-watch—"
+
+"We're not re-watching," Priya said. "We're in it."
+
+"That's why it's hard," Jonah said.
+
+Priya looked at me again with the look.
+
+I looked back. I kept my expression neutral, which was the expression I used when I was responsible for a thing and was not going to perform innocence about it.
+
+On Saturday I walked out to the point at low tide with my notebook and nothing useful in it and stood for a while looking at the water. December had put a hard edge on the wind off the bay. The kelp on the exposed rocks had gone dark in the cold.
+
+I had a finding that needed forty-nine days. I had a flaw I had filed and knew exactly where it sat. I had a theory about myself that I had not yet finished working through, and the evidence was still coming in.
+
+The water was the green-gray of winter, the kind that has no ambiguity about what season it is. I stood in it until my hands were cold, and then I walked back.
+
+End of Chapter 13

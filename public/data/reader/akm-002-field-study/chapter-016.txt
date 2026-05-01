@@ -1,0 +1,123 @@
+The vessel was a twenty-two-foot center-console research inflatable, which sounds like a category but is in practice a set of logistical constraints: a narrow port-side passage from bow to stern, an instrument rail that catches wetsuits, and a deck that becomes genuinely small when two people are both trying to work on it with equipment. I had been out to S4 in January on a single-operator run, just me and the CTD cast and the water. February was different. Owen needed to verify three buoy relays in the south array, two of which were positioned near the station four perimeter, and the station coordinator had looked at the day's vessel log and said, reasonably, that there was no justification for two single-operator runs on the same day in the same water. So.
+
+Owen was on the dock when I got there at six forty-five, already in his drysuit from the waist down and reading something on his phone. He looked up when I came down the ramp with the CTD housing and the sample kit. He said: "I'll take the stern."
+
+"Fine," I said.
+
+This was the extent of the negotiation. We loaded equipment in parallel for twenty minutes and then I started the engine and he cast off and by seven fifteen we were out past the kelp bed into the February bay.
+
+The bay in February is not unkind, but it is honest about itself. The water temperature offshore had been running at 11.2 Celsius and the sky was the flat white it gets when cloud cover is total and there is no particular horizon — everything the same pale gray from the surface out. I was in my 7mm suit with hood up, which is the correct gear for this and not flattering to anyone. Owen was in the drysuit, which is more range of motion and slightly more dignity, though not much. We had not discussed the gear choices. Both choices were correct for the respective work.
+
+I pulled up to the station four mooring at seven forty and cut the engine.
+
+The scar on his left hand is on the back, between the third and fourth knuckle, curved slightly inward at one end. Parenthesis-shaped. I had seen it in the lab, at the table, over the shared folder in the communal room — it is not a hidden thing, just a small white mark that catches different light differently. On the boat in the flat February morning, with the gloves off because he was doing a relay check that required bare hands on the connector contacts, I saw it from two feet away with the light at the angle it was at, and I looked at it directly.
+
+He had his left hand braced on the secondary rail and the right hand working the relay housing, which is a fiddly operation involving a quarter-turn fastener and a watertight seal that requires some force to break. The weight distribution when he does this leans his whole body slightly to the right: shoulders square to the rail, left arm extended, right arm working, a line from shoulder to hip that has nothing performed about it. I have been, I was now aware, not-quite-looking at this line for approximately four months. The not-quite part had been doing a lot of work, and the work had become difficult to sustain at a range of two feet on a vessel with limited deck space and no other direction to look.
+
+The relay housing opened. He checked the contacts, worked a connector loose, reseated it, checked again. His hands were wet and red from the cold. The parenthesis of the scar was white against the red — a distracting combination at close range.
+
+I was supposed to be running the pre-cast checklist.
+
+I ran the pre-cast checklist. It took somewhat longer than usual.
+
+The cast takes forty-five minutes at S4. The CTD goes down in stages — surface, ten meters, twenty, pause at the 47–58 range for extended logging, sixty, bottom — and each stage is waiting. I sat on the starboard gunwale with the line running over the side and my feet braced against the deck and the logging unit in my lap, and Owen worked at the stern doing whatever buoy verification requires, which involves a handheld reader and periodic note-taking on his yellow legal pad, which was going to be destroyed by condensation by the time we got back but this was apparently not a concern. We did not talk. The boat moved in the small February swells, a slow rotational drift on the mooring line, and the logging unit collected data, and the pen scratched on the legal pad.
+
+At some point he moved from the stern to the instrument rail to get a reading from the north relay float, which put him closer to the starboard side, and the boat was small enough that I needed to shift my feet to give him clearance on the rail. He said nothing about this. I said nothing about this. He reached past me to log something on the handheld reader and his forearm passed about eight inches from my eye line at the exact moment I was looking at it, and I did not look away, and he did not notice that I did not look away, which was the correct outcome for everyone involved.
+
+There is a quality to wanting to touch someone when you are not going to touch them and both of you are focused on instruments and neither of you is pretending otherwise. I was familiar with the principle. I had not previously experienced it in a drysuit on a research inflatable at eleven degrees Celsius with condensation running down my neck, but the principle does not require warm weather or a flattering context.
+
+The logging unit beeped at forty minutes to indicate the extended-range pass was complete.
+
+I pulled the line.
+
+I had the preliminary number by nine-fifteen. The signal had moved.
+
+We had pulled the CTD equipment and I was sitting in the stern seat going through the first-pass numbers while Owen secured the relay hardware in the bow locker. The boat moved gently on the mooring. He was doing the systematic check that equipment storage requires — everything back in the correct bracket, every latch closed, the handheld reader back in its case — and I was watching the field reader scroll through the S4 output and not watching him, which was a choice I was making consciously and which I was aware of making. The preliminary number resolved at nine-fourteen. Not final — this was a first-pass estimate, not a processed result, and the final figure would require the full analysis back in the lab. But preliminary was clear enough to read.
+
+I looked at it.
+
+"What's it saying," he said, not looking up from the bow locker.
+
+"Eighty-eight," I said. "Preliminary."
+
+He closed the locker. He was quiet for a moment, and then he said: "You'll have it by the end of the week."
+
+Not that's promising or good progress or any of the social approximations that fill the space between people when one of them has just gotten a number they've been working toward for six weeks. Just: you'll have it by the end of the week. The way you tell someone what time their train arrives.
+
+I did not open the green notebook. The green notebook was in my dry bag in the bow hatch, which was twelve feet away and under a coil of buoy line, but the distance was not the issue. The issue was that I sat with the field reader and the preliminary number and thought about making a mark and could not locate the category this fell into. He had not made a prediction. He had said a thing that was true. These are different operations, and what I had been counting was the former, and this was the latter, and I knew the distinction, and I sat with it for approximately thirty seconds before I determined that the distinction was where I had left it and I was not going to file this incorrectly.
+
+I put the field reader away.
+
+He started the engine. I cast off the mooring and coiled the line and we went back across the flat gray bay toward the dock with the wind coming off the water in the way it comes off the water in February, which is to say directly.
+
+The Strand Wednesday fell two days later.
+
+I walked in at eight, which is when the evening has settled into itself — the early dinner crowd rotating out, the bar crowd arriving, the noise at the calibrated level where you can have a conversation without performing it. Nico was at the far end of the bar making something in two glasses, and he looked up when I came in and his expression did not announce anything; it just changed in the small way it changed when it was me. Three months of Wednesdays and I still cataloged that. I noted it the way you note when equipment that has been reliable is still reliable: without surprise, but not without attention.
+
+"The usual?" he said when I got to my seat.
+
+"Please."
+
+He made the drink. He had a burn scar on the inside of his right wrist that I had stopped actively noticing around week six but that still registered peripherally when he poured, which it did now — the flicker of it in the bar light, the small familiar geometry.
+
+I still wanted him. Not a complication or an asterisk; a fact available to me if I wanted to examine it, and I did, and there it was. The wanting was still real. It had the same texture it had had in October, which was direct, physical, without ambiguity about its nature. What the wanting had never resolved into was something else, and I had three data points on why, and they were not going away. Both of these things were present simultaneously in the same body sitting on the same stool, which is not particularly unusual. I did not manufacture a conflict.
+
+He came back and leaned on the rail opposite me.
+
+"You were out early yesterday," he said.
+
+"Six forty-five," I said.
+
+"And you got what you needed?"
+
+"Preliminary. I'll have final numbers by Friday."
+
+He nodded. He was quiet for a moment, and then he said: "I had a fish supplier out of Half Moon Bay when I was at the Presidio. Third generation, ran his own boat, came in twice a week with whatever the morning had been. Most people treat a preliminary number like a placeholder. He'd come in and say 'I think I've got forty pounds of halibut for you' and I'd say, I'll take it. Every time. Because I had enough of a record on him to know what the estimate meant."
+
+He was looking at the surface of the bar when he said this, not at me. I looked at him.
+
+He meant it literally — it was a story about working knowledge and calibrated trust, about what it means to have enough of a record on someone to act on their preliminary. He was not performing a lesson or constructing a compliment. He had a thing from his own life that fit, and he said it. That was the version of him I had first seen through the window on week one: not the charm, which he had in full, but the thing underneath the charm that was occasionally visible. The person who paid attention to the calibrated things.
+
+"That's exactly right," I said.
+
+He looked up. He smiled, which on Nico is not wide but certain — contained, pointed inward at something — and the warmth of it went into the room the way warmth does when it is not manufactured. I felt it. I was not pretending not to feel it.
+
+The evening moved the way it moved: another drink, a plate of anchovies and something soft on sourdough that I hadn't ordered, the bar cycling through its late-week rhythms. He sent the plate over without comment, which was a thing he did, and I ate it without comment, which was a thing I did, and the warm light was what it was and he was what he was across the bar. He was present in the way he was present, which was attentive and easy and never quite full. I was present in the way I was present, which included being aware that I had been on a boat two mornings ago watching someone's forearms in the flat February light and had come home with a preliminary number and sat in the kitchen for a longer time than the number required not writing anything.
+
+The asymmetry was there. It was not the thing I was thinking about. I was thinking about the warm light and the scar on his wrist and the fish supplier story, and I was also thinking about the light on the bay at seven forty in the morning and a parallel-function silence on a twenty-two-foot research inflatable.
+
+Both things were there. That was the correct accounting of what was happening.
+
+I walked home at eleven. The air was cold and damp and the fog was in from the bay, diffusing the streetlights into even halos, and I put my hands in my pockets and walked without thinking about very much at all.
+
+The final number came in Friday morning: 91.2 percent.
+
+I looked at it for a while. Ninety-one point two. Above ninety, which was the threshold I had named in the methods section as the point at which the break-point finding would be defensible — defensible in the full sense, the sense where you can put it in front of reviewers and let them take their best run at it and the number will hold. The break point at 51.6 meters was real. The station four gradient had a structural discontinuity in the winter water column and I had measured it and I could say so.
+
+I wrote it up in the working notebook — the brown one, the science one. Station, date, instrument configuration, result, confidence interval, method notes, next analytical steps. Six lines. Everything in its correct place, every entry labeled.
+
+Then I sat at the kitchen table with both notebooks in front of me and the results page on the laptop screen and the late-morning light coming through the window at the angle it comes through on clear February days, which is lower and more direct than any other month's late-morning light, and I opened the green notebook.
+
+Nine marks. Evenly spaced, clean, each one timestamped in my head to a particular exchange in a room I could name, at a confidence level I could cite. I had opened the notebook to make a tenth mark or to confirm there was no tenth mark, which were two equally possible outcomes and both correct depending on what had happened. The criteria were the criteria. I had written them down in October and they had not changed.
+
+I sat with it.
+
+What had happened on the boat was not a prediction. He had not looked at incomplete data and committed to a direction. He had said you'll have it by the end of the week, which was a statement about me — about what I was capable of, about the calibration he had developed over four months of watching me work — and it was not the same operation as looking at a diagram for four seconds and naming the missing question.
+
+There was no tenth mark. That was the correct determination.
+
+I was still sitting with the notebook open and the pen in my hand.
+
+I wrote:
+
+Left hand on the secondary rail, right hand working the housing. How weight distributes when the dominant arm is busy. The light at that angle, on the scar, at seven forty in the morning.
+
+I put the pen down.
+
+I looked at what I had written. It had no column. It had no label. It sat below the ninth mark in the green notebook the way an unlabeled vial sits in a sorted rack — not wrong, not contaminated, just waiting for someone to decide what it is.
+
+I did not cross it out.
+
+I closed the notebook and left it on the table, and through the window the February light fell across the two covers, brown and green, side by side.
+
+End of Chapter 16

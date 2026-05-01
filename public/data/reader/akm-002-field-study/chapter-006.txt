@@ -1,0 +1,237 @@
+- "specific/specifically" — 3 uses in Ch6 (limit is 2). Ch7: max 1.
+- Ending ("I did not open it / I was going back next Wednesday / I turned off the light and went to bed") — borderline triple-close. Ch7: close on a single beat.
+- "second column" reference at chapter end — used once, acceptable. Do not use again.
+
+| Detail | Canonical Value |
+|--------|----------------|
+| Owen Count 3 | Collection interval error — northern grid running 14min, should be 17min (tidal coefficients). Artifact consistent since September. She says "thank you" without self-correcting. Tick mark, no label. |
+| Owen's "mm" register | Two distinct registers: "acknowledged" vs "you would have found it." She knows them apart. |
+| Sex location | Strand kitchen — prep table at center, post-service. Stainless steel, line off, pass still lit, smells like the evening. |
+| Nico laugh | First full-volume laugh. Arrives from somewhere lower. She stores it in the not-peer-reviewed column. |
+| Sex scene | She pulls her own shirt off. "Stay there" instruction. She follows it and laughs. Acoustic properties observation. Her voice throughout. |
+| Nico asymmetry (planted) | Post-sex conversation: he circles back to station four briefly (eight-year footnote) then pivots to sourcing/salmon/December crab. Her questions engage fully; his follow-ups on her work are shallower. "You're useful" as coda — she reads as second-column confirmation. Not annotated in prose. |
+| Walk home comedy | ~1am. She is running a between-subjects comparison on salmon migration and benthic density gradients. "I was walking home from having very good sex for the first time in four months and I was running a between-subjects comparison on salmon migration." |
+| Sea surface temperature data | Wren has the Hopkins monitoring time series. Nico needs it for crab curing calibration. She will pull it. |
+| Owen Count end Ch6 | 3 |
+
+Monday morning, Owen told me the sample collection protocol for the northern grid had been off since September.
+
+He said it the way he said things — flat, precise, no announcement — while he was writing in his own notebook and I was standing six feet away entering data. The November light was coming through the lab window at the inland angle, the gray quality it got in the first week of the month, and I had my back to him, which was my standard orientation when we were both working, which was most mornings.
+
+"The northern grid run," he said. "The collection timing is wrong. You're getting a compression artifact in the depth-pressure ratio. Probably been there since September."
+
+I stopped typing.
+
+I turned around.
+
+He was still looking at his notebook. He had the parenthesis scar on his left hand and his forearms on the bench edge in the way they always were and he was annotating something in the margins of his own data, not mine, the same unhurried quality of a man who had decided to mention this fact and was now done mentioning it.
+
+"How do you know," I said.
+
+"Your interval is fourteen minutes. It should be seventeen for that depth with the bay's current tidal coefficients. The artifact isn't large but it's consistent — it'll show up in the station four analysis if the gradient comparison is time-sensitive."
+
+I looked at the screen in front of me. I thought about the station four gradient. I thought about what consistent meant if the artifact had been running since September.
+
+He turned a page.
+
+"I'll re-run the September set," I said.
+
+"Mm," he said.
+
+I stood there for another moment. I was aware that I was going to say thank you and then correct myself to something more calibrated, the way I usually did when the correct and the irritating came in the same package, but this time the irritating hadn't shown up with it. Just the correct: seventeen minutes, tidal coefficients, consistent artifact. He had caught a thing I'd been running past for eleven weeks and had mentioned it without making it into a lesson, and the absence of the lesson was, I had noticed, the quality that distinguished Owen's corrections from other people's corrections.
+
+"Thank you," I said.
+
+He said "mm" again in a slightly different key, the one that meant you would have found it rather than just acknowledged. I could not have explained how I knew these two registers apart. I knew them apart.
+
+I turned back to my screen.
+
+I had been thinking about Wednesday.
+
+I did not stop thinking about Wednesday when I turned back to my screen. Both things were present at the same time: Owen correct about the collection interval, seventeen minutes, and Wednesday, and the way these two things were occupying the same mental space without conflicting, which said something about the space I was carrying around with me, which I was not going to examine right now because I had eleven weeks of sample data to re-run.
+
+I opened the field notebook to Monday's date and wrote: Collection interval — northern grid: 17min per Owen, tidal coefficients. Re-run Sept set. Consistent artifact. Check against station 4.
+
+A tick mark. No label. He was right.
+
+I closed the notebook and started the re-run.
+
+Wednesday.
+
+The crudo was different again — he cycled them, I had understood by now, the protein anchored in halibut but the surrounding architecture always shifting, always in service of something he was testing, and this week's argument was something citric and cold with a green oil pooled at one edge and a substance I could not identify that was pale and thin and tasted like the sea at low tide in the best possible interpretation of that sentence.
+
+The bar was at normal service when I arrived. The young bartender with the straight part was not there; in her place was an older man I hadn't seen before, compact, efficient, who poured my wine without being asked and then went back to wiping down the far end of the bar.
+
+I ate. I read two papers. The kitchen noise behind the pass had the quality it got toward the end of service — still working but lighter, the urgent rhythm of the early service giving way to something more deliberate, the sounds of a place finishing well.
+
+He came out at nine-fifteen.
+
+"How is it," he said, arriving at the bar with the directness that had replaced the early-weeks distance — no longer an opening move, just his normal operating mode. Four Wednesdays in. This was not the first time anymore.
+
+"The pale thing," I said. "I can't tell if it's a foam or a gel."
+
+"Gel. Kombu and salt, set with agar."
+
+"That's the low tide flavor."
+
+He looked at me. Not the assessing look of the early weeks — this one was something adjacent to pleased, the expression of a person who has been understood. "Most people say the sea."
+
+"Most people haven't been in the water at low tide when the rocks are exposed."
+
+"Have you."
+
+"I spent three months last year doing intertidal sampling at Hopkins. I have opinions about low tide." I took the last bite. "This is accurate."
+
+He moved a glass from one side of the bar to the other, a small adjustment that meant nothing and meant he was staying. The last tables were settling into their checks. The older bartender made two drinks and carried them to the far end of the room.
+
+"Stay," Nico said.
+
+Not a question.
+
+I stayed.
+
+The last table left at ten-forty. The kitchen crew came through the back in ones and twos — I heard them, the voices at the rear of the space, the exit door, the sound of a bicycle in the alley. The older bartender untied his apron, said something in Nico's direction that I couldn't hear, and Nico raised a hand without turning from where he was standing, and the bartender left.
+
+The restaurant was quiet. The candles were still going. The overhead sconces were down to their lowest setting, which in the Strand's light meant amber and close and the kind of dark that wasn't actually dark, just a different quality of visible.
+
+Nico came around the bar.
+
+He stood in front of me — not close enough to be a statement, close enough to be an intention — and he looked at me for a moment with the same quality he applied to everything: straight, without added weight, like a variable he was confirming was still in the equation.
+
+"Hi," I said.
+
+"Hi," he said.
+
+He kissed me.
+
+I had been thinking about this for four weeks and it was still slightly different from what I'd modeled: less preliminary, for one thing, no gradual arrival, just the decision already made by the time his mouth found mine, and I had a moment of recalibrating — I'd expected something tentative, something that asked the question first, and he had already answered the question — before I stopped recalibrating and kissed him back, which was the correct response and the one my body had been arguing for since October.
+
+He tasted like the wine he'd been drinking, something red I hadn't tasted yet, and his hands were at my jaw and then in my hair, and I slid off the barstool and he caught the movement like he'd been expecting it, which maybe he had.
+
+"Kitchen," I said, against his mouth.
+
+"Kitchen," he agreed, and we went.
+
+The Strand's kitchen was not a film set's kitchen. It was a working kitchen at the end of service: stainless steel that had been cleaned but still held the smell of the evening — fish and citrus and the char from the high-heat line — the kind of clean that was hygiene, not aesthetic. The pass was still lit. The line was off. There was a steel prep table at the center and he had me up on it in one motion that was decisive in a way that made me briefly revise my model of how this was going to go, because my model had included more deliberation and less of this, this exact quality of him already knowing where everything was going, and I was — not surprised, exactly. Recalibrating, again.
+
+Good, I thought. Good is what I thought.
+
+"You knew this was going to happen," he said.
+
+"Four Wednesdays ago," I said. "Give or take."
+
+He laughed, which was the first time I had heard him laugh at full volume, a real one, not the controlled almost-smile of the bar — a laugh that arrived from somewhere lower and arrived suddenly and I felt it more than I heard it, and I stored this in the column that was not peer-reviewed.
+
+His hands were on my hips and then under the hem of my shirt, and I pulled the shirt over my own head because I had been waiting long enough and I was not going to perform patience I didn't feel. He looked at me for a moment — his attention, unrushed — and I watched him look, which I had no objection to, and then I reached for him.
+
+I want to say for the record that I had been correct about the chemistry. Four Wednesdays of carrying a hypothesis and the hypothesis was right: he was good at this with the same quality he was good at everything, which was the quality of having thought hard about what the material needed and then trusting what he knew. He was not tentative. He was not performing. He was present in a way that I had predicted but which was, in the actual occasion of it, better than the prediction.
+
+The thing I hadn't predicted was the way he talked.
+
+Not much. Not narration. But present, ongoing, a low thread of observation that was not for show — not the declarative statements some people produced during sex that were fundamentally addresses to themselves, but something more like: this and there and once, with a quality that made me laugh out loud, stay there, which I did, and which was a good instruction.
+
+"You're laughing," he said.
+
+"I'm also doing exactly what you said," I pointed out.
+
+His mouth curved. He stayed where he was.
+
+I said his name. I said other things, some of which were words and some of which were not. The prep table was cold through the back of my thighs and the overhead light above the line was still on at low setting and the kitchen smelled like the end of good work, and at some point I had my hands braced on the steel behind me and my head back and I was thinking — in the fraction of my brain that never fully went offline — that the acoustic properties of a working kitchen were genuinely distinct, the sound catching differently off the steel surfaces, and I could not have said whether this observation was ridiculous or correct and I did not try to resolve it.
+
+Nico had his mouth on my collarbone and his hands occupied and was clearly not thinking about acoustic properties.
+
+I was not thinking about acoustic properties very hard either. But I did note it.
+
+He was good. He was present and precise and he did not stop being interested, which was the thing you needed and the thing that was not guaranteed and the thing that made the difference between a Tuesday and a revelation. This was not a revelation — I had known this was good, I had carried the hypothesis — but it was real, which was its own category.
+
+Afterward I sat on the edge of the prep table and he handed me my shirt from the floor and leaned against the opposite counter with his arms crossed and his weight still forward in the way it always was, and I pulled the shirt back on and looked at him, and we stayed like that for a moment in the kitchen light.
+
+"I was thinking about that footnote," he said.
+
+"Which footnote."
+
+"The eight-year one. You mentioned it a few weeks ago. Whether it's the same thing every eight years or something new."
+
+I looked at him. This was the post-sex conversation he was choosing to have, which was — accurate, actually, that he would come back to that, which was part of what I'd liked about the bar conversations. "Still working it out," I said. "The September re-run might tell me something."
+
+"You re-ran September?"
+
+"Found out Monday I had the collection interval wrong. Fourteen minutes instead of seventeen. Going to affect the comparison."
+
+He nodded, the way he nodded when something technical landed and he was processing it. He was quiet for a moment. Then: "You know what I'm thinking of re-doing? The whole sourcing run for spring. The suppliers I've used for two years — I want to re-test whether they're still the best option or whether they became the option by default."
+
+"The constraint becoming the habit," I said.
+
+"Exactly. You have to keep asking the question." He looked pleased with this thought. He looked toward the pass, then back at the kitchen — his eye moving through the space the way it probably always did at this hour, the attention of a person for whom a room was never just a room but a system to assess.
+
+"The salmon supplier," he said, "I've been loyal to him for three years. But there's a new operation up north, sustainable, boat-to-dock same-day. I'm going up to look at it next month."
+
+"Where north?"
+
+"Bodega Bay area. Maybe Tomales. I want to see the operation." He pushed off the counter. "Another drink, if you want one."
+
+I followed him back through the pass to the bar, which was dark now except for the candles still burning at the far end, and he poured two glasses and we sat at the bar — me on the stool, him on the other side, the familiar geography restored — and talked for another forty minutes.
+
+He was good company. He was genuinely interested in the sourcing question, the salmon, the Bodega Bay operation. He told me about a preparation he was working on for December, when the dungeness season opened — a crudo preparation that used a curing technique he'd adapted from a New York chef he'd worked under, modified for Pacific coast crab in a way that was still being refined.
+
+I listened. I asked questions. The questions I asked were real questions — I was genuinely interested in what he was solving, the way the constraint-and-material tension produced solutions, the way a kitchen was an ecosystem and a chef was its ecologist.
+
+At one point I said something about how the seventeen-year station four dataset was similar in structure to a multi-year sourcing log — the value was in the time depth, the ability to identify what was cyclical versus directional — and he nodded, and said, "Yes," and then said, "The other thing about the crab curing is the timing has to be calibrated for water temperature, so I need to know what the bay temperature was doing in November and December for the last few years."
+
+Which was, I realized, the kind of question I could answer.
+
+"I have that data," I said.
+
+He looked up. "You do?"
+
+"Sea surface temperature is part of the Hopkins monitoring. I have the time series."
+
+He pointed at me. "I need that."
+
+"I'll pull it."
+
+He smiled — the full one, not the controlled one — and said, "You're useful."
+
+I thought: and there it is, the second column. And I was right.
+
+I left at twelve-fifty, my jacket on, the fog already halfway up Junipero.
+
+I walked north.
+
+The walk home from Strand was twelve minutes at my pace — south Lighthouse to 17th, 17th to Junipero, Junipero north three blocks to Lighthouse, Lighthouse the rest of the way — and I knew the route in my feet now, which was the knowledge of a place you'd walked enough times at enough hours that your body had its own map.
+
+Twelve-fifty, maybe one in the morning. The fog was in full, the kind that turned the streetlights into suggestions and made the eucalyptus at the grove an absence of light rather than a presence. November fog, different from October fog: October was cold and wet and tasted like the bay. November was thicker, slower. It settled in and did not move.
+
+I was thinking about the collection interval.
+
+If the fourteen-minute interval had been running since September, that was nine weeks of compressed data in the northern grid, which would affect the depth-pressure ratio in exactly the way Owen had described — not catastrophically, the artifact wasn't large, but consistently, and in the station four comparison the consistency was the problem. Directional trends were sensitive to systematic error in a way that noise wasn't. You could average over noise. Systematic error ran the same direction every time.
+
+I was also thinking about whether the Bodega Bay salmon operation was going to be relevant, not to Nico's December menu, but to the temperature correlation — because if the salmon population was moving north with the water temperature, and the Hopkins temperature series showed what I thought it showed, then the sourcing shift Nico was observing was actually downstream of the same gradient variable I was tracking at station four, which was either a coincidence or an interesting illustration of how the same physical forcing could show up in completely unrelated systems —
+
+I stopped.
+
+I was walking home from having very good sex for the first time in four months and I was running a between-subjects comparison on salmon migration and benthic density gradients.
+
+The fog moved. The eucalyptus were shapes. I started walking again.
+
+I had been correct about Nico. Everything I'd predicted had come in: the chemistry, the quality of his attention, the way he was good at the same things in and out of the kitchen. These were verified predictions. I had the data.
+
+What I hadn't predicted was that the interesting question at twelve-fifty-three in the morning would be seventeen minutes, and whether the station four comparison needed to be rebuilt from September.
+
+The finding was real. I was more certain of it tonight than I'd been on Monday, though I could not have explained the causal mechanism, because tonight's data wasn't a mechanism. It was a variable. A variable that had arrived via a different system and was pointing the same direction.
+
+Cyclical or directional: this was still the question.
+
+The yellow house was ahead, the outside light steady against the fog, the handrail at the top of the steps where it always was.
+
+I had my hand on the rail before I'd thought about it.
+
+Inside: field notebook on the counter, kettle on the stove, the kitchen with its late-night quality of a room waiting to be used. I put my bag down. I looked at the notebook.
+
+I did not open it.
+
+I was going back next Wednesday.
+
+I turned off the light and went to bed.
+
+End of Chapter 6
