@@ -1,1 +1,4 @@
+# Google fetch paths are file-backed. Missing payload files must not fall through
+# to the SPA shell, because Google treats a 200 HTML response as a bad asset.
+/google-play/fetch/* /404.html 404
 /* /index.html 200
