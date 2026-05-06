@@ -102,6 +102,7 @@ export const handler = async (event) => {
   const created = Boolean(data?.created)
   let notified = false
   let notificationSkipped = false
+  let notificationError = null
 
   if (created) {
     if (isSuppressedAlertEmail(email)) {
@@ -115,11 +116,7 @@ export const handler = async (event) => {
           email,
           error: alertError instanceof Error ? alertError.message : String(alertError),
         })
-        return jsonResponse(500, {
-          error: 'Reader alert failed',
-          created,
-          notified,
-        })
+        notificationError = alertError instanceof Error ? alertError.message : String(alertError)
       }
     }
   }
@@ -129,6 +126,7 @@ export const handler = async (event) => {
     created,
     notified,
     notificationSkipped,
+    notificationError,
     email,
   })
 }
