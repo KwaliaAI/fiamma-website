@@ -17,7 +17,9 @@ export async function subscribeReader(email: string): Promise<void> {
         body: body.slice(0, 300),
       })
     }
-  } catch {
-    // Intentionally silent: MailerLite must never block reading access.
+  } catch (error) {
+    console.warn('MailerLite subscribe transport failed', {
+      error: error instanceof Error ? error.message : String(error),
+    })
   }
 }

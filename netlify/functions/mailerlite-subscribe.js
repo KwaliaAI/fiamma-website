@@ -1,43 +1,44 @@
+const JSON_HEADERS = { 'Content-Type': 'application/json' }
+
+function jsonResponse(statusCode, body) {
+  return {
+    statusCode,
+    body: JSON.stringify(body),
+    headers: JSON_HEADERS,
+  }
+}
+
 export const handler = async (event) => {
   if (event.httpMethod !== 'POST') {
-    return {
-      statusCode: 405,
-      body: JSON.stringify({ error: 'Method not allowed' }),
-      headers: { 'Content-Type': 'application/json' },
-    }
+    return jsonResponse(405, { error: 'Method not allowed' })
   }
 
   let payload
   try {
     payload = JSON.parse(event.body || '{}')
   } catch {
-    return {
-      statusCode: 400,
-      body: JSON.stringify({ error: 'Invalid JSON body' }),
-      headers: { 'Content-Type': 'application/json' },
-    }
+    return jsonResponse(400, { error: 'Invalid JSON body' })
   }
 
   const email = String(payload.email || '')
     .trim()
     .toLowerCase()
   if (!email) {
-    return {
-      statusCode: 400,
-      body: JSON.stringify({ error: 'Missing email' }),
-      headers: { 'Content-Type': 'application/json' },
-    }
+    return jsonResponse(400, { error: 'Missing email' })
   }
 
   const apiKey = process.env.MAILERLITE_API_KEY
   const groupId = process.env.MAILERLITE_GROUP_ID
 
   if (!apiKey || !groupId) {
-    return {
-      statusCode: 202,
-      body: JSON.stringify({ ok: false, skipped: true, reason: 'Missing MailerLite config' }),
-      headers: { 'Content-Type': 'application/json' },
-    }
+    console.warn('MailerLite subscribe misconfigured', {
+      hasApiKey: Boolean(apiKey),
+      hasGroupId: Boolean(groupId),
+    })
+    return jsonResponse(500, {
+      ok: false,
+      error: 'server_misconfigured',
+    })
   }
 
   try {
@@ -59,24 +60,20 @@ export const handler = async (event) => {
         status: response.status,
         body: body.slice(0, 300),
       })
-      return {
-        statusCode: 202,
-        body: JSON.stringify({ ok: false, status: response.status }),
-        headers: { 'Content-Type': 'application/json' },
-      }
+      return jsonResponse(502, {
+        ok: false,
+        error: 'mailerlite_upstream_error',
+        upstreamStatus: response.status,
+      })
     }
 
-    return {
-      statusCode: 200,
-      body: JSON.stringify({ ok: true }),
-      headers: { 'Content-Type': 'application/json' },
-    }
+    return jsonResponse(200, { ok: true })
   } catch (error) {
     console.warn('MailerLite subscribe transport error (server-side)', { error: String(error) })
-    return {
-      statusCode: 202,
-      body: JSON.stringify({ ok: false, transport: true }),
-      headers: { 'Content-Type': 'application/json' },
-    }
+    return jsonResponse(503, {
+      ok: false,
+      error: 'mailerlite_unavailable',
+      transport: true,
+    })
   }
 }
