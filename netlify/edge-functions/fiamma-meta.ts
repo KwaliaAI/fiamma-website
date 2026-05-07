@@ -14,6 +14,13 @@ type PageMeta = {
   image?: string
 }
 
+const LEGACY_SEARCH_REDIRECTS: Array<{ key: string; value: string; path: string }> = [
+  { key: 'page_id', value: '9', path: '/' },
+  { key: 'page_id', value: '10', path: '/' },
+  { key: 'page_id', value: '34', path: '/' },
+  { key: 'feed', value: 'comments-rss2', path: '/' },
+]
+
 const HETERONYM_META: Record<string, PageMeta> = {
   'aubrey-kenneth-moss': {
     title: 'Aubrey Kenneth Moss — Fiamma Spark | Fiamma Books',
@@ -102,8 +109,23 @@ async function getBookMeta(slug: string): Promise<BookMeta | null> {
   }
 }
 
+function getLegacyRedirectPath(url: URL): string | null {
+  if (url.pathname !== '/') return null
+  for (const redirect of LEGACY_SEARCH_REDIRECTS) {
+    if (url.searchParams.get(redirect.key) === redirect.value) return redirect.path
+  }
+  return null
+}
+
 function getRouteMeta(url: URL): PageMeta | null {
   const segments = url.pathname.split('/').filter(Boolean)
+  if (segments[0] === 'books' && segments.length === 1) {
+    return {
+      title: 'Fiamma Books Catalog | Romance On Fire',
+      description: 'Browse Fiamma Books romance titles and start a complimentary read from the catalog.',
+    }
+  }
+
   if (segments[0] === 'heteronyms' && segments.length === 2) {
     return HETERONYM_META[segments[1]] ?? {
       title: 'Fiamma Authors | Romance On Fire',
@@ -137,6 +159,11 @@ function getRouteMeta(url: URL): PageMeta | null {
 
 export default async (request: Request, context: { next: () => Promise<Response> }) => {
   const url = new URL(request.url)
+  const legacyRedirectPath = getLegacyRedirectPath(url)
+  if (legacyRedirectPath) {
+    return Response.redirect(`${url.origin}${legacyRedirectPath}`, 301)
+  }
+
   const segments = url.pathname.split('/').filter(Boolean)
   const slug = segments.length >= 2 ? segments[1] : null
   const isReaderSurface = url.pathname.startsWith('/read/')
