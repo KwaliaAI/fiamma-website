@@ -321,7 +321,15 @@ export async function upsertReaderProfile(email: string): Promise<void> {
         }),
       })
 
-      if (response.ok) return
+      if (response.ok) {
+        const body = await response.json().catch(() => null)
+        if (body?.notificationError) {
+          console.warn('Fiamma reader alert failed after profile sync', {
+            notificationError: body.notificationError,
+          })
+        }
+        return
+      }
 
       const body = await response.text().catch(() => '')
       console.warn('Fiamma reader sync failed', {
