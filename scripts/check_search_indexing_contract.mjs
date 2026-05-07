@@ -11,9 +11,32 @@ const edgeFunction = readFileSync(edgePath, 'utf8')
 
 const errors = []
 const urls = [...sitemap.matchAll(/<loc>([^<]+)<\/loc>/g)].map((match) => match[1])
+const requiredSitemapUrls = [
+  'https://fiammabooks.com/',
+  'https://fiammabooks.com/books',
+  'https://fiammabooks.com/books/terms-and-conditions',
+  'https://fiammabooks.com/books/field-study',
+  'https://fiammabooks.com/books/base-notes',
+  'https://fiammabooks.com/books/mud-season',
+  'https://fiammabooks.com/books/heat-wave',
+  'https://fiammabooks.com/books/bar-fight',
+  'https://fiammabooks.com/heteronyms',
+  'https://fiammabooks.com/heteronyms/aubrey-kenneth-moss',
+  'https://fiammabooks.com/heteronyms/hailey-boone',
+]
 
 if (urls.length === 0) {
   errors.push('public/sitemap.xml has no <loc> entries')
+}
+
+if (new Set(urls).size !== urls.length) {
+  errors.push('public/sitemap.xml contains duplicate <loc> entries')
+}
+
+for (const requiredUrl of requiredSitemapUrls) {
+  if (!urls.includes(requiredUrl)) {
+    errors.push(`missing required sitemap URL: ${requiredUrl}`)
+  }
 }
 
 for (const url of urls) {
@@ -51,4 +74,6 @@ if (errors.length > 0) {
   process.exit(1)
 }
 
-console.log(`[search-indexing] OK (${urls.length} sitemap URL(s), ${requiredLegacyRedirects.length} legacy redirect pattern(s))`)
+console.log(
+  `[search-indexing] OK (${urls.length} sitemap URL(s), ${requiredSitemapUrls.length} required, ${requiredLegacyRedirects.length} legacy redirect pattern(s))`,
+)
