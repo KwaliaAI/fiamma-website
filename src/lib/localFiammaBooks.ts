@@ -177,4 +177,30 @@ export const localFiammaBooks: FiammaBook[] = [
     created_at: '2026-05-13T00:00:00Z',
     updated_at: '2026-05-13T00:00:00Z',
   },
+  {
+    title_id: 'casey-blake-001-wrong-side-of-the-ice',
+    title: 'Wrong Side of the Ice',
+    slug: 'wrong-side-of-the-ice',
+    heteronym: 'Casey Blake',
+    imprint: 'fiamma-contemporary',
+    imprint_subline:
+      'Stories for right now. No waiting, no permission, just the heat that happens when two people stop pretending they do not want it.',
+    genre: 'Romance',
+    fiamma_line: 'Contemporary',
+    blurb_short:
+      'Nora Voss is supposed to clear Gabe Cahill for the semifinal, not fall for the transfer winger whose ankle she knows better than her own pulse.',
+    blurb_300:
+      'Nora Voss trusts files, pain scales, and what a player will not say when he says he is fine.\n\nGabe Cahill arrives at Hartwell University with a Grade II ankle sprain, a transfer file full of careful notes, and eleven days to prove he can play in the conference semifinal. Nora is the athletic trainer who can clear him or bench him. She is good at her job, precise with a tape roll, and very committed to not noticing the tall right wing who closes her training-room door like he already knows the rules.\n\nGabe is cooperative. Too cooperative. He answers every question except the one that matters: how much it really hurts when the skate comes off and nobody is watching. Nora knows better than to trust a charming athlete with a countdown clock. She knows much better than to touch him after hours.\n\nThen she does.\n\nNow the ankle is borderline, the clearance form is open, and Nora has to decide whether her judgment is still clean enough to sign her name to it. Wrong Side of the Ice is Hartwell University Hockey book one: college hockey, athletic-trainer competence, professional-conflict stakes, group-chat comedy, and four explicit scenes for readers of Hannah Grace, Elle Kennedy, Sarah Adams, and Mariana Zapata.',
+    cover_url: '/assets/covers/wrong-side-of-the-ice.jpg',
+    isbn_pb: '978-1-917717-55-7',
+    isbn_eb: '978-1-917717-56-4',
+    isbn_audio: '978-1-917717-57-1',
+    buy_url_amazon: null,
+    buy_url_ebook: null,
+    buy_url_audio: null,
+    series_order: 1,
+    visible: true,
+    created_at: '2026-05-13T00:00:00Z',
+    updated_at: '2026-05-13T00:00:00Z',
+  },
 ]
