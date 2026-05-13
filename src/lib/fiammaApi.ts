@@ -83,6 +83,7 @@ const localCoverFallbacks: Record<string, string> = {
   'mud-season': '/assets/covers/mud-season.jpg',
   'heat-wave': '/assets/covers/heat-wave.jpg',
   'bar-fight': '/assets/covers/bar-fight.jpg',
+  'cold-snap': '/assets/covers/cold-snap.jpg',
 }
 
 type ChapterOverrideManifest = {
