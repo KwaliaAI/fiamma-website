@@ -1,0 +1,80 @@
+{
+  "bookId": "casey-blake-001-wrong-side-of-the-ice",
+  "version": "v1",
+  "source": "MANUSCRIPT_v2_1.md",
+  "generatedAt": "2026-05-13T00:00:00Z",
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "chapter_title": "Chapter 1: Wrong Side of the Ice",
+      "word_count": 3776,
+      "path": "/data/reader/casey-blake-001-wrong-side-of-the-ice/chapter-001.txt"
+    },
+    {
+      "chapter_number": 2,
+      "chapter_title": "Chapter 2: Transfer Protocol",
+      "word_count": 3282,
+      "path": "/data/reader/casey-blake-001-wrong-side-of-the-ice/chapter-002.txt"
+    },
+    {
+      "chapter_number": 3,
+      "chapter_title": "Chapter 3: Lateral Ligament",
+      "word_count": 3824,
+      "path": "/data/reader/casey-blake-001-wrong-side-of-the-ice/chapter-003.txt"
+    },
+    {
+      "chapter_number": 4,
+      "chapter_title": "Chapter 4: Tracking Well",
+      "word_count": 3505,
+      "path": "/data/reader/casey-blake-001-wrong-side-of-the-ice/chapter-004.txt"
+    },
+    {
+      "chapter_number": 5,
+      "chapter_title": "Chapter 5: After Hours",
+      "word_count": 3721,
+      "path": "/data/reader/casey-blake-001-wrong-side-of-the-ice/chapter-005.txt"
+    },
+    {
+      "chapter_number": 6,
+      "chapter_title": "Chapter 6: Rebalancing",
+      "word_count": 3434,
+      "path": "/data/reader/casey-blake-001-wrong-side-of-the-ice/chapter-006.txt"
+    },
+    {
+      "chapter_number": 7,
+      "chapter_title": "Chapter 7: Secondary Finding",
+      "word_count": 3317,
+      "path": "/data/reader/casey-blake-001-wrong-side-of-the-ice/chapter-007.txt"
+    },
+    {
+      "chapter_number": 8,
+      "chapter_title": "Chapter 8: Twelve Apologies",
+      "word_count": 3505,
+      "path": "/data/reader/casey-blake-001-wrong-side-of-the-ice/chapter-008.txt"
+    },
+    {
+      "chapter_number": 9,
+      "chapter_title": "Chapter 9: The Form",
+      "word_count": 3173,
+      "path": "/data/reader/casey-blake-001-wrong-side-of-the-ice/chapter-009.txt"
+    },
+    {
+      "chapter_number": 10,
+      "chapter_title": "Chapter 10: The Argument",
+      "word_count": 3740,
+      "path": "/data/reader/casey-blake-001-wrong-side-of-the-ice/chapter-010.txt"
+    },
+    {
+      "chapter_number": 11,
+      "chapter_title": "Chapter 11: Conference Semifinal",
+      "word_count": 3794,
+      "path": "/data/reader/casey-blake-001-wrong-side-of-the-ice/chapter-011.txt"
+    },
+    {
+      "chapter_number": 12,
+      "chapter_title": "Chapter 12: Morning Skate",
+      "word_count": 3955,
+      "path": "/data/reader/casey-blake-001-wrong-side-of-the-ice/chapter-012.txt"
+    }
+  ]
+}

@@ -7,7 +7,7 @@
     <Addressee>
       <AddresseeName>Google</AddresseeName>
     </Addressee>
-    <SentDateTime>20260513T193604Z</SentDateTime>
+    <SentDateTime>20260513T205753Z</SentDateTime>
   </Header>
   <Product>
     <RecordReference>akm-001-terms-and-conditions</RecordReference>
@@ -1049,6 +1049,168 @@ Cold Snap is Paradise Valley book four: grumpy heroine, sunshine cowboy, single-
         <ProductIdentifier>
           <ProductIDType>15</ProductIDType>
           <IDValue>9781917717540</IDValue>
+        </ProductIdentifier>
+        <ProductForm>AJ</ProductForm>
+      </RelatedProduct>
+    </RelatedMaterial>
+    <ProductSupply>
+      <Market>
+        <Territory>
+          <RegionsIncluded>WORLD</RegionsIncluded>
+        </Territory>
+      </Market>
+      <SupplyDetail>
+        <Supplier>
+          <SupplierRole>01</SupplierRole>
+          <SupplierName>Fiamma Books</SupplierName>
+        </Supplier>
+        <ProductAvailability>20</ProductAvailability>
+        <Price>
+          <PriceType>01</PriceType>
+          <PriceAmount>3.99</PriceAmount>
+          <CurrencyCode>GBP</CurrencyCode>
+          <Territory>
+            <RegionsIncluded>WORLD</RegionsIncluded>
+          </Territory>
+        </Price>
+        <Price>
+          <PriceType>01</PriceType>
+          <PriceAmount>4.99</PriceAmount>
+          <CurrencyCode>EUR</CurrencyCode>
+          <Territory>
+            <RegionsIncluded>WORLD</RegionsIncluded>
+          </Territory>
+        </Price>
+        <Price>
+          <PriceType>01</PriceType>
+          <PriceAmount>4.99</PriceAmount>
+          <CurrencyCode>USD</CurrencyCode>
+          <Territory>
+            <RegionsIncluded>WORLD</RegionsIncluded>
+          </Territory>
+        </Price>
+      </SupplyDetail>
+    </ProductSupply>
+  </Product>
+  <Product>
+    <RecordReference>casey-blake-001-wrong-side-of-the-ice</RecordReference>
+    <NotificationType>03</NotificationType>
+    <ProductIdentifier>
+      <ProductIDType>15</ProductIDType>
+      <IDValue>9781917717564</IDValue>
+    </ProductIdentifier>
+    <ProductIdentifier>
+      <ProductIDType>03</ProductIDType>
+      <IDValue>9781917717564</IDValue>
+    </ProductIdentifier>
+    <DescriptiveDetail>
+      <ProductComposition>00</ProductComposition>
+      <ProductForm>EA</ProductForm>
+      <ProductFormDetail>E101</ProductFormDetail>
+      <PrimaryContentType>10</PrimaryContentType>
+      <Collection>
+        <CollectionType>10</CollectionType>
+        <TitleDetail>
+          <TitleType>01</TitleType>
+          <TitleElement>
+            <TitleElementLevel>02</TitleElementLevel>
+            <TitleText>Hartwell University Hockey</TitleText>
+          </TitleElement>
+        </TitleDetail>
+      </Collection>
+      <TitleDetail>
+        <TitleType>01</TitleType>
+        <TitleElement>
+          <TitleElementLevel>01</TitleElementLevel>
+          <TitleText>Wrong Side of the Ice</TitleText>
+        </TitleElement>
+      </TitleDetail>
+      <Contributor>
+        <SequenceNumber>1</SequenceNumber>
+        <ContributorRole>A01</ContributorRole>
+        <PersonName>Casey Blake</PersonName>
+        <PersonNameInverted>Blake, Casey</PersonNameInverted>
+        <BiographicalNote>Casey Blake writes college sports romance for Fiamma Contemporary. Wrong Side of the Ice is her Hartwell University Hockey debut.</BiographicalNote>
+      </Contributor>
+      <Language>
+        <LanguageRole>01</LanguageRole>
+        <LanguageCode>eng</LanguageCode>
+      </Language>
+      <Extent>
+        <ExtentType>08</ExtentType>
+        <ExtentValue>170</ExtentValue>
+        <ExtentUnit>03</ExtentUnit>
+      </Extent>
+      <Subject>
+        <MainSubject />
+        <SubjectSchemeIdentifier>10</SubjectSchemeIdentifier>
+        <SubjectCode>FIC027020</SubjectCode>
+      </Subject>
+      <Subject>
+        <SubjectSchemeIdentifier>10</SubjectSchemeIdentifier>
+        <SubjectCode>FIC027000</SubjectCode>
+      </Subject>
+    </DescriptiveDetail>
+    <CollateralDetail>
+      <TextContent>
+        <TextType>03</TextType>
+        <ContentAudience>00</ContentAudience>
+        <Text>Nora Voss trusts files, pain scales, and what a player will not say when he says he is fine.
+
+Gabe Cahill arrives at Hartwell University with a Grade II ankle sprain, a transfer file full of careful notes, and eleven days to prove he can play in the conference semifinal. Nora is the athletic trainer who can clear him or bench him. She is good at her job, precise with a tape roll, and very committed to not noticing the tall right wing who closes her training-room door like he already knows the rules.
+
+Gabe is cooperative. Too cooperative. He answers every question except the one that matters: how much it really hurts when the skate comes off and nobody is watching. Nora knows better than to trust a charming athlete with a countdown clock. She knows much better than to touch him after hours.
+
+Then she does.
+
+Now the ankle is borderline, the clearance form is open, and Nora has to decide whether her judgment is still clean enough to sign her name to it. Wrong Side of the Ice is Hartwell University Hockey book one: college hockey, athletic-trainer competence, professional-conflict stakes, group-chat comedy, and four explicit scenes for readers of Hannah Grace, Elle Kennedy, Sarah Adams, and Mariana Zapata.</Text>
+      </TextContent>
+      <TextContent>
+        <TextType>12</TextType>
+        <ContentAudience>00</ContentAudience>
+        <Text>Casey Blake writes college sports romance for Fiamma Contemporary. Wrong Side of the Ice is her Hartwell University Hockey debut.</Text>
+      </TextContent>
+      <SupportingResource>
+        <ResourceContentType>01</ResourceContentType>
+        <ContentAudience>00</ContentAudience>
+        <ResourceMode>03</ResourceMode>
+        <ResourceVersion>
+          <ResourceForm>02</ResourceForm>
+          <ResourceLink>9781917717564.jpg</ResourceLink>
+        </ResourceVersion>
+      </SupportingResource>
+    </CollateralDetail>
+    <PublishingDetail>
+      <Publisher>
+        <PublishingRole>01</PublishingRole>
+        <PublisherName>Fiamma Books</PublisherName>
+      </Publisher>
+      <PublishingStatus>04</PublishingStatus>
+      <PublishingDate>
+        <PublishingDateRole>01</PublishingDateRole>
+        <Date>20260513</Date>
+      </PublishingDate>
+      <SalesRights>
+        <SalesRightsType>01</SalesRightsType>
+        <Territory>
+          <RegionsIncluded>WORLD</RegionsIncluded>
+        </Territory>
+      </SalesRights>
+    </PublishingDetail>
+    <RelatedMaterial>
+      <RelatedProduct>
+        <ProductRelationCode>06</ProductRelationCode>
+        <ProductIdentifier>
+          <ProductIDType>15</ProductIDType>
+          <IDValue>9781917717557</IDValue>
+        </ProductIdentifier>
+        <ProductForm>BC</ProductForm>
+      </RelatedProduct>
+      <RelatedProduct>
+        <ProductRelationCode>06</ProductRelationCode>
+        <ProductIdentifier>
+          <ProductIDType>15</ProductIDType>
+          <IDValue>9781917717571</IDValue>
         </ProductIdentifier>
         <ProductForm>AJ</ProductForm>
       </RelatedProduct>
