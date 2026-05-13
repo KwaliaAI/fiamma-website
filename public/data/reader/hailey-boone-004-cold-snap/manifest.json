@@ -1,0 +1,80 @@
+{
+  "bookId": "hailey-boone-004-cold-snap",
+  "version": "v1",
+  "source": "MANUSCRIPT_v2.md",
+  "generatedAt": "2026-05-13T00:00:00Z",
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "chapter_title": "Chapter 1: The Ditch",
+      "word_count": 3532,
+      "path": "/data/reader/hailey-boone-004-cold-snap/chapter-001.txt"
+    },
+    {
+      "chapter_number": 2,
+      "chapter_title": "Chapter 2: Directory",
+      "word_count": 2792,
+      "path": "/data/reader/hailey-boone-004-cold-snap/chapter-002.txt"
+    },
+    {
+      "chapter_number": 3,
+      "chapter_title": "Chapter 3: Earl",
+      "word_count": 3800,
+      "path": "/data/reader/hailey-boone-004-cold-snap/chapter-003.txt"
+    },
+    {
+      "chapter_number": 4,
+      "chapter_title": "Chapter 4: Tooth",
+      "word_count": 3780,
+      "path": "/data/reader/hailey-boone-004-cold-snap/chapter-004.txt"
+    },
+    {
+      "chapter_number": 5,
+      "chapter_title": "Chapter 5: Tate",
+      "word_count": 2732,
+      "path": "/data/reader/hailey-boone-004-cold-snap/chapter-005.txt"
+    },
+    {
+      "chapter_number": 6,
+      "chapter_title": "Chapter 6: Emergency Contact",
+      "word_count": 3074,
+      "path": "/data/reader/hailey-boone-004-cold-snap/chapter-006.txt"
+    },
+    {
+      "chapter_number": 7,
+      "chapter_title": "Chapter 7: Hollenback",
+      "word_count": 4634,
+      "path": "/data/reader/hailey-boone-004-cold-snap/chapter-007.txt"
+    },
+    {
+      "chapter_number": 8,
+      "chapter_title": "Chapter 8: The Penny",
+      "word_count": 4536,
+      "path": "/data/reader/hailey-boone-004-cold-snap/chapter-008.txt"
+    },
+    {
+      "chapter_number": 9,
+      "chapter_title": "Chapter 9: Furnace",
+      "word_count": 4835,
+      "path": "/data/reader/hailey-boone-004-cold-snap/chapter-009.txt"
+    },
+    {
+      "chapter_number": 10,
+      "chapter_title": "Chapter 10: Five a.m.",
+      "word_count": 4484,
+      "path": "/data/reader/hailey-boone-004-cold-snap/chapter-010.txt"
+    },
+    {
+      "chapter_number": 11,
+      "chapter_title": "Chapter 11: Boots",
+      "word_count": 4491,
+      "path": "/data/reader/hailey-boone-004-cold-snap/chapter-011.txt"
+    },
+    {
+      "chapter_number": 12,
+      "chapter_title": "Chapter 12: Gone On You",
+      "word_count": 4596,
+      "path": "/data/reader/hailey-boone-004-cold-snap/chapter-012.txt"
+    }
+  ]
+}

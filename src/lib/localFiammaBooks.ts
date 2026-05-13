@@ -151,4 +151,30 @@ export const localFiammaBooks: FiammaBook[] = [
     created_at: '2026-04-30T00:00:00Z',
     updated_at: '2026-04-30T00:00:00Z',
   },
+  {
+    title_id: 'hailey-boone-004-cold-snap',
+    title: 'Cold Snap',
+    slug: 'cold-snap',
+    heteronym: 'Hailey Boone',
+    imprint: 'fiamma-contemporary',
+    imprint_subline:
+      'Stories for right now. No waiting, no permission, just the heat that happens when two people stop pretending they do not want it.',
+    genre: 'Romance',
+    fiamma_line: 'Contemporary',
+    blurb_short:
+      "At the end of Galloway Road, Robin McKee's mail truck is in a ditch, and a retired rodeo cowboy is about to become her warmest problem.",
+    blurb_300:
+      "At the end of Galloway Road, Robin McKee's mail truck is in a ditch, her daughter's daycare closes at five, and the man knocking on the window is too warm for the coldest week in fifteen years.\n\nRobin has been carrying mail through Paradise Valley since the divorce, since the move home, since the kid. She is good at being fine. She is less good at accepting help, especially from Wes Galloway, a retired saddle-bronc rider who has been back at his uncle's boarding stable for nine days and already looks too much like shelter.\n\nWes pulls her truck out of the snow, hands her coffee, and keeps appearing at the end of her route with exactly what she refuses to ask for. Firewood. A plowed drive. Patience. By Christmas Eve, Robin's furnace is dead, the cold snap is finally breaking, and the man she has spent twelve days resisting is the only warm place she wants to be.\n\nCold Snap is Paradise Valley book four: grumpy heroine, sunshine cowboy, single-mom stakes, slow-burn winter heat, and four explicit scenes for readers of Kristen Ashley, Maisey Yates, Lauren Landish, and Lyla Sage.",
+    cover_url: '/assets/covers/cold-snap.jpg',
+    isbn_pb: '978-1-917717-52-6',
+    isbn_eb: '978-1-917717-53-3',
+    isbn_audio: '978-1-917717-54-0',
+    buy_url_amazon: null,
+    buy_url_ebook: null,
+    buy_url_audio: null,
+    series_order: 4,
+    visible: true,
+    created_at: '2026-05-13T00:00:00Z',
+    updated_at: '2026-05-13T00:00:00Z',
+  },
 ]
