@@ -15,5 +15,8 @@ npm run build
 echo "[release_gate] Checking reader onboarding contract..."
 npm run reader:onboarding:check
 
+echo "[release_gate] Checking reader database contract..."
+npm run reader:db:check
+
 echo "[release_gate] Checking search indexing contract..."
 npm run search:indexing:check

@@ -10,6 +10,7 @@
     "preview": "vite preview",
     "funnel:report": "node scripts/fiamma_funnel_report.mjs",
     "reader:onboarding:check": "node scripts/check_reader_onboarding_contract.mjs",
+    "reader:db:check": "node scripts/check_reader_db_contract.mjs",
     "search:indexing:check": "node scripts/check_search_indexing_contract.mjs",
     "google-fetch:stage": "node scripts/stage_google_play_fetch_assets.mjs",
     "google-fetch:indexes": "node scripts/build_google_play_fetch_indexes.mjs public/google-play/fetch",
