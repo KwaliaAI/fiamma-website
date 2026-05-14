@@ -102,7 +102,8 @@ Reader intake + alerting:
 Reader onboarding contract:
 
 - See [docs/READER_ONBOARDING.md](docs/READER_ONBOARDING.md) for the canonical checklist.
-- Run `npm run reader:onboarding:check` before releasing new reader-manifest content.
+- Run `npm run reader:onboarding:check` and `npm run reader:db:check` before releasing new reader-manifest content.
+- `reader:db:check` prevents the static-site-only launch bug where a new visible title exists in the reader but is missing from live `fiamma_books`, causing complimentary unlocks to fail with Postgres `23503`.
 
 ## Repository housekeeping (mandatory)
 

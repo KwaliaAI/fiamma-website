@@ -62,7 +62,11 @@ Run the local contract check before release:
 
 ```bash
 npm run reader:onboarding:check
+npm run reader:db:check
 ```
 
-This checks the current reader-manifest tree for completeness and obvious drift.
+The onboarding check verifies the reader-manifest tree for completeness and obvious drift.
 
+The database check verifies every `visible: true` title in `src/lib/localFiammaBooks.ts` has a matching visible row in live `public.fiamma_books`. This is a hard reader-access contract: `public.fiamma_book_unlocks.book_id` has a foreign key to `public.fiamma_books(title_id)`, so a static-site-only title will authenticate successfully and then fail complimentary unlock with Postgres error `23503`.
+
+Before marking a new title launch-ready, seed or upsert the `public.fiamma_books` row first, then run both checks.
