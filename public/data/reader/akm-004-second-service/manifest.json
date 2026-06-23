@@ -1,0 +1,86 @@
+{
+  "bookId": "akm-004-second-service",
+  "version": "v1",
+  "source": "MANUSCRIPT_v3.md",
+  "generatedAt": "2026-06-23T00:00:00Z",
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "chapter_title": "Chapter 1: Arrivals",
+      "word_count": 3758,
+      "path": "/data/reader/akm-004-second-service/chapter-001.txt"
+    },
+    {
+      "chapter_number": 2,
+      "chapter_title": "Chapter 2: First Practise",
+      "word_count": 3860,
+      "path": "/data/reader/akm-004-second-service/chapter-002.txt"
+    },
+    {
+      "chapter_number": 3,
+      "chapter_title": "Chapter 3: Round of 16",
+      "word_count": 4051,
+      "path": "/data/reader/akm-004-second-service/chapter-003.txt"
+    },
+    {
+      "chapter_number": 4,
+      "chapter_title": "Chapter 4: Sponsor Cocktail",
+      "word_count": 3154,
+      "path": "/data/reader/akm-004-second-service/chapter-004.txt"
+    },
+    {
+      "chapter_number": 5,
+      "chapter_title": "Chapter 5: Rest Day Morning",
+      "word_count": 3994,
+      "path": "/data/reader/akm-004-second-service/chapter-005.txt"
+    },
+    {
+      "chapter_number": 6,
+      "chapter_title": "Chapter 6: Sponsor Dinner",
+      "word_count": 4296,
+      "path": "/data/reader/akm-004-second-service/chapter-006.txt"
+    },
+    {
+      "chapter_number": 7,
+      "chapter_title": "Chapter 7: Quarterfinal",
+      "word_count": 4532,
+      "path": "/data/reader/akm-004-second-service/chapter-007.txt"
+    },
+    {
+      "chapter_number": 8,
+      "chapter_title": "Chapter 8: After",
+      "word_count": 2775,
+      "path": "/data/reader/akm-004-second-service/chapter-008.txt"
+    },
+    {
+      "chapter_number": 9,
+      "chapter_title": "Chapter 9: Semifinal",
+      "word_count": 3953,
+      "path": "/data/reader/akm-004-second-service/chapter-009.txt"
+    },
+    {
+      "chapter_number": 10,
+      "chapter_title": "Chapter 10: The Long Pause",
+      "word_count": 4587,
+      "path": "/data/reader/akm-004-second-service/chapter-010.txt"
+    },
+    {
+      "chapter_number": 11,
+      "chapter_title": "Chapter 11: Final",
+      "word_count": 4463,
+      "path": "/data/reader/akm-004-second-service/chapter-011.txt"
+    },
+    {
+      "chapter_number": 12,
+      "chapter_title": "Chapter 12: Second Service",
+      "word_count": 4285,
+      "path": "/data/reader/akm-004-second-service/chapter-012.txt"
+    },
+    {
+      "chapter_number": 13,
+      "chapter_title": "Epilogue: Deck",
+      "word_count": 699,
+      "path": "/data/reader/akm-004-second-service/chapter-013.txt"
+    }
+  ]
+}
