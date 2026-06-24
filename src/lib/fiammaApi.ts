@@ -116,13 +116,14 @@ function mergeVisibleBookSources(remoteBooks: FiammaBook[]): FiammaBook[] {
   }
 
   return Array.from(merged.values()).sort((a, b) => {
+    // Newest book always first (Founder directive 2026-06-24, matches Kwalia ordering).
+    const createdA = a.created_at ?? ''
+    const createdB = b.created_at ?? ''
+    if (createdA !== createdB) return createdB.localeCompare(createdA)
+
     const seriesA = a.series_order ?? Number.MAX_SAFE_INTEGER
     const seriesB = b.series_order ?? Number.MAX_SAFE_INTEGER
     if (seriesA !== seriesB) return seriesA - seriesB
-
-    const createdA = a.created_at ?? ''
-    const createdB = b.created_at ?? ''
-    if (createdA !== createdB) return createdA.localeCompare(createdB)
 
     return a.title.localeCompare(b.title)
   })

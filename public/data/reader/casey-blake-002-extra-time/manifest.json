@@ -1,0 +1,86 @@
+{
+  "bookId": "casey-blake-002-extra-time",
+  "version": "v1",
+  "source": "MANUSCRIPT_v1.md",
+  "generatedAt": "2026-06-24T00:00:00Z",
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "chapter_title": "Chapter 1: Touchdown",
+      "word_count": 3532,
+      "path": "/data/reader/casey-blake-002-extra-time/chapter-001.txt"
+    },
+    {
+      "chapter_number": 2,
+      "chapter_title": "Chapter 2: The Specific Angle",
+      "word_count": 3417,
+      "path": "/data/reader/casey-blake-002-extra-time/chapter-002.txt"
+    },
+    {
+      "chapter_number": 3,
+      "chapter_title": "Chapter 3: Group Stage Opener",
+      "word_count": 3546,
+      "path": "/data/reader/casey-blake-002-extra-time/chapter-003.txt"
+    },
+    {
+      "chapter_number": 4,
+      "chapter_title": "Chapter 4: Surname Click",
+      "word_count": 3412,
+      "path": "/data/reader/casey-blake-002-extra-time/chapter-004.txt"
+    },
+    {
+      "chapter_number": 5,
+      "chapter_title": "Chapter 5: Wrist Beat",
+      "word_count": 3681,
+      "path": "/data/reader/casey-blake-002-extra-time/chapter-005.txt"
+    },
+    {
+      "chapter_number": 6,
+      "chapter_title": "Chapter 6: Mezcal",
+      "word_count": 3487,
+      "path": "/data/reader/casey-blake-002-extra-time/chapter-006.txt"
+    },
+    {
+      "chapter_number": 7,
+      "chapter_title": "Chapter 7: Three A.M. Kitchen",
+      "word_count": 3483,
+      "path": "/data/reader/casey-blake-002-extra-time/chapter-007.txt"
+    },
+    {
+      "chapter_number": 8,
+      "chapter_title": "Chapter 8: Press Pass in the Drawer",
+      "word_count": 3540,
+      "path": "/data/reader/casey-blake-002-extra-time/chapter-008.txt"
+    },
+    {
+      "chapter_number": 9,
+      "chapter_title": "Chapter 9: Rooftop Dusk",
+      "word_count": 3481,
+      "path": "/data/reader/casey-blake-002-extra-time/chapter-009.txt"
+    },
+    {
+      "chapter_number": 10,
+      "chapter_title": "Chapter 10: Desmadre",
+      "word_count": 3588,
+      "path": "/data/reader/casey-blake-002-extra-time/chapter-010.txt"
+    },
+    {
+      "chapter_number": 11,
+      "chapter_title": "Chapter 11: The Half-Turned Handle",
+      "word_count": 3403,
+      "path": "/data/reader/casey-blake-002-extra-time/chapter-011.txt"
+    },
+    {
+      "chapter_number": 12,
+      "chapter_title": "Chapter 12: Bedroom Reconciliation",
+      "word_count": 3901,
+      "path": "/data/reader/casey-blake-002-extra-time/chapter-012.txt"
+    },
+    {
+      "chapter_number": 13,
+      "chapter_title": "Chapter 13: The Airport",
+      "word_count": 3891,
+      "path": "/data/reader/casey-blake-002-extra-time/chapter-013.txt"
+    }
+  ]
+}

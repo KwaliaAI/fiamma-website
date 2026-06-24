@@ -228,4 +228,30 @@ export const localFiammaBooks: FiammaBook[] = [
     created_at: '2026-05-13T00:00:00Z',
     updated_at: '2026-05-13T00:00:00Z',
   },
+  {
+    title_id: 'casey-blake-002-extra-time',
+    title: 'Extra Time',
+    slug: 'extra-time',
+    heteronym: 'Casey Blake',
+    imprint: 'fiamma-contemporary',
+    imprint_subline:
+      'Stories for right now. No waiting, no permission, just the heat that happens when two people stop pretending they do not want it.',
+    genre: 'Romance',
+    fiamma_line: 'Contemporary',
+    blurb_short:
+      'Tess Brennan flew to the World Cup to write Mexico\'s host-nation run, not to share a one-bedroom Airbnb with the ex-Atlas star turned broadcaster who will not let her write a word about him.',
+    blurb_300:
+      'Tess Brennan writes the features that take a whole tournament to earn.\n\nESPN sends her to Mexico for the World Cup with a press pass, a month-long Airbnb in Guadalajara, and one assignment: get inside El Tri\'s host-nation run. The Airbnb turns out to be one bedroom, one bathroom, and already booked to Mateo Salas, the Atlas winger whose knee ended his career two years ago and who now calls the matches for Univision. Neither network will pay to fix the mistake. Four weeks, one couch, and a man who talks with his hands about everything except himself.\n\nMateo is generous with sources, with birria, with the rooftop at dusk. He is not generous with his own story, and his story is the one Tess can feel under everything he says. His cousin is one bad sentence from losing a roster spot. She came to write the team. He will not let her write him.\n\nThen the group stage ends, and the thing they keep not-doing in a kitchen too small for it stops being anything either of them can file under work.\n\nExtra Time is a standalone World Cup romance: forced proximity, press-pass-versus-cousin stakes, group-chat comedy, a Guadalajara summer that sunburns and storms, and five explicit scenes for readers of Hannah Grace, Tessa Bailey, and Mariana Zapata.',
+    cover_url: '/assets/covers/extra-time.jpg',
+    isbn_pb: '978-1-917717-67-0',
+    isbn_eb: '978-1-917717-68-7',
+    isbn_audio: '978-1-917717-69-4',
+    buy_url_amazon: null,
+    buy_url_ebook: null,
+    buy_url_audio: null,
+    series_order: 2,
+    visible: true,
+    created_at: '2026-06-24T00:00:00Z',
+    updated_at: '2026-06-24T00:00:00Z',
+  },
 ]
