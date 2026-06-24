@@ -203,4 +203,30 @@ export const localFiammaBooks: FiammaBook[] = [
     created_at: '2026-05-13T00:00:00Z',
     updated_at: '2026-05-13T00:00:00Z',
   },
+  {
+    title_id: 'casey-blake-002',
+    title: 'Extra Time',
+    slug: 'extra-time',
+    heteronym: 'Casey Blake',
+    imprint: 'fiamma-contemporary',
+    imprint_subline:
+      'Stories for right now. No waiting, no permission, just the heat that happens when two people stop pretending they do not want it.',
+    genre: 'Romance',
+    fiamma_line: 'Contemporary',
+    blurb_short:
+      'Tess Brennan covers football for ESPN. Mateo Salas calls it for Univision. The World Cup is in Mexico, and their Airbnb has one bathroom.',
+    blurb_300:
+      'Tess Brennan covers football for ESPN. Mateo Salas calls it for Univision. The World Cup is in Mexico, and their Airbnb has one bathroom.\n\nThe assignment of her life drops Tess into Guadalajara for a tournament-long embed: four weeks, one host nation holding its breath, and a byline she has wanted since she was nineteen. The double-booked apartment comes with a barefoot color commentator already loose on the living-room floor, one gray hair he is in denial about, and a voice she has heard call goals in clips that found her before she ever went looking.\n\nShe is a professional. She has kept a straight face in locker rooms on three continents. She is not going to develop opinions about her roommate’s calves.\n\nThen she learns one thing about a player that could turn a solid feature into the story of the group stage, and the only person who can tell her whether to print it is the man across the kitchen table.\n\nA fun, sweaty, group-chat-fast slow burn about two people who cover the same beautiful game from opposite sides of the press box, and the four weeks that make it personal.',
+    cover_url: '/assets/covers/extra-time.jpg',
+    isbn_pb: '978-1-917717-67-0',
+    isbn_eb: '978-1-917717-68-7',
+    isbn_audio: '978-1-917717-69-4',
+    buy_url_amazon: null,
+    buy_url_ebook: null,
+    buy_url_audio: null,
+    series_order: 2,
+    visible: false,
+    created_at: '2026-06-24T00:00:00Z',
+    updated_at: '2026-06-24T00:00:00Z',
+  },
 ]
