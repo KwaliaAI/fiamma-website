@@ -97,7 +97,7 @@ export const localFiammaBooks: FiammaBook[] = [
     buy_url_ebook: null,
     buy_url_audio: null,
     series_order: 4,
-    visible: false,
+    visible: true,
     created_at: '2026-06-23T00:00:00Z',
     updated_at: '2026-06-23T00:00:00Z',
   },
