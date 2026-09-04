@@ -2,31 +2,34 @@ import { useEffect, useMemo, useState } from 'react'
 import { Link, useParams } from 'react-router-dom'
 import { BookCard } from '@/components/BookCard'
 import { getImprintById } from '@/lib/fiammaBrand'
-import { getVisibleBooks } from '@/lib/fiammaApi'
+import { getLocalVisibleBooks, getVisibleBooks } from '@/lib/fiammaApi'
 import { getHeteronymProfileBySlug, matchesHeteronymName } from '@/lib/heteronyms'
 import type { FiammaBook } from '@/types/fiamma'
 
 export function HeteronymPage() {
   const { slug = '' } = useParams()
   const profile = useMemo(() => getHeteronymProfileBySlug(slug), [slug])
-  const [books, setBooks] = useState<FiammaBook[]>([])
+  const [visibleBooks, setVisibleBooks] = useState<FiammaBook[]>(() => getLocalVisibleBooks())
 
   useEffect(() => {
-    if (!profile) return
-
     let isActive = true
     getVisibleBooks()
-      .then((visibleBooks) =>
-        isActive && setBooks(visibleBooks.filter((book) => matchesHeteronymName(book.heteronym, profile.catalogName))),
-      )
+      .then((books) => {
+        if (isActive) setVisibleBooks(books)
+      })
       .catch(() => {
-        if (isActive) setBooks([])
+        if (isActive) setVisibleBooks(getLocalVisibleBooks())
       })
 
     return () => {
       isActive = false
     }
-  }, [profile])
+  }, [])
+
+  const books = useMemo(
+    () => (profile ? visibleBooks.filter((book) => matchesHeteronymName(book.heteronym, profile.catalogName)) : []),
+    [profile, visibleBooks],
+  )
 
   const sortedBooks = useMemo(
     () =>

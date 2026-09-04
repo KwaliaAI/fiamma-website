@@ -80,10 +80,13 @@ const localCoverFallbacks: Record<string, string> = {
   'terms-and-conditions': '/assets/covers/terms-and-conditions.jpg',
   'field-study': '/assets/covers/field-study.jpg',
   'base-notes': '/assets/covers/base-notes.jpg',
+  'second-service': '/assets/covers/second-service.jpg',
   'mud-season': '/assets/covers/mud-season.jpg',
   'heat-wave': '/assets/covers/heat-wave.jpg',
   'bar-fight': '/assets/covers/bar-fight.jpg',
   'cold-snap': '/assets/covers/cold-snap.jpg',
+  'wrong-side-of-the-ice': '/assets/covers/wrong-side-of-the-ice.jpg',
+  'extra-time': '/assets/covers/extra-time.jpg',
 }
 
 type ChapterOverrideManifest = {
@@ -141,9 +144,11 @@ function withBookNormalizations(book: FiammaBook): FiammaBook {
       ? normalizedBook
       : { ...normalizedBook, imprint, imprint_subline: imprintSubline }
 
-  if (brandedBook.cover_url) return brandedBook
   const fallbackCover = localCoverFallbacks[brandedBook.slug]
-  return fallbackCover ? { ...brandedBook, cover_url: fallbackCover } : brandedBook
+  if (fallbackCover && brandedBook.cover_url !== fallbackCover) {
+    return { ...brandedBook, cover_url: fallbackCover }
+  }
+  return brandedBook
 }
 
 async function fetchChapterOverride(bookId: string): Promise<FiammaChapter[] | null> {
@@ -217,6 +222,10 @@ export async function getVisibleBooks(): Promise<FiammaBook[]> {
   }
 
   return fallbackBooks
+}
+
+export function getLocalVisibleBooks(): FiammaBook[] {
+  return mergeVisibleBookSources([])
 }
 
 export async function getBookBySlug(slug: string): Promise<FiammaBook | null> {

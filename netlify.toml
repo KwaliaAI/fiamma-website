@@ -31,8 +31,36 @@
 
 [[edge_functions]]
   function = "fiamma-meta"
+  path = "/privacy"
+
+[[edge_functions]]
+  function = "fiamma-meta"
+  path = "/terms"
+
+[[edge_functions]]
+  function = "fiamma-meta"
+  path = "/editorial"
+
+[[edge_functions]]
+  function = "fiamma-meta"
+  path = "/tiktok/callback"
+
+[[edge_functions]]
+  function = "fiamma-meta"
   path = "/read/*"
 
 [[edge_functions]]
   function = "fiamma-meta"
   path = "/shelf"
+
+[[headers]]
+  for = "/data/reader/*"
+
+  [headers.values]
+    X-Robots-Tag = "noindex, nofollow, noarchive"
+
+[[headers]]
+  for = "/google-play/fetch/*"
+
+  [headers.values]
+    X-Robots-Tag = "noindex, noarchive"

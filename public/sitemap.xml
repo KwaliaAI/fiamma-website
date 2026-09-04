@@ -2,13 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://fiammabooks.com/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-09-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://fiammabooks.com/books</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-09-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
   </url>
@@ -31,6 +31,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://fiammabooks.com/books/second-service</loc>
+    <lastmod>2026-06-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://fiammabooks.com/books/mud-season</loc>
     <lastmod>2026-05-07</lastmod>
     <changefreq>monthly</changefreq>
@@ -49,8 +55,26 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://fiammabooks.com/books/cold-snap</loc>
+    <lastmod>2026-05-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://fiammabooks.com/books/wrong-side-of-the-ice</loc>
+    <lastmod>2026-05-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://fiammabooks.com/books/extra-time</loc>
+    <lastmod>2026-06-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://fiammabooks.com/heteronyms</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-09-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -61,8 +85,44 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://fiammabooks.com/heteronyms/seph-blackwood</loc>
+    <lastmod>2026-09-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://fiammabooks.com/heteronyms/hailey-boone</loc>
     <lastmod>2026-05-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://fiammabooks.com/heteronyms/casey</loc>
+    <lastmod>2026-09-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://fiammabooks.com/imprints</loc>
+    <lastmod>2026-09-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://fiammabooks.com/imprints/contemporary</loc>
+    <lastmod>2026-09-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://fiammabooks.com/imprints/spark</loc>
+    <lastmod>2026-09-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://fiammabooks.com/imprints/fuoco</loc>
+    <lastmod>2026-09-04</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>

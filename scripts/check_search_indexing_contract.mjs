@@ -5,9 +5,13 @@ import { resolve } from 'node:path'
 const root = process.cwd()
 const sitemapPath = resolve(root, 'public/sitemap.xml')
 const edgePath = resolve(root, 'netlify/edge-functions/fiamma-meta.ts')
+const netlifyPath = resolve(root, 'netlify.toml')
+const robotsPath = resolve(root, 'public/robots.txt')
 
 const sitemap = readFileSync(sitemapPath, 'utf8')
 const edgeFunction = readFileSync(edgePath, 'utf8')
+const netlifyConfig = readFileSync(netlifyPath, 'utf8')
+const robots = readFileSync(robotsPath, 'utf8')
 
 const errors = []
 const urls = [...sitemap.matchAll(/<loc>([^<]+)<\/loc>/g)].map((match) => match[1])
@@ -17,12 +21,22 @@ const requiredSitemapUrls = [
   'https://fiammabooks.com/books/terms-and-conditions',
   'https://fiammabooks.com/books/field-study',
   'https://fiammabooks.com/books/base-notes',
+  'https://fiammabooks.com/books/second-service',
   'https://fiammabooks.com/books/mud-season',
   'https://fiammabooks.com/books/heat-wave',
   'https://fiammabooks.com/books/bar-fight',
+  'https://fiammabooks.com/books/cold-snap',
+  'https://fiammabooks.com/books/wrong-side-of-the-ice',
+  'https://fiammabooks.com/books/extra-time',
   'https://fiammabooks.com/heteronyms',
   'https://fiammabooks.com/heteronyms/aubrey-kenneth-moss',
+  'https://fiammabooks.com/heteronyms/seph-blackwood',
   'https://fiammabooks.com/heteronyms/hailey-boone',
+  'https://fiammabooks.com/heteronyms/casey',
+  'https://fiammabooks.com/imprints',
+  'https://fiammabooks.com/imprints/contemporary',
+  'https://fiammabooks.com/imprints/spark',
+  'https://fiammabooks.com/imprints/fuoco',
 ]
 
 if (urls.length === 0) {
@@ -66,6 +80,51 @@ for (const needle of requiredLegacyRedirects) {
 
 if (!edgeFunction.includes('Response.redirect(`${url.origin}${legacyRedirectPath}`, 301)')) {
   errors.push('legacy Search Console redirects must use a 301 response')
+}
+
+const requiredLocalBookMeta = [
+  'terms-and-conditions',
+  'field-study',
+  'base-notes',
+  'second-service',
+  'mud-season',
+  'heat-wave',
+  'bar-fight',
+  'cold-snap',
+  'wrong-side-of-the-ice',
+  'extra-time',
+]
+
+for (const slug of requiredLocalBookMeta) {
+  if (!edgeFunction.includes(`'${slug}': {`)) {
+    errors.push(`missing local edge metadata fallback for book slug: ${slug}`)
+  }
+}
+
+const requiredEdgePaths = ['/privacy', '/terms', '/editorial', '/tiktok/callback', '/read/*', '/shelf']
+for (const path of requiredEdgePaths) {
+  if (!netlifyConfig.includes(`path = "${path}"`)) {
+    errors.push(`netlify.toml missing fiamma-meta edge path: ${path}`)
+  }
+}
+
+const requiredNoindexHeaders = ['for = "/data/reader/*"', 'for = "/google-play/fetch/*"']
+for (const header of requiredNoindexHeaders) {
+  if (!netlifyConfig.includes(header)) {
+    errors.push(`netlify.toml missing noindex header block: ${header}`)
+  }
+}
+
+if (!netlifyConfig.includes('X-Robots-Tag = "noindex, nofollow, noarchive"')) {
+  errors.push('netlify.toml missing reader data X-Robots-Tag noindex policy')
+}
+
+if (!netlifyConfig.includes('X-Robots-Tag = "noindex, noarchive"')) {
+  errors.push('netlify.toml missing Google Play fetch X-Robots-Tag noindex policy')
+}
+
+if (robots.includes('Disallow: /read/') || robots.includes('Disallow: /shelf')) {
+  errors.push('robots.txt must allow noindexed reader/shelf routes so crawlers can see the noindex rule')
 }
 
 if (errors.length > 0) {

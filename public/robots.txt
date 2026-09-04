@@ -1,6 +1,7 @@
 User-agent: *
 Allow: /
-Disallow: /read/
-Disallow: /shelf
+
+# Reader, shelf, and file-payload URLs return noindex headers so crawlers
+# can see the exclusion rule directly.
 
 Sitemap: https://fiammabooks.com/sitemap.xml
