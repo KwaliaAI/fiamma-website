@@ -3,18 +3,18 @@ import { Link } from 'react-router-dom'
 import { BookCard } from '@/components/BookCard'
 import { Footer } from '@/components/layout/Footer'
 import { Navbar } from '@/components/layout/Navbar'
-import { getVisibleBooks } from '@/lib/fiammaApi'
+import { getLocalVisibleBooks, getVisibleBooks } from '@/lib/fiammaApi'
 import { getHeteronymProfileBySlug } from '@/lib/heteronyms'
 import { getPublicImprints } from '@/lib/fiammaBrand'
 import type { FiammaBook } from '@/types/fiamma'
 
 export function HomePage() {
-  const [books, setBooks] = useState<FiammaBook[]>([])
+  const [books, setBooks] = useState<FiammaBook[]>(() => getLocalVisibleBooks())
   const featuredAuthor = useMemo(() => getHeteronymProfileBySlug('hailey-boone'), [])
   const publicImprints = useMemo(() => getPublicImprints(), [])
 
   useEffect(() => {
-    getVisibleBooks().then(setBooks).catch(() => setBooks([]))
+    getVisibleBooks().then(setBooks).catch(() => setBooks(getLocalVisibleBooks()))
   }, [])
 
   return (

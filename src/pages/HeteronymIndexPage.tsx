@@ -1,15 +1,15 @@
 import { useEffect, useState } from 'react'
 import { Link } from 'react-router-dom'
 import { HeteronymCard } from '@/components/HeteronymCard'
-import { getVisibleBooks } from '@/lib/fiammaApi'
+import { getLocalVisibleBooks, getVisibleBooks } from '@/lib/fiammaApi'
 import { heteronymProfiles } from '@/lib/heteronyms'
 import type { FiammaBook } from '@/types/fiamma'
 
 export function HeteronymIndexPage() {
-  const [books, setBooks] = useState<FiammaBook[]>([])
+  const [books, setBooks] = useState<FiammaBook[]>(() => getLocalVisibleBooks())
 
   useEffect(() => {
-    getVisibleBooks().then(setBooks).catch(() => setBooks([]))
+    getVisibleBooks().then(setBooks).catch(() => setBooks(getLocalVisibleBooks()))
   }, [])
 
   return (
@@ -42,4 +42,3 @@ export function HeteronymIndexPage() {
     </main>
   )
 }
-

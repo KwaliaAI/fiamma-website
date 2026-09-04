@@ -62,6 +62,69 @@ const IMPRINT_META: Record<string, PageMeta> = {
   },
 }
 
+const LOCAL_BOOK_META: Record<string, BookMeta> = {
+  'terms-and-conditions': {
+    title: 'Terms and Conditions: A Novel | Fiamma Books',
+    description:
+      'A corporate attorney and a tech founder navigate the verifiable three inches between proof and promise.',
+    image: '/assets/covers/terms-and-conditions.jpg',
+  },
+  'field-study': {
+    title: 'Field Study | Fiamma Books',
+    description:
+      'A scientist applies field science discipline to the least tractable data problem she has ever encountered: a man she cannot classify.',
+    image: '/assets/covers/field-study.jpg',
+  },
+  'base-notes': {
+    title: 'Base Notes | Fiamma Books',
+    description:
+      'A perfumer with a flawless nose faces a commission, a debt, and the one base note she cannot identify.',
+    image: '/assets/covers/base-notes.jpg',
+  },
+  'second-service': {
+    title: 'Second Service | Fiamma Books',
+    description:
+      'Six days in Newport with the doubles partner she walked out on in 2011. Forty-one is too old to come back, which is why she said yes.',
+    image: '/assets/covers/second-service.jpg',
+  },
+  'mud-season': {
+    title: 'Mud Season | Fiamma Books',
+    description:
+      "Juniper McClaren flew to Montana to close an estate, not to fall in love with the man on the porch.",
+    image: '/assets/covers/mud-season.jpg',
+  },
+  'heat-wave': {
+    title: 'Heat Wave | Fiamma Books',
+    description:
+      'Deb Reeves came to Paradise Valley for six days of sun, beer, and water, not for the man across the county road.',
+    image: '/assets/covers/heat-wave.jpg',
+  },
+  'bar-fight': {
+    title: 'Bar Fight | Fiamma Books',
+    description:
+      "Molly Henderson came to Paradise Valley to sell her uncle's cabin and drive back to her bar in Livingston by Saturday night.",
+    image: '/assets/covers/bar-fight.jpg',
+  },
+  'cold-snap': {
+    title: 'Cold Snap | Fiamma Books',
+    description:
+      "Robin McKee's mail truck is in a ditch, and a retired rodeo cowboy is about to become her warmest problem.",
+    image: '/assets/covers/cold-snap.jpg',
+  },
+  'wrong-side-of-the-ice': {
+    title: 'Wrong Side of the Ice | Fiamma Books',
+    description:
+      'Nora Voss is supposed to clear Gabe Cahill for the semifinal, not fall for the transfer winger whose ankle she knows better than her own pulse.',
+    image: '/assets/covers/wrong-side-of-the-ice.jpg',
+  },
+  'extra-time': {
+    title: 'Extra Time | Fiamma Books',
+    description:
+      "Tess Brennan flew to the World Cup to write Mexico's host-nation run, not to share a one-bedroom Airbnb with the ex-Atlas star turned broadcaster.",
+    image: '/assets/covers/extra-time.jpg',
+  },
+}
+
 function escapeHtml(value: string): string {
   return value
     .replaceAll('&', '&amp;')
@@ -77,9 +140,10 @@ function updateTag(html: string, matcher: RegExp, replacement: string): string {
 }
 
 async function getBookMeta(slug: string): Promise<BookMeta | null> {
+  const localMeta = LOCAL_BOOK_META[slug] ?? null
   const supabaseUrl = Deno.env.get('VITE_SUPABASE_URL') ?? Deno.env.get('SUPABASE_URL')
   const supabaseAnonKey = Deno.env.get('VITE_SUPABASE_ANON_KEY') ?? Deno.env.get('SUPABASE_ANON_KEY')
-  if (!supabaseUrl || !supabaseAnonKey) return null
+  if (!supabaseUrl || !supabaseAnonKey) return localMeta
 
   const endpoint =
     `${supabaseUrl}/rest/v1/fiamma_books` +
@@ -94,18 +158,18 @@ async function getBookMeta(slug: string): Promise<BookMeta | null> {
         Authorization: `Bearer ${supabaseAnonKey}`,
       },
     })
-    if (!response.ok) return null
+    if (!response.ok) return localMeta
     const books = (await response.json()) as Array<{ title?: string; blurb_short?: string | null; cover_url?: string | null }>
     const book = books[0]
-    if (!book?.title) return null
+    if (!book?.title) return localMeta
 
     return {
       title: `${book.title} | Fiamma Books`,
-      description: book.blurb_short?.trim() || DEFAULT_DESCRIPTION,
-      image: book.cover_url || DEFAULT_OG_IMAGE,
+      description: book.blurb_short?.trim() || localMeta?.description || DEFAULT_DESCRIPTION,
+      image: localMeta?.image || book.cover_url || DEFAULT_OG_IMAGE,
     }
   } catch {
-    return null
+    return localMeta
   }
 }
 
@@ -154,6 +218,20 @@ function getRouteMeta(url: URL): PageMeta | null {
     }
   }
 
+  if (segments.length === 1 && segments[0] === 'privacy') {
+    return {
+      title: 'Privacy Policy | Fiamma Books',
+      description: 'Read the Fiamma Books privacy policy for reader accounts, email subscriptions, analytics, and support.',
+    }
+  }
+
+  if (segments.length === 1 && segments[0] === 'terms') {
+    return {
+      title: 'Terms of Service | Fiamma Books',
+      description: 'Read the Fiamma Books terms for reader accounts, complimentary access, purchases, and site use.',
+    }
+  }
+
   return null
 }
 
@@ -168,7 +246,8 @@ export default async (request: Request, context: { next: () => Promise<Response>
   const slug = segments.length >= 2 ? segments[1] : null
   const isReaderSurface = url.pathname.startsWith('/read/')
   const isShelf = url.pathname === '/shelf'
-  const robotsValue = isReaderSurface || isShelf ? 'noindex, nofollow' : 'index, follow, max-image-preview:large'
+  const isInternalUtility = url.pathname === '/editorial' || url.pathname.startsWith('/tiktok/callback')
+  const robotsValue = isReaderSurface || isShelf || isInternalUtility ? 'noindex, nofollow' : 'index, follow, max-image-preview:large'
 
   const response = await context.next()
   const contentType = response.headers.get('content-type') ?? ''

@@ -1,16 +1,21 @@
 import { useEffect, useState } from 'react'
 import { BookCard } from '@/components/BookCard'
-import { getReaderGiftBalance, getVisibleBooks } from '@/lib/fiammaApi'
+import { getLocalVisibleBooks, getReaderGiftBalance, getVisibleBooks } from '@/lib/fiammaApi'
 import { complimentaryReaderSummary } from '@/lib/readerPolicy'
 import type { FiammaBook } from '@/types/fiamma'
 
 export function CatalogPage() {
-  const [books, setBooks] = useState<FiammaBook[]>([])
+  const [books, setBooks] = useState<FiammaBook[]>(() => getLocalVisibleBooks())
   const [error, setError] = useState<string | null>(null)
   const [giftMeter, setGiftMeter] = useState<{ remaining: number; total: number } | null>(null)
 
   useEffect(() => {
-    getVisibleBooks().then(setBooks).catch(() => setError('Could not load books right now.'))
+    getVisibleBooks()
+      .then(setBooks)
+      .catch(() => {
+        setBooks(getLocalVisibleBooks())
+        setError('Could not load live reader status right now.')
+      })
     getReaderGiftBalance()
       .then((balance) => {
         if (!balance.isAuthenticated) return

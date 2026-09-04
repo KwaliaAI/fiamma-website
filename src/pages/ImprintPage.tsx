@@ -2,7 +2,7 @@ import { useEffect, useMemo, useState } from 'react'
 import type { FormEvent } from 'react'
 import { Link, useParams } from 'react-router-dom'
 import { BookCard } from '@/components/BookCard'
-import { getVisibleBooks } from '@/lib/fiammaApi'
+import { getLocalVisibleBooks, getVisibleBooks } from '@/lib/fiammaApi'
 import { getImprintBySlug, getBookImprint } from '@/lib/fiammaBrand'
 import { getHeteronymProfilesByImprint } from '@/lib/heteronyms'
 import { subscribeReader } from '@/lib/mailerlite'
@@ -11,12 +11,12 @@ import type { FiammaBook } from '@/types/fiamma'
 export function ImprintPage() {
   const { slug = '' } = useParams()
   const imprint = useMemo(() => getImprintBySlug(slug), [slug])
-  const [books, setBooks] = useState<FiammaBook[]>([])
+  const [books, setBooks] = useState<FiammaBook[]>(() => getLocalVisibleBooks())
   const [signupEmail, setSignupEmail] = useState('')
   const [signupState, setSignupState] = useState<'idle' | 'sending' | 'sent'>('idle')
 
   useEffect(() => {
-    getVisibleBooks().then(setBooks).catch(() => setBooks([]))
+    getVisibleBooks().then(setBooks).catch(() => setBooks(getLocalVisibleBooks()))
   }, [])
 
   const imprintBooks = useMemo(
