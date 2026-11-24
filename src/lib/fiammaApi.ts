@@ -85,6 +85,7 @@ const localCoverFallbacks: Record<string, string> = {
   'heat-wave': '/assets/covers/heat-wave.jpg',
   'bar-fight': '/assets/covers/bar-fight.jpg',
   'cold-snap': '/assets/covers/cold-snap.jpg',
+  'dry-spell': '/assets/covers/dry-spell.jpg',
   'wrong-side-of-the-ice': '/assets/covers/wrong-side-of-the-ice.jpg',
   'extra-time': '/assets/covers/extra-time.jpg',
 }
