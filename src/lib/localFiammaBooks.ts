@@ -2,6 +2,28 @@ import type { FiammaBook } from '@/types/fiamma'
 
 export const localFiammaBooks: FiammaBook[] = [
   {
+    title_id: "hailey-boone-005-dry-spell",
+    title: "Dry Spell",
+    slug: "dry-spell",
+    heteronym: "Hailey Boone",
+    imprint: "fiamma-contemporary",
+    genre: "Romance",
+    fiamma_line: "Contemporary",
+    blurb_short: "Two good contracts. One barn.",
+    blurb_300: "Lena Mercer has a hundred and forty wedding guests coming to a barn in Montana, and there's hay machinery parked on the dance floor. It's her first big job since she left the firm that trained her, and her old boss is the bride's godmother.\n\nThere's a man lying under the baler with a grease gun. \"I'm going to need them moved,\" she says. \"No,\" says Eli Brandt.\n\nEli leases the hay meadows, and the barn comes with them until the last cutting is stacked. Merrill Hollenback rented Lena the barn anyway, for ten days in August, and gave her peach pie about it.\n\nThey fight on the whiteboard in the barn office, his hay in black and her wedding in red. Their first kiss is up against it, and she walks out with his schedule printed backward across her white linen shirt. The first time they sleep together is in his tractor cab at one in the morning, and she knocks the wipers on across a bone-dry windshield. They leave them running.\n\nIt hasn't rained since July, and now the radio says thunderstorms on the wedding day. His hay has to be cut, dried and under the roof before it rains, and it's growing in the meadow Lena promised the bride for her aisle.\n\nDry Spell is book five in Hailey Boone's Paradise Valley series, for readers of Kristen Ashley, Maisey Yates and Lyla Sage.",
+    cover_url: "/assets/covers/dry-spell.jpg",
+    isbn_pb: null,
+    isbn_eb: "9781917717922",
+    isbn_audio: null,
+    buy_url_amazon: null,
+    buy_url_ebook: "https://books.apple.com/us/book/dry-spell/id6837045349",
+    buy_url_audio: null,
+    series_order: 5,
+    visible: true,
+    created_at: "2026-11-20T00:00:00Z",
+    updated_at: "2026-11-24T00:00:00Z",
+  },
+  {
     title_id: 'akm-001-terms-and-conditions',
     title: 'Terms and Conditions: A Novel',
     slug: 'terms-and-conditions',

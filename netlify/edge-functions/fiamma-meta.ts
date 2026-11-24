@@ -63,6 +63,11 @@ const IMPRINT_META: Record<string, PageMeta> = {
 }
 
 const LOCAL_BOOK_META: Record<string, BookMeta> = {
+  'dry-spell': {
+    title: 'Dry Spell | Fiamma Books',
+    description: 'Two good contracts. One barn.',
+    image: '/assets/covers/dry-spell.jpg',
+  },
   'terms-and-conditions': {
     title: 'Terms and Conditions: A Novel | Fiamma Books',
     description:

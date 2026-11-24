@@ -1,0 +1,80 @@
+{
+  "bookId": "hailey-boone-005-dry-spell",
+  "version": "v11",
+  "source": "MANUSCRIPT.md",
+  "generatedAt": "2026-11-24T00:00:00Z",
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "chapter_title": "Chapter 1: Handled",
+      "word_count": 3922,
+      "path": "/data/reader/hailey-boone-005-dry-spell/chapter-001.txt"
+    },
+    {
+      "chapter_number": 2,
+      "chapter_title": "Chapter 2: Exclusive Use",
+      "word_count": 3530,
+      "path": "/data/reader/hailey-boone-005-dry-spell/chapter-002.txt"
+    },
+    {
+      "chapter_number": 3,
+      "chapter_title": "Chapter 3: Two Days Early",
+      "word_count": 3629,
+      "path": "/data/reader/hailey-boone-005-dry-spell/chapter-003.txt"
+    },
+    {
+      "chapter_number": 4,
+      "chapter_title": "Chapter 4: How Long It Takes",
+      "word_count": 3582,
+      "path": "/data/reader/hailey-boone-005-dry-spell/chapter-004.txt"
+    },
+    {
+      "chapter_number": 5,
+      "chapter_title": "Chapter 5: Two Hours",
+      "word_count": 3436,
+      "path": "/data/reader/hailey-boone-005-dry-spell/chapter-005.txt"
+    },
+    {
+      "chapter_number": 6,
+      "chapter_title": "Chapter 6: Dead Hours",
+      "word_count": 3456,
+      "path": "/data/reader/hailey-boone-005-dry-spell/chapter-006.txt"
+    },
+    {
+      "chapter_number": 7,
+      "chapter_title": "Chapter 7: On the Board",
+      "word_count": 3437,
+      "path": "/data/reader/hailey-boone-005-dry-spell/chapter-007.txt"
+    },
+    {
+      "chapter_number": 8,
+      "chapter_title": "Chapter 8: Better Short",
+      "word_count": 3783,
+      "path": "/data/reader/hailey-boone-005-dry-spell/chapter-008.txt"
+    },
+    {
+      "chapter_number": 9,
+      "chapter_title": "Chapter 9: What Day",
+      "word_count": 3360,
+      "path": "/data/reader/hailey-boone-005-dry-spell/chapter-009.txt"
+    },
+    {
+      "chapter_number": 10,
+      "chapter_title": "Chapter 10: What's Left",
+      "word_count": 3163,
+      "path": "/data/reader/hailey-boone-005-dry-spell/chapter-010.txt"
+    },
+    {
+      "chapter_number": 11,
+      "chapter_title": "Chapter 11: Good Shoes",
+      "word_count": 3400,
+      "path": "/data/reader/hailey-boone-005-dry-spell/chapter-011.txt"
+    },
+    {
+      "chapter_number": 12,
+      "chapter_title": "Chapter 12: Next August",
+      "word_count": 3411,
+      "path": "/data/reader/hailey-boone-005-dry-spell/chapter-012.txt"
+    }
+  ]
+}
